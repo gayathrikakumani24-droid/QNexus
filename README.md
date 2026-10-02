@@ -9,6 +9,9 @@
 [![Groq](https://img.shields.io/badge/Groq-Ultra--Fast_LLM_Inference-F05A28.svg?style=flat)](https://groq.com/)
 
 **Qnexus** is an intelligent Previous Year Questions (PYQ) analytics and practice platform designed for JEE Main aspirants. It transforms raw shift exam papers into an interactive, semantically indexed learning experience powered by dense vector search, an AI Socratic tutor, adaptive practice sessions, and automated weakness detection.
+<img width="995" height="626" alt="Screenshot (800)" src="https://github.com/user-attachments/assets/d5b8b985-292d-4781-9878-2d5d52fc6ddc" />
+<img width="901" height="636" alt="Screenshot (801)" src="https://github.com/user-attachments/assets/fc451f98-fe19-4e2b-b8a0-f61d7908d588" />
+
 
 ---
 
@@ -17,19 +20,32 @@
 * **🔍 Semantic & Multi-Faceted PYQ Search**:
   * Dense 384-dimensional vector retrieval using `sentence-transformers/all-MiniLM-L6-v2` hosted on **Pinecone Serverless Cloud**.
   * Filter questions by Subject (*Physics, Chemistry, Mathematics*), Chapter, Concept, Difficulty (*Easy, Medium, Hard*), Year (2024–2026), Session, and Shift.
+<img width="776" height="639" alt="Screenshot (791)" src="https://github.com/user-attachments/assets/8ce84568-f1fe-4242-bb11-ddbf7904e415" />
+<img width="742" height="453" alt="Screenshot (792)" src="https://github.com/user-attachments/assets/decfa82f-7645-4676-9e12-917b82d7bd2e" />
+
+
 * **🤖 AI Socratic Tutor & Hint Drawer**:
   * Powered by ultra-fast LLM inference via **Groq** (`llama-3.3-70b-versatile` / `qwen/qwen3.8-27b`).
   * Offers adaptive, step-by-step conceptual hints without immediately revealing final answers, fostering active recall.
+   <img width="1044" height="626" alt="Screenshot (794)" src="https://github.com/user-attachments/assets/fb18322a-5eef-4b05-9957-8feab56a704b" />
+
 * **📝 Interactive Practice Mode**:
   * Shift-wise paper simulations and topic-specific practice drills.
   * Real-time answer validation, detailed solution breakdowns, diagram displays, and $\LaTeX$ formula rendering via **KaTeX**.
+<img width="1111" height="635" alt="Screenshot (799)" src="https://github.com/user-attachments/assets/7572cff6-4794-4f76-bc71-b9dd127c1d59" />
+
+
+
 * **📊 Performance Analytics & Radar Insights**:
   * Track chapter-wise accuracy, time allocation per question, and conceptual blindspots.
+    <img width="1105" height="628" alt="Screenshot (798)" src="https://github.com/user-attachments/assets/eab42143-5ec4-4e98-9c7b-d5064628e6c7" />
+
 * **📕 Smart Mistake Notebook**:
   * Automatically flags incorrectly solved questions.
   * Categorizes errors (*Calculation, Conceptual, Misread*) and schedules targeted revision.
 * **📑 Automated Paper Ingestion Pipeline**:
   * Built-in PDF parsing pipeline with **PyMuPDF** that parses questions, answer keys, diagrams, and aligns them against the official JEE Main syllabus taxonomy.
+<img width="1111" height="635" alt="Screenshot (799)" src="https://github.com/user-attachments/assets/2096e01d-76c5-4d25-b975-3433fa71837d" />
 
 ---
 
