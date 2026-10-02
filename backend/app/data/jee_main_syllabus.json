@@ -1,0 +1,731 @@
+{
+  "Mathematics": [
+    {
+      "chapter": "Sets, Relations & Functions",
+      "concepts": [
+        "Cartesian Product & Subsets",
+        "Types of Relations (Equivalence, Reflexive, Symmetric)",
+        "Domain, Codomain & Range",
+        "Types of Functions (One-One, Onto, Bijective)",
+        "Composition & Invertible Functions",
+        "Transformation of Graphs"
+      ]
+    },
+    {
+      "chapter": "Complex Numbers & Quadratic Equations",
+      "concepts": [
+        "Algebra of Complex Numbers & Argand Plane",
+        "Modulus, Argument & Polar Form",
+        "Euler's Formula & De Moivre's Theorem",
+        "Roots of Unity (Cube Roots & nth Roots)",
+        "Quadratic Equations & Nature of Roots",
+        "Relation Between Roots and Coefficients",
+        "Common Roots & Sign of Quadratic Expressions"
+      ]
+    },
+    {
+      "chapter": "Matrices & Determinants",
+      "concepts": [
+        "Types of Matrices & Matrix Operations",
+        "Transpose, Symmetric & Skew-Symmetric Matrices",
+        "Properties of Determinants & Minors/Cofactors",
+        "Adjoint and Inverse of a Matrix",
+        "Cramer's Rule",
+        "System of Linear Equations (Consistency & Solutions)",
+        "Orthogonal & Involutory Matrices"
+      ]
+    },
+    {
+      "chapter": "Permutations & Combinations",
+      "concepts": [
+        "Fundamental Principle of Counting",
+        "Permutations with Repetitions & Restrictions",
+        "Combinations & Selections of Objects",
+        "Division into Groups & Distribution",
+        "Circular Permutations",
+        "Derangements & Multinomial Theorem"
+      ]
+    },
+    {
+      "chapter": "Binomial Theorem",
+      "concepts": [
+        "Binomial Theorem for Positive Integral Index",
+        "General Term & Middle Terms",
+        "Greatest Term in Binomial Expansion",
+        "Properties & Sums of Binomial Coefficients",
+        "Multinomial Expansions",
+        "Binomial Theorem for Any Rational Index"
+      ]
+    },
+    {
+      "chapter": "Sequences & Series",
+      "concepts": [
+        "Arithmetic Progression (AP) & nth Term / Sum",
+        "Geometric Progression (GP) & Infinite GP",
+        "Arithmetico-Geometric Progression (AGP)",
+        "Sum of Special Series (Σn, Σn², Σn³)",
+        "AM-GM-HM Inequalities & Applications",
+        "Method of Differences"
+      ]
+    },
+    {
+      "chapter": "Limit, Continuity & Differentiability",
+      "concepts": [
+        "Evaluation of Algebraic & Trigonometric Limits",
+        "Exponential & Logarithmic Limits",
+        "L'Hôpital's Rule & Indeterminate Forms",
+        "Continuity of Functions at a Point & Interval",
+        "Intermediate Value Theorem",
+        "Differentiability & Relation to Continuity",
+        "Chain Rule, Parametric & Implicit Differentiation"
+      ]
+    },
+    {
+      "chapter": "Application of Derivatives",
+      "concepts": [
+        "Rate of Change & Approximations",
+        "Equations of Tangents and Normals",
+        "Monotonicity (Increasing and Decreasing Functions)",
+        "Maxima and Minima (First & Second Derivative Tests)",
+        "Rolle's Theorem & Lagrange's Mean Value Theorem",
+        "Point of Inflection & Concavity"
+      ]
+    },
+    {
+      "chapter": "Indefinite Integrals",
+      "concepts": [
+        "Standard Integral Formulae & Basic Properties",
+        "Integration by Substitution Method",
+        "Integration by Parts & Special Forms",
+        "Integration Using Partial Fractions",
+        "Trigonometric & Algebraic Rational Integrals",
+        "Euler's Substitutions"
+      ]
+    },
+    {
+      "chapter": "Definite Integrals",
+      "concepts": [
+        "Fundamental Theorem of Calculus",
+        "Properties of Definite Integrals (King's Rule, Periodic)",
+        "Leibniz Rule (Differentiation Under Integral Sign)",
+        "Definite Integral as Limit of a Sum",
+        "Area Under Curves & Area Bounded Between Curves",
+        "Wallis Formula & Symmetry Integrals"
+      ]
+    },
+    {
+      "chapter": "Differential Equations",
+      "concepts": [
+        "Order and Degree of Differential Equations",
+        "Formation of Differential Equations",
+        "Variable Separable Form",
+        "Homogeneous Differential Equations",
+        "Linear Differential Equations (Integrating Factor)",
+        "Bernoulli's Differential Equation",
+        "Orthogonal Trajectories"
+      ]
+    },
+    {
+      "chapter": "Straight Lines & Coordinate Geometry",
+      "concepts": [
+        "Distance, Section Formula & Centroid / Incenter",
+        "Slope of a Line & Angle Between Lines",
+        "Various Forms of Equations of a Line",
+        "Distance of a Point from a Line & Distance Between Parallels",
+        "Family of Lines & Point of Concurrence",
+        "Angle Bisectors & Image of a Point"
+      ]
+    },
+    {
+      "chapter": "Circles",
+      "concepts": [
+        "Standard and General Equation of a Circle",
+        "Intercepts Made on Axes & Diameter Form",
+        "Equation of Tangent and Normal to a Circle",
+        "Condition of Tangency & Chord of Contact",
+        "Family of Circles & Radical Axis",
+        "Orthogonal Circles & Common Tangents"
+      ]
+    },
+    {
+      "chapter": "Conic Sections (Parabola, Ellipse, Hyperbola)",
+      "concepts": [
+        "Standard Equations & Focal Properties of Parabola",
+        "Tangents, Normals & Parametric Form of Parabola",
+        "Standard Equations of Ellipse & Eccentricity",
+        "Auxiliary Circle & Director Circle of Ellipse",
+        "Standard Equations of Hyperbola & Conjugate Hyperbola",
+        "Rectangular Hyperbola & Asymptotes"
+      ]
+    },
+    {
+      "chapter": "Vector Algebra",
+      "concepts": [
+        "Vectors, Direction Cosines & Direction Ratios",
+        "Dot (Scalar) Product & Projections",
+        "Cross (Vector) Product & Area of Triangle/Parallelogram",
+        "Scalar Triple Product & Coplanarity",
+        "Vector Triple Product & Linear Combinations"
+      ]
+    },
+    {
+      "chapter": "Three-Dimensional Geometry",
+      "concepts": [
+        "Coordinates of Point & Distance Formula in 3D",
+        "Direction Ratios and Direction Cosines of a Line",
+        "Equation of Line in Vector and Cartesian Form",
+        "Angle Between Two Lines & Skew Lines",
+        "Shortest Distance Between Skew Lines",
+        "Intersection of Lines & Foot of Perpendicular"
+      ]
+    },
+    {
+      "chapter": "Probability",
+      "concepts": [
+        "Axiomatic Probability & Addition Rule",
+        "Conditional Probability & Multiplication Theorem",
+        "Independent Events",
+        "Law of Total Probability & Bayes' Theorem",
+        "Random Variable, Probability Distribution & Mean/Variance",
+        "Binomial Distribution & Bernoulli Trials"
+      ]
+    },
+    {
+      "chapter": "Trigonometry & Statistics",
+      "concepts": [
+        "Trigonometric Ratios, Compound & Multiple Angles",
+        "Trigonometric Equations & General Solutions",
+        "Heights and Distances",
+        "Inverse Trigonometric Functions & Properties",
+        "Measures of Dispersion (Mean, Variance, Standard Deviation)",
+        "Coefficient of Variation"
+      ]
+    }
+  ],
+  "Physics": [
+    {
+      "chapter": "Units, Dimensions and Measurements",
+      "concepts": [
+        "SI Units, Fundamental & Derived Quantities",
+        "Dimensional Analysis & Applications",
+        "Errors in Measurement & Propagation of Errors",
+        "Significant Figures & Rounding Off",
+        "Vernier Callipers & Screw Gauge Measurements"
+      ]
+    },
+    {
+      "chapter": "Kinematics",
+      "concepts": [
+        "Frame of Reference, Distance & Displacement",
+        "Average and Instantaneous Speed & Velocity",
+        "Uniformly Accelerated Motion & Equations of Motion",
+        "Position-Time & Velocity-Time Graphs",
+        "Relative Motion in 1D and 2D",
+        "Projectile Motion (Ground-to-Ground & Incline)",
+        "Uniform Circular Motion & Centripetal Acceleration"
+      ]
+    },
+    {
+      "chapter": "Laws of Motion",
+      "concepts": [
+        "Newton's First Law & Inertia",
+        "Newton's Second Law, Momentum & Impulse",
+        "Newton's Third Law & Free Body Diagrams",
+        "Conservation of Linear Momentum",
+        "Friction (Static, Kinetic, Laws of Friction)",
+        "Banking of Roads & Motion on Curved Paths",
+        "Pseudo Forces & Non-Inertial Frames"
+      ]
+    },
+    {
+      "chapter": "Work, Energy and Power",
+      "concepts": [
+        "Work Done by Constant & Variable Forces",
+        "Kinetic Energy & Work-Energy Theorem",
+        "Conservative & Non-Conservative Forces",
+        "Potential Energy of a Spring & Gravitational PE",
+        "Conservation of Mechanical Energy",
+        "Power & Efficiency",
+        "Collisions in 1D and 2D (Elastic & Inelastic)"
+      ]
+    },
+    {
+      "chapter": "Rotational Motion",
+      "concepts": [
+        "Center of Mass of Discrete & Continuous Systems",
+        "Motion of Center of Mass & Momentum Conservation",
+        "Torque & Angular Momentum Conservation",
+        "Moment of Inertia & Radius of Gyration",
+        "Parallel and Perpendicular Axes Theorems",
+        "Kinematics & Dynamics of Rotational Motion",
+        "Rolling Motion Without Slipping & Energy of Rolling"
+      ]
+    },
+    {
+      "chapter": "Gravitation",
+      "concepts": [
+        "Newton's Universal Law of Gravitation",
+        "Acceleration Due to Gravity (Variation with Altitude, Depth, Latitude)",
+        "Gravitational Field & Gravitational Potential",
+        "Gravitational Potential Energy",
+        "Escape Velocity & Orbital Velocity of Satellites",
+        "Kepler's Laws of Planetary Motion",
+        "Geostationary and Polar Satellites"
+      ]
+    },
+    {
+      "chapter": "Mechanical Properties of Solids & Fluids",
+      "concepts": [
+        "Elastic Behavior, Stress-Strain Curve & Hooke's Law",
+        "Young's, Bulk & Shear Modulus (Poisson's Ratio)",
+        "Elastic Potential Energy Stored in Stretched Wire",
+        "Pressure in a Fluid, Pascal's Law & Hydraulic Lift",
+        "Archimedes' Principle & Buoyancy",
+        "Equation of Continuity & Streamline Flow",
+        "Bernoulli's Principle & Applications (Venturimeter)",
+        "Viscosity, Stokes' Law & Terminal Velocity",
+        "Surface Tension, Surface Energy & Capillary Action"
+      ]
+    },
+    {
+      "chapter": "Thermal Physics & Heat Transfer",
+      "concepts": [
+        "Thermal Expansion of Solids, Liquids and Gases",
+        "Calorimetry, Specific Heat Capacity & Water Equivalent",
+        "Latent Heat & Phase Transitions",
+        "Modes of Heat Transfer (Conduction, Convection, Radiation)",
+        "Thermal Resistance & Composite Slabs",
+        "Newton's Law of Cooling",
+        "Wien's Displacement Law & Stefan-Boltzmann Law"
+      ]
+    },
+    {
+      "chapter": "Thermodynamics",
+      "concepts": [
+        "Zeroth Law & Thermal Equilibrium",
+        "First Law of Thermodynamics (ΔQ = ΔU + W)",
+        "Thermodynamic Processes (Isothermal, Adiabatic, Isobaric, Isochoric)",
+        "Work Done in Thermodynamic Cycles & Indicator Diagrams",
+        "Second Law of Thermodynamics",
+        "Carnot Engine & Efficiency",
+        "Refrigerator & Coefficient of Performance"
+      ]
+    },
+    {
+      "chapter": "Kinetic Theory of Gases",
+      "concepts": [
+        "Ideal Gas Laws & Equation of State",
+        "Kinetic Interpretation of Temperature & Pressure",
+        "RMS, Average & Most Probable Speeds",
+        "Degrees of Freedom & Law of Equipartition of Energy",
+        "Molar Heat Capacities of Gases (Cp, Cv, Mayer's Relation)",
+        "Mean Free Path & Avogadro's Number"
+      ]
+    },
+    {
+      "chapter": "Oscillations & Simple Harmonic Motion",
+      "concepts": [
+        "Periodic & Oscillatory Motion, Equation of SHM",
+        "Displacement, Velocity and Acceleration in SHM",
+        "Energy in SHM (Kinetic, Potential, Total Energy)",
+        "Simple Pendulum & Effective Length",
+        "Spring-Mass Systems (Series and Parallel Combinations)",
+        "Damped & Forced Oscillations, Resonance"
+      ]
+    },
+    {
+      "chapter": "Waves & Acoustics",
+      "concepts": [
+        "Transverse and Longitudinal Waves, Wave Velocity",
+        "Displacement Relation for a Progressive Wave",
+        "Principle of Superposition & Interference of Waves",
+        "Standing Waves on Stretched Strings",
+        "Standing Waves in Closed and Open Organ Pipes",
+        "Beats & Resonance Tube Experiment",
+        "Doppler Effect in Sound"
+      ]
+    },
+    {
+      "chapter": "Electrostatics",
+      "concepts": [
+        "Electric Charges, Quantization & Conservation",
+        "Coulomb's Law in Vector Form & Superposition",
+        "Electric Field & Electric Field Lines",
+        "Electric Dipole (Field, Torque, Potential Energy)",
+        "Gauss's Law & Electric Flux",
+        "Applications of Gauss's Law (Line, Sheet, Spherical Shell)"
+      ]
+    },
+    {
+      "chapter": "Electrostatic Potential & Capacitance",
+      "concepts": [
+        "Electric Potential & Potential Difference",
+        "Potential Due to Point Charge, System of Charges & Dipole",
+        "Equipotential Surfaces & Electrostatic Shielding",
+        "Capacitance of Parallel Plate Capacitor",
+        "Dielectrics and Polarization",
+        "Combinations of Capacitors (Series and Parallel)",
+        "Energy Stored in a Capacitor & Energy Density"
+      ]
+    },
+    {
+      "chapter": "Current Electricity",
+      "concepts": [
+        "Electric Current, Drift Velocity & Mobility",
+        "Ohm's Law, Electrical Resistance & Resistivity",
+        "Temperature Dependence of Resistance",
+        "Combination of Resistors & Internal Resistance of Cell",
+        "Kirchhoff's Rules (KCL & KVL)",
+        "Wheatstone Bridge & Metre Bridge",
+        "Potentiometer Principle & Applications",
+        "RC Circuits (Charging and Discharging)"
+      ]
+    },
+    {
+      "chapter": "Magnetic Effects of Current & Magnetism",
+      "concepts": [
+        "Biot-Savart Law & Magnetic Field on Axis of Circular Loop",
+        "Ampere's Circuital Law (Solenoid and Toroid)",
+        "Force on Moving Charge in Magnetic Field (Lorentz Force)",
+        "Motion of Charged Particle in Magnetic Field (Cyclotron)",
+        "Force on Current-Carrying Conductor in Magnetic Field",
+        "Force Between Parallel Currents (Definition of Ampere)",
+        "Moving Coil Galvanometer (Conversion to Ammeter & Voltmeter)",
+        "Magnetic Dipole Moment & Earth's Magnetism",
+        "Dia, Para and Ferromagnetic Substances & Hysteresis"
+      ]
+    },
+    {
+      "chapter": "Electromagnetic Induction",
+      "concepts": [
+        "Magnetic Flux & Faraday's Laws of Induction",
+        "Lenz's Law & Direction of Induced Current",
+        "Motional EMF & Induced Electric Field",
+        "Self-Induction and Mutual Induction",
+        "LR Circuits (Growth and Decay of Current)",
+        "Eddy Currents & AC Generator Principle"
+      ]
+    },
+    {
+      "chapter": "Alternating Current",
+      "concepts": [
+        "Peak and RMS Values of AC Voltage & Current",
+        "Phasor Diagrams & AC Across Pure R, L, C",
+        "Series LCR Circuit & Impedance",
+        "Resonance in LCR Circuit & Quality Factor (Q-factor)",
+        "Power in AC Circuits & Power Factor",
+        "Wattless Current",
+        "Transformers & Energy Losses"
+      ]
+    },
+    {
+      "chapter": "Electromagnetic Waves",
+      "concepts": [
+        "Displacement Current & Maxwell's Equations",
+        "Characteristics of EM Waves & Speed of Light",
+        "Energy Density and Poynting Vector",
+        "Electromagnetic Spectrum (Radio, Micro, IR, Visible, UV, X-ray, Gamma)"
+      ]
+    },
+    {
+      "chapter": "Ray Optics & Optical Instruments",
+      "concepts": [
+        "Reflection by Spherical Mirrors & Mirror Formula",
+        "Refraction, Snell's Law & Lateral Shift",
+        "Total Internal Reflection & Critical Angle",
+        "Refraction at Spherical Surfaces & Lens Maker's Formula",
+        "Thin Lens Formula & Combination of Thin Lenses",
+        "Prism Formula & Dispersion of Light",
+        "Compound Microscope & Astronomical Telescope"
+      ]
+    },
+    {
+      "chapter": "Wave Optics",
+      "concepts": [
+        "Huygens' Principle & Wavefronts (Reflection & Refraction)",
+        "Coherent Sources & Interference of Light Waves",
+        "Young's Double Slit Experiment (YDSE) & Fringe Width",
+        "Diffraction of Light at a Single Slit",
+        "Resolving Power of Microscope & Telescope",
+        "Polarization of Light, Brewster's Law & Malus's Law"
+      ]
+    },
+    {
+      "chapter": "Modern Physics & Semiconductors",
+      "concepts": [
+        "Photoelectric Effect, Stopping Potential & Einstein's Equation",
+        "De Broglie Wavelength & Matter Waves",
+        "Bohr's Model of Hydrogen Atom & Spectral Series",
+        "Rydberg Formula & Energy Levels",
+        "Atomic Nucleus, Mass Defect & Binding Energy",
+        "Radioactive Decay Law, Half-Life & Mean Life",
+        "Nuclear Fission and Nuclear Fusion",
+        "Semiconductor Energy Bands (Intrinsic & Extrinsic)",
+        "P-N Junction Diode & Rectifiers (Half-wave, Full-wave)",
+        "Zener Diode as Voltage Regulator",
+        "Logic Gates (AND, OR, NOT, NAND, NOR, XOR)"
+      ]
+    }
+  ],
+  "Chemistry": [
+    {
+      "chapter": "Some Basic Concepts of Chemistry",
+      "concepts": [
+        "Matter and Its Nature, Dalton's Atomic Theory",
+        "Atomic and Molecular Masses, Mole Concept",
+        "Percentage Composition & Empirical/Molecular Formulae",
+        "Chemical Reactions & Stoichiometric Calculations",
+        "Limiting Reagents in Reactions",
+        "Concentration Terms (Molarity, Molality, Mole Fraction, ppm)"
+      ]
+    },
+    {
+      "chapter": "Structure of Atom",
+      "concepts": [
+        "Bohr's Model of Hydrogen Atom & Line Spectrum",
+        "De Broglie Relationship & Wave-Particle Duality",
+        "Heisenberg Uncertainty Principle",
+        "Quantum Mechanical Model & Orbitals",
+        "Quantum Numbers (n, l, m, s)",
+        "Aufbau Principle, Pauli Exclusion Principle & Hund's Rule",
+        "Electronic Configurations of Atoms & Exceptions"
+      ]
+    },
+    {
+      "chapter": "Chemical Bonding & Molecular Structure",
+      "concepts": [
+        "Kossel-Lewis Approach & Ionic Bond (Lattice Enthalpy)",
+        "Covalent Bond, Lewis Structures & Formal Charge",
+        "Dipole Moment & Polar Character of Covalent Bonds",
+        "VSEPR Theory & Shapes of Simple Molecules",
+        "Valence Bond Theory & Directional Properties of Bonds",
+        "Hybridization (sp, sp2, sp3, sp3d, sp3d2)",
+        "Molecular Orbital Theory (Homo/Heteronuclear Diatomics)",
+        "Bond Order, Bond Length & Magnetic Properties",
+        "Hydrogen Bonding (Inter & Intra Molecular)"
+      ]
+    },
+    {
+      "chapter": "Chemical Thermodynamics",
+      "concepts": [
+        "System, Surroundings & State Functions",
+        "First Law of Thermodynamics (Internal Energy, Heat, Work)",
+        "Enthalpy & Heat Capacity (Cp and Cv Relations)",
+        "Hess's Law of Constant Heat Summation",
+        "Enthalpies of Formation, Combustion, Atomization & Hydration",
+        "Bond Enthalpies & Resonance Energy",
+        "Entropy & Second Law of Thermodynamics",
+        "Gibbs Free Energy & Spontaneity Criterion (ΔG = ΔH - TΔS)"
+      ]
+    },
+    {
+      "chapter": "Solutions",
+      "concepts": [
+        "Types of Solutions & Solubility of Gases (Henry's Law)",
+        "Vapour Pressure of Liquid Solutions & Raoult's Law",
+        "Ideal and Non-Ideal Solutions (Positive & Negative Deviations)",
+        "Colligative Properties (Relative Lowering of Vapour Pressure)",
+        "Elevation of Boiling Point (Ebullioscopic Constant)",
+        "Depression of Freezing Point (Cryoscopic Constant)",
+        "Osmotic Pressure & Reverse Osmosis",
+        "Van 't Hoff Factor & Abnormal Molar Masses"
+      ]
+    },
+    {
+      "chapter": "Equilibrium",
+      "concepts": [
+        "Equilibrium in Physical and Chemical Processes",
+        "Law of Chemical Equilibrium & Equilibrium Constant (Kp, Kc)",
+        "Le Chatelier's Principle & Industrial Applications",
+        "Ionic Equilibrium & Acid-Base Concepts (Arrhenius, Bronsted, Lewis)",
+        "Ionization of Acids and Bases, Ionization Constant",
+        "pH Scale, Common Ion Effect & Buffer Solutions",
+        "Solubility Product (Ksp) & Salt Hydrolysis"
+      ]
+    },
+    {
+      "chapter": "Redox Reactions & Electrochemistry",
+      "concepts": [
+        "Concept of Oxidation and Reduction & Oxidation Numbers",
+        "Balancing Redox Reactions (Ion-Electron & Oxidation Number Methods)",
+        "Electrochemical Cells & Galvanic Cells",
+        "Standard Electrode Potential & Electrochemical Series",
+        "Nernst Equation & Application to Chemical Cells",
+        "Conductance of Electrolytic Solutions & Kohlrausch's Law",
+        "Faraday's Laws of Electrolysis",
+        "Batteries, Fuel Cells & Mechanism of Corrosion"
+      ]
+    },
+    {
+      "chapter": "Chemical Kinetics",
+      "concepts": [
+        "Rate of Reaction (Average and Instantaneous)",
+        "Factors Affecting Rate of Reaction & Rate Law",
+        "Order and Molecularity of a Reaction",
+        "Integrated Rate Equations (Zero and First Order Reactions)",
+        "Half-Life Period of a Reaction",
+        "Arrhenius Equation & Activation Energy",
+        "Collision Theory & Catalyst Effect"
+      ]
+    },
+    {
+      "chapter": "Surface Chemistry",
+      "concepts": [
+        "Adsorption (Physisorption vs Chemisorption)",
+        "Freundlich Adsorption Isotherm",
+        "Colloidal State & Classification of Colloids",
+        "Lyophilic and Lyophobic Sols",
+        "Properties of Colloids (Tyndall Effect, Brownian Movement, Electrophoresis)",
+        "Coagulation & Hardy-Schulze Rule",
+        "Emulsions & Micelle Formation"
+      ]
+    },
+    {
+      "chapter": "Classification of Elements & Periodicity",
+      "concepts": [
+        "Modern Periodic Table & Electronic Configuration",
+        "Periodic Trends in Atomic and Ionic Radii",
+        "Ionization Enthalpy & Electron Gain Enthalpy",
+        "Electronegativity (Pauling Scale) & Valence States",
+        "Anomalous Properties of Second Period Elements"
+      ]
+    },
+    {
+      "chapter": "p-Block Elements",
+      "concepts": [
+        "Group 13 Elements (Boron Family, Diborane & Borax)",
+        "Group 14 Elements (Carbon Family, Allotropes & Silicates)",
+        "Group 15 Elements (Nitrogen Family, Ammonia & Oxides of Nitrogen)",
+        "Phosphorus Allotropes & Oxoacids of Phosphorus",
+        "Group 16 Elements (Oxygen Family, Ozone, Allotropes of Sulfur, Sulfuric Acid)",
+        "Group 17 Elements (Halogens, Hydrogen Halides, Interhalogens, Oxoacids)",
+        "Group 18 Elements (Noble Gases & Xenon Fluorides/Oxides)"
+      ]
+    },
+    {
+      "chapter": "d- and f-Block Elements",
+      "concepts": [
+        "Electronic Configurations & Oxidation States of 3d Series",
+        "Trends in Melting Point, Ionization Enthalpy & Radii",
+        "Magnetic Properties (Spin-Only Magnetic Moment)",
+        "Catalytic Properties & Formation of Coloured Ions",
+        "Potassium Dichromate (K2Cr2O7) & Potassium Permanganate (KMnO4)",
+        "Lanthanoids & Lanthanoid Contraction",
+        "Actinoids & Oxidation States"
+      ]
+    },
+    {
+      "chapter": "Coordination Compounds",
+      "concepts": [
+        "Werner's Theory & Coordination Number / Ligands",
+        "IUPAC Nomenclature of Mononuclear Coordination Compounds",
+        "Isomerism (Structural and Geometrical / Optical)",
+        "Valence Bond Theory (Inner and Outer Orbital Complexes)",
+        "Crystal Field Theory (Octahedral & Tetrahedral Splitting, CFSE)",
+        "Spectrochemical Series & High/Low Spin Complexes",
+        "Stability & Applications of Coordination Compounds"
+      ]
+    },
+    {
+      "chapter": "Purification & Characterisation of Organic Compounds",
+      "concepts": [
+        "Purification Techniques (Distillation, Crystallization, Chromatography)",
+        "Qualitative Analysis (Detection of N, S, Halogens, Phosphorus)",
+        "Quantitative Analysis (Estimation of C, H, N, Halogens, S, P)",
+        "Calculations of Empirical and Molecular Formulae"
+      ]
+    },
+    {
+      "chapter": "Basic Principles of Organic Chemistry",
+      "concepts": [
+        "IUPAC Nomenclature of Open Chain & Aromatic Compounds",
+        "Electronic Displacements (Inductive, Electromeric, Resonance, Hyperconjugation)",
+        "Homolytic and Heterolytic Cleavage & Reaction Intermediates",
+        "Carbocations, Carbanions and Free Radicals Stability",
+        "Types of Organic Reactions & Mechanisms",
+        "Isomerism (Structural & Stereoisomerism, Chirality)"
+      ]
+    },
+    {
+      "chapter": "Hydrocarbons",
+      "concepts": [
+        "Alkanes (Conformations of Ethane, Free Radical Chlorination)",
+        "Alkenes (Structure, Geometrical Isomerism, Preparation)",
+        "Electrophilic Addition to Alkenes (Markovnikov Rule & Peroxide Effect)",
+        "Ozonolysis & Oxidation of Alkenes",
+        "Alkynes (Acidic Character, Addition of H2, Halogens, Water)",
+        "Aromatic Hydrocarbons (Hückel Rule & Aromaticity)",
+        "Electrophilic Aromatic Substitution (Nitration, Halogenation, Friedel-Crafts)"
+      ]
+    },
+    {
+      "chapter": "Haloalkanes and Haloarenes",
+      "concepts": [
+        "Methods of Preparation of Haloalkanes and Haloarenes",
+        "Nucleophilic Substitution Reactions (SN1 and SN2 Mechanisms)",
+        "Stereochemical Aspects of SN1 (Racemization) and SN2 (Inversion)",
+        "Elimination Reactions (Saytzeff Rule vs Hofmann)",
+        "Reactions of Haloarenes (Nucleophilic & Electrophilic Substitution)",
+        "Grignard Reagents Preparation and Synthetic Uses"
+      ]
+    },
+    {
+      "chapter": "Alcohols, Phenols and Ethers",
+      "concepts": [
+        "Preparation and Physical Properties of Alcohols",
+        "Reactions of Alcohols (Acidity, Esterification, Dehydration, Lucas Test)",
+        "Preparation of Phenols (from Cumene, Diazonium Salts)",
+        "Acidity of Phenols & Comparison with Alcohols",
+        "Electrophilic Substitution of Phenols (Reimer-Tiemann, Kolbe's Reaction)",
+        "Williamson Ether Synthesis & Cleavage of Ethers by HI"
+      ]
+    },
+    {
+      "chapter": "Aldehydes, Ketones & Carboxylic Acids",
+      "concepts": [
+        "Preparation Methods of Aldehydes and Ketones",
+        "Nucleophilic Addition Reactions (HCN, NaHSO3, Grignard)",
+        "Nucleophilic Addition-Elimination with Ammonia Derivatives",
+        "Reduction Reactions (Clemmensen, Wolff-Kishner, NaBH4, LiAlH4)",
+        "Oxidation Reactions (Tollens' Test, Fehling's Test, Haloform Reaction)",
+        "Reactivity of Alpha-Hydrogen (Aldol & Cannizzaro Reactions)",
+        "Acidity of Carboxylic Acids & Inductive Effects",
+        "Hell-Volhard-Zelinsky (HVZ) Reaction & Decarboxylation"
+      ]
+    },
+    {
+      "chapter": "Organic Compounds Containing Nitrogen (Amines)",
+      "concepts": [
+        "Preparation of Amines (Reduction, Gabriel Phthalimide, Hoffmann Bromamide)",
+        "Physical Properties & Basicity of Amines (Gas Phase vs Aqueous)",
+        "Chemical Reactions (Acylation, Carbylamine Reaction, Hinsberg's Test)",
+        "Reaction with Nitrous Acid & Distinction of 1°, 2°, 3° Amines",
+        "Diazonium Salts (Preparation & Sandmeyer, Gattermann, Coupling Reactions)"
+      ]
+    },
+    {
+      "chapter": "Biomolecules",
+      "concepts": [
+        "Classification of Carbohydrates (Aldoses and Ketoses)",
+        "Monosaccharides (Glucose and Fructose Structure & Reactions)",
+        "Disaccharides (Sucrose, Lactose, Maltose) & Polysaccharides",
+        "Amino Acids (Zwitterion, Isoelectric Point, Essential/Non-Essential)",
+        "Peptide Bond & Proteins Structure (Primary, Secondary, Tertiary)",
+        "Denaturation of Proteins & Enzymes",
+        "Nucleic Acids (DNA, RNA, Double Helix, Nucleotides)",
+        "Vitamins Classification & Deficiency Diseases"
+      ]
+    },
+    {
+      "chapter": "Principles of Practical Chemistry",
+      "concepts": [
+        "Systematic Qualitative Analysis (Cations: Pb²⁺, Cu²⁺, Fe³⁺, Al³⁺, Zn²⁺, etc.)",
+        "Detection of Anions (CO₃²⁻, S²⁻, SO₄²⁻, NO₃⁻, Cl⁻, Br⁻, I⁻)",
+        "Acid-Base Titrations & Indicators (Phenolphthalein, Methyl Orange)",
+        "Redox Titrations (KMnO4 vs Mohr's Salt, Oxalic Acid)",
+        "Chemical Principles in Preparation of Lyophilic / Lyophobic Sols",
+        "Detection of Functional Groups in Organic Compounds"
+      ]
+    }
+  ]
+}

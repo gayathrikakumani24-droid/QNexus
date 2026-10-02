@@ -1,0 +1,2760 @@
+[
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_1",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 1,
+    "content": "Consider the relation R on the set \n defined by \n if and only if \n. Then, among\nthe statements:\nI. The number of elements in R is 17\nII. R is an equivalence relation",
+    "options": [
+      {
+        "id": "A",
+        "content": "Only I is true"
+      },
+      {
+        "id": "B",
+        "content": "Only II is true"
+      },
+      {
+        "id": "C",
+        "content": "Both I and II are true"
+      },
+      {
+        "id": "D",
+        "content": "Neither I nor II is true"
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 1,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_2",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 2,
+    "content": "The number of values of \n, satisfying the equations \n and\n, is:",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 1,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_3",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 3,
+    "content": "If the system of linear equations:\n,\n,\nhas infinitely many solutions, then the value of \n equals:",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 1,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_4",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 4,
+    "content": "Let \n and \n. If \n, then \n equals:",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 1,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_5",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 5,
+    "content": "Let \n upto 40 terms. If \n is a root of the equation \n,\n, then \n is equal to:",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 2,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_6",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 6,
+    "content": "A candidate has to go to the examination centre to appear in an examination. The candidate uses only one means of\ntransportation for the entire distance out of bus, scooter and car. The probabilities of the candidate going by bus,\nscooter and car, respectively, are \n, \n and \n. The probabilities that the candidate reaches late at the examination\ncentre are \n, \n and \n if the candidate uses bus, scooter and car, respectively. Given that the candidate reached late\nat the examination centre, the probability that the candidate travelled by bus is:",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 2,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_7",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 7,
+    "content": "A set of four observations has mean  and variance \n. Another set of six observations has mean  and variance .\nThen, the variance of all these \n observations is equal to:",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 2,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_8",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 8,
+    "content": "If \n, then  is equal to:",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 2,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_9",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 9,
+    "content": "A person has three different bags and four different books. The number of ways, in which he can put these books in\nthe bags so that no bag is empty, is:",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 3,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_10",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 10,
+    "content": "If a straight line drawn through the point of intersection of the lines \n and \n, meets\nthe co-ordinate axes at the points P and Q, then the locus of the mid point of PQ is:",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 3,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_11",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 11,
+    "content": "Let O be the vertex of the parabola \n and its chords OP and OQ are perpendicular to each other. If the locus\nof the mid-point of the line segment PQ is a conic C, then the length of its latus rectum is:",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 3,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_12",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 12,
+    "content": "Let \n and \n, where inverse trigonometric functions take only the principal\nvalues.\nGiven below are two statements:\nStatement I: \n.\nStatement II: \n.\nIn the light of the above statements, choose the correct answer from the options given below:",
+    "options": [
+      {
+        "id": "A",
+        "content": "Both Statement I and Statement II are true"
+      },
+      {
+        "id": "B",
+        "content": "Both Statement I and Statement II are false"
+      },
+      {
+        "id": "C",
+        "content": "Statement I is true but Statement II is false"
+      },
+      {
+        "id": "D",
+        "content": "Statement I is false but Statement II is true"
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 3,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_13",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 13,
+    "content": "For the function \n, \n, consider the following statements:\nStatement I:  is differentiable for all \n.\nStatement II:  is increasing in \n.\nIn the light of the above statements, choose the correct answer from the options given below:",
+    "options": [
+      {
+        "id": "A",
+        "content": "Both Statement I and Statement II are true"
+      },
+      {
+        "id": "B",
+        "content": "Both Statement I and Statement II are false"
+      },
+      {
+        "id": "C",
+        "content": "Statement I is true but Statement II is false"
+      },
+      {
+        "id": "D",
+        "content": "Statement I is false but Statement II is true"
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 4,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_14",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 14,
+    "content": "Let \n, \n and a vector  be such that \n. If \n, then\n is equal to:",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 4,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_15",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 15,
+    "content": "Let the foot of perpendicular from the point \n on the line \n be the point \n.\nThen the distance between the lines \n and \n is equal to:",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 4,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_16",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 16,
+    "content": "The value of the integral \n is equal to:",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 4,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_17",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 17,
+    "content": "Let \n be the solution of the differential equation \n,\n, \n. Then \n equals:",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 5,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_18",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 18,
+    "content": "Let \n be a function defined as \n. Let \n, \n, where\n. If \n, \n, then the area of the region bounded by the curves \n,\n, \n and \n is:",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 5,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_19",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 19,
+    "content": "Let \n. If  is continuous at \n, then the value of \n is:",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 5,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_20",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 20,
+    "content": "Let \n represent an ellipse with major axis along -axis, where  is a strictly\ndecreasing positive function on . If the set of all possible values of  is \n, then \n is equal to:",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 5,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_21",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 21,
+    "content": "The sum of squares of all the real solutions of the equation \n is\nequal to ________.",
+    "options": [],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 6,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_22",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 22,
+    "content": "If \n, then \n is equal to ________.",
+    "options": [],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 6,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_23",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 23,
+    "content": "Let a line \n pass through the origin and be perpendicular to the lines\n and\n, \n.\nIf \n, \n, is the point on \n at a distance of \n from the point of intersection of \n and \n, then\n is equal to ________.",
+    "options": [],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 6,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_24",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 24,
+    "content": "Consider the circle \n. Let a variable chord AB of the circle C subtend a right angle\nat the origin. If the locus of the foot of the perpendicular drawn from the origin on the chord AB is the circle\n, then \n is equal to ________.",
+    "options": [],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 6,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_25",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 25,
+    "content": "Let  be a polynomial function such that \n,\n and \n. Then \n is equal to ________.",
+    "options": [],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 7,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_26",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 26,
+    "content": "A new unit \n of length is chosen such that it is equal to the speed of light in vacuum. What is the distance between\nVenus and Earth in terms of  units if light takes  min. \n s to cover this distance?",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 7,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_27",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 27,
+    "content": "Consider the equation \n, where \n magnetic field; \n electric field, \n permittivity, \n distance,\n time. The values of \n and  respectively are:",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 7,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_28",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 28,
+    "content": "A car moving with a speed of \n km/h takes a turn of radius \n m. A simple pendulum is suspended from the ceiling\nof the car. Determine the angle made by the string of the pendulum with the vertical during the turning. (Take\n m/s )",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 7,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_29",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 29,
+    "content": "A gas balloon is going up with a constant velocity of \n m/s. When this balloon reached a height of \n m, a stone is\ndropped from it and balloon keeps moving up with the same velocity. The height of the balloon when the stone hits\nthe ground is ________ m. (Take \n m/s )",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 8,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_30",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 30,
+    "content": "A thin biconvex lens is prepared from the glass (\n) both curved surfaces of which have equal radii of \n cm\neach. Left side surface of the lens is silvered from outside to make it reflecting. To have the position of image and\nobject at the same place, the object should be placed, from the lens at a distance of ________ cm.",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 8,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_31",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 31,
+    "content": "Two identical bodies, projected with the same speed at two different angles cover the same horizontal range . If\nthe time of flight of these bodies are  s and \n s, respectively, then the value of  is ________ m. (Take \n m/s\n)",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 8,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_32",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 32,
+    "content": "A solid cylinder having radius  and length  is slipping on a rough horizontal plane. At time \n the cylinder has\na translational velocity \n m/s, perpendicular to its axis and a rotational velocity \n about the centre. The\ntime taken by the cylinder to start rolling is ________ seconds. (coefficient of kinetic friction \n and\n m/s )",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 8,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_33",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 33,
+    "content": "A liquid of density \n kg/m  flowing steadily in a tube of varying cross-section. The cross-section at a point  is\n cm  and that at  is \n mm . Both the points  and  are in same horizontal plane, the speed of the liquid at \nis \n cm/s. The difference in pressures at  and  points is ________ Pa.",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 9,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_34",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 34,
+    "content": "A spherical liquid drop of radius  acquires the terminal velocity \n when falls through a gas of viscosity . Now\nthe drop is broken into \n identical droplets and each droplet acquires terminal velocity \n falling through the same\ngas. The ratio of terminal velocities \n is ________.",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 9,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_35",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 35,
+    "content": "One mole of diatomic gas having rotational modes only is kept in a cylinder with a piston system. The cross-section\narea of the cylinder is  cm . The gas is heated slowly to raise the temperature by \nC during which the piston\nmoves by \n mm. The amount of heat supplied to the gas is ________ J. (Atmospheric pressure \n kPa,\n J/mol·K) (Neglect mass of the piston)",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 9,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_36",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 36,
+    "content": "Initial pressure and volume of a monoatomic ideal gas are  and . The change in internal energy of this gas in\nadiabatic expansion to volume \n is ________ J.",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 9,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_37",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 37,
+    "content": "The frequency of oscillation of a mass \n suspended by a spring is \n. If the length of the spring is cut to half, the\nsame mass oscillates with frequency \n. The value of \n is ________.",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 10,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_38",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 38,
+    "content": "A monochromatic source of light operating at \n kW emits \n photons/s. The region of an electromagnetic\nspectrum to which the emitted electromagnetic radiation belongs to ________. (Take \n J·s and\n m/s).",
+    "options": [
+      {
+        "id": "A",
+        "content": "Microwave"
+      },
+      {
+        "id": "B",
+        "content": "Infrared"
+      },
+      {
+        "id": "C",
+        "content": "Visible"
+      },
+      {
+        "id": "D",
+        "content": "Ultraviolet"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 10,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_39",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 39,
+    "content": "A current carrying circular loop of radius  cm with unit normal \n is placed in a magnetic field,\n. If \n T and current \n A, the torque experienced by the loop is ________\nWb·A. (\n)",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 10,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_40",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 40,
+    "content": "A \n cm long solenoid has \n turns per cm and area of  cm . The current through the solenoid coil varies from  A\nto  A in \n s. The e.m.f. induced in the coil is \n V. The value  is ________.",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 10,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_41",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 41,
+    "content": "Two point charges \n and \n are placed at points \n and \n respectively.\nForce on charge \n is ________ N.",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 11,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_42",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 42,
+    "content": "Light ray incident along a vector \n \n emerges out along vector \n \n as shown in\nthe figure below. The value of  is ________.",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 11,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_43",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 43,
+    "content": "and \n be the maximum kinetic energies of photoelectrons emitted from a surface of a given material for the\nlight of wavelength \n and \n, respectively. If \n then the work function of material is given by:",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 11,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_1",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 1,
+    "content": "= 3 μC",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 11,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_2",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 2,
+    "content": "= −4 μC\n(2^i + 3^j + 3^k)\n(^i + ^j + ^k)",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 11,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_2",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 2,
+    "content": "(Take \n1\n4πϵ0\n= 9 × 109 SI Units)\n(12^i + 24^j + 24^k) × 10−3\n(4^i + 8^j + 8^k) × 10−3\n(3^i + 6^j + 6^k) × 10−3\n(−4^i −8^j −8^k) × 10−3\n→\nAO ( →\nAO = 2^i −3^j)\n→\nOB ( →\nOB = C^i −4^j)\nC\n1.6\n0.16\n11.6\n16\nK1\nK2\nλ1\nλ2\nλ1 = 2λ2\nK2 + 2K1\n2K2 −K1\nK1 −2K2\nK2 −2K1",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 11,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_44",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 44,
+    "content": "Two radioactive substances A and B of mass numbers \n and \n respectively, shows spontaneous -decay with\nsame \n value of  MeV. The ratio of energies of -rays produced by A and B is ________.",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 12,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_45",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 45,
+    "content": "The output  for the given inputs  and  to the circuit is:",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 12,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_46",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 46,
+    "content": "A parallel plate capacitor is having separation between plates \n mm. It has a capacitance of \nF when the space\nbetween the plates is filled with an insulating material of resistivity \nm and resistance \n.\nRelative permittivity of the insulating material is \n. The value of  is ________. (Take permittivity of free\nspace \n F/m)",
+    "options": [],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 12,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_1",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 1,
+    "content": "α\n2548\n2650\n2706\n2646\n2597\n2600\n2862\n2499\nY\nA\nB\n0.885\n1 μ\n1 × 1013 Ω\n17.7 × 1014 Ω\nα × 107\nα\n= 8.85 × 10−12",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 12,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_47",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 47,
+    "content": "Some distant star is to be observed by some telescope of diameter of objective lens , at an angular resolution of\n radian. If the wavelength of light from the star reaching the telescope is \n nm, the minimum diameter\nof the objective lens of the telescope is ________ cm. (nearest integer)",
+    "options": [],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 13,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_48",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 48,
+    "content": "A  mg particle carrying a charge of \n C is moving with velocity of \n m/s in a region\nhaving magnetic field \n Wb/m . It moves a distance of  meter along  when it completes  revolutions.\nThe value of  is ________.",
+    "options": [],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 13,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_49",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 49,
+    "content": "The stored charge in the capacitor in steady state of the following circuit is ________ C.",
+    "options": [],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 13,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_50",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 50,
+    "content": "Two masses of \n kg and \n kg are accelerated from an initial speed of  m/s and \n m/s, respectively. The\ndistances traversed by the masses in the \n second are \n m and \n m, respectively. The ratio of their momenta\nafter \n s is \n. The value of  is ________.",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 9.0,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 13,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_51",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 51,
+    "content": "Match List-I with List-II.\nList-I\nMass of substance\nList-II\nNumber of atoms\nA. \n mg water\nI. \nB. \n mg sulphuric acid II. \nC. \n mg carbon\nIII. \nD. \n mg salt (NaCl)\nIV. \nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "id": "A",
+        "content": "A-IV, B-III, C-I, D-II"
+      },
+      {
+        "id": "B",
+        "content": "A-III, B-II, C-IV, D-I"
+      },
+      {
+        "id": "C",
+        "content": "A-III, B-IV, C-II, D-I"
+      },
+      {
+        "id": "D",
+        "content": "A-III, B-IV, C-I, D-II"
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 14,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_52",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 52,
+    "content": "Given below are two statements:\nGiven: Molar mass of C, H, O, Cl are \n and \n g mol\n, respectively.\nStatement I: In \n (w/w) solution of methanol in CCl  (at T K), the mole fraction of CCl  is equal to \n.\nStatement II: Mixture of methanol and CCl  shows positive deviation from Raoult's law.\nIn the light of the above statements, choose the correct answer from the options given below:",
+    "options": [
+      {
+        "id": "A",
+        "content": "Both Statement I and Statement II are true"
+      },
+      {
+        "id": "B",
+        "content": "Both Statement I and Statement II are false"
+      },
+      {
+        "id": "C",
+        "content": "Statement I is true but Statement II is false"
+      },
+      {
+        "id": "D",
+        "content": "Statement I is false but Statement II is true"
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 14,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_53",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 53,
+    "content": "Bromine trifluoride autoionizes to form \n and \n. The shapes of the cation and anion are respectively\n________, and ________.",
+    "options": [
+      {
+        "id": "A",
+        "content": "bent, square planar"
+      },
+      {
+        "id": "B",
+        "content": "linear, square planar"
+      },
+      {
+        "id": "C",
+        "content": "bent, see-saw"
+      },
+      {
+        "id": "D",
+        "content": "linear, tetrahedral"
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 14,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_54",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 54,
+    "content": "Which of the following statements are not correct?\nA. For water, magnitude of \n is more than the magnitude of \n.\nB. The elevation in boiling point of water when a non-volatile solute is added to it is larger in magnitude than its\ndepression in freezing point.\nC. Osmotic pressure measurement is preferred over any other colligative property to determine molar mass of\nproteins and polymers.\nD. The dimerised form of benzoic acid in benzene is \nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "id": "A",
+        "content": "A and B only"
+      },
+      {
+        "id": "B",
+        "content": "A and D only"
+      },
+      {
+        "id": "C",
+        "content": "A, B and D only"
+      },
+      {
+        "id": "D",
+        "content": "A, C and D only"
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 15,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_55",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 55,
+    "content": "Consider the following reactions in which all the reactants and products are present in gaseous state\nThe value of \n for the equilibrium \n is:",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 15,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_56",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 56,
+    "content": "Given at \n K: \n Volt; \n Volt. The \n in Volt at \n K is given by:",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 15,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_57",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 57,
+    "content": "Given below are two statements:\n J K\n mol\n and  cal \n J\nStatement I: When \n kcal/mol, the room temperature rate constant is doubled by a \nC increase in\ntemperature (\n K to \n K)\nStatement II: For a first order reactions A \n B,\nHere \n is the initial concentration of A and \n is half life of reaction.\nIn the light of the above statements, choose the correct answer from the options given below:",
+    "options": [
+      {
+        "id": "A",
+        "content": "Both Statement I and Statement II are true"
+      },
+      {
+        "id": "B",
+        "content": "Both Statement I and Statement II are false"
+      },
+      {
+        "id": "C",
+        "content": "Statement I is true but Statement II is false"
+      },
+      {
+        "id": "D",
+        "content": "Statement I is false but Statement II is true"
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 16,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_58",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 58,
+    "content": "Match List-I with List-II.\nList-I\nElectronic configuration of neutral atom (where \n)\nList-II\n Ionization Energy (kJ mol\n)\nA. \nI. \nB. \nII. \nC. \nIII. \nD. \nIV. \nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "id": "A",
+        "content": "A-II, B-III, C-IV, D-I"
+      },
+      {
+        "id": "B",
+        "content": "A-IV, B-III, C-II, D-I"
+      },
+      {
+        "id": "C",
+        "content": "A-III, B-II, C-IV, D-I"
+      },
+      {
+        "id": "D",
+        "content": "A-III, B-II, C-I, D-IV"
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 16,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_59",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 59,
+    "content": "Find the correct statements related to group 15 hydrides.\nA. Reducing nature increases from NH  to BiH\nB. Tendency to donate lone pair of electrons decreases from NH  to BiH\nC. The stability of hydrides decreases from NH  to BiH\nD. HEH bond angle decreases from NH  to SbH  (E = Elements of group 15)\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "id": "A",
+        "content": "A and B only"
+      },
+      {
+        "id": "B",
+        "content": "B and C only"
+      },
+      {
+        "id": "C",
+        "content": "A, B, C and D"
+      },
+      {
+        "id": "D",
+        "content": "A, C and D Only"
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 17,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_60",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 60,
+    "content": "Given below are two statements:\nStatement I: The number of pairs among \n, \n, \n and \n in which both\nions are coloured is .\nStatement II: The number of pairs among \n, \n and \n ions in which both are\ndiamagnetic is .\nIn the light of the above statements, choose the correct from the options given below:",
+    "options": [
+      {
+        "id": "A",
+        "content": "Both Statement I and Statement II are correct"
+      },
+      {
+        "id": "B",
+        "content": "Both Statement I and Statement II are incorrect"
+      },
+      {
+        "id": "C",
+        "content": "Statement I is correct but Statement II is incorrect"
+      },
+      {
+        "id": "D",
+        "content": "Statement I is incorrect but Statement II is correct"
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 17,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_61",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 61,
+    "content": "Given below are two statements for catalytic properties of transition metals.\nStatement I: First row transition metals which act as catalyst utilise their 3d electrons only for formation of bonds\nbetween reactant molecules and atoms on the surface of catalyst.\nStatement II: There is increase in the concentration of reactants on the surface of catalyst which strengthens the\nbonds in reacting molecules.\nIn the light of the above statements, choose the correct answer from the options given below:",
+    "options": [
+      {
+        "id": "A",
+        "content": "Both Statement I and Statement II are correct"
+      },
+      {
+        "id": "B",
+        "content": "Both Statement I and Statement II are incorrect"
+      },
+      {
+        "id": "C",
+        "content": "Statement I is correct but Statement II is incorrect"
+      },
+      {
+        "id": "D",
+        "content": "Statement I is incorrect but Statement II is correct"
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 18,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_62",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 62,
+    "content": "Given below are two statements:\nStatement I: Vapours of the liquid with higher boiling point condense before vapours of the liquid with lower\nboiling points in fractional distillation.\nStatement II: The vapours rising up in the fractionating column become richer in high boiling component of the\nmixture.\nIn the light of the above statements, choose the correct answer from the options given below:",
+    "options": [
+      {
+        "id": "A",
+        "content": "Both Statement I and Statement II are true"
+      },
+      {
+        "id": "B",
+        "content": "Both Statement I and Statement II are false"
+      },
+      {
+        "id": "C",
+        "content": "Statement I is true but Statement II is false"
+      },
+      {
+        "id": "D",
+        "content": "Statement I is false but Statement II is true"
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 18,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_63",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 63,
+    "content": "The major product of which of the following reaction is not obtained by rearrangement reaction?",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 19,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_64",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 64,
+    "content": "The total number of aromatic compounds/species from the following is",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 19,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_65",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 65,
+    "content": "n-Butane on monochlorination under photochemical condition gives an optically active compound \"P\". \"P\" on\nfurther chlorination gives dichloro compounds. The number of dichloro compounds obtained (ignore stereoisomers)\nis:",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 19,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_66",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 66,
+    "content": "Given below are two statements:\nStatement I: Due to increase in van der Waals forces, the order of boiling points is CH CH CH I > CH CH I > CH\nI.\nStatement II: As para-dichlorobenzene is more symmetric, its melting point is higher than ortho-dichlorobenzene,\nhowever its boiling point is lower than ortho-dichlorobenzene.\nIn the light of the above statements, choose the correct answer from the options given below:",
+    "options": [
+      {
+        "id": "A",
+        "content": "Both Statement I and Statement II are true"
+      },
+      {
+        "id": "B",
+        "content": "Both Statement I and Statement II are false"
+      },
+      {
+        "id": "C",
+        "content": "Statement I is true but Statement II is false"
+      },
+      {
+        "id": "D",
+        "content": "Statement I is false but Statement II is true"
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 20,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_67",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 67,
+    "content": "Consider the following reaction.\nThe major product (P) formed is:",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 20,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_68",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 68,
+    "content": "Which statements are True?\nA. In Hoffmann bromamide degradation,  moles of NaOH and  moles of Br  are consumed per mole of an amide\nB. Hoffmann bromamide reaction is not given by alkyl amides.\nC. Primary amines can be synthesized by Hoffmann bromamide degradation.\nD. Secondary amide on reaction with Br  and NaOH will give secondary amine.\nE. The by-products of Hoffmann degradation are Na CO , NaBr and H O.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "id": "A",
+        "content": "A, C and E only"
+      },
+      {
+        "id": "B",
+        "content": "B, C and D only"
+      },
+      {
+        "id": "C",
+        "content": "C and E only"
+      },
+      {
+        "id": "D",
+        "content": "C, D and E only"
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 21,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_69",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 69,
+    "content": "The incorrect statement from the following with respect to carbohydrates is:",
+    "options": [
+      {
+        "id": "A",
+        "content": "All monosaccharides are reducing sugars."
+      },
+      {
+        "id": "B",
+        "content": "The monosaccharide units obtained from hydrolysis of oligosaccharides are always the same."
+      },
+      {
+        "id": "C",
+        "content": "Starch and cellulose are typical examples of polysaccharides, which are very high molecular weight compounds\nof more than ten monosaccharide units."
+      },
+      {
+        "id": "D",
+        "content": "Open chain and cyclic structures co-exist at equilibrium that are responsible for certain properties as in the case\nof \n-glucose."
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 21,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_70",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 70,
+    "content": "Which of the following amino acid will give violet coloured complex with neutral ferric chloride solution?",
+    "options": [
+      {
+        "id": "A",
+        "content": "Threonine"
+      },
+      {
+        "id": "B",
+        "content": "Serine"
+      },
+      {
+        "id": "C",
+        "content": "Tyrosine"
+      },
+      {
+        "id": "D",
+        "content": "Cysteine"
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 21,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_71",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 71,
+    "content": "Number of paramagnetic complexes among the following is ________.\n, \n, \n, \n, \n, \n, \n, \n,\n,",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 6.0,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 21,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_72",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 72,
+    "content": "' ' is the product which is obtained from benzene by reacting it with carbon monoxide and hydrogen chloride in the\npresence of cuprous chloride. ' ' is the major product obtained from the benzene by reacting it with ethanoyl\nchloride in the presence of anhydrous AlCl . Product (major) obtained by heating  and  in the presence of alkali is\n. Total number of  (pi) electrons in  is ________.",
+    "options": [],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 22,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_73",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 73,
+    "content": "Consider two radiations of wavelengths\n1. \n Å\n2. \n Å\nThe ratio of the energies of these two radiations \n is ________ (Nearest integer).",
+    "options": [],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 22,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_74",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 74,
+    "content": "Consider the reaction\nThe magnitude of enthalpy change for the reaction in kJ mol\n is ________. (Nearest integer)\nGiven: \n kJ mol\n kJ mol\n kJ mol",
+    "options": [],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 22,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  },
+  {
+    "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_75",
+    "paper_id": "JEE_MAIN_2026_APRIL_SHIFT_2",
+    "question_number": 75,
+    "content": "Solid carbon, CaO and CaCO  are mixed and allowed to attain equilibrium at T K.\n atm\n atm\nThe partial pressure of CO is ________ \n atm",
+    "options": [],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 22,
+    "year": 2026,
+    "session": "April",
+    "date": "2026-04-06",
+    "shift": "Shift 2"
+  }
+]

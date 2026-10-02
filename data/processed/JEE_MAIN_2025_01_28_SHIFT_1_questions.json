@@ -1,0 +1,3561 @@
+[
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_01",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 1,
+    "content": "Let O be the origin, the point A be z1 = √3 + 2√2i , the point B (z2) be such that √3 |z2| = |z1| and\narg (z2) = arg (z1) + π6 . Then",
+    "options": [
+      {
+        "id": "A",
+        "content": "area of triangle ABO is 11"
+      },
+      {
+        "id": "B",
+        "content": "ABO is an obtuse angled isosceles triangle\n√3"
+      },
+      {
+        "id": "C",
+        "content": "area of triangle ABO is 11"
+      },
+      {
+        "id": "D",
+        "content": "ABO is a scalene triangle 4"
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 1,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_02",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 2,
+    "content": "Let f : R →R be a function defined by f(x) = (2 + 3a)x2 + ( a+2a−1 )x + b, a ≠1. If\nf(x + y) = f(x) + f(y) + 1 −27 xy , then the value of 28 ∑5i=1 |f(i)| is",
+    "options": [
+      {
+        "id": "A",
+        "content": "545"
+      },
+      {
+        "id": "B",
+        "content": "715"
+      },
+      {
+        "id": "C",
+        "content": "735"
+      },
+      {
+        "id": "D",
+        "content": "675"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 1,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "4"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_03",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 3,
+    "content": "Let ABCD be a trapezium whose vertices lie on the parabola y2 = 4x. Let the sides AD and BC of the\ntrapezium be parallel to y -axis. If the diagonal AC is of length 25 and it passes through the point (1, 0), then 4\nthe area of ABCD is",
+    "options": [
+      {
+        "id": "A",
+        "content": "75 4"
+      },
+      {
+        "id": "B",
+        "content": "= 252"
+      },
+      {
+        "id": "C",
+        "content": "125"
+      },
+      {
+        "id": "D",
+        "content": "75 8 8"
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 1,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "1",
+      "correct_option": "A",
+      "option_index": 0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "1"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_04",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 4,
+    "content": "The sum of all local minimum values of the function\n⎧ 1 −2x, x < −1\nf(x) = 3 (7 + 2|x|), −1 ≤x ≤2 ⎨ 1\n11 ⎩ 18 (x −4)(x −5), x > 2\n\nis",
+    "options": [
+      {
+        "id": "A",
+        "content": "157"
+      },
+      {
+        "id": "B",
+        "content": "131 72 72"
+      },
+      {
+        "id": "C",
+        "content": "171"
+      },
+      {
+        "id": "D",
+        "content": "167 72 72"
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 1,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "1",
+      "correct_option": "A",
+      "option_index": 0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "1"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_05",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 5,
+    "content": "Let nCr−1 = 28, nCr = 56 and nCr+1 = 70. Let A(4 cos t, 4 sin t), B(2 sin t, −2 cos t) and\nC (3r −n, r2 −n −1) be the vertices of a triangle ABC , where t is a parameter. If (3x −1)2 + (3y)2 = α, is\nthe locus of the centroid of triangle ABC , then α equals",
+    "options": [
+      {
+        "id": "A",
+        "content": "6"
+      },
+      {
+        "id": "B",
+        "content": "18"
+      },
+      {
+        "id": "C",
+        "content": "8"
+      },
+      {
+        "id": "D",
+        "content": "20"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 1,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "4"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_06",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 6,
+    "content": "Let the equation of the circle, which touches x-axis at the point (a, 0), a > 0 and cuts off an intercept of length b\non y-axis be x2 + y2 −αx + βy + γ = 0. If the circle lies below x-axis, then the ordered pair (2a, b2) is equal\nto",
+    "options": [
+      {
+        "id": "A",
+        "content": "(γ, β2 −4α)"
+      },
+      {
+        "id": "B",
+        "content": "(α, β2 + 4γ)"
+      },
+      {
+        "id": "C",
+        "content": "(γ, β2 + 4α)"
+      },
+      {
+        "id": "D",
+        "content": "(α, β2 −4γ)\n\n2x"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 1,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "4"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_07",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 7,
+    "content": "If f(x) = , x ∈R, then ∑81k=1 f ( 82k ) is equal to 2x+√2\n(1)",
+    "options": [
+      {
+        "id": "A",
+        "content": "81√2"
+      },
+      {
+        "id": "B",
+        "content": "41"
+      },
+      {
+        "id": "C",
+        "content": "82"
+      },
+      {
+        "id": "D",
+        "content": "81 2"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 1,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "4"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_08",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 8,
+    "content": "Two number k1 and k2 are randomly chosen from the set of natural numbers. Then, the probability that the\nvalue of ik1 + ik2, (i = √−1) is non-zero, equals ⎪ ⎪",
+    "options": [
+      {
+        "id": "A",
+        "content": "1"
+      },
+      {
+        "id": "B",
+        "content": "3 2 4"
+      },
+      {
+        "id": "C",
+        "content": "1"
+      },
+      {
+        "id": "D",
+        "content": "2 4 3"
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 1,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_09",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 9,
+    "content": "If the image of the point (4, 4, 3) in the line x−12 = y−21 = z−13 is (α, β, γ), then α + β + γ is equal to",
+    "options": [
+      {
+        "id": "A",
+        "content": "9"
+      },
+      {
+        "id": "B",
+        "content": "12"
+      },
+      {
+        "id": "C",
+        "content": "7"
+      },
+      {
+        "id": "D",
+        "content": "8"
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 2,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "1",
+      "correct_option": "A",
+      "option_index": 0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "1"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_10",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 10,
+    "content": "cos (sin−1 35 + sin−1 135 + sin−1 3365 ) is equal to:",
+    "options": [
+      {
+        "id": "A",
+        "content": "1"
+      },
+      {
+        "id": "B",
+        "content": "0"
+      },
+      {
+        "id": "C",
+        "content": "32"
+      },
+      {
+        "id": "D",
+        "content": "33 65 65"
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 2,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_11",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 11,
+    "content": "Let A(x, y, z) be a point in xy-plane, which is equidistant from three points (0, 3, 2), (2, 0, 3) and ( 0, 0, 1 ). Let\nB = (1, 4, −1) and C = (2, 0, −2). Then among the statements (S1) : △ABC is an isosceles right angled\ntriangle, and (S2) : the area of △ABC is 9√22 ,",
+    "options": [
+      {
+        "id": "A",
+        "content": "both are true"
+      },
+      {
+        "id": "B",
+        "content": "only (S2) is true"
+      },
+      {
+        "id": "C",
+        "content": "only (S1) is true"
+      },
+      {
+        "id": "D",
+        "content": "both are false"
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 2,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "3",
+      "correct_option": "C",
+      "option_index": 2
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "3"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_12",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 12,
+    "content": "The area (in sq. units) of the region {(x, y) : 0 ≤y ≤2|x| + 1, 0 ≤y ≤x2 + 1, |x| ≤3} is",
+    "options": [
+      {
+        "id": "A",
+        "content": "80"
+      },
+      {
+        "id": "B",
+        "content": "64 3 3"
+      },
+      {
+        "id": "C",
+        "content": "32"
+      },
+      {
+        "id": "D",
+        "content": "17 3 3"
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 2,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_13",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 13,
+    "content": "The sum, of the squares of all the roots of the equation x2 + |2x −3| −4 = 0, is",
+    "options": [
+      {
+        "id": "A",
+        "content": "3(3 −√2)"
+      },
+      {
+        "id": "B",
+        "content": "6(3 −√2)"
+      },
+      {
+        "id": "C",
+        "content": "6(2 −√2)"
+      },
+      {
+        "id": "D",
+        "content": "3(2 −√2)"
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 2,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "3",
+      "correct_option": "C",
+      "option_index": 2
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "3"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_14",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 14,
+    "content": "Let Tr be the rth term of an A.P. If for some m, Tm = 251 , T25 = 201 , and 20 ∑25r=1 Tr = 13, then\n5 m ∑2r=mm Tr is equal to",
+    "options": [
+      {
+        "id": "A",
+        "content": "98"
+      },
+      {
+        "id": "B",
+        "content": "126"
+      },
+      {
+        "id": "C",
+        "content": "142"
+      },
+      {
+        "id": "D",
+        "content": "112"
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 2,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_15",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 15,
+    "content": "Three defective oranges are accidently mixed with seven good ones and on looking at them, it is not possible\nto differentiate between them. Two oranges are drawn at random from the lot. If x denote the number of\ndefective oranges, then the variance of x is",
+    "options": [
+      {
+        "id": "A",
+        "content": "28/75"
+      },
+      {
+        "id": "B",
+        "content": "18/25"
+      },
+      {
+        "id": "C",
+        "content": "26/75"
+      },
+      {
+        "id": "D",
+        "content": "14/25"
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 2,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "1",
+      "correct_option": "A",
+      "option_index": 0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "1"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_16",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 16,
+    "content": "Let for some function y = f(x), ∫x0 tf(t)dt = x2f(x),",
+    "options": [
+      {
+        "id": "A",
+        "content": "1"
+      },
+      {
+        "id": "B",
+        "content": "3"
+      },
+      {
+        "id": "C",
+        "content": "6"
+      },
+      {
+        "id": "D",
+        "content": "2\n\nπ\ndx = π (απ2 + β), α, β ∈Z , then (α + β)2 equals"
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 2,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "1",
+      "correct_option": "A",
+      "option_index": 0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "1"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_17",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 17,
+    "content": "If ∫ −π2 2 96x2(1+ex)cos2 x",
+    "options": [
+      {
+        "id": "A",
+        "content": "64"
+      },
+      {
+        "id": "B",
+        "content": "196"
+      },
+      {
+        "id": "C",
+        "content": "144"
+      },
+      {
+        "id": "D",
+        "content": "100"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 2,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "4"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_18",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 18,
+    "content": "Let ⟨an⟩ be a sequence such that a0 = 0, a1 = 12 and 2an+2 = 5an+1 −3an, n = 0, 1, 2, 3, … . Then ∑100k=1 ak\nis equal to",
+    "options": [
+      {
+        "id": "A",
+        "content": "3a99 −100"
+      },
+      {
+        "id": "B",
+        "content": "3a100 −100"
+      },
+      {
+        "id": "C",
+        "content": "3a99 + 100"
+      },
+      {
+        "id": "D",
+        "content": "3a100 + 100"
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 2,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_19",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 19,
+    "content": "The number of different 5 digit numbers greater than 50000 that can be formed using the digits 0 ,\n1, 2, 3, 4, 5, 6, 7, such that the sum of their first and last digits should not be more than 8 , is",
+    "options": [
+      {
+        "id": "A",
+        "content": "4608"
+      },
+      {
+        "id": "B",
+        "content": "5720"
+      },
+      {
+        "id": "C",
+        "content": "5719"
+      },
+      {
+        "id": "D",
+        "content": "4607"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 3,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "4"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_20",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 20,
+    "content": "The relation R = {(x, y) : x, y ∈Z and x + y is even } is:",
+    "options": [
+      {
+        "id": "A",
+        "content": "reflexive and symmetric but not transitive"
+      },
+      {
+        "id": "B",
+        "content": "an equivalence relation"
+      },
+      {
+        "id": "C",
+        "content": "symmetric and transitive but not reflexive"
+      },
+      {
+        "id": "D",
+        "content": "reflexive and transitive but not symmetric"
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 3,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_21",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 21,
+    "content": "⎧3x, x < 0\nLet f(x) = min{1 + x + [x], x + 2[x]}, 0 ≤x ≤2 where [.] denotes greatest integer function. If α and β ⎨ ⎩5, x > 2,\nare the number of points, where f is not continuous and is not differentiable, respectively, then α + β equals\n__________",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 5.0,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 3,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "5",
+      "value": 5.0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "5"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_22",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 22,
+    "content": "Let M denote the set of all real matrices of order 3 × 3 and let S = {−3, −2, −1, 1, 2}. Let\n\nS1 = {A = [aij] ∈M : A = AT and aij ∈ S, ∀i, j},\nS2 = {A = [aij] ∈M : A = −AT and aij ∈ S, ∀i, j},\nS3 = {A = [aij] ∈M : a11 + a22 + a33 = 0 and aij ∈ S, ∀i, j}.\n\nIf n ( S1 ∪2 US3) = 125α, then α equals _______",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 1613.0,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 3,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "1613",
+      "value": 1613.0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "1613"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_23",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 23,
+    "content": "If α = 1 + ∑6r=1(−3)r−1 12C2r−1 , then the distance of the point (12, √3) from the line αx −√3y + 1 = 0\nis _________.\n\nbe an ellipse. Ellipses E1 's are constructed such that their centres and eccentricities are",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 5.0,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 3,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "5",
+      "value": 5.0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "5"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_24",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 24,
+    "content": "Let E1 : x29 + y24 = 1\nsame as that of E1 , and the length of minor axis of Ei is the length of major axis of Ei+1(i ≥1). If Ai is the\narea of the ellipse Ei , then π5 (∑∞i=1 Ai), is equal to\n\n→ → →",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 54.0,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 3,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "54",
+      "value": 54.0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "54"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_25",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 25,
+    "content": "Let →a = ^i +^j + ^k, b = 2^i + 2^j + ^k and d = →a × b. If→cis a vector such that →a ⋅→c= |→c|, |→c−2→a|2 = 8 and the\n→ → → π angle between d and→cis , then |10 −3 b ⋅→c| + |d ×→c|2 is equal to 4",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 6.0,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 3,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "6",
+      "value": 6.0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "6"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_26",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 26,
+    "content": "Three infinitely long wires with linear charge density λ are placed along the x −axis, y-axis and z− axis\nrespectively. Which of the following denotes an equipotential surface?",
+    "options": [
+      {
+        "id": "A",
+        "content": "xyz = constant"
+      },
+      {
+        "id": "B",
+        "content": "xy + yz + zx = constant"
+      },
+      {
+        "id": "C",
+        "content": "(x2 + y2) (y2 + z2) (z2 + x2) = constant"
+      },
+      {
+        "id": "D",
+        "content": "(x + y)(y + z)(z + x) = constant"
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 3,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "3",
+      "correct_option": "C",
+      "option_index": 2
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "3"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_27",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 27,
+    "content": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R Assertion\nA: A sound wave has higher speed in solids than gases. Reason R: Gases have higher value of Bulk modulus\nthan solids. In the light of the above statements, choose the correct answer from the options given below ⎪ ⎪",
+    "options": [
+      {
+        "id": "A",
+        "content": "Both A and R are true but R is NOT the correct"
+      },
+      {
+        "id": "B",
+        "content": "A is true but R is false\nexplanation of A"
+      },
+      {
+        "id": "C",
+        "content": "A is false but R is true"
+      },
+      {
+        "id": "D",
+        "content": "Both A and R are true and R is the correct\nexplanation of A"
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 3,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_28",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 28,
+    "content": "Two capacitors C1 and C2 are connected in parallel to a battery. Charge-time graph is shown below for the two\ncapacitors. The energy stored with them are U1 and U2 , respectively. Which of the given statements is true?",
+    "options": [
+      {
+        "id": "A",
+        "content": "C2 > C1, U2 < U1"
+      },
+      {
+        "id": "B",
+        "content": "C1 > C2, U1 > U2"
+      },
+      {
+        "id": "C",
+        "content": "C1 > C2, U1 < U2"
+      },
+      {
+        "id": "D",
+        "content": "C2 > C1, U2 > U1"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 4,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "4"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_29",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 29,
+    "content": "A thin prism P1 with angle 4∘ made of glass having refractive index 1.54 , is combined with another thin prism\nP2 made of glass having refractive index 1.72 to get dispersion without deviation. The angle of the prism P2 in\ndegrees is",
+    "options": [
+      {
+        "id": "A",
+        "content": "3"
+      },
+      {
+        "id": "B",
+        "content": "16/3"
+      },
+      {
+        "id": "C",
+        "content": "4"
+      },
+      {
+        "id": "D",
+        "content": "1.5"
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 4,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "1",
+      "correct_option": "A",
+      "option_index": 0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "1"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_30",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 30,
+    "content": "A particle of mass ' m ' and charge ' q ' is fastened to one end ' A ' of a massless string having equilibrium\nlength l, whose other end is fixed at point ' O '. The whole system is placed on a frictionless horizontal plane\nand is initially at rest. If uniform electric field is switched on along the direction as shown in figure, then the\n\nspeed of the particle when it crosses the x -axis is",
+    "options": [
+      {
+        "id": "A",
+        "content": "√qEl2 m"
+      },
+      {
+        "id": "B",
+        "content": "√qElm"
+      },
+      {
+        "id": "C",
+        "content": "√qEl4 m"
+      },
+      {
+        "id": "D",
+        "content": "√2qElm"
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 4,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_31",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 31,
+    "content": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R\nAssertion A: In a central force field, the work done is independent of the path chosen. Reason R: Every force\nencountered in mechanics does not have an associated potential energy. In the light of the above statements,\nchoose the most appropriate answer from the options given below",
+    "options": [
+      {
+        "id": "A",
+        "content": "A is false but R is true"
+      },
+      {
+        "id": "B",
+        "content": "Both A and R are true but R is NOT the correct\nexplanation of A"
+      },
+      {
+        "id": "C",
+        "content": "A is true but R is false"
+      },
+      {
+        "id": "D",
+        "content": "Both A and R are true and R is the correct\nexplanation of A"
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 4,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_32",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 32,
+    "content": "Choose the correct nuclear process from the below options [p: proton, n : neutron, e− : electron, e+ : positron,\nv : neutrino, ¯v : antineutrino]",
+    "options": [
+      {
+        "id": "A",
+        "content": "n →p + e+ + ¯v"
+      },
+      {
+        "id": "B",
+        "content": "n →p + e+ + v"
+      },
+      {
+        "id": "C",
+        "content": "n →p + e−+ v"
+      },
+      {
+        "id": "D",
+        "content": "n →p + e−+ ¯v"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 5,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "4"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_33",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 33,
+    "content": "A hemispherical vessel is completely filled with a liquid of refractive index μ. A small coin is kept at the\nlowest point (O) of the vessel as shown in figure. The minimum value of the refractive index of the liquid so\nthat a person can see the coin from point E (at the level of the vessel) is",
+    "options": [
+      {
+        "id": "A",
+        "content": "√3"
+      },
+      {
+        "id": "B",
+        "content": "√3\n2"
+      },
+      {
+        "id": "C",
+        "content": "3"
+      },
+      {
+        "id": "D",
+        "content": "√2 2"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 5,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "4"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_34",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 34,
+    "content": "A Carnot engine (E) is working between two temperatures 473 K and 273 K . In a new system two engines -\nengine E1 works between 473 K to 373 K and engine E2 works between 373 K to 273 K . If η12, η1 and η2 are\nthe efficiencies of the engines E, E1 and E2 , respectively, then",
+    "options": [
+      {
+        "id": "A",
+        "content": "η12 = η1η2"
+      },
+      {
+        "id": "B",
+        "content": "η12 ≥η1 + η2"
+      },
+      {
+        "id": "C",
+        "content": "η12 = η1 + η2"
+      },
+      {
+        "id": "D",
+        "content": "η12 < η1 + η2"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 5,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "4"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_35",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 35,
+    "content": "Consider a long thin conducting wire carrying a uniform current I. A particle having mass \" M \" and charge \" q\n\" is released at a distance \" a \" from the wire with a speed v0 along the direction of current in the wire. The\nparticle gets attracted to the wire due to magnetic force. The particle turns round when it is at distance x from\nthe wire. The value of x is [ μ0 is vacuum permeability]",
+    "options": [
+      {
+        "id": "A",
+        "content": "ae−4πmvoqμoI"
+      },
+      {
+        "id": "B",
+        "content": "a [1 − 2qμoImvo ]\n− 2 qμoI"
+      },
+      {
+        "id": "C",
+        "content": "a [1 mv ]"
+      },
+      {
+        "id": "D",
+        "content": "a"
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 5,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "1",
+      "correct_option": "A",
+      "option_index": 0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "1"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_36",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 36,
+    "content": "A wire of resistance R is bent into an equilateral triangle and an identical wire is bent into a square. The ratio\nof resistance between the two end points of an edge of the triangle to that of the square is Options",
+    "options": [
+      {
+        "id": "A",
+        "content": "8/9"
+      },
+      {
+        "id": "B",
+        "content": "27/32"
+      },
+      {
+        "id": "C",
+        "content": "32/27"
+      },
+      {
+        "id": "D",
+        "content": "9/8"
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 5,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "3",
+      "correct_option": "C",
+      "option_index": 2
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "3"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_37",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 37,
+    "content": "In the experiment for measurement of viscosity ' η ' of given liquid with a ball having radius R, consider\nfollowing statements. A. Graph between terminal velocity V and R will be a parabola. B. The terminal\nvelocities of different diameter balls are constant for a given liquid. C. Measurement of terminal velocity is\ndependent on the temperature. D. This experiment can be utilized to assess the density of a given liquid. E. If\n\nballs are dropped with some initial speed, the value of η will change. Choose the correct answer from the\noptions given below:",
+    "options": [
+      {
+        "id": "A",
+        "content": "A, B and E Only"
+      },
+      {
+        "id": "B",
+        "content": "B, D and E Only"
+      },
+      {
+        "id": "C",
+        "content": "A, C and D Only"
+      },
+      {
+        "id": "D",
+        "content": "C, D and E Only"
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 5,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "3",
+      "correct_option": "C",
+      "option_index": 2
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "3"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_38",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 38,
+    "content": "Due to presence of an em-wave whose electric component is given by E = 100 sin(ωt −kx)NC−1 , a cylinder\nof length 200 cm holds certain amount of em-energy inside it. If another cylinder of same length but half\ndiameter than previous one holds same amount of em-energy, the magnitude of the electric field of the\ncorresponding em-wave should be modified as",
+    "options": [
+      {
+        "id": "A",
+        "content": "400 sin(ωt −kx)NC−1"
+      },
+      {
+        "id": "B",
+        "content": "200 sin(ωt −kx)NC−1"
+      },
+      {
+        "id": "C",
+        "content": "50 sin(ωt −kx)NC−1"
+      },
+      {
+        "id": "D",
+        "content": "25 sin(ωt −kx)NC−1"
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 6,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_39",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 39,
+    "content": "A bead of mass ' m ' slides without friction on the wall of a vertical circular hoop of radius ' R ' as shown in\nfigure. The bead moves under the combined action of gravity and a massless spring ( k ) attached to the bottom\nof the hoop. The equilibrium length of the spring is ' R '. If the bead is released from top of the hoop with\n(negligible) zero initial speed, velocity of bead, when the length of spring becomes ' R ', would be (spring\n\nconstant is ' k ', g is accleration due to gravity)",
+    "options": [
+      {
+        "id": "A",
+        "content": "√3Rg + kR2m"
+      },
+      {
+        "id": "B",
+        "content": "2√gR + kR2m"
+      },
+      {
+        "id": "C",
+        "content": "√2Rg + kR2m"
+      },
+      {
+        "id": "D",
+        "content": "√2Rg + 4kR2m"
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 6,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "1",
+      "correct_option": "A",
+      "option_index": 0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "1"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_40",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 40,
+    "content": "Find the equivalent resistance between two ends of the following circuit",
+    "options": [
+      {
+        "id": "A",
+        "content": "r"
+      },
+      {
+        "id": "B",
+        "content": "r 9 3"
+      },
+      {
+        "id": "C",
+        "content": "r"
+      },
+      {
+        "id": "D",
+        "content": "r 6"
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 6,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "1",
+      "correct_option": "A",
+      "option_index": 0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "1"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_41",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 41,
+    "content": "Consider following statements: A. Surface tension arises due to extra energy of the molecules at the interior as\ncompared to the molecules at the surface, of a liquid. B. As the temperature of liquid rises, the coefficient of\nviscosity increases. C. As the temperature of gas increases, the coefficient of viscosity increases D. The onset\nof turbulence is determined by Reynold's number. E. In a steady flow two stream lines never intersect. Choose\nthe correct answer from the options given below:",
+    "options": [
+      {
+        "id": "A",
+        "content": "C, D, E Only"
+      },
+      {
+        "id": "B",
+        "content": "A, D, E Only"
+      },
+      {
+        "id": "C",
+        "content": "B, C, D Only"
+      },
+      {
+        "id": "D",
+        "content": "A, B, C Only"
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 6,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "1",
+      "correct_option": "A",
+      "option_index": 0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "1"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_42",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 42,
+    "content": "The center of mass of a thin rectangular plate (fig - x ) with sides of length a and b, whose mass per unit area\n\n(σ) varies as σ = σ0xab (where σ0 is a constant), would be",
+    "options": [
+      {
+        "id": "A",
+        "content": "( 23 a, 2b )"
+      },
+      {
+        "id": "B",
+        "content": "( a2 , 2b )"
+      },
+      {
+        "id": "C",
+        "content": "( 13 a, 2b )"
+      },
+      {
+        "id": "D",
+        "content": "( 23 a, 23 b)"
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 7,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "1",
+      "correct_option": "A",
+      "option_index": 0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "1"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_43",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 43,
+    "content": "Which of the following circuits has the same outpur as that of the given circuit?",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 7,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_44",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 44,
+    "content": "For a particular ideal gas which of the following graphs represents the variation of mean squared velocity of\nthe gas molecules with temperature?",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 7,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_45",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 45,
+    "content": "A proton of mass ' mp ' has same energy as that of a photon of wavelength ' λ '. If the proton is moving at non-\nrelativistic speed, then ratio of its de Broglie wavelength to the wavelength of photon is.",
+    "options": [
+      {
+        "id": "A",
+        "content": "1"
+      },
+      {
+        "id": "B",
+        "content": "1 c √Emp c √2Emp"
+      },
+      {
+        "id": "C",
+        "content": "1"
+      },
+      {
+        "id": "D",
+        "content": "1 E 2c √Emp c √ 2 mp"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 8,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "4"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_46",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 46,
+    "content": "A double slit interference experiment performed with a light of wavelength 600 nm forms an interference\nfringe pattern on a screen with 10 th bright fringe having its centre at a distance of 10 mm from the central\nmaximum. Distance of the centre of the same 10th bright fringe from the central maximum when the source of\nlight is replaced by another source of wavelength 660 nm would be _________ mm .",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 11.0,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 8,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "11",
+      "value": 11.0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "11"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_47",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 47,
+    "content": "In a measurement, it is asked to find modulus of elasticity per unit torque applied on the system. The measured\nquantity has dimension of [M aLbT c]. If b = −3, the value of c is ________",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 0.0,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 8,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "0",
+      "value": 0.0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "0"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_48",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 48,
+    "content": "A tiny metallic rectangular sheet has length and breadth of 5 mm and 2.5 mm , respectively. Using a specially\ndesigned screw gauge which has pitch of 0.75 mm and 15 divisions in the circular scale, you are asked to find\nthe area of the sheet. In this measurement, the maximum fractional error will be x where x is _________. 100",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 3.0,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 8,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "3",
+      "value": 3.0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "3"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_49",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 49,
+    "content": "Two iron solid discs of negligible thickness have radii R1 and R2 and moment of intertia I1 and I2 ,\nrespectively. For R2 = 2R1 , the ratio of I1 and I2 would be 1/x, where x = ________ -",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 16.0,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 8,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "16",
+      "value": 16.0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "16"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_50",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 50,
+    "content": "The moment of inertia of a solid disc rotating along its diameter is 2.5 times higher than the moment of inertia\nof a ring rotating in similar way. The moment of inertia of a solid sphere which has same radius as the disc and\nrotating in similar way, is n times higher than the moment of inertia of the given ring. Here,\n$\\mathrm{n}=_________ Consider all the bodies have equal masses.",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 4.0,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 8,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "4",
+      "value": 4.0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "4"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_51",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 51,
+    "content": "Given below are two statements: Statement I : D-glucose pentaacetate reacts with 2, 4-dinitrophenylhydrazine\nStatement II : Starch, on heating with concentrated sulfuric acid at 100∘C and 2-3 atmosphere pressure\nproduces glucose. In the light of the above statements, choose the correct answer from the options given below",
+    "options": [
+      {
+        "id": "A",
+        "content": "Statement I is false but Statement II is true"
+      },
+      {
+        "id": "B",
+        "content": "Both Statement I and Statement II are false"
+      },
+      {
+        "id": "C",
+        "content": "Both Statement I and Statement II are true"
+      },
+      {
+        "id": "D",
+        "content": "Statement I is true but Statement II is false"
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 8,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "1",
+      "correct_option": "A",
+      "option_index": 0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "1"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_52",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 52,
+    "content": "Both acetaldehyde and acetone (individually) undergo which of the following reactions? A. Iodoform Reaction\nB. Cannizaro Reaction C. Aldol Condensation D. Tollen's Test E. Clemmensen Reduction Choose the correct\nanswer from the options given below:",
+    "options": [
+      {
+        "id": "A",
+        "content": "A, B and D Only"
+      },
+      {
+        "id": "B",
+        "content": "C and E Only"
+      },
+      {
+        "id": "C",
+        "content": "A, C and E Only"
+      },
+      {
+        "id": "D",
+        "content": "B, C and D Only"
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 9,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "3",
+      "correct_option": "C",
+      "option_index": 2
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "3"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_53",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 53,
+    "content": "Which of the following oxidation reactions are carried out by both K2Cr2O7 and KMnO4 in acidic medium?\nA. Γ−→I2 B. S 2−→S C. Fe2+ →Fe3+ D. Γ−→IO3− E. S2O32−→SO42− Choose the correct answer\nfrom the options given below:",
+    "options": [
+      {
+        "id": "A",
+        "content": "C, D and E Only"
+      },
+      {
+        "id": "B",
+        "content": "B, C and D Only"
+      },
+      {
+        "id": "C",
+        "content": "A, D and E Only"
+      },
+      {
+        "id": "D",
+        "content": "A, B and C Only"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 9,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "4"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_54",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 54,
+    "content": "A molecule (\" P \") on treatment with acid undergoes rearrangement and gives (\"Q\"). (\"Q\") on ozonolysis\nfollowed by reflux under alkaline condition gives (\" R \"). The structure of (\" R \") is given below.\n\nThe structure of (\" P′′ ) is",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 9,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "4"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_55",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 55,
+    "content": "The correct order of stability of following carbocations is :",
+    "options": [
+      {
+        "id": "A",
+        "content": "C > B > A > D"
+      },
+      {
+        "id": "B",
+        "content": "A > B > C > D"
+      },
+      {
+        "id": "C",
+        "content": "B > C > A > D"
+      },
+      {
+        "id": "D",
+        "content": "C > A > B > D"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 10,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "4"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_56",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 56,
+    "content": "The products A and B in the following reactions, respectively are\nAg−NO2 AgCN\n−A ⟷CH3 −CH2 −CH2 −Br → B",
+    "options": [
+      {
+        "id": "A",
+        "content": "CH3 −CH2 −CH2 −NO2, CH3 −CH2 −CH2 −CN"
+      },
+      {
+        "id": "B",
+        "content": "CH3 −CH2 −CH2 −ONO, CH3 −CH2 −CH2 −NC"
+      },
+      {
+        "id": "C",
+        "content": "CH3 −CH2 −CH2 −ONO, CH3 −CH2 −CH2 −CN"
+      },
+      {
+        "id": "D",
+        "content": "CH3 −CH2 −CH2 −NO2, CH3 −CH2 −CH2 −NC"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 10,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "4"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_57",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 57,
+    "content": "In a multielectron atom, which of the following orbitals described by three quantum numbers will have same\nenergy in absence of electric and magnetic fields? A. n = 1, l = 0, m1 = 0 B. n = 2, l = 0, m1 = 0 C.\nn = 2, l = 1, m1 = 1 D. n = 3, l = 2, m1 = 1 E. n = 3, l = 2, m1 = 0 Choose the correct answer from the\noptions given below:",
+    "options": [
+      {
+        "id": "A",
+        "content": "B and C Only"
+      },
+      {
+        "id": "B",
+        "content": "A and B Only"
+      },
+      {
+        "id": "C",
+        "content": "C and D Only"
+      },
+      {
+        "id": "D",
+        "content": "D and E Only"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 10,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "4"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_58",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 58,
+    "content": "A weak acid HA has degree of dissociation x . Which option gives the correct expression of ( pH pKa )?",
+    "options": [
+      {
+        "id": "A",
+        "content": "0"
+      },
+      {
+        "id": "B",
+        "content": "log(1 + 2x)"
+      },
+      {
+        "id": "C",
+        "content": "log ( 1−xx )"
+      },
+      {
+        "id": "D",
+        "content": "log ( 1−xx )"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 10,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "4"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_59",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 59,
+    "content": "The molecules having square pyramidal geometry are",
+    "options": [
+      {
+        "id": "A",
+        "content": "BrF5&PCl5"
+      },
+      {
+        "id": "B",
+        "content": "SbF5&PCl5"
+      },
+      {
+        "id": "C",
+        "content": "SbF5&XeOF4"
+      },
+      {
+        "id": "D",
+        "content": "BrF5&XeOF4"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 10,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "4"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_60",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 60,
+    "content": "Consider the following elements In, Tl, Al, Pb, Sn and Ge . The most stable oxidation states of elements with\nhighest and lowest first ionisation enthalpies, respectively, are",
+    "options": [
+      {
+        "id": "A",
+        "content": "+4 and +1"
+      },
+      {
+        "id": "B",
+        "content": "+1 and +4"
+      },
+      {
+        "id": "C",
+        "content": "+4 and +3"
+      },
+      {
+        "id": "D",
+        "content": "+2 and +3"
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 10,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "3",
+      "correct_option": "C",
+      "option_index": 2
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "3"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_61",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 61,
+    "content": "For a given reaction R →P, t1/2 is related to [A]0 as given in table. Given: log 2 = 0.30 Which of the\nfollowing is true? A. The order of the reaction is 1/2. B. If [A]0 is 1 M , then t1/2 is 200√10 min C. The order\nof the reaction changes to 1 if the concentration of reactant changes from 0.100 M to 0.500 M . D. t1/2 is 800\nmin for [A]0 = 1.6M Choose the correct answer from the options given below: Options",
+    "options": [
+      {
+        "id": "A",
+        "content": "A and C Only"
+      },
+      {
+        "id": "B",
+        "content": "A, B and D Only"
+      },
+      {
+        "id": "C",
+        "content": "C and D Only"
+      },
+      {
+        "id": "D",
+        "content": "A and B Only"
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": true,
+    "image_urls": [
+      "/uploads/questions/JEE_MAIN_2025_01_28_SHIFT_1_Q_61.png"
+    ],
+    "page_number": 11,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_62",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 62,
+    "content": "Match the LIST-I with LIST-II\n\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "id": "A",
+        "content": "A-II, B-III, C-I, D-IV"
+      },
+      {
+        "id": "B",
+        "content": "A-III, B-IV, C-I, D-II"
+      },
+      {
+        "id": "C",
+        "content": "A-IV, B-I, C-II, D-III"
+      },
+      {
+        "id": "D",
+        "content": "A-II, B-III, C-IV, D-I"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 11,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "4"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_63",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 63,
+    "content": "Given below are two statements: Statement I: In the oxalic acid vs KMnO4 (in the presence of dil H2SO4 )\ntitration the solution needs to be heated initially to 60∘C, but no heating is required in Ferrous ammonium\nsulphate (FAS) vs KMnO4 titration (in the presence of dil H2SO4 ) Statement II: In oxalic acid vs KMnO4\ntitration, the initial formation of MnSO4 takes place at high temperature, which then acts as catalyst for further\nreaction. In the case of FAS vs KMnO4 , heating oxidizes Fe2+ into Fe3+ by oxygen of air and error may be\nintroduced in the experiment. In the light of the above statements, choose the correct answer from the options\ngiven below",
+    "options": [
+      {
+        "id": "A",
+        "content": "Both Statement I and Statement II are false"
+      },
+      {
+        "id": "B",
+        "content": "Both Statement I and Statement II are true"
+      },
+      {
+        "id": "C",
+        "content": "Statement I is false but Statement II is true"
+      },
+      {
+        "id": "D",
+        "content": "Statement I is true but Statement II is false"
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 11,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_64",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 64,
+    "content": "The metal ion whose electronic configuration is not affected by the nature of the ligand and which gives a\nviolet colour in non-luminous flame under hot condition in borax bead test is",
+    "options": [
+      {
+        "id": "A",
+        "content": "Mn2+"
+      },
+      {
+        "id": "B",
+        "content": "Cr3+"
+      },
+      {
+        "id": "C",
+        "content": "Ni2+"
+      },
+      {
+        "id": "D",
+        "content": "Ti3+"
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 12,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "3",
+      "correct_option": "C",
+      "option_index": 2
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "3"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_65",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 65,
+    "content": "The compounds that produce CO2 with aqueous NaHCO3 solution are: A.\n\nB.\n\nC.\n\nD.\n\nE.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "id": "A",
+        "content": "A, C and D Only"
+      },
+      {
+        "id": "B",
+        "content": "A, B and E Only"
+      },
+      {
+        "id": "C",
+        "content": "A and C Only"
+      },
+      {
+        "id": "D",
+        "content": "A and B Only"
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": true,
+    "image_urls": [
+      "/uploads/questions/JEE_MAIN_2025_01_28_SHIFT_1_Q_65.png"
+    ],
+    "page_number": 12,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "1",
+      "correct_option": "A",
+      "option_index": 0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "1"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_66",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 66,
+    "content": "What is the freezing point depression constant of a solvent, 50 g of which contain 1 g non volatile solute\n(molar mass 256 g mol−1 ) and the decrease in freezing point is 0.40 K ?",
+    "options": [
+      {
+        "id": "A",
+        "content": "3.72 K kg mol−1"
+      },
+      {
+        "id": "B",
+        "content": "1.86 K kg mol−1"
+      },
+      {
+        "id": "C",
+        "content": "4.43 K kg mol−1"
+      },
+      {
+        "id": "D",
+        "content": "5.12 K kg mol−1"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 12,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "4"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_67",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 67,
+    "content": "Given below are two statements:\n\ninvolving lone pair of electrons on nitrogen. In the light of the above statements, choose the most appropriate\nanswer from the options given below",
+    "options": [
+      {
+        "id": "A",
+        "content": "Statement I is incorrect but Statement II is"
+      },
+      {
+        "id": "B",
+        "content": "Statement I is correct but Statement II is\ncorrect incorrect"
+      },
+      {
+        "id": "C",
+        "content": "Both Statement I and Statement II are correct"
+      },
+      {
+        "id": "D",
+        "content": "Both Statement I and Statement II are incorrect"
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 13,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "3",
+      "correct_option": "C",
+      "option_index": 2
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "3"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_68",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 68,
+    "content": "Ice and water are placed in a closed container at a pressure of 1 atm and temperature 273.15 K . If pressure of\nthe system is increased 2 times, keeping temperature constant, then identify correct observation from following",
+    "options": [
+      {
+        "id": "A",
+        "content": "Volume of system increases ."
+      },
+      {
+        "id": "B",
+        "content": "The solid phase (ice) disappears completely."
+      },
+      {
+        "id": "C",
+        "content": "Liquid phase disappears completely."
+      },
+      {
+        "id": "D",
+        "content": "The amount of ice decreases."
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 13,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_69",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 69,
+    "content": "The incorrect decreasing order of atomic radii is",
+    "options": [
+      {
+        "id": "A",
+        "content": "Si > P > Cl > F"
+      },
+      {
+        "id": "B",
+        "content": "Be > Mg > Al > Si"
+      },
+      {
+        "id": "C",
+        "content": "Al > B > N > F"
+      },
+      {
+        "id": "D",
+        "content": "Mg > Al > C > O"
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 13,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_70",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 70,
+    "content": "Consider ' n ' is the number of lone pair of electrons present in the equatorial position of the most stable\nstructure of ClF3 . The ions from the following with ' n ' number of unpaired electrons are A. V3+ B. Ti3+ C.\nCu2+ D. Ni2+ E. Ti2+ Choose the correct answer from the options given below:",
+    "options": [
+      {
+        "id": "A",
+        "content": "A and C Only"
+      },
+      {
+        "id": "B",
+        "content": "A, D and E Only"
+      },
+      {
+        "id": "C",
+        "content": "B and D Only"
+      },
+      {
+        "id": "D",
+        "content": "B and C Only"
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 13,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_71",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 71,
+    "content": "The formation enthalpies, ΔHf⊖ for H(g) and O(g) are 220.0 and 250.0 kJ mol−1 , respectively, at 298.15 K ,\nand ΔHf ⊖ for H2O(g) is −242.0 kJ mol−1 at the same temperature. The average bond enthalpy of the O −H\nbond in water at 298.15 K is __________ kJmol−1 (nearest integer).",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 466.0,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 13,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "466",
+      "value": 466.0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "466"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_72",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 72,
+    "content": "The molarity of a 70% (mass / mass) aqueous solution of a monobasic acid (X) is __________ ×10−1\nM(Nearest integer) [Given: Density of aqueous solution of (X) is 1.25 g mL−1 Molar mass of the acid is\n70 g mol−1 ]",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 125.0,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 13,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "125",
+      "value": 125.0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "125"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_73",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 73,
+    "content": "Consider the following sequence of reactions:\n\n11.25 mg of chlorobenzene will produce __________ ×10−1mg of product B . (Consider the reactions result\nin complete conversion.) [Given molar mass of C, H, O, N and Cl as 12, 1, 16, 14 and 35.5 g mol−1\nrespectively]",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 93.0,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 14,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "93",
+      "value": 93.0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "93"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_74",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 74,
+    "content": "Quantitative analysis of an organic compound (X) shows following \\% composition. C : 14.5% Cl : 64.46\\%\nH: 1.8 \\% (Empirical formula mass of the compound (X) is __________ ×10−1 (Given molar mass in gmol−1\nof C : 12, H : 1, O : 16, Cl : 35.5 )",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 1655.0,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 14,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "1655",
+      "value": 1655.0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "1655"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_75",
+    "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
+    "question_number": 75,
+    "content": "Given below is the plot of the molar conductivity vs √ concentration for KCl in aqueous solution.\n\nIf, for the higher concentration of KCl solution, the resistance of the conductivity cell is 100Ω, then the\nresistance of the same cell with the dilute solution is ' x ' Ω The value of x is __________ (Nearest integer)",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 150.0,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 14,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-28",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "150",
+      "value": 150.0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "150"
+    }
+  }
+]

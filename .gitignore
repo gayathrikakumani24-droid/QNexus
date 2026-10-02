@@ -1,0 +1,35 @@
+# Environment files and secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Frontend / Node
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Media & Uploads
+uploads/
+*.pdf
+*.log
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Qdrant Local
+qdrant_local_storage/

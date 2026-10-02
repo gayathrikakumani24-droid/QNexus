@@ -1,0 +1,3565 @@
+[
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_01",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 1,
+    "content": "The distance of the line x−2 2 = y−63 = z−34 from the point (1, 4, 0) along the line x1 = y−22 = z+33 is :",
+    "options": [
+      {
+        "id": "A",
+        "content": "√17"
+      },
+      {
+        "id": "B",
+        "content": "√15"
+      },
+      {
+        "id": "C",
+        "content": "√14"
+      },
+      {
+        "id": "D",
+        "content": "√13"
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 1,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "3",
+      "correct_option": "C",
+      "option_index": 2
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "3"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_02",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 2,
+    "content": "Let A = {(x, y) ∈R × R : |x + y| ⩾3} and B = {(x, y) ∈R × R : |x| + |y| ≤3}. If\nC = {(x, y) ∈A ∩B : x = 0 or y = 0}, then ∑(x,y)∈C |x + y| is :",
+    "options": [
+      {
+        "id": "A",
+        "content": "15"
+      },
+      {
+        "id": "B",
+        "content": "24"
+      },
+      {
+        "id": "C",
+        "content": "18"
+      },
+      {
+        "id": "D",
+        "content": "12"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 1,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "4"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_03",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 3,
+    "content": "Let X = R × R. Define a relation R on X as : (a1, b1)R (a2, b2) ⇔b1 = b2 Statement I : R is an\nequivalence relation. Statement II : For some (a, b) ∈X , the set S = {(x, y) ∈X : (x, y)R(a, b)} represents a\nline parallel to y = x. In the light of the above statements, choose the correct answer from the options given\nbelow :",
+    "options": [
+      {
+        "id": "A",
+        "content": "Both Statement I and Statement II are false"
+      },
+      {
+        "id": "B",
+        "content": "Statement I is true but Statement II is false"
+      },
+      {
+        "id": "C",
+        "content": "Both Statement I and Statement II are true"
+      },
+      {
+        "id": "D",
+        "content": "Statement I is false but Statement II is true"
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 1,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_04",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 4,
+    "content": "Let ∫x3 sin x dx = g(x) + C , where C is the constant of integration. If\n8 (g ( π2 ) + g′ ( π2 )) = απ3 + βπ2 + γ, α, β, γ ∈Z , then α + β −γ equals :",
+    "options": [
+      {
+        "id": "A",
+        "content": "48"
+      },
+      {
+        "id": "B",
+        "content": "55"
+      },
+      {
+        "id": "C",
+        "content": "62"
+      },
+      {
+        "id": "D",
+        "content": "47"
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 1,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_05",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 5,
+    "content": "A rod of length eight units moves such that its ends A and B always lie on the lines x −y + 2 = 0 and\ny + 2 = 0, respectively. If the locus of the point P , that divides the rod AB internally in the ratio 2 : 1 is\n9 (x2 + αy2 + βxy + γx + 28y) −76 = 0, then α −β −γ is equal to :",
+    "options": [
+      {
+        "id": "A",
+        "content": "22"
+      },
+      {
+        "id": "B",
+        "content": "21"
+      },
+      {
+        "id": "C",
+        "content": "23"
+      },
+      {
+        "id": "D",
+        "content": "24"
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 1,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "3",
+      "correct_option": "C",
+      "option_index": 2
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "3"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_06",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 6,
+    "content": "If the square of the shortest distance between the lines x−2 1 = y−12 = z+3−3 and x+12 = y+34 = z+5−5 is mn , where\nm, n are coprime numbers, then m + n is equal to :",
+    "options": [
+      {
+        "id": "A",
+        "content": "21"
+      },
+      {
+        "id": "B",
+        "content": "9"
+      },
+      {
+        "id": "C",
+        "content": "14"
+      },
+      {
+        "id": "D",
+        "content": "6\n\nx"
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 1,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_07",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 7,
+    "content": "(2x2−3x+5)(3x−1) 2 limx→∞ is equal to : (3x2+5x+4)√(3x+2)x",
+    "options": [
+      {
+        "id": "A",
+        "content": "2"
+      },
+      {
+        "id": "B",
+        "content": "2e\n√3e √3"
+      },
+      {
+        "id": "C",
+        "content": "2"
+      },
+      {
+        "id": "D",
+        "content": "2e 3√e 3"
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 1,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "3",
+      "correct_option": "C",
+      "option_index": 2
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "3"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_08",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 8,
+    "content": "Let the point A divide the line segment joining the points P(−1, −1, 2) and Q(5, 5, 10) internally in the ratio\n−−−−→ → → →\nr : 1(r > 0). If O is the origin and (OQ ⋅OA) −15 |OP × OA|2 = 10, then the value of r is :",
+    "options": [
+      {
+        "id": "A",
+        "content": "√7"
+      },
+      {
+        "id": "B",
+        "content": "14"
+      },
+      {
+        "id": "C",
+        "content": "3"
+      },
+      {
+        "id": "D",
+        "content": "7\n\ny2"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 1,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "4"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_09",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 9,
+    "content": "The length of the chord of the ellipse x2 4 + 2 = 1, whose mid-point is (1, 12 ), is :",
+    "options": [
+      {
+        "id": "A",
+        "content": "5 3 √15"
+      },
+      {
+        "id": "B",
+        "content": "13 √15"
+      },
+      {
+        "id": "C",
+        "content": "2 3 √15"
+      },
+      {
+        "id": "D",
+        "content": "√15"
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 2,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "3",
+      "correct_option": "C",
+      "option_index": 2
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "3"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_10",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 10,
+    "content": "x + y + z = 6\nThe system of equations x + 2y + 5z = 9, has no solution if\nx + 5y + λz = μ,",
+    "options": [
+      {
+        "id": "A",
+        "content": "λ = 15, μ ≠17"
+      },
+      {
+        "id": "B",
+        "content": "λ ≠17, μ ≠18"
+      },
+      {
+        "id": "C",
+        "content": "λ = 17, μ ≠18"
+      },
+      {
+        "id": "D",
+        "content": "λ = 17, μ = 18"
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 2,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "3",
+      "correct_option": "C",
+      "option_index": 2
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "3"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_11",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 11,
+    "content": "Let the range of the function f(x) = 6 + 16 cos x ⋅cos ( π3 −x) ⋅cos ( π3 + x) ⋅sin 3x ⋅cos 6x, x ∈R be [α, β]\n. Then the distance of the point (α, β) from the line 3x + 4y + 12 = 0 is :",
+    "options": [
+      {
+        "id": "A",
+        "content": "11"
+      },
+      {
+        "id": "B",
+        "content": "8"
+      },
+      {
+        "id": "C",
+        "content": "10"
+      },
+      {
+        "id": "D",
+        "content": "9\n\nsin y > 0 and x(1) = π2 . Then"
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 2,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "1",
+      "correct_option": "A",
+      "option_index": 0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "1"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_12",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 12,
+    "content": "Let x = x(y) be the solution of the differential equation y = (x −y dxdy ) ( xy ),\ncos(x(2)) is equal to :",
+    "options": [
+      {
+        "id": "A",
+        "content": "1 −2(loge 2)2"
+      },
+      {
+        "id": "B",
+        "content": "1 −2 (loge 2)"
+      },
+      {
+        "id": "C",
+        "content": "2 (loge 2) −1"
+      },
+      {
+        "id": "D",
+        "content": "2(loge 2)2 −1"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 2,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "4"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_13",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 13,
+    "content": "A spherical chocolate ball has a layer of ice-cream of uniform thickness around it. When the thickness of the\nice-cream layer is 1 cm , the ice-cream melts at the rate of 81 cm3/min and the thickness of the ice-cream\nlayer decreases at the rate of 1 cm/min. The surface area (in cm2 ) of the chocolate ball (without the ice- 4π\ncream layer) is :",
+    "options": [
+      {
+        "id": "A",
+        "content": "196π"
+      },
+      {
+        "id": "B",
+        "content": "256π"
+      },
+      {
+        "id": "C",
+        "content": "225π"
+      },
+      {
+        "id": "D",
+        "content": "128π"
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 2,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_14",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 14,
+    "content": "The number of complex numbers z , satisfying |z| = 1 and z¯z + ¯zz = 1, is :",
+    "options": [
+      {
+        "id": "A",
+        "content": "4"
+      },
+      {
+        "id": "B",
+        "content": "8"
+      },
+      {
+        "id": "C",
+        "content": "10"
+      },
+      {
+        "id": "D",
+        "content": "6"
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 2,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_15",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 15,
+    "content": "⎡ 0 ⎤ ⎡ 0 ⎤ ⎡4⎤ ⎡0⎤ ⎡2 ⎤ ⎡1 ⎤\nLet A = [aij] be 3 × 3 matrix such that A 1 = 0 , A 1 = 1 and A 1 = 0 , then a23 equals :\n⎣ 0 ⎦ ⎣ 1 ⎦ ⎣3⎦ ⎣0⎦ ⎣2 ⎦ ⎣0 ⎦",
+    "options": [
+      {
+        "id": "A",
+        "content": "-1"
+      },
+      {
+        "id": "B",
+        "content": "2"
+      },
+      {
+        "id": "C",
+        "content": "1"
+      },
+      {
+        "id": "D",
+        "content": "0\n\n2 x sin 2 dx equals : 3 3"
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 2,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "1",
+      "correct_option": "A",
+      "option_index": 0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "1"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_16",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 16,
+    "content": "If I = ∫ 0π 3 dx, then ∫210 sin4x sinx+cos4x cos xx 2 2 x sin x+cos",
+    "options": [
+      {
+        "id": "A",
+        "content": "π2"
+      },
+      {
+        "id": "B",
+        "content": "π2 12 4"
+      },
+      {
+        "id": "C",
+        "content": "π2"
+      },
+      {
+        "id": "D",
+        "content": "π2 16 8 ∣∣ ⎢ ⎥ ⎢ ⎥ ⎢ ⎥ ⎢ ⎥ ⎢ ⎥ ⎢ ⎥"
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 2,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "3",
+      "correct_option": "C",
+      "option_index": 2
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "3"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_17",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 17,
+    "content": "A board has 16 squares as shown in the figure:\n\nOut of these 16 squares, two squares are chosen at random. The probability that they have no side in common\nis :",
+    "options": [
+      {
+        "id": "A",
+        "content": "7/10"
+      },
+      {
+        "id": "B",
+        "content": "4/5"
+      },
+      {
+        "id": "C",
+        "content": "23/30"
+      },
+      {
+        "id": "D",
+        "content": "3/5"
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 3,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_18",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 18,
+    "content": "Let the shortest distance from (a, 0), a > 0, to the parabola y2 = 4x be 4 . Then the equation of the circle\npassing through the point (a, 0) and the focus of the parabola, and having its centre on the axis of the parabola\nis :",
+    "options": [
+      {
+        "id": "A",
+        "content": "x2 + y2 −10x + 9 = 0"
+      },
+      {
+        "id": "B",
+        "content": "x2 + y2 −6x + 5 = 0"
+      },
+      {
+        "id": "C",
+        "content": "x2 + y2 −4x + 3 = 0"
+      },
+      {
+        "id": "D",
+        "content": "x2 + y2 −8x + 7 = 0"
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 3,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_19",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 19,
+    "content": "If in the expansion of (1 + x)p(1 −x)q , the coefficients of x and x2 are 1 and -2 , respectively, then p2 + q2 is\nequal to :",
+    "options": [
+      {
+        "id": "A",
+        "content": "18"
+      },
+      {
+        "id": "B",
+        "content": "13"
+      },
+      {
+        "id": "C",
+        "content": "8"
+      },
+      {
+        "id": "D",
+        "content": "20\n\na"
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 3,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_20",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 20,
+    "content": "If the area of the region {(x, y) : −1 ≤x ≤1, 0 ≤y ≤a + e|x| −e−x, a > 0} is e2+8e+1e , then the value of\nis :",
+    "options": [
+      {
+        "id": "A",
+        "content": "8"
+      },
+      {
+        "id": "B",
+        "content": "7"
+      },
+      {
+        "id": "C",
+        "content": "5"
+      },
+      {
+        "id": "D",
+        "content": "6"
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 3,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "3",
+      "correct_option": "C",
+      "option_index": 2
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "3"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_21",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 21,
+    "content": "The variance of the numbers 8, 21, 34, 47, … , 320 is",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 8788.0,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 3,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "8788",
+      "value": 8788.0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "8788"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_22",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 22,
+    "content": "The roots of the quadratic equation 3x2 −px + q = 0 are 10th and 11th terms of an arithmetic progression\nwith common difference 32 . If the sum of the first 11 terms of this arithmetic progression is 88 , then q −2p is\nequal to -.",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 474.0,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 3,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "474",
+      "value": 474.0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "474"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_23",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 23,
+    "content": "The number of ways, 5 boys and 4 girls can sit in a row so that either all the boys sit together or no two boys\nsit together, is -",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 17280.0,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 3,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "17280",
+      "value": 17280.0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "17280"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_24",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 24,
+    "content": "The focus of the parabola y2 = 4x + 16 is the centre of the circle C of radius 5 . If the values of λ, for which\nC passes through the point of intersection of the lines 3x −y = 0 and x + λy = 4, are λ1 and λ2, λ1 < λ2 ,\nthen 12λ1 + 29λ2 is equal to",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 15.0,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 3,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "15",
+      "value": 15.0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "15"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_25",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 25,
+    "content": "Let α, β be the roots of the equation x2 −ax −b = 0 with Im(α) < Im(β). Let Pn = αn −βn . If\nP3 = −5√7i, P4 = −3√7i, P5 = 11√7i and P6 = 45√7i , then α4 + β4 is equal to . ∣∣",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 31.0,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 3,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "31",
+      "value": 31.0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "31"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_26",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 26,
+    "content": "A galvanometer having a coil of resistance 30Ω need 20 mA of current for full-scale deflection. If a maximum\ncurrent of 3 A is to be measured using this galvanometer, the resistance of the shunt to be added to the\ngalvanometer should be 30 X Ω, where X is Options",
+    "options": [
+      {
+        "id": "A",
+        "content": "596"
+      },
+      {
+        "id": "B",
+        "content": "149"
+      },
+      {
+        "id": "C",
+        "content": "298"
+      },
+      {
+        "id": "D",
+        "content": "447"
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 4,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_27",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 27,
+    "content": "A ball having kinetic energy KE, is projected at an angle of 60∘ from the horizontal. What will be the kinetic\nenergy of ball at the highest point of its flight ?",
+    "options": [
+      {
+        "id": "A",
+        "content": "(KE)"
+      },
+      {
+        "id": "B",
+        "content": "(KE) 8 2"
+      },
+      {
+        "id": "C",
+        "content": "(KE)"
+      },
+      {
+        "id": "D",
+        "content": "(KE) 16 4"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 4,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "4"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_28",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 28,
+    "content": "Two charges 7μc and −4μc are placed at (−7 cm, 0, 0) and (7 cm, 0, 0) respectively. Given,\nϵ0 = 8.85 × 10−12C2 N−1 m−2 , the electrostatic potential energy of the charge configuration is :",
+    "options": [
+      {
+        "id": "A",
+        "content": "-1.8 J"
+      },
+      {
+        "id": "B",
+        "content": "-2.0 J"
+      },
+      {
+        "id": "C",
+        "content": "-1.5 J"
+      },
+      {
+        "id": "D",
+        "content": "-1.2 J"
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 4,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "1",
+      "correct_option": "A",
+      "option_index": 0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "1"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_29",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 29,
+    "content": "Two point charges −4μc and 4μc, constituting an electric dipole, are placed at (−9, 0, 0)cm and (9, 0, 0)cm in\na uniform electric field of strength 104NC−1 . The work done on the dipole in rotating it from the equilibrium\nthrough 180∘ is :",
+    "options": [
+      {
+        "id": "A",
+        "content": "18.4 mJ"
+      },
+      {
+        "id": "B",
+        "content": "14.4 mJ"
+      },
+      {
+        "id": "C",
+        "content": "12.4 mJ"
+      },
+      {
+        "id": "D",
+        "content": "16.4 mJ"
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 4,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_30",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 30,
+    "content": "A massless spring gets elongated by amount x1 under a tension of 5 N . Its elongation is x2 under the tension\nof 7 N . For the elongation of (5x1 −2x2), the tension in the spring will be,",
+    "options": [
+      {
+        "id": "A",
+        "content": "39 N"
+      },
+      {
+        "id": "B",
+        "content": "15 N"
+      },
+      {
+        "id": "C",
+        "content": "11 N"
+      },
+      {
+        "id": "D",
+        "content": "20 N"
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 4,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "3",
+      "correct_option": "C",
+      "option_index": 2
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "3"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_31",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 31,
+    "content": "Water of mass m gram is slowly heated to increase the temperature from T1 to Tz The change in entropy of the\nwater, given specific heat of water is 1Jkg−1 K−1 , is :",
+    "options": [
+      {
+        "id": "A",
+        "content": "m ln ( T2T1 )"
+      },
+      {
+        "id": "B",
+        "content": "zero"
+      },
+      {
+        "id": "C",
+        "content": "m ln ( T1T2 )"
+      },
+      {
+        "id": "D",
+        "content": "m (T2 −T1)"
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 4,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "1",
+      "correct_option": "A",
+      "option_index": 0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "1"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_32",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 32,
+    "content": "Water flows in a horizontal pipe whose one end is closed with a valve. The reading of the pressure gauge\nattached to the pipe is P1 . The reading of the pressure gauge falls to P2 when the valve is opened. The speed of\nwater flowing in the pipe is proportional to",
+    "options": [
+      {
+        "id": "A",
+        "content": "P1 −P2"
+      },
+      {
+        "id": "B",
+        "content": "(P1 −P2)4"
+      },
+      {
+        "id": "C",
+        "content": "(P1 −P2)2"
+      },
+      {
+        "id": "D",
+        "content": "√P1 −P2"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 4,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "4"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_33",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 33,
+    "content": "A concave mirror of focal length f in air is dipped in a liquid of refractive index μ. Its focal length in the liquid\nwill be:",
+    "options": [
+      {
+        "id": "A",
+        "content": "μf"
+      },
+      {
+        "id": "B",
+        "content": "f"
+      },
+      {
+        "id": "C",
+        "content": "f"
+      },
+      {
+        "id": "D",
+        "content": "f (μ−1) μ"
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 4,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_34",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 34,
+    "content": "What is the current through the battery in the circuit shown below\n(1)",
+    "options": [
+      {
+        "id": "A",
+        "content": "5 A"
+      },
+      {
+        "id": "B",
+        "content": "0.5 A"
+      },
+      {
+        "id": "C",
+        "content": "0.25 A"
+      },
+      {
+        "id": "D",
+        "content": "1.0 A"
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": true,
+    "image_urls": [
+      "/uploads/questions/JEE_MAIN_2025_01_23_SHIFT_2_Q_34.png"
+    ],
+    "page_number": 5,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_35",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 35,
+    "content": "5 The refractive index of the material of a glass prism is √3. The angle of minimum deviation is equal to the\nangle of the prism. What is the angle of the prism?",
+    "options": [
+      {
+        "id": "A",
+        "content": "60∘"
+      },
+      {
+        "id": "B",
+        "content": "58∘"
+      },
+      {
+        "id": "C",
+        "content": "48∘"
+      },
+      {
+        "id": "D",
+        "content": "50∘"
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 5,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "1",
+      "correct_option": "A",
+      "option_index": 0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "1"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_36",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 36,
+    "content": "The width of one of the two slits in Young's double slit experiment is d while that of the other slit is x d. If the\nratio of the maximum to the minimum intensity in the interference pattern on the screen is 9 : 4 then what is\nthe value of x ? (Assume that the field strength varies according to the slit width.)",
+    "options": [
+      {
+        "id": "A",
+        "content": "4"
+      },
+      {
+        "id": "B",
+        "content": "5"
+      },
+      {
+        "id": "C",
+        "content": "3"
+      },
+      {
+        "id": "D",
+        "content": "2"
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 5,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_37",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 37,
+    "content": "Using the given P −V diagram, the work done by an ideal gas along the path ABCD is :",
+    "options": [
+      {
+        "id": "A",
+        "content": "3P0 V0"
+      },
+      {
+        "id": "B",
+        "content": "−4P0 V0"
+      },
+      {
+        "id": "C",
+        "content": "−3P0 V0"
+      },
+      {
+        "id": "D",
+        "content": "4P0 V0"
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": true,
+    "image_urls": [
+      "/uploads/questions/JEE_MAIN_2025_01_23_SHIFT_2_Q_37.png"
+    ],
+    "page_number": 5,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "3",
+      "correct_option": "C",
+      "option_index": 2
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "3"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_38",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 38,
+    "content": "A plane electromagnetic wave of frequency 20 MHz travels in free space along the +x direction. At a\nparticular point in space and time, the electric field vector of the wave is Ey = 9.3Vm−1 . Then, the magnetic\nfield vector of the wave at that point is",
+    "options": [
+      {
+        "id": "A",
+        "content": "Bz = 6.2 × 10−8 T"
+      },
+      {
+        "id": "B",
+        "content": "Bz = 3.1 × 10−8 T"
+      },
+      {
+        "id": "C",
+        "content": "Bz = 1.55 × 10−8 T"
+      },
+      {
+        "id": "D",
+        "content": "Bz = 9.3 × 10−8 T"
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 5,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_39",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 39,
+    "content": "The equation of a transverse wave travelling along a string is y(x, t) = 4.0 sin [20 × 10−3x + 600t]mm ,\nwhere x is in mm and t is in second. The velocity of the wave is :",
+    "options": [
+      {
+        "id": "A",
+        "content": "−60 m/s"
+      },
+      {
+        "id": "B",
+        "content": "−30 m/s"
+      },
+      {
+        "id": "C",
+        "content": "+30 m/s"
+      },
+      {
+        "id": "D",
+        "content": "+60 m/s"
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 5,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_40",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 40,
+    "content": "Given below are two statements. One is labelled as Assertion (A) and the other is labelled as Reason (R).\nAssertion (A) : The binding energy per nucleon is found to be practically independent of the atomic number A,\nfor nuclei with mass numbers between 30 and 170. Reason (R): Nuclear force is long range. In the light of the\nabove statements, choose the correct answer from the options given below :",
+    "options": [
+      {
+        "id": "A",
+        "content": "(A) is true but (R) is false"
+      },
+      {
+        "id": "B",
+        "content": "(A) is false but (R) is true"
+      },
+      {
+        "id": "C",
+        "content": "Both (A) and (R) are true and (R) is the correct"
+      },
+      {
+        "id": "D",
+        "content": "Both (A) and (R) are true but (R) is NOT the\nexplanation of (A) correct explanation of (A)"
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 6,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "1",
+      "correct_option": "A",
+      "option_index": 0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "1"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_41",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 41,
+    "content": "If a satellite orbiting the Earth is 9 times closer to the Earth than the Moon, what is the time period of rotation\nof the satellite? Given rotational time period of Moon = 27 days and gravitational attraction between the\nsatellite and the moon is neglected.",
+    "options": [
+      {
+        "id": "A",
+        "content": "27 days"
+      },
+      {
+        "id": "B",
+        "content": "1 day"
+      },
+      {
+        "id": "C",
+        "content": "81 days"
+      },
+      {
+        "id": "D",
+        "content": "3 days"
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 6,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_42",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 42,
+    "content": "A circular disk of radius R meter and mass M kg is rotating around the axis perpendicular to the disk. An\nexternal torque is applied to the disk such that θ(t) = 5t2 −8t, where θ(t) is the angular position of the\nrotating disc as a function of time t. How much power is delivered by the applied torque, when t = 2 s ?",
+    "options": [
+      {
+        "id": "A",
+        "content": "72MR2"
+      },
+      {
+        "id": "B",
+        "content": "8MR2"
+      },
+      {
+        "id": "C",
+        "content": "108MR2"
+      },
+      {
+        "id": "D",
+        "content": "60MR2"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 6,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "4"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_43",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 43,
+    "content": "The energy of a system is given as E(t) = α3e−βt , where t is the time and β = 0.3 s−1 . The errors in the\nmeasurement of α and t are 1.2% and 1.6% , respectively. At t = 5 s, maximum percentage error in the energy\nis :",
+    "options": [
+      {
+        "id": "A",
+        "content": "6%"
+      },
+      {
+        "id": "B",
+        "content": "8.4%"
+      },
+      {
+        "id": "C",
+        "content": "11.6%"
+      },
+      {
+        "id": "D",
+        "content": "4%"
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 6,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "1",
+      "correct_option": "A",
+      "option_index": 0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "1"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_44",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 44,
+    "content": "Match List - I with List - II.\n\nList - I List - II\n(A) Permeability of free space (I) [M L2 T−2]\n(B) Magnetic field (II) [M T−2 A−1]\n(C) Magnetic moment (III) [M L T−2 A−2]\n(D) Torsional constant (IV) [L2 A]\n\nChoose the correct answer from the options given below :",
+    "options": [
+      {
+        "id": "A",
+        "content": "(A)-(IV), (B)-(III), (C)-(I), (D)-(II)"
+      },
+      {
+        "id": "B",
+        "content": "(A)-(III), (B)-(II), (C)-(IV), (D)-(I)"
+      },
+      {
+        "id": "C",
+        "content": "(A)-(I), (B)-(IV), (C)-(II), (D)-(III)"
+      },
+      {
+        "id": "D",
+        "content": "(A)-(II), (B)-(I), (C)-(III), (D)-(IV)"
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 6,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_45",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 45,
+    "content": "In photoelectric effect an em-wave is incident on a metal surface and electrons are ejected from the surface. If\nthe work function of the metal is 2.14 eV and stopping potential is 2 V , what is the wavelength of the em-\nwave ? (Given hc = 1242eVnm where h is the Planck's constant and c is the speed of light in vaccum.)",
+    "options": [
+      {
+        "id": "A",
+        "content": "300 nm"
+      },
+      {
+        "id": "B",
+        "content": "400 nm"
+      },
+      {
+        "id": "C",
+        "content": "600 nm"
+      },
+      {
+        "id": "D",
+        "content": "200 nm"
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 6,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "1",
+      "correct_option": "A",
+      "option_index": 0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "1"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_46",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 46,
+    "content": "A time varying potential difference is applied between the plates of a parallel plate capacitor of capacitance\n2.5μ F. The dielectric constant of the medium between the capacitor plates is 1 . It produces an instantaneous\ndisplacement current of 0.25 mA in the intervening space between the capacitor plates, the magnitude of the\nrate of change of the potential difference will be _____ Vs−1 .",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 100.0,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 7,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "100",
+      "value": 100.0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "100"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_47",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 47,
+    "content": "In a series LCR circuit, a resistor of 300Ω, a capacitor of 25 nF and an inductor of 100 mH are used. For\nmaximum current in the circuit, the angular frequency of the ac source is _____ ×104 radians s−1 .",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 2.0,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 7,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "2",
+      "value": 2.0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_48",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 48,
+    "content": "An air bubble of radius 1.0 mm is observed at a depth of 20 cm below the free surface of a liquid having\nsurface tension 0.095 J/m2 and density 103 kg/m3 . The difference between pressure inside the bubble and\natmospheric pressure is _____ N/m2 . (Take g = 10 m/s2 )",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 2190.0,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 7,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "2190",
+      "value": 2190.0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2190"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_49",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 49,
+    "content": "A satellite of mass M is revolving around earth in a circular orbit at a height of R from earth surface. The 2 3\nangular momentum of the satellite is . The value of x is ______ , where M and R are the mass and M√GMRx\nradius of earth, respectively. ( G is the gravitational constant)",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 3.0,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 7,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "3",
+      "value": 3.0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "3"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_50",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 50,
+    "content": "At steady state the charge on the capacitor, as shown in the circuit below, is μC.",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 16.0,
+    "official_solution": null,
+    "subject": "Physics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 7,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "16",
+      "value": 16.0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "16"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_51",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 51,
+    "content": "Identify the products [A] and [B], respectively in the following reaction :",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": "−−"
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 7,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_52",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 52,
+    "content": "Consider the following reactions K2Cr2O7 KOH→ [A] H2SO4→ [ B] + K2SO4 The products [A] and [B],\n−H2O −H2O\nrespectively are :",
+    "options": [
+      {
+        "id": "A",
+        "content": "K2CrO4 and CrO"
+      },
+      {
+        "id": "B",
+        "content": "K2CrO4 and Cr2O3"
+      },
+      {
+        "id": "C",
+        "content": "K2CrO4 and K2Cr2O7"
+      },
+      {
+        "id": "D",
+        "content": "K2Cr(OH)6 and Cr2O3"
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 8,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "3",
+      "correct_option": "C",
+      "option_index": 2
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "3"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_53",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 53,
+    "content": "The effect of temperature on spontaneity of reactions are represented as :",
+    "options": [
+      {
+        "id": "A",
+        "content": "(B) and (C) only"
+      },
+      {
+        "id": "B",
+        "content": "(B) and (D) only"
+      },
+      {
+        "id": "C",
+        "content": "(A) and (D) only"
+      },
+      {
+        "id": "D",
+        "content": "(A) and (C) only"
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 8,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "1",
+      "correct_option": "A",
+      "option_index": 0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "1"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_54",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 54,
+    "content": "Which of the following graphs most appropriately represents a zero order reaction ?",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": ""
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": ""
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 8,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "1",
+      "correct_option": "A",
+      "option_index": 0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "1"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_55",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 55,
+    "content": "Consider the reaction X2Y( g) = X2( g) + 12 Y2( g) The equation representing correct relationship between\nthe degree of dissociation (x) of X2Y(g) with its equilibrium constant Kp is ______ . Assume x to be very\nvery small.",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": "x = 3√2Kpp x = 3√2Kp2p"
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": "x = 3√Kpp x = 3√Kp2p"
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 9,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_56",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 56,
+    "content": "Given below are two statements : Consider the following reaction",
+    "options": [
+      {
+        "id": "A",
+        "content": "Both Statement I and Statement II are false"
+      },
+      {
+        "id": "B",
+        "content": "Statement I is true but Statement II is false"
+      },
+      {
+        "id": "C",
+        "content": "Statement I is false but Statement II is true"
+      },
+      {
+        "id": "D",
+        "content": "Both Statement I and Statement II are true"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 10,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "4"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_57",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 57,
+    "content": "Given below are two statements : Statement (I) : For a given shell, the total number of allowed orbitals is\ngiven by n2 . Statement (II) : For any subshell, the spatial orientation of the orbitals is given by −l to +l values\nincluding zero. In the light of the above statements, choose the correct answer from the options given below :",
+    "options": [
+      {
+        "id": "A",
+        "content": "Both Statement I and Statement II are false"
+      },
+      {
+        "id": "B",
+        "content": "Statement I is true but Statement II is false"
+      },
+      {
+        "id": "C",
+        "content": "Both Statement I and Statement II are true"
+      },
+      {
+        "id": "D",
+        "content": "Statement I is false but Statement II is true"
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 10,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "3",
+      "correct_option": "C",
+      "option_index": 2
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "3"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_58",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 58,
+    "content": "Standard electrode potentials for a few half cells are mentioned below :\nE∘ = 0.34 V, E∘ = −0.76 V Cu2+/Cu Zn2+/Zn\nWhich one of the following cells gives the most negative value of\nE∘Ag+/Ag = 0.80 V, E∘Mg2+/Mg = −2.37 V\nΔG∘ ?",
+    "options": [
+      {
+        "id": "A",
+        "content": "Zn Zn2+(1M) Ag+(1M) Ag"
+      },
+      {
+        "id": "B",
+        "content": "Zn Zn2+(1M) Mg2+(1M) Mg"
+      },
+      {
+        "id": "C",
+        "content": "Ag Ag+(1M) Mg2+(1M) Mg"
+      },
+      {
+        "id": "D",
+        "content": "Cu Cu2+(1M)∥Ag+(1M) Ag"
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 10,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "1",
+      "correct_option": "A",
+      "option_index": 0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "1"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_59",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 59,
+    "content": "The α-Helix and β - Pleated sheet structures of protein are associated with its :",
+    "options": [
+      {
+        "id": "A",
+        "content": "tertiary structure"
+      },
+      {
+        "id": "B",
+        "content": "quaternary structure"
+      },
+      {
+        "id": "C",
+        "content": "secondary structure"
+      },
+      {
+        "id": "D",
+        "content": "primary structure ∣∣∣ ∣∣∣ ∣∣∣ ∣∣"
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 10,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "3",
+      "correct_option": "C",
+      "option_index": 2
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "3"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_60",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 60,
+    "content": "Given below are the atomic numbers of some group 14 elements. The atomic number of the element with\nlowest melting point is :",
+    "options": [
+      {
+        "id": "A",
+        "content": "6"
+      },
+      {
+        "id": "B",
+        "content": "82"
+      },
+      {
+        "id": "C",
+        "content": "14"
+      },
+      {
+        "id": "D",
+        "content": "50"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 11,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "4"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_61",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 61,
+    "content": "Given below are two statements about X-ray spectra of elements : Statement (I) : A plot of √v ( v = frequency\nof X -rays emitted) vs atomic mass is a straight line. Statement (II) : A plot of v(v = frequency of X -rays\nemitted) vs atomic number is a straight line. In the light of the above statements, choose the correct answer\nfrom the options given below :",
+    "options": [
+      {
+        "id": "A",
+        "content": "Both Statement I and Statement II are true"
+      },
+      {
+        "id": "B",
+        "content": "Statement I is false but Statement II is true"
+      },
+      {
+        "id": "C",
+        "content": "Both Statement I and Statement II are false"
+      },
+      {
+        "id": "D",
+        "content": "Statement I is true but Statement II is false"
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 11,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "3",
+      "correct_option": "C",
+      "option_index": 2
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "3"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_62",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 62,
+    "content": "HNO3 H2SO4 (1) Ammoniumacetate\n−−−Identify A, B and C in the given below reaction sequence A → Pb(NO3)2 → B →\n(2) Acetic acid\n(3) K2CrO4",
+    "options": [
+      {
+        "id": "A",
+        "content": "PbCl2, PbSO4, PbCrO4"
+      },
+      {
+        "id": "B",
+        "content": "PbS, PbSO4, Pb(CH3COO)2"
+      },
+      {
+        "id": "C",
+        "content": "PbCl2, Pb(SO4)2, PbCrO4"
+      },
+      {
+        "id": "D",
+        "content": "PbS, PbSO4, PbCrO4"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": true,
+    "image_urls": [
+      "/uploads/questions/JEE_MAIN_2025_01_23_SHIFT_2_Q_62.png"
+    ],
+    "page_number": 11,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "4"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_63",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 63,
+    "content": "Given below are two statements : Statement (I) : The boiling points of alcohols and phenols increase with\nincrease in the number of C-atoms. Statement (II) : The boiling points of alcohols and phenols are higher in\ncomparison to other class of compounds such as ethers, haloalkanes. In the light of the above statements,\nchoose the correct answer from the options given below :",
+    "options": [
+      {
+        "id": "A",
+        "content": "Both Statement I and Statement II are false"
+      },
+      {
+        "id": "B",
+        "content": "Both Statement I and Statement II are true"
+      },
+      {
+        "id": "C",
+        "content": "Statement I is false but Statement II is true"
+      },
+      {
+        "id": "D",
+        "content": "Statement I is true but Statement II is false"
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 11,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_64",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 64,
+    "content": "Consider a binary solution of two volatile liquid components 1 and 2. x1 and y1 are the mole fractions of\ncomponent 1 in liquid and vapour phase, respectively. The slope and intercept of the linear plot of 1 vs 1 x1 y1\nare given respectively as:\nP02−P01",
+    "options": [
+      {
+        "id": "A",
+        "content": "P0 P02−P01"
+      },
+      {
+        "id": "B",
+        "content": "P0 2 , 1 ,\nP01 P02 P02 P02\nP01−P02"
+      },
+      {
+        "id": "C",
+        "content": "P0 P01−P02"
+      },
+      {
+        "id": "D",
+        "content": "P0 1 , 2 ,\nP02 P02 P01 P02"
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 11,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_65",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 65,
+    "content": "The ascending order of relative rate of solvolysis of following compounds is :",
+    "options": [
+      {
+        "id": "A",
+        "content": "(C) < (B) < (A) < (D)"
+      },
+      {
+        "id": "B",
+        "content": "(D) < (A) < (B) < (C)"
+      },
+      {
+        "id": "C",
+        "content": "(D) < (B) < (A) < (C)"
+      },
+      {
+        "id": "D",
+        "content": "(C) < (D) < (B) < (A)"
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 11,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_66",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 66,
+    "content": "Match List - I with List - II.\n\nList −I List −II\n(A) Bronze (I) Cu, Ni\n(B) Brass (II) Fe, Cr, Ni, C\n(C) UKsilvercoin (III) Cu, Zn\n(D) Stainlesssteel (IV ) Cu, Sn\n\nChoose the correct answer from the options given below :",
+    "options": [
+      {
+        "id": "A",
+        "content": "(A)-(IV), (B)-(II), (C)-(III), (D)-(I)"
+      },
+      {
+        "id": "B",
+        "content": "(A)-(IV), (B)-(III), (C)-(I), (D)-(II)"
+      },
+      {
+        "id": "C",
+        "content": "(A)-(III), (B)-(IV), (C)-(II), (D)-(I)"
+      },
+      {
+        "id": "D",
+        "content": "(A)-(III), (B)-(I), (C)-(IV), (D)-(II)"
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 12,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_67",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 67,
+    "content": "Choose the correct answer from the options given below :",
+    "options": [
+      {
+        "id": "A",
+        "content": "(A)-(I), (B)-(IV), (C)-(III), (D)-(II)"
+      },
+      {
+        "id": "B",
+        "content": "(A)-(III), (B)-(II), (C)-(I), (D)-(IV)"
+      },
+      {
+        "id": "C",
+        "content": "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)"
+      },
+      {
+        "id": "D",
+        "content": "(A)-(II), (B)-(III), (C)-(I), (D)-(IV)"
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": true,
+    "image_urls": [
+      "/uploads/questions/JEE_MAIN_2025_01_23_SHIFT_2_Q_67.png"
+    ],
+    "page_number": 12,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "3",
+      "correct_option": "C",
+      "option_index": 2
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "3"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_68",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 68,
+    "content": "pH of water is 7 at 25∘C. If water is heated to 80∘C., it's pH will :",
+    "options": [
+      {
+        "id": "A",
+        "content": "Decrease"
+      },
+      {
+        "id": "B",
+        "content": "H+ concentration increases, OH− concentration\ndecreases"
+      },
+      {
+        "id": "C",
+        "content": "Remains the same"
+      },
+      {
+        "id": "D",
+        "content": "Increase"
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 12,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "1",
+      "correct_option": "A",
+      "option_index": 0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "1"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_69",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 69,
+    "content": "Identify the coordination complexes in which the central metal ion has d4 configuration.\n\nChoose the correct answer from the options given below :",
+    "options": [
+      {
+        "id": "A",
+        "content": "(B), (C) and (D) only"
+      },
+      {
+        "id": "B",
+        "content": "(C) and (E) only"
+      },
+      {
+        "id": "C",
+        "content": "(B) and (D) only"
+      },
+      {
+        "id": "D",
+        "content": "(A), (B) and (E) only"
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 13,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "3",
+      "correct_option": "C",
+      "option_index": 2
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "3"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_70",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 70,
+    "content": "When a non-volatile solute is added to the solvent, the vapour pressure of the solvent decreases by 10 mm of\nHg . The mole fraction of the solute in the solution is 0.2 . What would be the mole fraction of the solvent if\ndecrease in vapour pressure is 20 mm of Hg ?",
+    "options": [
+      {
+        "id": "A",
+        "content": "0.8"
+      },
+      {
+        "id": "B",
+        "content": "0.4"
+      },
+      {
+        "id": "C",
+        "content": "0.2"
+      },
+      {
+        "id": "D",
+        "content": "0.6"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 13,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "4"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_71",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 71,
+    "content": "0.01 mole of an organic compound (X) containing 10% hydrogen, on complete combustion produced\n0.9 gH2O. Molar mass of (X) is _____ gmol−1 .",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 100.0,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 13,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "100",
+      "value": 100.0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "100"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_72",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 72,
+    "content": "A compound ' X′ absorbs 2 moles of hydrogen and ' X′ upon oxidation with KMnO4 ∣H+ gives\n\nThe total number of σ bonds present in the compound ' X′ is______",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 27.0,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 13,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "27",
+      "value": 27.0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "27"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_73",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 73,
+    "content": "When 81.0 g of aluminium is allowed to react with 128.0 g of oxygen gas, the mass of aluminium oxide\nproduced in grams is_______ - (Nearest integer) Given : Molar mass of Al is 27.0 g mol−1 Molar mass of O is\n16.0 g mol−1",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 153.0,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 13,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "153",
+      "value": 153.0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "153"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_74",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 74,
+    "content": "The bond dissociation enthalpy of X2ΔHbond calculated from the given data is kJmol−1 . (Nearest\nM+X−(s) →M+(g) + X−(g)ΔH∗lattice = 800 kJ mol−1 integer)\nM( s) →M( g)ΔH∘sub = 100 kJ mol−1\nM( g) →M+(g) + e−(g)ΔHi = 500 kJ mol−1 X( g) + e−(g) →X−(g)ΔH∗eg = −300 kJ mol−1\nM( s) + 12 X2( g) →M+X−(s)ΔH∘f = −400 kJ mol−1 [Given : M+X− is a pure ionic compound and X forms\na diatomic molecule X2 in gaseous state]",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 200.0,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 13,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "200",
+      "value": 200.0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "200"
+    }
+  },
+  {
+    "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_75",
+    "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
+    "question_number": 75,
+    "content": "Consider the following sequence of reactions.\n\nTotal number of sp3 hybridised carbon atoms in the major product C formed is________",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 4.0,
+    "official_solution": null,
+    "subject": "Chemistry",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 14,
+    "year": 2025,
+    "session": "January",
+    "date": "2025-01-23",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "4",
+      "value": 4.0
+    },
+    "metadata": {
+      "source_format": "2025_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "4"
+    }
+  }
+]
