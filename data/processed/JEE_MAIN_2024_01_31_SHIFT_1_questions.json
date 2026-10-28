@@ -1,0 +1,1412 @@
+[
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_1_Q_61",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_1",
+    "question_number": 61,
+    "content": "Let 𝑆 be the set of positive integral values of 𝑎 for which 𝑎𝑥2 + 2𝑎+ 1𝑥+ 9𝑎+ 4 < 0, ∀𝑥∈ℝ. Then, the number\n𝑥2 - 8𝑥+ 32\nof elements in 𝑆 is:",
+    "options": [
+      {
+        "id": "A",
+        "content": "1"
+      },
+      {
+        "id": "B",
+        "content": "0"
+      },
+      {
+        "id": "C",
+        "content": "∞"
+      },
+      {
+        "id": "D",
+        "content": "3"
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 9,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 13,
+      "raw_answer": "2"
+    },
+    "raw_content": "Let 𝑆 be the set of positive integral values of 𝑎 for which 𝑎𝑥2 + 2𝑎+ 1𝑥+ 9𝑎+ 4 < 0, ∀𝑥∈ℝ. Then, the number\n                                                                            𝑥2 - 8𝑥+ 32\n     of elements in 𝑆 is:\n      (1) 1                                                  (2) 0\n      (3) ∞                                                 (4) 3\n\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_1_Q_62",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_1",
+    "question_number": 62,
+    "content": "For 0 < 𝑐< 𝑏< 𝑎, let ( 𝑎+ 𝑏– 2𝑐) 𝑥2 + ( 𝑏+ 𝑐– 2𝑎) 𝑥+ ( 𝑐+ 𝑎– 2𝑏) = 0 and 𝛼≠1 be one of its root.\nThen, among the two statements\n(I) If 𝛼∈-1, 0, then 𝑏 cannot be the geometric mean of 𝑎 and 𝑐.\n(II) If 𝛼∈0, 1, then 𝑏 may be the geometric mean of 𝑎 and 𝑐.",
+    "options": [
+      {
+        "id": "A",
+        "content": "Both (I) and (II) are true"
+      },
+      {
+        "id": "B",
+        "content": "Neither (I) nor (II) is true"
+      },
+      {
+        "id": "C",
+        "content": "Only (II) is true"
+      },
+      {
+        "id": "D",
+        "content": "Only (I) is true\n\n1 2 3"
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 9,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "1",
+      "correct_option": "A",
+      "option_index": 0
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 13,
+      "raw_answer": "1"
+    },
+    "raw_content": "For 0 < 𝑐< 𝑏< 𝑎, let ( 𝑎+ 𝑏– 2𝑐) 𝑥2 + ( 𝑏+ 𝑐– 2𝑎) 𝑥+ ( 𝑐+ 𝑎– 2𝑏) = 0 and 𝛼≠1 be one of its root.\n     Then, among the two statements\n       (I) If 𝛼∈-1,  0, then 𝑏 cannot be the geometric mean of 𝑎 and 𝑐.\n      (II) If 𝛼∈0,  1, then 𝑏 may be the geometric mean of 𝑎 and 𝑐.\n      (1) Both (I) and (II) are true                           (2) Neither (I) nor (II) is true\n      (3) Only (II) is true                                   (4) Only (I) is true\n\n                                 1              2              3\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_1_Q_63",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_1",
+    "question_number": 63,
+    "content": "The sum of the series + + + . ... up to 10 terms is\n1 −3 ⋅12 + 14 1 −3 ⋅22 + 24 1 −3 ⋅32 + 34",
+    "options": [
+      {
+        "id": "A",
+        "content": "45"
+      },
+      {
+        "id": "B",
+        "content": "- 45\n109 109\n55 55"
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": "-\n109 109"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 9,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 13,
+      "raw_answer": "4"
+    },
+    "raw_content": "The sum of the series       +       +       +  .  ... up to 10 terms is\n                            1 −3 ⋅12 + 14   1 −3 ⋅22 + 24   1 −3 ⋅32 + 34\n      (1) 45                                                 (2) - 45\n         109                                                    109\n          55                                                     55\n      (3)                                                    (4) -\n         109                                                    109\n\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_1_Q_64",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_1",
+    "question_number": 64,
+    "content": "Let 𝛼, 𝛽, 𝛾, 𝛿∈𝑍 and let 𝐴𝛼, 𝛽, 𝐵1, 0, 𝐶𝛾, 𝛿 and 𝐷1, 2 be the vertices of a parallelogram 𝐴𝐵𝐶𝐷.\nIf 𝐴𝐵= √10 and the points 𝐴 and 𝐶 lie on the line 3𝑦= 2𝑥+ 1, then 2𝛼+ 𝛽+ 𝛾+ 𝛿 is equal to",
+    "options": [
+      {
+        "id": "A",
+        "content": "10"
+      },
+      {
+        "id": "B",
+        "content": "5"
+      },
+      {
+        "id": "C",
+        "content": "12"
+      },
+      {
+        "id": "D",
+        "content": "8"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 9,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 13,
+      "raw_answer": "4"
+    },
+    "raw_content": "Let 𝛼,  𝛽,   𝛾, 𝛿∈𝑍 and let 𝐴𝛼,  𝛽,  𝐵1,   0,  𝐶𝛾,  𝛿 and 𝐷1,  2 be the vertices of a parallelogram 𝐴𝐵𝐶𝐷.\n       If 𝐴𝐵= √10 and the points 𝐴 and 𝐶 lie on the line 3𝑦= 2𝑥+ 1, then 2𝛼+ 𝛽+ 𝛾+ 𝛿 is equal to\n      (1) 10                                                 (2) 5\n      (3) 12                                                 (4) 8\n\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_1_Q_65",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_1",
+    "question_number": 65,
+    "content": "If one of the diameters of the circle 𝑥2 + 𝑦2 - 10𝑥+ 4𝑦+ 13 = 0 is a chord of another circle 𝐶, whose center\nis the point of intersection of the lines 2𝑥+ 3𝑦= 12 and 3𝑥- 2𝑦= 5, then the radius of the circle 𝐶 is",
+    "options": [
+      {
+        "id": "A",
+        "content": "√20"
+      },
+      {
+        "id": "B",
+        "content": "4"
+      },
+      {
+        "id": "C",
+        "content": "6"
+      },
+      {
+        "id": "D",
+        "content": "3√2"
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 9,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "3",
+      "correct_option": "C",
+      "option_index": 2
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 13,
+      "raw_answer": "3"
+    },
+    "raw_content": "If one of the diameters of the circle 𝑥2 + 𝑦2 - 10𝑥+ 4𝑦+ 13 = 0 is a chord of another circle 𝐶, whose center\n       is the point of intersection of the lines 2𝑥+ 3𝑦= 12 and 3𝑥- 2𝑦= 5, then the radius of the circle 𝐶 is\n      (1) √20                                               (2) 4\n      (3) 6                                                  (4) 3√2\n\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_1_Q_66",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_1",
+    "question_number": 66,
+    "content": "If the foci of a hyperbola are same as that of the ellipse 𝑥2 + 𝑦2 = 1 and the eccentricity of the hyperbola is 15\n9 25 8\n14 2\ntimes the eccentricity of the ellipse, then the smaller focal distance of the point √2, 3 √ 5 on the hyperbola,\n\nis equal to\n2 8 2 4",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": "- - 7√ 14√ 5 3 5 3\n\n2 16 2 8"
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": "- + 14√ 7√ 5 3 5 3"
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 9,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "1",
+      "correct_option": "A",
+      "option_index": 0
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 13,
+      "raw_answer": "1"
+    },
+    "raw_content": "If the foci of a hyperbola are same as that of the ellipse 𝑥2 + 𝑦2 = 1 and the eccentricity of the hyperbola is 15\n                                                              9    25                                              8\n                                                                                            14  2\n      times the eccentricity of the ellipse, then the smaller focal distance of the point √2,   3 √ 5 on the hyperbola,\n\n\n\n\n Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN\nJEE Main 2024 (31 Jan Shift 1)                              JEE Main Previous Year Paper\n\nQuestion Paper                                                                         MathonGo\n\n\n       is equal to\n            2                8                                                                    2                                                                       4      (1)                                                             (2)                 -                                                                                     -      7√                                         14√            5                3                                                                    5                                                                       3\n\n              2                 16                                                                  2                                                                       8      (3)                                                             (4)                   -                                     +      14√                                       7√              5                  3                                                                  5                                                                       3\n\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_1_Q_67",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_1",
+    "question_number": 67,
+    "content": "lim 𝑒2sin𝑥- 2sin𝑥- 1\n𝑥→0 𝑥2",
+    "options": [
+      {
+        "id": "A",
+        "content": "is equal to -1"
+      },
+      {
+        "id": "B",
+        "content": "does not exist"
+      },
+      {
+        "id": "C",
+        "content": "is equal to 1"
+      },
+      {
+        "id": "D",
+        "content": "is equal to 2"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 10,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 13,
+      "raw_answer": "4"
+    },
+    "raw_content": " lim 𝑒2sin𝑥- 2sin𝑥- 1\n    𝑥→0      𝑥2\n      (1) is equal to -1                                      (2) does not exist\n      (3) is equal to 1                                       (4) is equal to 2\n\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_1_Q_68",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_1",
+    "question_number": 68,
+    "content": "Let 𝑎 be the sum of all coefficients in the expansion of ( 1 – 2𝑥+ 2𝑥2 ) 2023 ( 3 - 4𝑥2 + 2𝑥3 ) 2024 and\n𝑥log1 + 𝑡\n∫0 𝑑𝑡\n𝑏= lim 𝑡2024 + 1 . If the equations 𝑐𝑥2 + 𝑑𝑥+ 𝑒= 0 and 2𝑏𝑥2 + 𝑎𝑥+ 4 = 0 have a common root, where\n𝑥→0 𝑥2\n𝑐, 𝑑, 𝑒∈𝑅, then 𝑑 : 𝑐 : 𝑒 equals",
+    "options": [
+      {
+        "id": "A",
+        "content": "2 : 1 : 4"
+      },
+      {
+        "id": "B",
+        "content": "4 : 1 : 4"
+      },
+      {
+        "id": "C",
+        "content": "1 : 2 : 4"
+      },
+      {
+        "id": "D",
+        "content": "1 : 1 : 4"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 10,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 13,
+      "raw_answer": "4"
+    },
+    "raw_content": "Let 𝑎 be the sum of all coefficients in the expansion of ( 1 – 2𝑥+ 2𝑥2 ) 2023  ( 3 - 4𝑥2 + 2𝑥3  ) 2024 and\n               𝑥log1 + 𝑡\n                ∫0         𝑑𝑡\n   𝑏= lim                      𝑡2024 + 1   . If the equations 𝑐𝑥2 + 𝑑𝑥+ 𝑒= 0 and 2𝑏𝑥2 + 𝑎𝑥+ 4 = 0 have a common root, where\n       𝑥→0      𝑥2\n       𝑐,  𝑑, 𝑒∈𝑅, then 𝑑   :  𝑐   :  𝑒 equals\n      (1) 2   :  1   :  4                                     (2) 4   :  1   :  4\n      (3) 1   :  2   :  4                                     (4) 1   :  1   :  4\n\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_1_Q_69",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_1",
+    "question_number": 69,
+    "content": "𝑥3 2𝑥2 + 1 1 + 3𝑥\nIf 𝑓𝑥= 3𝑥2 + 2 2𝑥 𝑥3 + 6 for all 𝑥∈ℝ, then 2𝑓0 + 𝑓'0 is equal to\n𝑥3 −𝑥 4 𝑥2 −2",
+    "options": [
+      {
+        "id": "A",
+        "content": "48"
+      },
+      {
+        "id": "B",
+        "content": "24"
+      },
+      {
+        "id": "C",
+        "content": "42"
+      },
+      {
+        "id": "D",
+        "content": "18"
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 10,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "3",
+      "correct_option": "C",
+      "option_index": 2
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 13,
+      "raw_answer": "3"
+    },
+    "raw_content": "           𝑥3    2𝑥2 + 1 1 + 3𝑥\n       If 𝑓𝑥= 3𝑥2 + 2   2𝑥    𝑥3 + 6  for all 𝑥∈ℝ, then 2𝑓0 + 𝑓'0 is equal to\n             𝑥3 −𝑥    4     𝑥2 −2\n      (1) 48                                                 (2) 24\n      (3) 42                                                 (4) 18\n\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_1_Q_70",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_1",
+    "question_number": 70,
+    "content": "If the system of linear equations\n\n𝑥- 2𝑦+ 𝑧= - 4\n\n2𝑥+ 𝛼𝑦+ 3𝑧= 5\n\n3𝑥- 𝑦+ 𝛽𝑧= 3\nhas infinitely many solutions, then 12𝛼+ 13𝛽 is equal to",
+    "options": [
+      {
+        "id": "A",
+        "content": "60"
+      },
+      {
+        "id": "B",
+        "content": "64"
+      },
+      {
+        "id": "C",
+        "content": "54"
+      },
+      {
+        "id": "D",
+        "content": "58"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 10,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 13,
+      "raw_answer": "4"
+    },
+    "raw_content": "If the system of linear equations\n\n    𝑥- 2𝑦+ 𝑧=  - 4\n\n   2𝑥+ 𝛼𝑦+ 3𝑧= 5\n\n    3𝑥- 𝑦+ 𝛽𝑧= 3\n     has infinitely many solutions, then 12𝛼+ 13𝛽 is equal to\n      (1) 60                                                 (2) 64\n      (3) 54                                                 (4) 58\n\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_1_Q_71",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_1",
+    "question_number": 71,
+    "content": "For 𝛼, 𝛽, 𝛾≠0. If sin−1𝛼+ sin−1𝛽+ sin−1𝛾= 𝜋 and 𝛼+ 𝛽+ 𝛾𝛼−𝛾+ 𝛽= 3𝛼𝛽, then 𝛾 equal to\n√3 1",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": "2 √2"
+      },
+      {
+        "id": "C",
+        "content": "√3 - 1"
+      },
+      {
+        "id": "D",
+        "content": "√3/2√2"
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 10,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "1",
+      "correct_option": "A",
+      "option_index": 0
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 13,
+      "raw_answer": "1"
+    },
+    "raw_content": "For 𝛼, 𝛽, 𝛾≠0. If sin−1𝛼+ sin−1𝛽+ sin−1𝛾= 𝜋 and 𝛼+ 𝛽+ 𝛾𝛼−𝛾+ 𝛽= 3𝛼𝛽, then 𝛾 equal to\n        √3                                                    1      (1)                                                    (2)\n          2                                                √2\n      (3) √3 - 1                                               (4) √3\n         2√2\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_1_Q_72",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_1",
+    "question_number": 72,
+    "content": "If 𝑓𝑥= 4𝑥+ 3 , 𝑥≠2 and ( 𝑓𝑜𝑓) ( 𝑥) = 𝑔( 𝑥) , where 𝑔: 𝑅- 2 →𝑅- 2 then ( 𝑔𝑜𝑔𝑜𝑔) ( 4 ) is equal to 6𝑥- 4 3 3 3,\n19 19",
+    "options": [
+      {
+        "id": "A",
+        "content": "-"
+      },
+      {
+        "id": "B",
+        "content": "20 20"
+      },
+      {
+        "id": "C",
+        "content": "-4"
+      },
+      {
+        "id": "D",
+        "content": "4"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 10,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 13,
+      "raw_answer": "4"
+    },
+    "raw_content": "If 𝑓𝑥= 4𝑥+ 3 , 𝑥≠2 and ( 𝑓𝑜𝑓)  ( 𝑥) = 𝑔( 𝑥) , where 𝑔: 𝑅- 2 →𝑅- 2 then ( 𝑔𝑜𝑔𝑜𝑔)  ( 4 ) is equal to              6𝑥- 4        3                                            3        3,\n          19                                                   19\n      (1) -                                                   (2)\n          20                                                   20\n      (3) -4                                                 (4) 4\n\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_1_Q_73",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_1",
+    "question_number": 73,
+    "content": "𝑔𝑥, 𝑥≤0\nLet 𝑔𝑥 be a linear function and 𝑓𝑥= 1 , is continuous at 𝑥= 0. If 𝑓'1 = 𝑓−1, then the value of\n1 + 𝑥 𝑥, 𝑥> 0\n2 + 𝑥\n𝑔3 is\n\n1 4 1 4",
+    "options": [
+      {
+        "id": "A",
+        "content": "3log𝑒 1"
+      },
+      {
+        "id": "B",
+        "content": "3log𝑒 9 + 1\n9𝑒 3\n4 4"
+      },
+      {
+        "id": "C",
+        "content": "log𝑒 9 −1"
+      },
+      {
+        "id": "D",
+        "content": "log𝑒 1\n9𝑒 3\n\n𝑥𝑦𝑥- 1𝑥- 2"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 10,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 13,
+      "raw_answer": "4"
+    },
+    "raw_content": "                                     𝑔𝑥,  𝑥≤0\n     Let 𝑔𝑥 be a linear function and 𝑓𝑥=        1                , is continuous at 𝑥= 0. If 𝑓'1 = 𝑓−1, then the value of\n                                             1 + 𝑥 𝑥, 𝑥> 0\n                                             2 + 𝑥\n    𝑔3 is\n\n\n\n\n\n Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN\nJEE Main 2024 (31 Jan Shift 1)                              JEE Main Previous Year Paper\n\nQuestion Paper                                                                         MathonGo\n\n\n         1      4                                              1     4\n      (1) 3log𝑒   1                                           (2) 3log𝑒 9 + 1\n                9𝑒 3\n             4                                                      4\n      (3) log𝑒 9 −1                                          (4) log𝑒   1\n                                                                       9𝑒 3\n\n                                                        𝑥𝑦𝑥- 1𝑥- 2\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_1_Q_74",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_1",
+    "question_number": 74,
+    "content": "The area of the region 𝑥, 𝑦: 𝑦2 ≤4𝑥, 𝑥< 4, > 0, 𝑥≠3 is\n𝑥- 3𝑥- 4",
+    "options": [
+      {
+        "id": "A",
+        "content": "16"
+      },
+      {
+        "id": "B",
+        "content": "64\n3 3\n8 32"
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": "3 3"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 11,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 13,
+      "raw_answer": "4"
+    },
+    "raw_content": "The area of the region 𝑥,  𝑦: 𝑦2 ≤4𝑥, 𝑥< 4,       > 0, 𝑥≠3 is\n                                                         𝑥- 3𝑥- 4\n      (1) 16                                                 (2) 64\n          3                                                     3\n         8                                                     32\n      (3)                                                    (4)\n         3                                                     3\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_1_Q_75",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_1",
+    "question_number": 75,
+    "content": "The solution curve of the differential equation 𝑦 𝑑𝑥 1, 𝑥> 0, 𝑦> 0 passing through the 𝑑𝑦= 𝑥log𝑒𝑥- log𝑒𝑦+\npoint ( 𝑒, 1 ) is\n𝑦 𝑦",
+    "options": [
+      {
+        "id": "A",
+        "content": "log𝑒 𝑥= 𝑥"
+      },
+      {
+        "id": "B",
+        "content": "log𝑒 𝑥= 𝑦2"
+      },
+      {
+        "id": "C",
+        "content": "𝑥 𝑦"
+      },
+      {
+        "id": "D",
+        "content": "𝑥 𝑦+ 1 log𝑒 𝑦= 2log𝑒 𝑦="
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 11,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "3",
+      "correct_option": "C",
+      "option_index": 2
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 13,
+      "raw_answer": "3"
+    },
+    "raw_content": "The solution curve of the differential equation 𝑦 𝑑𝑥                      1, 𝑥> 0, 𝑦> 0 passing through the                                  𝑑𝑦= 𝑥log𝑒𝑥- log𝑒𝑦+\n     point ( 𝑒,  1 ) is\n             𝑦                                                    𝑦\n      (1) log𝑒 𝑥= 𝑥                                         (2) log𝑒 𝑥= 𝑦2\n      (3)     𝑥  𝑦                                         (4)       𝑥  𝑦+ 1         log𝑒 𝑦=                                          2log𝑒 𝑦=\n\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_1_Q_76",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_1",
+    "question_number": 76,
+    "content": "Let 𝑦= 𝑦( 𝑥) be the solution of the differential equation 𝑑𝑦 tan𝑥+ 𝑦 𝜋 𝑑𝑥= sin𝑥sec𝑥- sin𝑥tan𝑥, 𝑥∈0, 2 satisfying the\n𝜋 𝜋\ncondition 𝑦 = 2. Then, 𝑦 is\n4 3\n2 + log𝑒3",
+    "options": [
+      {
+        "id": "A",
+        "content": "√32 + log𝑒√3"
+      },
+      {
+        "id": "B",
+        "content": "√32"
+      },
+      {
+        "id": "C",
+        "content": "√31 + 2log𝑒3"
+      },
+      {
+        "id": "D",
+        "content": "√32 + log𝑒3\n\n→"
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 11,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "1",
+      "correct_option": "A",
+      "option_index": 0
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 13,
+      "raw_answer": "1"
+    },
+    "raw_content": "Let 𝑦= 𝑦( 𝑥) be the solution of the differential equation 𝑑𝑦       tan𝑥+ 𝑦               𝜋                                            𝑑𝑥= sin𝑥sec𝑥- sin𝑥tan𝑥,  𝑥∈0,   2 satisfying the\n                𝜋             𝜋\n     condition 𝑦 = 2. Then, 𝑦  is\n                 4              3\n                                                2 + log𝑒3      (1) √32 + log𝑒√3                                    (2) √32\n      (3) √31 + 2log𝑒3                                     (4) √32 + log𝑒3\n\n                   →\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_1_Q_77",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_1",
+    "question_number": 77,
+    "content": "Let →𝑎= 3 ^𝑖+ ^𝑗−2 ^𝑘, 𝑏= 4 ^𝑖+ ^𝑗+ 7 ^𝑘 and →𝑐= ^𝑖−3 ^𝑗+ 4 ^𝑘 be three vectors. If a vectors →𝑝 satisfies\n→𝑝× →𝑏= →𝑐× →𝑏 and →𝑝⋅→𝑎= 0, then →𝑝⋅ ^𝑖− ^𝑗− ^𝑘 is equal to",
+    "options": [
+      {
+        "id": "A",
+        "content": "24"
+      },
+      {
+        "id": "B",
+        "content": "36"
+      },
+      {
+        "id": "C",
+        "content": "28"
+      },
+      {
+        "id": "D",
+        "content": "32"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 11,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 13,
+      "raw_answer": "4"
+    },
+    "raw_content": "Let →𝑎= 3 ^𝑖+ ^𝑗−2 ^𝑘, 𝑏= 4 ^𝑖+ ^𝑗+ 7 ^𝑘 and →𝑐= ^𝑖−3 ^𝑗+ 4 ^𝑘 be three vectors. If a vectors →𝑝 satisfies\n    →𝑝× →𝑏= →𝑐× →𝑏 and →𝑝⋅→𝑎= 0, then →𝑝⋅ ^𝑖− ^𝑗− ^𝑘 is equal to\n      (1) 24                                                 (2) 36\n      (3) 28                                                 (4) 32\n\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_1_Q_78",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_1",
+    "question_number": 78,
+    "content": "The distance of the point 𝑄( 0, 2, – 2 ) form the line passing through the point 𝑃( 5, – 4, 3 ) and\nperpendicular to the lines →𝑟= −3 ^𝑖+ 2 ^𝑘+ 𝜆2 ^𝑖+ 3 ^𝑗+ 5 ^𝑘, 𝜆∈ℝ and\n→𝑟= ^𝑖−2 ^𝑗+ ^𝑘+ 𝜇− ^𝑖+ 3 ^𝑗+ 2 ^𝑘, 𝜇∈ℝ is",
+    "options": [
+      {
+        "id": "A",
+        "content": "√86"
+      },
+      {
+        "id": "B",
+        "content": "√20"
+      },
+      {
+        "id": "C",
+        "content": "√54"
+      },
+      {
+        "id": "D",
+        "content": "√74"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 11,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 13,
+      "raw_answer": "4"
+    },
+    "raw_content": "The distance of the point 𝑄( 0,   2,  – 2 ) form the line passing through the point 𝑃( 5,  – 4,  3 ) and\n     perpendicular to the lines →𝑟= −3 ^𝑖+ 2 ^𝑘+ 𝜆2 ^𝑖+ 3 ^𝑗+ 5 ^𝑘, 𝜆∈ℝ and\n    →𝑟= ^𝑖−2 ^𝑗+ ^𝑘+ 𝜇− ^𝑖+ 3 ^𝑗+ 2 ^𝑘, 𝜇∈ℝ is\n      (1) √86                                               (2) √20\n      (3) √54                                               (4) √74\n\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_1_Q_79",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_1",
+    "question_number": 79,
+    "content": "Two marbles are drawn in succession from a box containing 10 red, 30 white, 20 blue and 15 orange marbles,\nwith replacement being made after each drawing. Then the probability, that first drawn marble is red and\nsecond drawn marble is white, is\n2 4",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": "25 25"
+      },
+      {
+        "id": "C",
+        "content": "2"
+      },
+      {
+        "id": "D",
+        "content": "4\n3 75"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 11,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 13,
+      "raw_answer": "4"
+    },
+    "raw_content": "Two marbles are drawn in succession from a box containing 10 red, 30 white, 20 blue and 15 orange marbles,\n     with replacement being made after each drawing. Then the probability, that first drawn marble is red and\n     second drawn marble is white, is\n          2                                                     4\n      (1)                                                    (2)\n         25                                                    25\n      (3) 2                                                   (4) 4\n         3                                                     75\n\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_1_Q_80",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_1",
+    "question_number": 80,
+    "content": "Three rotten apples are accidently mixed with fifteen good apples. Assuming the random variable 𝑥 to be the\nnumber of rotten apples in a draw of two apples, the variance of 𝑥 is\n37 57",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": "153/47 153/40"
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": "153 153"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 11,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 13,
+      "raw_answer": "4"
+    },
+    "raw_content": "Three rotten apples are accidently mixed with fifteen good apples. Assuming the random variable 𝑥 to be the\n    number of rotten apples in a draw of two apples, the variance of 𝑥 is\n          37                                                    57\n      (1)                                                    (2)\n         153                                                   153\n          47                                                    40\n      (3)                                                    (4)\n         153                                                   153\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_1_Q_81",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_1",
+    "question_number": 81,
+    "content": "If 𝛼 denotes the number of solutions of 1 −𝑖𝑥= 2𝑥 and 𝛽= 𝑧 where 𝑧= 𝜋 + 𝑖41 −√𝜋· 𝑖 √𝜋−𝑖 arg𝑧, 41 𝑖+ 1 + 𝑖, √𝜋+ √𝜋·\n𝑖= √−1, then the distance of the point 𝛼, 𝛽 from the line 4𝑥−3𝑦= 7 is ______",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 3.0,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 11,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "3",
+      "value": 3.0
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 13,
+      "raw_answer": "3"
+    },
+    "raw_content": "If 𝛼 denotes the number of solutions of 1 −𝑖𝑥= 2𝑥 and 𝛽=  𝑧  where 𝑧= 𝜋 + 𝑖41 −√𝜋· 𝑖   √𝜋−𝑖                                                                                arg𝑧,         41     𝑖+ 1 +      𝑖,                                                                 √𝜋+        √𝜋·\n   𝑖= √−1, then the distance of the point 𝛼,  𝛽 from the line 4𝑥−3𝑦= 7 is ______\n\n\n\n\n\n Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN\nJEE Main 2024 (31 Jan Shift 1)                              JEE Main Previous Year Paper\n\nQuestion Paper                                                                         MathonGo\n\n\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_1_Q_82",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_1",
+    "question_number": 82,
+    "content": "The total number of words (with or without meaning) that can be formed out of the letters of the word\n\"DISTRIBUTION\" taken four at a time, is equal to ______.\n\n3 3 1 5",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 3734.0,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 12,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "3734",
+      "value": 3734.0
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 13,
+      "raw_answer": "3734"
+    },
+    "raw_content": "The total number of words (with or without meaning) that can be formed out of the letters of the word\n    \"DISTRIBUTION\" taken four at a time, is equal to ______.\n\n                                          3    3    1 5",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_1_Q_83",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_1",
+    "question_number": 83,
+    "content": "In the expansion of 1 + 𝑥1 −𝑥21 + + , 𝑥≠0, the sum of the coefficient of 𝑥3 and 𝑥-13 is equal to 𝑥+ 𝑥2 𝑥3\n______",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 118.0,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 12,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "118",
+      "value": 118.0
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 13,
+      "raw_answer": "118"
+    },
+    "raw_content": "In the expansion of 1 + 𝑥1 −𝑥21 +    +        , 𝑥≠0, the sum of the coefficient of 𝑥3 and 𝑥-13 is equal to                        𝑥+ 𝑥2    𝑥3\n    ______\n\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_1_Q_84",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_1",
+    "question_number": 84,
+    "content": "Let the foci and length of the latus rectum of an ellipse 𝑥2 + 𝑦2 = 1, 𝑎> 𝑏 be ±5, 0 and √50, respectively. 𝑎2 𝑏2\n𝑥2 𝑦2\nThen, the square of the eccentricity of the hyperbola − = 1 equals\n𝑏2 𝑎2𝑏2",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 51.0,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 12,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "51",
+      "value": 51.0
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 13,
+      "raw_answer": "51"
+    },
+    "raw_content": "Let the foci and length of the latus rectum of an ellipse 𝑥2 + 𝑦2 = 1, 𝑎> 𝑏 be ±5,  0 and √50, respectively.                                                                   𝑎2    𝑏2\n                                                                  𝑥2     𝑦2\n     Then, the square of the eccentricity of the hyperbola  −   = 1 equals\n                                                                 𝑏2    𝑎2𝑏2\n\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_1_Q_85",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_1",
+    "question_number": 85,
+    "content": "Let 𝐴= 1, 2, 3, 4 and 𝑅= ( 1, 2 ) , ( 2, 3 ) , ( 1, 4 ) be a relation on 𝐴. Let 𝑆 be the equivalence\nrelation on 𝐴 such that 𝑅⊂𝑆 and the number of elements in 𝑆 is 𝑛. Then, the minimum value of 𝑛 is _______\n\n4𝑥",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 16.0,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 12,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "16",
+      "value": 16.0
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 13,
+      "raw_answer": "16"
+    },
+    "raw_content": "Let 𝐴= 1,   2,   3,  4 and 𝑅= ( 1,  2 ) ,   ( 2,  3 ) ,   ( 1,  4 ) be a relation on 𝐴. Let 𝑆 be the equivalence\n      relation on 𝐴 such that 𝑅⊂𝑆 and the number of elements in 𝑆 is 𝑛. Then, the minimum value of 𝑛 is _______\n\n\n                                                           4𝑥",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_1_Q_86",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_1",
+    "question_number": 86,
+    "content": "Let 𝑓: ℝ→ℝ be a function defined by 𝑓𝑥= 𝑓1 −𝑎 and 𝑀= ∫ 𝑥sin4𝑥1 −𝑥𝑑𝑥, 4𝑥+ 2 𝑓𝑎\n𝑓1 −𝑎\n𝑁= 𝛼𝑀= 𝛽𝑁, 𝛼, 𝛽∈ℕ, then the least value of 𝛼2 + 𝛽2 is equal to ______ ∫ sin4𝑥1 −𝑥𝑑𝑥; 𝑎≠12. If 𝑓𝑎\n\n𝑥",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 5.0,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 12,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "5",
+      "value": 5.0
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 13,
+      "raw_answer": "5"
+    },
+    "raw_content": "Let 𝑓: ℝ→ℝ be a function defined by 𝑓𝑥=                 𝑓1 −𝑎                                               and 𝑀=  ∫  𝑥sin4𝑥1 −𝑥𝑑𝑥,                                          4𝑥+ 2                                                                    𝑓𝑎\n           𝑓1 −𝑎\n  𝑁=                     𝛼𝑀= 𝛽𝑁, 𝛼, 𝛽∈ℕ, then the least value of 𝛼2 + 𝛽2 is equal to ______         ∫  sin4𝑥1 −𝑥𝑑𝑥; 𝑎≠12. If             𝑓𝑎\n\n                                                            𝑥\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_1_Q_87",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_1",
+    "question_number": 87,
+    "content": "Let 𝑆= −1, ∞ and 𝑓: 𝑆→ℝ be defined as 𝑓𝑥= ∫ 𝑒𝑡−1112𝑡−15𝑡−27𝑡−3122𝑡−1061𝑑𝑡. Let 𝑝= Sum\n−1\nof square of the values of 𝑥, where 𝑓𝑥 attains local maxima on 𝑆. and 𝑞= Sum of the values of 𝑥, where 𝑓𝑥\nattains local minima on 𝑆. Then, the value of 𝑝2 + 2𝑞 is ________\n\n𝜋 1",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 27.0,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 12,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "27",
+      "value": 27.0
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 13,
+      "raw_answer": "27"
+    },
+    "raw_content": "Let 𝑆= −1, ∞ and 𝑓: 𝑆→ℝ be defined as 𝑓𝑥= ∫ 𝑒𝑡−1112𝑡−15𝑡−27𝑡−3122𝑡−1061𝑑𝑡. Let 𝑝= Sum\n                                                 −1\n     of square of the values of 𝑥, where 𝑓𝑥 attains local maxima on 𝑆. and 𝑞= Sum of the values of 𝑥, where 𝑓𝑥\n      attains local minima on 𝑆. Then, the value of 𝑝2 + 2𝑞 is ________\n\n                            𝜋                               1\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_1_Q_88",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_1",
+    "question_number": 88,
+    "content": "2 11 5\nIf the integral 525 ∫ sin2𝑥 cos 2 𝑥1 + cos 2𝑥 2𝑑𝑥 is equal to 𝑛√2 −64, then 𝑛 is equal to ________\n0\n\n→ → → → →",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 176.0,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 12,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "176",
+      "value": 176.0
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 13,
+      "raw_answer": "176"
+    },
+    "raw_content": "                        2               11            5\n       If the integral 525 ∫ sin2𝑥  cos 2 𝑥1 + cos 2𝑥 2𝑑𝑥 is equal to 𝑛√2 −64, then 𝑛 is equal to ________\n                         0\n\n          →                       →        →            →   →\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_1_Q_89",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_1",
+    "question_number": 89,
+    "content": "Let →𝑎 and 𝑏 be two vectors such that →𝑎= 1, 𝑏= 4 and →𝑎⋅ 𝑏= 2. If →𝑐= 2 →𝑎× 𝑏−3 𝑏 and the angle between\n→𝑏 and→𝑐 is 𝛼, then 192sin2𝛼 is equal to _________",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 48.0,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 12,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "48",
+      "value": 48.0
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 13,
+      "raw_answer": "48"
+    },
+    "raw_content": "Let →𝑎 and 𝑏 be two vectors such that →𝑎= 1, 𝑏= 4 and →𝑎⋅ 𝑏= 2. If →𝑐= 2 →𝑎× 𝑏−3 𝑏 and the angle between\n       →𝑏 and→𝑐 is 𝛼, then 192sin2𝛼 is equal to _________\n\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_1_Q_90",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_1",
+    "question_number": 90,
+    "content": "Let 𝑄 and 𝑅 be the feet of perpendiculars from the point 𝑃𝑎, 𝑎, 𝑎 on the lines 𝑥= 𝑦, 𝑧= 1 and\n𝑥= −𝑦, 𝑧= −1 respectively. If ∠𝑄𝑃𝑅 is a right angle, then 12𝑎2 is equal to ________",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 12.0,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 12,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "12",
+      "value": 12.0
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 13,
+      "raw_answer": "12"
+    },
+    "raw_content": "Let 𝑄 and 𝑅 be the feet of perpendiculars from the point 𝑃𝑎,   𝑎,  𝑎 on the lines 𝑥= 𝑦, 𝑧= 1 and\n   𝑥= −𝑦, 𝑧= −1 respectively. If ∠𝑄𝑃𝑅 is a right angle, then 12𝑎2 is equal to ________\n\n\n\n\n\n Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN\n",
+    "parsing_warnings": []
+  }
+]

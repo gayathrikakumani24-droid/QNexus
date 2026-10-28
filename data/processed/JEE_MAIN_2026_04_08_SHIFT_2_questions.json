@@ -36,7 +36,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-08",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Consider the relation R on the set {−2, −1, 0, 1, 2} defined by (a, b) ∈R if and only if 1 + ab > 0. Then, among\nthe statements:\nI. The number of elements in R is 17\nII. R is an equivalence relation\n\n\n(1) Only I is true                                         (2) Only II is true\n(3) Both I and II are true                                (4) Neither I nor II is true\n\n\nMathonGo Answer Key : (1)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_08_SHIFT_2_Q_2",
@@ -75,7 +80,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-08",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "The number of values of z ∈C, satisfying the equations |z −(4 + 8i)| = √10 and\n|z −(3 + 5i)| + |z −(5 + 11i)| = 4√5, is:\n\n\n(1) 0                        (2) 2                        (3) 1                        (4) 4\n\n\nMathonGo Answer Key : (2)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_08_SHIFT_2_Q_3",
@@ -114,13 +124,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-08",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "If the system of linear equations:\nx + y + z = 6,\nx + 2y + 5z = 10,\n2x + 3y + λz = μ\nhas infinitely many solutions, then the value of λ + μ equals:\n\n\n(1) 12                       (2) 16                       (3) 22                       (4) 28\n\n\nMathonGo Answer Key : (3)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_08_SHIFT_2_Q_4",
     "paper_id": "JEE_MAIN_2026_04_08_SHIFT_2",
     "question_number": 4,
-    "content": "⎡ α  1  2 ⎤      ⎡ 1   0     0 ⎤Let A =  2  3  0  and B =  0  −5α   0  + adj(A). If det(B) = 66, then det(adj(A)) equals:\n      ⎣ 0  4  5 ⎦      ⎣ 0  4α  −2α ⎦",
+    "content": "⎡ α 1 2 ⎤ ⎡ 1 0 0 ⎤Let A = 2 3 0 and B = 0 −5α 0 + adj(A). If det(B) = 66, then det(adj(A)) equals:\n⎣ 0 4 5 ⎦ ⎣ 0 4α −2α ⎦",
     "options": [
       {
         "id": "A",
@@ -153,13 +168,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-08",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "⎡ α  1  2 ⎤      ⎡ 1   0     0 ⎤Let A =  2  3  0  and B =  0  −5α   0  + adj(A). If det(B) = 66, then det(adj(A)) equals:\n      ⎣ 0  4  5 ⎦      ⎣ 0  4α  −2α ⎦\n\n(1) 289                     (2) 361                     (3) 441                     (4) 529\n\n\nMathonGo Answer Key : (3)\n\n\n\n                                          #PaperPhodnaHai\n                                  www.mathongo.com      ⎢     ⎥      ⎢          ⎥\n08 April (Evening Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_08_SHIFT_2_Q_5",
     "paper_id": "JEE_MAIN_2026_04_08_SHIFT_2",
     "question_number": 5,
-    "content": "Let α = 3 + 4 + 8 + 9 + 13 + 14 + … upto 40 terms. If (tan β) 1020α  is a root of the equation x2 + x −2 = 0,\n      π\nβ                  , then sin2 β + 3 cos2 β is equal to:  ∈(0, 2 )",
+    "content": "Let α = 3 + 4 + 8 + 9 + 13 + 14 + … upto 40 terms. If (tan β) 1020α is a root of the equation x2 + x −2 = 0,\nπ\nβ , then sin2 β + 3 cos2 β is equal to: ∈(0, 2 )",
     "options": [
       {
         "id": "A",
@@ -192,13 +212,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-08",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let α = 3 + 4 + 8 + 9 + 13 + 14 + … upto 40 terms. If (tan β) 1020α  is a root of the equation x2 + x −2 = 0,\n      π\nβ                  , then sin2 β + 3 cos2 β is equal to:  ∈(0, 2 )\n\n(1) 2                        (2) 7                       (3) 5                       (4) 3\n                          4                     2                     2\n\nMathonGo Answer Key : (1)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_08_SHIFT_2_Q_6",
     "paper_id": "JEE_MAIN_2026_04_08_SHIFT_2",
     "question_number": 6,
-    "content": "A candidate has to go to the examination centre to appear in an examination. The candidate uses only one means of\ntransportation for the entire distance out of bus, scooter and car. The probabilities of the candidate going by bus,\n                           2  1     2\nscooter and car, respectively, are     ,   and     . The probabilities that the candidate reaches late at the examination\n                           5  5     5\n         1  1     1\ncentre are     ,   and     if the candidate uses bus, scooter and car, respectively. Given that the candidate reached late\n         5  3     4\nat the examination centre, the probability that the candidate travelled by bus is:",
+    "content": "A candidate has to go to the examination centre to appear in an examination. The candidate uses only one means of\ntransportation for the entire distance out of bus, scooter and car. The probabilities of the candidate going by bus,\n2 1 2\nscooter and car, respectively, are , and . The probabilities that the candidate reaches late at the examination\n5 5 5\n1 1 1\ncentre are , and if the candidate uses bus, scooter and car, respectively. Given that the candidate reached late\n5 3 4\nat the examination centre, the probability that the candidate travelled by bus is:",
     "options": [
       {
         "id": "A",
@@ -231,7 +256,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-08",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "A candidate has to go to the examination centre to appear in an examination. The candidate uses only one means of\ntransportation for the entire distance out of bus, scooter and car. The probabilities of the candidate going by bus,\n                           2  1     2\nscooter and car, respectively, are     ,   and     . The probabilities that the candidate reaches late at the examination\n                           5  5     5\n         1  1     1\ncentre are     ,   and     if the candidate uses bus, scooter and car, respectively. Given that the candidate reached late\n         5  3     4\nat the examination centre, the probability that the candidate travelled by bus is:\n\n(1) 11                      (2) 12                      (3) 13                      (4) 14\n    37                     37                     37                     37\n\nMathonGo Answer Key : (2)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_08_SHIFT_2_Q_7",
@@ -270,13 +300,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-08",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "A set of four observations has mean 1 and variance 13. Another set of six observations has mean 2 and variance 1.\nThen, the variance of all these 10 observations is equal to:\n\n\n(1) 5.96                     (2) 6.14                     (3) 6.04                     (4) 6.24\n\n\nMathonGo Answer Key : (3)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_08_SHIFT_2_Q_8",
     "paper_id": "JEE_MAIN_2026_04_08_SHIFT_2",
     "question_number": 8,
-    "content": "23        25        27              213\nIf 26      (122 ) +    (124 ) +    (126 ) + … +     (12  = 313 −α, then α is equal to:   ( 3       5       7            13  12))",
+    "content": "23 25 27 213\nIf 26 (122 ) + (124 ) + (126 ) + … + (12 = 313 −α, then α is equal to: ( 3 5 7 13 12))",
     "options": [
       {
         "id": "A",
@@ -309,7 +344,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-08",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "23        25        27              213\nIf 26      (122 ) +    (124 ) +    (126 ) + … +     (12  = 313 −α, then α is equal to:   ( 3       5       7            13  12))\n\n\n(1) 45                       (2) 48                       (3) 51                       (4) 54\n\n\nMathonGo Answer Key : (3)\n\n\n\n\n\n                                          #PaperPhodnaHai\n                                  www.mathongo.com\n08 April (Evening Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_08_SHIFT_2_Q_9",
@@ -348,7 +388,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-08",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "A person has three different bags and four different books. The number of ways, in which he can put these books in\nthe bags so that no bag is empty, is:\n\n\n(1) 18                       (2) 36                       (3) 39                       (4) 72\n\n\nMathonGo Answer Key : (2)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_08_SHIFT_2_Q_10",
@@ -387,7 +432,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-08",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "If a straight line drawn through the point of intersection of the lines 4x + 3y −1 = 0 and 3x + 4y −1 = 0, meets\nthe co-ordinate axes at the points P and Q, then the locus of the mid point of PQ is:\n\n\n(1) x + y −7 = 0                                       (2) x + y −14xy = 0\n(3) 2x + y + 14xy = 0                                  (4) x + 2y −14xy = 0\n\n\nMathonGo Answer Key : (2)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_08_SHIFT_2_Q_11",
@@ -426,13 +476,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-08",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let O be the vertex of the parabola y2 = 4x and its chords OP and OQ are perpendicular to each other. If the locus\nof the mid-point of the line segment PQ is a conic C, then the length of its latus rectum is:\n\n\n(1) 1                        (2) 2                        (3) 4                        (4) 8\n\n\nMathonGo Answer Key : (2)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_08_SHIFT_2_Q_12",
     "paper_id": "JEE_MAIN_2026_04_08_SHIFT_2",
     "question_number": 12,
-    "content": "6                  4\nLet α = 3 sin−1       and β = 3 cos−1           , where inverse trigonometric functions take only the principal         ( 11 )          ( 9 )\nvalues.\nGiven below are two statements:\nStatement I: cos(α + β) > 0.\nStatement II: cos(α) < 0.\nIn the light of the above statements, choose the correct answer from the options given below:",
+    "content": "6 4\nLet α = 3 sin−1 and β = 3 cos−1 , where inverse trigonometric functions take only the principal ( 11 ) ( 9 )\nvalues.\nGiven below are two statements:\nStatement I: cos(α + β) > 0.\nStatement II: cos(α) < 0.\nIn the light of the above statements, choose the correct answer from the options given below:",
     "options": [
       {
         "id": "A",
@@ -465,13 +520,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-08",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "6                  4\nLet α = 3 sin−1       and β = 3 cos−1           , where inverse trigonometric functions take only the principal         ( 11 )          ( 9 )\nvalues.\nGiven below are two statements:\nStatement I: cos(α + β) > 0.\nStatement II: cos(α) < 0.\nIn the light of the above statements, choose the correct answer from the options given below:\n\n\n(1) Both Statement I and Statement II are true\n(2) Both Statement I and Statement II are false\n(3) Statement I is true but Statement II is false\n(4) Statement I is false but Statement II is true\n\n\nMathonGo Answer Key : (1)\n\n                                          #PaperPhodnaHai\n                                  www.mathongo.com\n08 April (Evening Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_08_SHIFT_2_Q_13",
     "paper_id": "JEE_MAIN_2026_04_08_SHIFT_2",
     "question_number": 13,
-    "content": "For the function f(x) = esin |x| −|x|, x ∈R, consider the following statements:\nStatement I: f is differentiable for all x ∈R.\n                                                                       .Statement II: f is increasing in                       (−π, −π2 )\nIn the light of the above statements, choose the correct answer from the options given below:",
+    "content": "For the function f(x) = esin |x| −|x|, x ∈R, consider the following statements:\nStatement I: f is differentiable for all x ∈R.\n.Statement II: f is increasing in (−π, −π2 )\nIn the light of the above statements, choose the correct answer from the options given below:",
     "options": [
       {
         "id": "A",
@@ -504,7 +564,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-08",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "For the function f(x) = esin |x| −|x|, x ∈R, consider the following statements:\nStatement I: f is differentiable for all x ∈R.\n                                                                       .Statement II: f is increasing in                       (−π, −π2 )\nIn the light of the above statements, choose the correct answer from the options given below:\n\n\n(1) Both Statement I and Statement II are true\n(2) Both Statement I and Statement II are false\n(3) Statement I is true but Statement II is false\n(4) Statement I is false but Statement II is true\n\n\nMathonGo Answer Key : (1)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_08_SHIFT_2_Q_14",
@@ -543,13 +608,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-08",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let →a = 4^i −^j + 3^k, →b = 10^i + 2^j −^k and a vector →c be such that 2(→a × →b) + 3(→b × →c) = →0. If →a ⋅→c = 15, then→c ⋅(^i + ^j −3^k) is equal to:\n\n\n(1) −6                      (2) −5                      (3) −4                      (4) −3\n\n\nMathonGo Answer Key : (2)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_08_SHIFT_2_Q_15",
     "paper_id": "JEE_MAIN_2026_04_08_SHIFT_2",
     "question_number": 15,
-    "content": "x −4    y −9    z −5\nLet the foot of perpendicular from the point (λ, 2, 3) on the line    =    =       be the point (1, μ, 2).\n                                                      1       2       1\n                          x −1    y −2    z + 4    x −λ    y −μ    z + 5\nThen the distance between the lines    =    =       and    =    =         is equal to:\n                                2       3       6        2       3       6",
+    "content": "x −4 y −9 z −5\nLet the foot of perpendicular from the point (λ, 2, 3) on the line = = be the point (1, μ, 2).\n1 2 1\nx −1 y −2 z + 4 x −λ y −μ z + 5\nThen the distance between the lines = = and = = is equal to:\n2 3 6 2 3 6",
     "options": [
       {
         "id": "A",
@@ -582,13 +652,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-08",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "x −4    y −9    z −5\nLet the foot of perpendicular from the point (λ, 2, 3) on the line    =    =       be the point (1, μ, 2).\n                                                      1       2       1\n                          x −1    y −2    z + 4    x −λ    y −μ    z + 5\nThen the distance between the lines    =    =       and    =    =         is equal to:\n                                2       3       6        2       3       6\n\n(1) 12                      (2) √145                   (3) √146                   (4) √143\n    7                       7                     7                     7\n\nMathonGo Answer Key : (3)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_08_SHIFT_2_Q_16",
     "paper_id": "JEE_MAIN_2026_04_08_SHIFT_2",
     "question_number": 16,
-    "content": "2    √x(x2 + x + 1)\nThe value of the integral                        dx is equal to:                  ∫                               0 (√x + 1)(√x4 + x2 + 1)",
+    "content": "2 √x(x2 + x + 1)\nThe value of the integral dx is equal to: ∫ 0 (√x + 1)(√x4 + x2 + 1)",
     "options": [
       {
         "id": "A",
@@ -621,13 +696,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-08",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "2    √x(x2 + x + 1)\nThe value of the integral                        dx is equal to:                  ∫                               0 (√x + 1)(√x4 + x2 + 1)\n\n(1) 1                                                    (2) 2      loge(3 −2√2)                                      loge(4 + √2)    3                                            3\n(3) 2                                                    (4) 1      loge(3 + 2√2)                                      loge(1 + 6√2)\n    3                                            3\n\nMathonGo Answer Key : (3)\n                                          #PaperPhodnaHai\n                                  www.mathongo.com\n08 April (Evening Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_08_SHIFT_2_Q_17",
     "paper_id": "JEE_MAIN_2026_04_08_SHIFT_2",
     "question_number": 17,
-    "content": "Let y = y(x) be the solution of the differential equation x√1 −x2 dy +    −x2 −x cos−1    = 0,                                                (y√1            x)dx\n                              1\n                                         equals:x ∈(0, 1), x→1−y(x)lim   = 1. Then y ( 2 )\n\n       π                                                           π",
+    "content": "Let y = y(x) be the solution of the differential equation x√1 −x2 dy + −x2 −x cos−1 = 0, (y√1 x)dx\n1\nequals:x ∈(0, 1), x→1−y(x)lim = 1. Then y ( 2 )\n\nπ π",
     "options": [
       {
         "id": "A",
@@ -660,13 +740,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-08",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let y = y(x) be the solution of the differential equation x√1 −x2 dy +    −x2 −x cos−1    = 0,                                                (y√1            x)dx\n                              1\n                                         equals:x ∈(0, 1), x→1−y(x)lim   = 1. Then y ( 2 )\n\n       π                                                           π\n(1) 3 −                     (2) 4 −√3π                (3) 4 −2π                 (4) 3 −\n     √3                               √3                2√3\n\nMathonGo Answer Key : (1)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_08_SHIFT_2_Q_18",
     "paper_id": "JEE_MAIN_2026_04_08_SHIFT_2",
     "question_number": 18,
-    "content": "x −1\nLet f : (1, ∞) →R be a function defined as f(x) =            . Let f i+1(x) = f(f i(x)), i = 1, 2, … , 25, where\n                                      x + 1\nf 1(x) = f(x). If g(x) + f 26(x) = 0, x ∈(1, ∞), then the area of the region bounded by the curves y = g(x),\n2y = 2x −3, y = 0 and x = 4 is:",
+    "content": "x −1\nLet f : (1, ∞) →R be a function defined as f(x) = . Let f i+1(x) = f(f i(x)), i = 1, 2, … , 25, where\nx + 1\nf 1(x) = f(x). If g(x) + f 26(x) = 0, x ∈(1, ∞), then the area of the region bounded by the curves y = g(x),\n2y = 2x −3, y = 0 and x = 4 is:",
     "options": [
       {
         "id": "A",
@@ -699,13 +784,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-08",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "x −1\nLet f : (1, ∞) →R be a function defined as f(x) =            . Let f i+1(x) = f(f i(x)), i = 1, 2, … , 25, where\n                                      x + 1\nf 1(x) = f(x). If g(x) + f 26(x) = 0, x ∈(1, ∞), then the area of the region bounded by the curves y = g(x),\n2y = 2x −3, y = 0 and x = 4 is:\n\n(1) 1                       (2) 1                       (3) 5                       (4) 5   + loge 2          + loge 2          + 3 loge 2         + loge 2    8                     4                     6                     6\n\nMathonGo Answer Key : (1)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_08_SHIFT_2_Q_19",
     "paper_id": "JEE_MAIN_2026_04_08_SHIFT_2",
     "question_number": 19,
-    "content": "⎧ 1 ,         x ≤π/2                                                     3b−6            3\nLet f(x) = ⎨ b(1 −sin x)                    . If f is continuous at x = π/2, then the value of ∫ 0     |x2 + 2x −3| dx is:                                        ,  x > π/2      ⎩ (π −2x)2",
+    "content": "⎧ 1 , x ≤π/2 3b−6 3\nLet f(x) = ⎨ b(1 −sin x) . If f is continuous at x = π/2, then the value of ∫ 0 |x2 + 2x −3| dx is: , x > π/2 ⎩ (π −2x)2",
     "options": [
       {
         "id": "A",
@@ -738,13 +828,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-08",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "⎧ 1 ,         x ≤π/2                                                     3b−6            3\nLet f(x) = ⎨ b(1 −sin x)                    . If f is continuous at x = π/2, then the value of ∫ 0     |x2 + 2x −3| dx is:                                        ,  x > π/2      ⎩ (π −2x)2\n\n(1) 5                        (2) 2                        (3) 3                        (4) 4\n\n\nMathonGo Answer Key : (4)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_08_SHIFT_2_Q_20",
     "paper_id": "JEE_MAIN_2026_04_08_SHIFT_2",
     "question_number": 20,
-    "content": "x2              y2\nLet         +       = 1 represent an ellipse with major axis along y-axis, where f is a strictly\n    f(a2 + 7a + 3)   f(3a + 15)\ndecreasing positive function on R. If the set of all possible values of a is R −[α, β], then α2 + β2 is equal to:",
+    "content": "x2 y2\nLet + = 1 represent an ellipse with major axis along y-axis, where f is a strictly\nf(a2 + 7a + 3) f(3a + 15)\ndecreasing positive function on R. If the set of all possible values of a is R −[α, β], then α2 + β2 is equal to:",
     "options": [
       {
         "id": "A",
@@ -777,7 +872,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-08",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "x2              y2\nLet         +       = 1 represent an ellipse with major axis along y-axis, where f is a strictly\n    f(a2 + 7a + 3)   f(3a + 15)\ndecreasing positive function on R. If the set of all possible values of a is R −[α, β], then α2 + β2 is equal to:\n\n\n(1) 28                       (2) 40                       (3) 61                       (4) 24\n\n\nMathonGo Answer Key : (2)\n\n\n\n\n\n                                          #PaperPhodnaHai\n                                  www.mathongo.com      ⎪      ⎪\n08 April (Evening Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_08_SHIFT_2_Q_21",
@@ -799,13 +899,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-08",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "The sum of squares of all the real solutions of the equation log(x+1)(2x2 + 5x + 3) = 4 −log(2x+3)(x2 + 2x + 1) is\nequal to ________.\n\n\n\nMathonGo Answer Key : 2",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_08_SHIFT_2_Q_22",
     "paper_id": "JEE_MAIN_2026_04_08_SHIFT_2",
     "question_number": 22,
-    "content": "π/4                   π\nIf                      cot                +                    +                        = α loge(√3 −1), then 9α2 is equal to ________.  ∫                   (x                              1)dx       (cot (x −π3 )                            3 )    π/6",
+    "content": "π/4 π",
     "options": [],
     "correct_option": "A",
     "numerical_answer": null,
@@ -821,13 +926,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-08",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "π/4                   π\nIf                      cot                +                    +                        = α loge(√3 −1), then 9α2 is equal to ________.  ∫                   (x                              1)dx       (cot (x −π3 )                            3 )    π/6\n\n\n\nMathonGo Answer Key : 12",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_08_SHIFT_2_Q_23",
     "paper_id": "JEE_MAIN_2026_04_08_SHIFT_2",
     "question_number": 23,
-    "content": "Let a line L1 pass through the origin and be perpendicular to the linesL2 : →r = (3 + t)^i + (2t −1)^j + (2t + 4)^k andL3 : →r = (3 + 2s)^i + (3 + 2s)^j + (2 + s)^k, t, s ∈R.\nIf (a, b, c), a ∈Z , is the point on L3 at a distance of √17 from the point of intersection of L1 and L2 , then\n(a + b + c)2 is equal to ________.",
+    "content": "If cot + + = α loge(√3 −1), then 9α2 is equal to ________. ∫ (x 1)dx (cot (x −π3 ) 3 ) π/6 Let a line L1 pass through the origin and be perpendicular to the linesL2 : →r = (3 + t)^i + (2t −1)^j + (2t + 4)^k andL3 : →r = (3 + 2s)^i + (3 + 2s)^j + (2 + s)^k, t, s ∈R.\nIf (a, b, c), a ∈Z , is the point on L3 at a distance of √17 from the point of intersection of L1 and L2 , then\n(a + b + c)2 is equal to ________.",
     "options": [],
     "correct_option": "D",
     "numerical_answer": null,
@@ -843,7 +953,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-08",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let a line L1 pass through the origin and be perpendicular to the linesL2 : →r = (3 + t)^i + (2t −1)^j + (2t + 4)^k andL3 : →r = (3 + 2s)^i + (3 + 2s)^j + (2 + s)^k, t, s ∈R.\nIf (a, b, c), a ∈Z , is the point on L3 at a distance of √17 from the point of intersection of L1 and L2 , then\n(a + b + c)2 is equal to ________.\n\n\n\nMathonGo Answer Key : 4",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_08_SHIFT_2_Q_24",
@@ -865,13 +980,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-08",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Consider the circle C : x2 + y2 −6x −8y −11 = 0. Let a variable chord AB of the circle C subtend a right angle\nat the origin. If the locus of the foot of the perpendicular drawn from the origin on the chord AB is the circle\nx2 + y2 −αx −βy −γ = 0, then α + β + 2γ is equal to ________.\n\n\n\nMathonGo Answer Key : 18\n\n\n\n\n\n                                          #PaperPhodnaHai\n                                  www.mathongo.com\n08 April (Evening Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_08_SHIFT_2_Q_25",
     "paper_id": "JEE_MAIN_2026_04_08_SHIFT_2",
     "question_number": 25,
-    "content": "2   2                       f(x)\nLet f be a polynomial function such that log2(f(x)) =      +  +  + …       ⋅log3  +                 ,                                               (log2 (2   3   9   ∞))    (1   f(1/x) )\n                                 10\nx > 0 and f(6) = 37. Then    f(n) is equal to ________.        ∑\n                          n=1",
+    "content": "2 2 f(x)\nLet f be a polynomial function such that log2(f(x)) = + + + … ⋅log3 + , (log2 (2 3 9 ∞)) (1 f(1/x) )\n10\nx > 0 and f(6) = 37. Then f(n) is equal to ________. ∑\nn=1",
     "options": [],
     "correct_option": "C",
     "numerical_answer": null,
@@ -887,7 +1007,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-08",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "2   2                       f(x)\nLet f be a polynomial function such that log2(f(x)) =      +  +  + …       ⋅log3  +                 ,                                               (log2 (2   3   9   ∞))    (1   f(1/x) )\n                                 10\nx > 0 and f(6) = 37. Then    f(n) is equal to ________.        ∑\n                          n=1\n\n\n\nMathonGo Answer Key : 395",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_08_SHIFT_2_Q_26",

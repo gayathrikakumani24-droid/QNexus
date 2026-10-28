@@ -12,7 +12,7 @@ class SearchRequest(BaseModel):
     session: Optional[str] = Field(None, description="Session filter e.g. April or January")
     shift: Optional[str] = Field(None, description="Shift filter e.g. Shift 1 or Shift 2")
     top_k: int = Field(100, ge=1, le=200, description="Maximum number of results to return")
-    min_score: Optional[float] = Field(0.30, ge=0.0, le=1.0, description="Minimum cosine similarity score threshold to filter relevant questions")
+    min_score: Optional[float] = Field(0.05, ge=0.0, le=1.0, description="Minimum cosine similarity score threshold to filter relevant questions")
 
 class SearchResultItem(BaseModel):
     similarity_score: float = Field(..., description="Cosine similarity score (0.0 to 1.0)")

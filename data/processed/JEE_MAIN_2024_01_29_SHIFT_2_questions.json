@@ -2756,7 +2756,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "Let r and θ respectively be the modulus and amplitude of the complex number z = 2 −i(2 tan 5π8 ), then (r, θ)\n       is equal to\n      (1) (2 sec 3π8  , 3π8 )                                    (2) (2 sec 3π8  , 5π8 )\n      (3) (2 sec 5π8  , 3π8 )                                    (4) (2 sec 11π8  , 11π8 )\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_2_Q_62",
@@ -2807,7 +2809,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "Number of ways of arranging 8 identical books into 4 identical shelves where any number of shelves may\n     remain empty is equal to\n      (1) 18                                                 (2) 16\n      (3) 12                                                 (4) 15\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_2_Q_63",
@@ -2858,7 +2862,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "If loge a, loge b, loge c are in an A. P. and loge a −loge 2b, loge 2b −loge 3c, loge 3c −loge a are also in an\n    A. P., then a : b : c is equal to\n      (1) 9 : 6 : 4                                          (2) 16 : 4 : 1\n      (3) 25 : 10 : 4                                        (4) 6 : 3 : 2\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_2_Q_64",
@@ -2909,7 +2915,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "If each term of a geometric progression a1, a2, a3, … with a1 = 18 and a2 ≠a1 , is the arithmetic mean of the\n     next two terms and Sn = a1 + a2 + … + an , then S20 −S18 is equal to\n      (1) 215                                                (2) −218\n      (3) 218                                                (4) −215\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_2_Q_65",
@@ -2960,7 +2968,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "The sum of the solutions x ∈R of the equation 3 cos 2x+cos3 2x = x3 −x2 + 6 is                                                                        cos6 x−sin6 x\n      (1) 0                                                  (2) 1\n      (3) −1                                                (4) 3\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_2_Q_66",
@@ -3011,13 +3021,15 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "Let A be the point of intersection of the lines 3x + 2 y = 14, 5 x −y = 6 and B be the point of intersection of\n      the lines 4 x + 3 y = 8, 6 x + y = 5. The distance of the point P(5, −2) from the line AB is\n      (1) 13                                                             (2) 8            2\n      (3)           5                                                  (4) 6           2\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_2_Q_67",
     "paper_id": "JEE_MAIN_2024_01_29_SHIFT_2",
     "question_number": 67,
-    "content": "The distance of the point (2, 3) from the line 2x −3y + 28 = 0, measured parallel to the line\n√3x −y + 1 = 0, is equal to\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links..com/mWN\n(29 Jan Shift 2)\n\nQuestion Paper",
+    "content": "The distance of the point (2, 3) from the line 2x −3y + 28 = 0, measured parallel to the line\n√3x −y + 1 = 0, is equal to",
     "options": [
       {
         "id": "A",
@@ -3062,7 +3074,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "The distance of the point (2, 3) from the line 2x −3y + 28 = 0, measured parallel to the line\n    √3x −y + 1 = 0, is equal to\n\n\n\n\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN\nJEE Main 2024 (29 Jan Shift 2)                              JEE Main Previous Year Paper\n\nQuestion Paper                                                                         MathonGo\n\n      (1) 4√2                                               (2) 6√3\n      (3) 3 + 4√2                                          (4) 4 + 6√3\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_2_Q_68",
@@ -3113,7 +3127,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "If the mean and variance of five observations are 24 and 194 respectively and the mean of first four                                                                5        25\n     observations is 7 , then the variance of the first four observations in equal to                         2\n      (1) 4                                                  (2) 77           5                                                            12\n      (3) 5                                                  (4) 105           4                                                             4\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_2_Q_69",
@@ -3164,7 +3180,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "If R is the smallest equivalence relation on the set {1, 2, 3, 4} such that {(1, 2), (1, 3)} ⊂R, then the number\n     of elements in R is ______.\n      (1) 10                                                 (2) 12\n      (3) 8                                                  (4) 15\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_2_Q_70",
@@ -3215,7 +3233,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "      ⎡ 2  1  2 ⎤      ⎡ 1  2  0⎤\n     Let A =  6  2  11  and P =  5  0  2   . The sum of the prime factors of P−1AP −2I  is equal to\n         ⎣ 3  3  2 ⎦      ⎣ 7  1  5⎦\n      (1) 26                                                 (2) 27\n      (3) 66                                                 (4) 23\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_2_Q_71",
@@ -3237,7 +3257,7 @@
       },
       {
         "id": "D",
-        "content": "5x + 8y = 9"
+        "content": "5x + 8y = 9\n\n−1 < x < 1. Then at x = 12 , the value of 225(y′ −y′′) is equal to"
       }
     ],
     "correct_option": "D",
@@ -3266,7 +3286,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "Let x = mn (m, n are co-prime natural numbers) be a solution of the equation cos(2 sin−1 x) = 19 and let\n     α, β(α > β) be the roots of the equation mx2 −nx −m + n = 0. Then the point (α, β) lies on the line\n      (1) 3x + 2y = 2                                      (2) 5x −8y = −9\n      (3) 3x −2y = −2                                    (4) 5x + 8y = 9\n\n                 −1 < x < 1. Then at x = 12 , the value of 225(y′ −y′′) is equal to",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_2_Q_72",
@@ -3317,7 +3339,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "Let y = loge( 1−x21+x2 ),\n      (1) 732                                                (2) 746\n      (3) 742                                                (4) 736\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_2_Q_73",
@@ -3368,7 +3392,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "The function f(x) = 2x + 3x 23 , x ∈R, has\n      (1) exactly one point of local minima and no point of (2) exactly one point of local maxima and no point\n          local maxima                                       of local minima\n      (3) exactly one point of local maxima and exactly    (4) exactly two points of local maxima and exactly\n        one point of local minima                       one point of local minima\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_2_Q_74",
@@ -3419,7 +3445,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "The function f(x) =     x      , x ∈R −{−2, 8}                           x2−6x−16\n      (1) decreases in (−2, 8) and increases in             (2) decreases in (−∞, −2) ∪(−2, 8) ∪(8, ∞)\n      (−∞, −2) ∪(8, ∞)\n      (3) decreases in (−∞, −2) and increases in (8, ∞)  (4) increases in (−∞, −2) ∪(−2, 8) ∪(8, ∞)\n\n                   sin 2 x+cos 2 x   dx = A√cos θ tan x −sin θ + B√cos θ −sin θ cot x + C, where C is the integration",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_2_Q_75",
@@ -3441,7 +3469,7 @@
       },
       {
         "id": "D",
-        "content": "8 cosec (2θ)\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links..com/mWN ∣∣ ⎢ ⎥ ⎢ ⎥\n(29 Jan Shift 2)\n\nQuestion Paper"
+        "content": "8 cosec (2θ)"
       }
     ],
     "correct_option": "D",
@@ -3470,7 +3498,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "If ∫           3         3\n           √sin3 x cos3 x sin(x−θ)\n      constant, then AB is equal to\n      (1) 4 cosec (2θ)                                       (2) 4 sec θ\n      (3) 2 sec θ                                             (4) 8 cosec (2θ)\n\n\n\n\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN           ∣∣         ⎢     ⎥      ⎢     ⎥\n                                                                                                                                                                                                                                                                                                                JEE Main 2024 (29 Jan Shift 2)                              JEE Main Previous Year Paper\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                       Question Paper                                                                         MathonGo\n\n                                                                                                                                                                                                                                                                                                                                                                                                                    ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_2_Q_76",
@@ -3492,7 +3522,7 @@
       },
       {
         "id": "D",
-        "content": "9\n\n−−−"
+        "content": "9/−−−"
       }
     ],
     "correct_option": "A",
@@ -3521,7 +3551,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "If sin( xy ) = loge x + α2  is the solution of the differential equation x cos( xy ) dxdy = y cos( xy ) + x and\n                                                                                                                                                                                                                                                                                                                                                                                                                     y(1) = π3 , then α2 is equal to\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                (1) 3                                                  (2) 12\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                (3) 4                                                  (4) 9\n\n−−−",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_2_Q_77",
@@ -3572,7 +3604,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "Let OA→ =→a, OB→ = 12→a+ 4→b and OC→ = →b, where O is the origin. If S is the parallelogram with adjacent sides\n                                                                                                                                                                                                                                                            OA and OC, then area of the areaquadrilateralof S   OABC is equal to _____\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                (1) 6                                                  (2) 10\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                (3) 7                                                  (4) 8\n\n                                                                                                                                                                                                                                                                                                                                                                                             ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_2_Q_78",
@@ -3623,7 +3657,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "Let a unit vector ˆu = xˆi + yˆj + zˆk make angles π2 , π3 and 2π3  with the vectors √2ˆi1 + √21  ˆk, √21  ˆj + √21  ˆk and\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   1 +  1  ˆj respectively. If →v=                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       1 +  1  ˆj +  1  ˆk, then |^u −→v|2 is equal to                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   √2ˆi   √2                       √2ˆi   √2    √2\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                (1) 11                                                 (2) 5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      2                                                           2\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                (3) 9                                                  (4) 7\n\n                                                                                                                                                                                                                                                                                                                                                                                             ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_2_Q_79",
@@ -3674,7 +3710,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "Let P(3, 2, 3), Q(4, 6, 2) and R(7, 3, 2) be the vertices of Δ PQR. Then, the angle ∠QPR is\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                (1) π                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      6                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        (2) cos−1( 187 )\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                (3) cos−1( 181 )                                        (4) π3\n\n                                                                                                                                                                                                                                                                                                                                                  ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_2_Q_80",
@@ -3725,13 +3763,15 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "An integer is chosen at random from the integers 1 , 2, 3, . . . . . , 50. The probability that the chosen integer is\n                                                                                                                                                                                                                                                                                                                                                                                                                                                        a multiple of atleast one of 4, 6 and 7 is\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                (1)  8                                                  (2) 21                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      25                                                           50\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                (3)  9                                                  (4) 14                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      50                                                           25\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  is equal to _______.                                                                                                                                                                                                                                                                                             +                                                                                                                                                                                                                                                                                                                                                                                             ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_2_Q_81",
     "paper_id": "JEE_MAIN_2024_01_29_SHIFT_2",
     "question_number": 81,
-    "content": "Let the set C = {(x, y) ∣x2 −2y = 2023, x, y ∈N}. Then ∑(x,y)∈C(x y)",
+    "content": "Let the set C = {(x, y) ∣x2 −2y = 2023, x, y ∈N}. Then ∑(x,y)∈C(x y) is equal to _______. +",
     "options": [],
     "correct_option": null,
     "numerical_answer": 46.0,
@@ -3758,7 +3798,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "46"
-    }
+    },
+    "raw_content": "Let the set C = {(x, y) ∣x2 −2y = 2023, x, y ∈N}. Then ∑(x,y)∈C(x                                                                                                                                                                                                                                                                                                                                                                                                                          y)\n\n                                                                                                                                                                                                                                                                                                                                                                                             ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_2_Q_82",
@@ -3791,7 +3833,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "49"
-    }
+    },
+    "raw_content": "Let α, β be the roots of the equation x2 −√6x + 3 = 0 such that Im (α) >Im (β). Let a, b be integers not\n\n                                                                                                                                                                                                                                                                                            +                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         i = √−1. Then n + a + b is                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      divisible by 3 and n be a natural number such that α99β + α98 = 3n(a                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ib),\n                                                                                                                                                                                                                                                                                                                                                                                                                                                             equal to ___________.\n\n                                                                                                                                                                                                                                                                                                                                                                                          ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_2_Q_83",
@@ -3824,7 +3868,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "Remainder when 643232 is divided by 9 is equal to _____.\n\n                                                                                                                                                                                                                                                                                                                                                                                             ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_2_Q_84",
@@ -3857,7 +3903,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "192"
-    }
+    },
+    "raw_content": "Let P(α, β) be a point on the parabola y2 = 4x. If P also lies on the chord of the parabola x2 = 8y whose mid\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     point is (1, 54 ), then (α −28)(β −8) is equal to _______.\n                                                                                                                                                                                                                                                                                                                                                                                             ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_2_Q_85",
@@ -3890,13 +3938,15 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "12"
-    }
+    },
+    "raw_content": "Let the slope of the line 45x + 5y + 3 = 0 be 27r1 + 9r22  for some r1,  r2 ∈R. Then\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        8t2               is equal to ______.                                                                                                                                                                                                                                                                                                                                                                                                                                lim    3   3r2x                                                                                                                                                                                                                                                                                                                                                              x→3(∫x    2 −r2x2−r1x3−3x dt)\n\n                                                                                                                                                                                                                                                                                                                                                                                             ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_2_Q_86",
     "paper_id": "JEE_MAIN_2024_01_29_SHIFT_2",
     "question_number": 86,
-    "content": "Let for any three distinct consecutive terms a, b, c of an A.P, the lines ax + by + c = 0 be concurrent at the\npoint P and Q(α, β) be a point such that the system of equations x + y + z = 6, 2x + 5y + αz = β and\nx + 2 y + 3 z = 4, has infinitely many solutions. Then (PQ)2 is equal to _______.\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links..com/mWN ∣\n(29 Jan Shift 2)\n\nQuestion Paper\n\nr be differentiable in (−∞, 0) ∪(0, ∞) and f(1) = 1. Then r2−x2 −r3e }",
+    "content": "Let for any three distinct consecutive terms a, b, c of an A.P, the lines ax + by + c = 0 be concurrent at the\npoint P and Q(α, β) be a point such that the system of equations x + y + z = 6, 2x + 5y + αz = β and\nx + 2 y + 3 z = 4, has infinitely many solutions. Then (PQ)2 is equal to _______.\n\nr be differentiable in (−∞, 0) ∪(0, ∞) and f(1) = 1. Then r2−x2 −r3e }",
     "options": [],
     "correct_option": null,
     "numerical_answer": 113.0,
@@ -3923,7 +3973,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "113"
-    }
+    },
+    "raw_content": "Let for any three distinct consecutive terms a, b, c of an A.P, the lines ax + by + c = 0 be concurrent at the\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     point P and Q(α, β) be a point such that the system of equations x + y + z = 6, 2x + 5y + αz = β and\n                                                                                                                                                                                                                                                                                                                                                 x + 2 y + 3 z = 4, has infinitely many solutions. Then (PQ)2 is equal to _______.\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ∣\n                                                                                                                                                                                                                                                              JEE Main 2024 (29 Jan Shift 2)                              JEE Main Previous Year Paper\n\n                                                                                                                                                                                                                                                                                                                                                                  Question Paper                                                                         MathonGo\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    r                                                                                                                                                                                                                                                                                                                                                                                                   be differentiable in (−∞, 0) ∪(0, ∞) and f(1) = 1. Then                                                                                                                                                                                                                                                                                                                                                                                                                                                                      r2−x2     −r3e                                                                                                                                                                                                                                                                               }                                                                                                                                                                                                                                                                                                                               ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_2_Q_87",
@@ -3956,7 +4008,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "Let f(x) = √limr→x{ 2r2[(f(r))2−f(x)f(r)]            f(r)\n                                                                                                                                                                                                                                                                                                                                                                                                             the value of ae , such that f(a) = 0, is equal to ______.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    π\n                                                                                                                                                                                                                                                                                                                                                  ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_2_Q_88",
@@ -3989,7 +4043,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "6"
-    }
+    },
+    "raw_content": "If ∫ π3 √1 −sin 2xdx = α + β√2 + γ√3, where α, β and γ are rational numbers, then 3α + 4β −γ is equal\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              6\n                                                                                                                                                                                                                                                                                                                                                                                                                                 to _____.\n\n                                                                                                                                                                                                                                                                                                                               ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_2_Q_89",
@@ -4022,13 +4078,15 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "164"
-    }
+    },
+    "raw_content": "Let the area of the region {(x, y) : 0 ≤x ≤3, 0 ≤y ≤min{x2 + 2, 2x + 2}} be A . Then 12A is equal to\n                                                                                                                                                                                                                                                                                                                                                            ______.\n\n                                                                                                                                                                                                                                                                                                                               ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_2_Q_90",
     "paper_id": "JEE_MAIN_2024_01_29_SHIFT_2",
     "question_number": 90,
-    "content": "Let O be the origin, and M and N be the points on the lines x−5 4 = y−41 = z−53 and x+812 = y+25 = z+119\n−−→ →\nrespectively such that MN is the shortest distance between the given lines. Then OM ⋅ON is equal to\n_________.\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links..com/mWN",
+    "content": "Let O be the origin, and M and N be the points on the lines x−5 4 = y−41 = z−53 and x+812 = y+25 = z+119\n−−→ →\nrespectively such that MN is the shortest distance between the given lines. Then OM ⋅ON is equal to\n_________.",
     "options": [],
     "correct_option": null,
     "numerical_answer": 9.0,
@@ -4055,6 +4113,8 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "9"
-    }
+    },
+    "raw_content": "Let O be the origin, and M and N be the points on the lines x−5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                4 = y−41 = z−53  and x+812 = y+25 = z+119\n−−→ →\n                                                                                                                                                                                                                                                                                                                                                                                                                respectively such that MN is the shortest distance between the given lines. Then OM ⋅ON is equal to\n                                                                                                                                                                                                                                                                                                                                                    _________.\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                      Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN\n",
+    "parsing_warnings": []
   }
 ]

@@ -2752,7 +2752,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "Let 𝑆= 𝑥∈𝑅: √3 + √2 𝑥+ √3 −√2 𝑥= 10. Then the number of elements in 𝑆 is:\n      (1) 4                                                  (2) 0\n      (3) 2                                                  (4) 1\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_1_Q_62",
@@ -2803,7 +2805,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "Let 𝑆= 𝑧∈𝐶: 𝑧−1 = 1 and √2 −1𝑧+ ¯𝑧- 𝑖𝑧- ¯𝑧= 2√2. Let 𝑧1, 𝑧2 ∈𝑆 be such that 𝑧1 = max𝑧∈𝑠𝑧 and\n                                  2\n     𝑧2 = min𝑧∈𝑠𝑧. Then √2𝑧1 −𝑧2  equals:\n      (1) 1                                                  (2) 4\n      (3) 3                                                  (4) 2\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_1_Q_63",
@@ -2854,7 +2858,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "If 𝑛 is the number of ways five different employees can sit into four indistinguishable offices where any office\n    may have any number of persons including zero, then 𝑛 is equal to:\n      (1) 47                                                 (2) 53\n      (3) 51                                                 (4) 43\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_1_Q_64",
@@ -2905,7 +2911,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "Let 3, 𝑎, 𝑏, 𝑐 be in 𝐴. 𝑃. and 3, 𝑎−1, 𝑏+ 1, 𝑐+ 9 be in 𝐺. 𝑃. Then, the arithmetic mean of 𝑎,  𝑏 and 𝑐 is:\n      (1) -4                                                 (2) -1\n      (3) 13                                                 (4) 11\n\n\n                     1                                     √𝑥",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_1_Q_65",
@@ -2927,7 +2935,7 @@
       },
       {
         "id": "D",
-        "content": "𝜋 −𝐶\n2\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links..com/mWN\n(01 Feb Shift 1)\n\nQuestion Paper"
+        "content": "𝜋 −𝐶\n2"
       }
     ],
     "correct_option": "A",
@@ -2956,7 +2964,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "If tan𝐴=                                                                          1                  tan𝐵=                                       and tan𝐶= 𝑥−3 + 𝑥−2 + 𝑥−1 2, 0 < 𝐴, 𝐵, 𝐶< 𝜋 then 𝐴+ 𝐵 is equal                √𝑥𝑥2 + 𝑥+ 1,         √𝑥2 + 𝑥+ 1                                                    2,\n      to:\n      (1) 𝐶                                                  (2) 𝜋−𝐶\n      (3) 2𝜋−𝐶                                            (4) 𝜋 −𝐶\n                                                               2\n\n\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN\nJEE Main 2024 (01 Feb Shift 1)                              JEE Main Previous Year Paper\n\nQuestion Paper                                                                         MathonGo\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_1_Q_66",
@@ -3007,7 +3017,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "Let 𝐶: 𝑥2 + 𝑦2 = 4 and 𝐶': 𝑥2 + 𝑦2 −4𝜆𝑥+ 9 = 0 be two circles. If the set of all values of 𝜆 so that the circles\n    𝐶 and 𝐶' intersect at two distinct points, is 𝑅−𝑎, 𝑏, then the point 8𝑎+ 12, 16𝑏−20 lies on the curve:\n      (1) 𝑥2 + 2𝑦2 −5𝑥+ 6𝑦= 3                          (2) 5𝑥2 −𝑦= −11\n      (3) 𝑥2 −4𝑦2 = 7                                     (4) 6𝑥2 + 𝑦2 = 42\n\n           𝑥2                𝑦2",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_1_Q_67",
@@ -3058,7 +3070,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "Let       +          = 1, 𝑎> 𝑏 be an ellipse, whose eccentricity is                                                                  1 and the length of the latus rectum is √14. Then           𝑎2                                                            √2                 𝑏2\n                                           𝑥2    𝑦2\n      the square of the eccentricity of  −  = 1 is:\n                                          𝑎2    𝑏2\n                                                               7\n      (1) 3                                                  (2)\n                                                               2\n         3                                                     5\n      (3)                                                    (4)\n         2                                                     2\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_1_Q_68",
@@ -3109,7 +3123,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "For 0 < 𝜃< 𝜋/ 2, if the eccentricity of the hyperbola 𝑥2 −𝑦2cosec2𝜃= 5 is √7 times eccentricity of the\n      ellipse 𝑥2cosec2𝜃+ 𝑦2 = 5, then the value of 𝜃 is:\n      (1) 𝜋                                                  (2) 5𝜋\n         6                                                     12\n         𝜋                                                 𝜋\n      (3)                                                    (4)\n         3                                                     4\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_1_Q_69",
@@ -3131,7 +3147,7 @@
       },
       {
         "id": "D",
-        "content": "32\n\n0"
+        "content": "32/0"
       }
     ],
     "correct_option": "C",
@@ -3160,7 +3176,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "Let the median and the mean deviation about the median of 7 observation 170, 125, 230, 190, 210, 𝑎, 𝑏 be 170\n          205\n     and     respectively. Then the mean deviation about the mean of these 7 observations is:\n           7\n      (1) 31                                                 (2) 28\n      (3) 30                                                 (4) 32\n\n\n                      0",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_1_Q_70",
@@ -3211,7 +3229,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "If 𝐴= √2  1    , 𝐵1                                                                , 𝐶= 𝐴𝐵𝐴𝑇 and 𝑋= 𝐴𝑇𝐶2𝐴, then det 𝑋 is equal to:\n         −1 √2    1 1\n      (1) 243                                               (2) 729\n      (3) 27                                                 (4) 891\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_1_Q_71",
@@ -3262,7 +3282,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "If the system of equations\n\n   2𝑥+ 3𝑦−𝑧= 5\n\n   𝑥+ 𝛼𝑦+ 3𝑧= −4\n\n   3𝑥−𝑦+ 𝛽𝑧= 7\n     has infinitely many solutions, then 13𝛼𝛽 is equal to\n      (1) 1110                                              (2) 1120\n      (3) 1210                                              (4) 1220\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_1_Q_72",
@@ -3313,13 +3335,15 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "Let 𝑓: 𝑅→𝑅 and 𝑔: 𝑅→𝑅 be defined as 𝑓𝑥=  log𝑒𝑥, 𝑥> 0 and 𝑔𝑥=  𝑥, 𝑥≥0  . Then, 𝑔𝑜𝑓: 𝑅→𝑅 is:\n                                                     𝑒−𝑥,  𝑥≤0              𝑒𝑥, 𝑥< 0\n      (1) one-one but not onto                              (2) neither one-one nor onto\n      (3) onto but not one-one                              (4) both one-one and onto\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_1_Q_73",
     "paper_id": "JEE_MAIN_2024_02_01_SHIFT_1",
     "question_number": 73,
-    "content": "Let 𝑓: 𝑅→𝑅 be defined as\n\n𝑎−𝑏cos2𝑥\n; 𝑥< 0\n𝑥2\n𝑓𝑥= 𝑥2 + 𝑐𝑥+ 2; 0 ≤𝑥≤1\n2𝑥+ 1; 𝑥> 1\nIf 𝑓 is continuous everywhere in 𝑅 and 𝑚 is the number of points where 𝑓 is NOT differential then\n𝑚 + 𝑎 + 𝑏 + 𝑐 equals:\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links..com/mWN\n(01 Feb Shift 1)\n\nQuestion Paper",
+    "content": "Let 𝑓: 𝑅→𝑅 be defined as\n\n𝑎−𝑏cos2𝑥\n; 𝑥< 0\n𝑥2\n𝑓𝑥= 𝑥2 + 𝑐𝑥+ 2; 0 ≤𝑥≤1\n2𝑥+ 1; 𝑥> 1\nIf 𝑓 is continuous everywhere in 𝑅 and 𝑚 is the number of points where 𝑓 is NOT differential then\n𝑚 + 𝑎 + 𝑏 + 𝑐 equals:",
     "options": [
       {
         "id": "A",
@@ -3335,7 +3359,7 @@
       },
       {
         "id": "D",
-        "content": "2\n\n1"
+        "content": "2/1"
       }
     ],
     "correct_option": "D",
@@ -3364,7 +3388,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "Let 𝑓: 𝑅→𝑅 be defined as\n\n               𝑎−𝑏cos2𝑥\n                                       ; 𝑥< 0\n                       𝑥2\n   𝑓𝑥=           𝑥2 + 𝑐𝑥+ 2; 0 ≤𝑥≤1\n          2𝑥+ 1; 𝑥> 1\n       If 𝑓  is continuous everywhere in 𝑅 and 𝑚  is the number of points where 𝑓  is NOT differential then\n   𝑚 +  𝑎 +  𝑏 +  𝑐 equals:\n\n\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN\nJEE Main 2024 (01 Feb Shift 1)                              JEE Main Previous Year Paper\n\nQuestion Paper                                                                         MathonGo\n\n\n      (1) 1                                                  (2) 4\n      (3) 3                                                  (4) 2\n\n                  1\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_1_Q_74",
@@ -3415,7 +3441,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "If 5𝑓𝑥+ 4𝑓 𝑥= 𝑥2 −2, ∀𝑥≠0 and 𝑦= 9𝑥2𝑓𝑥, then 𝑦 is strictly increasing in:\n      (1) 0, 1 ∪1 ∞                                      (2) −1 0 ∪1 ∞           √5   √5,                                            √5,     √5,\n      (3) −1 0 ∪0, 1                                     (4) −∞, 1 ∪0, 1           √5,      √5                                         √5     √5\n\n                                    𝜋\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_1_Q_75",
@@ -3466,7 +3494,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "                                4                                       𝑥𝑑𝑥\n    The value of the integral ∫              equals:\n                                0 sin42𝑥+ cos42𝑥\n      (1) √2𝜋2                                               (2) √2𝜋2\n           8                                                    16\n      (3) √2𝜋2                                               (4) √2𝜋2\n           32                                                    64\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_1_Q_76",
@@ -3517,7 +3547,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "The area enclosed by the curves 𝑥𝑦+ 4𝑦= 16 and 𝑥+ 𝑦= 6 is equal to:\n      (1) 28 −30log𝑒2                                     (2) 30 −28log𝑒2\n      (3) 30 −32log𝑒2                                     (4) 32 −30log𝑒2\n\n                                                                                                                     2\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_1_Q_77",
@@ -3568,7 +3600,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "Let 𝑦= 𝑦𝑥 be the solution of the differential equation 𝑑𝑦  2𝑥𝑥+ 𝑦3 −𝑥𝑥+ 𝑦−1, 𝑦0 = 1. Then,  1 + 𝑦1                                       𝑑𝑥=                                     √2    √2\n      equals:\n      (1)   4                                                (2)   3\n         4 + √𝑒                                                3 −√𝑒\n            2                                                     1\n      (3)                                                    (4)\n         1 + √𝑒                                                2 −√𝑒\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_1_Q_78",
@@ -3619,7 +3653,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "Let →𝑎= −5 ^𝑖+ ^𝑗−3 ^𝑘,  →𝑏= ^𝑖+ 2 ^𝑗−4 ^𝑘 and →𝑐= →𝑎× →𝑏× ^𝑖× ^𝑖× ^𝑖. Then →𝑐⋅− ^𝑖+ ^𝑗+ ^𝑘 is equal to\n      (1) -12                                                (2) -10\n      (3) -13                                                (4) -15\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_1_Q_79",
@@ -3670,7 +3706,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "If the shortest distance between the lines 𝑥−𝜆 = 𝑦−2 = 𝑧−1 and 𝑥−√3 = 𝑦−1 = 𝑧−2 is 1, then the sum of all\n                                         −2      1       1         1      −2      1\n      possible values of 𝜆 is\n      (1) 0                                                  (2) 2√3\n      (3) 3√3                                               (4) −2√3\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_1_Q_80",
@@ -3721,7 +3759,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "A bag contains 8 balls, whose colours are either white or black. 4 balls are drawn at random without\n     replacement and it was found that 2 balls are white and other 2 balls are black. The probability that the bag\n     contains equal number of white and black balls is:\n      (1) 2                                                  (2) 2\n         5                                                     7\n         1                                                     1\n      (3)                                                    (4)\n         7                                                     5\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_1_Q_81",
@@ -3754,7 +3794,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "36"
-    }
+    },
+    "raw_content": "Let 𝑃= 𝑧∈ℂ: 𝑧+ 2 −3𝑖≤1 and 𝑄= 𝑧∈ℂ: 𝑧1 + 𝑖+ ¯𝑧1 −𝑖≤−8. Let in 𝑃∩𝑄, 𝑧−3 + 2𝑖 be maximum\n     and minimum at 𝑧1 and 𝑧2 respectively. If 𝑧12 + 2𝑧2 = 𝛼+ 𝛽√2, where 𝛼, 𝛽 are integers, then 𝛼+ 𝛽 equals\n     __________\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_1_Q_82",
@@ -3787,13 +3829,15 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "6699"
-    }
+    },
+    "raw_content": "Let 3,   7, 11,  15,  .  . , 403 and 2,   5,   8,  11,  .  .  . , 404 be two arithmetic progressions. Then the sum, of the\n    common terms in them, is equal to_________\n\n                                                      1 6",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_1_Q_83",
     "paper_id": "JEE_MAIN_2024_02_01_SHIFT_1",
     "question_number": 83,
-    "content": "If the coefficient of 𝑥30 in the expansion of 1 + 1 + 𝑥271 −𝑥38; 𝑥≠0 is 𝛼, then 𝛼 equals _________.\n𝑥\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links..com/mWN\n(01 Feb Shift 1)\n\nQuestion Paper",
+    "content": "If the coefficient of 𝑥30 in the expansion of 1 + 1 + 𝑥271 −𝑥38; 𝑥≠0 is 𝛼, then 𝛼 equals _________.\n𝑥",
     "options": [],
     "correct_option": null,
     "numerical_answer": 678.0,
@@ -3820,13 +3864,15 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "678"
-    }
+    },
+    "raw_content": "If the coefficient of 𝑥30 in the expansion of 1 +  1 + 𝑥271 −𝑥38; 𝑥≠0 is 𝛼, then 𝛼 equals _________.\n                                                        𝑥\n\n\n\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN\nJEE Main 2024 (01 Feb Shift 1)                              JEE Main Previous Year Paper\n\nQuestion Paper                                                                         MathonGo\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_1_Q_84",
     "paper_id": "JEE_MAIN_2024_02_01_SHIFT_1",
     "question_number": 84,
-    "content": "Let the line 𝐿: √2𝑥+ 𝑦= 𝛼 pass through the point of the intersection 𝑃(in the first quadrant)of the circle\n𝑥2 + 𝑦2 = 3 and the parabola 𝑥2 = 2𝑦. Let the line 𝐿 touch two circles 𝐶1 and 𝐶2 of equal radius 2√3. If the\ncentres 𝑄1 and 𝑄2 of the circles 𝐶1 and 𝐶2 lie on the 𝑦- axis, then the square of the area of the triangle 𝑃𝑄1𝑄2\nis equal to _________.",
+    "content": "Let the line 𝐿: √2𝑥+ 𝑦= 𝛼 pass through the point of the intersection 𝑃(in the first quadrant)of the circle\n𝑥2 + 𝑦2 = 3 and the parabola 𝑥2 = 2𝑦. Let the line 𝐿 touch two circles 𝐶1 and 𝐶2 of equal radius 2√3. If the\ncentres 𝑄1 and 𝑄2 of the circles 𝐶1 and 𝐶2 lie on the 𝑦- axis, then the square of the area of the triangle 𝑃𝑄1𝑄2",
     "options": [],
     "correct_option": null,
     "numerical_answer": 72.0,
@@ -3853,13 +3899,15 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "72"
-    }
+    },
+    "raw_content": "Let the line 𝐿: √2𝑥+ 𝑦= 𝛼 pass through the point of the intersection 𝑃(in the first quadrant)of the circle\n     𝑥2 + 𝑦2 = 3 and the parabola 𝑥2 = 2𝑦. Let the line 𝐿 touch two circles 𝐶1 and 𝐶2 of equal radius 2√3. If the\n      centres 𝑄1 and 𝑄2 of the circles 𝐶1 and 𝐶2 lie on the 𝑦- axis, then the square of the area of the triangle 𝑃𝑄1𝑄2\n        is equal to _________.\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_1_Q_85",
     "paper_id": "JEE_MAIN_2024_02_01_SHIFT_1",
     "question_number": 85,
-    "content": "Let 𝑥 denote the fractional part of 𝑥 and 𝑓𝑥= cos−11 −𝑥2sin−11 −𝑥 , 𝑥≠0. If 𝐿 and 𝑅 respectively denotes the\n𝑥−𝑥3\n32\nleft hand limit and the right hand limit of 𝑓𝑥 at 𝑥= 0, then 𝜋2𝐿2 + 𝑅2 is equal to __________.",
+    "content": "Let 𝑥 denote the fractional part of 𝑥 and 𝑓𝑥= cos−11 −𝑥2sin−11 −𝑥 , 𝑥≠0. If 𝐿 and 𝑅 respectively denotes the\n𝑥−𝑥3\n32\nleft hand limit and the right hand limit of 𝑓𝑥 at 𝑥= 0, then 𝜋2𝐿2 + 𝑅2 is equal to __________. is equal to _________.",
     "options": [],
     "correct_option": null,
     "numerical_answer": 18.0,
@@ -3886,7 +3934,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "18"
-    }
+    },
+    "raw_content": "Let 𝑥 denote the fractional part of 𝑥 and 𝑓𝑥= cos−11 −𝑥2sin−11 −𝑥 , 𝑥≠0. If 𝐿 and 𝑅 respectively denotes the\n                                                𝑥−𝑥3\n                                                                  32\n       left hand limit and the right hand limit of 𝑓𝑥 at 𝑥= 0, then 𝜋2𝐿2 + 𝑅2 is equal to __________.\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_1_Q_86",
@@ -3919,7 +3969,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "169"
-    }
+    },
+    "raw_content": "The number of elements in the set 𝑆= 𝑥, 𝑦, 𝑧: 𝑥, 𝑦, 𝑧∈𝑍, 𝑥+ 2𝑦+ 3𝑧= 42, 𝑥, 𝑦, 𝑧≥0 equals ________\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_1_Q_87",
@@ -3952,7 +4004,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "46"
-    }
+    },
+    "raw_content": "Let 𝐴= 1, 2, 3,  . ..20 . Let 𝑅1 and 𝑅2 two relation on 𝐴 such that\n    𝑅1 = {𝑎, 𝑏: 𝑏 is divisible by 𝑎}\n    𝑅2 = {𝑎, 𝑏: 𝑎 is an integral multiple of 𝑏}\n     Then, number of elements in 𝑅1 −𝑅2 is equal to __________.\n\n                   𝛼𝜋+ 𝛽log𝑒3 + 2√2, where 𝛼,  𝛽 are integers, then 𝛼2 + 𝛽2 equals __________",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_1_Q_88",
@@ -3985,7 +4039,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "8"
-    }
+    },
+    "raw_content": "If ∫−𝜋/𝜋/ 2 2 1 +8√2cos𝑥𝑑𝑥𝑒sin𝑥1 + sin4𝑥=\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_1_Q_89",
@@ -4018,13 +4074,15 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "14"
-    }
+    },
+    "raw_content": "If 𝑥= 𝑥𝑡 is the solution of the differential equation 𝑡+ 1𝑑𝑥= 2𝑥+ 𝑡+ 14𝑑𝑡, 𝑥0 = 2, then 𝑥1 equals\n     ________\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_1_Q_90",
     "paper_id": "JEE_MAIN_2024_02_01_SHIFT_1",
     "question_number": 90,
-    "content": "Let the line of the shortest distance between the lines 𝐿1: →𝑟= ^𝑖+ 2 ^𝑗+ 3 ^𝑘+ 𝜆 ^𝑖− ^𝑗+ ^𝑘 and\n𝐿2: →𝑟= 4 ^𝑖+ 5 ^𝑗+ 6 ^𝑘+ 𝜇 ^𝑖+ ^𝑗− ^𝑘 intersect 𝐿1 and 𝐿2 at 𝑃 and 𝑄 respectively. If 𝛼, 𝛽, 𝛾 is the midpoint of the\nline segment 𝑃𝑄, then 2𝛼+ 𝛽+ 𝛾 is equal to___________\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links..com/mWN",
+    "content": "Let the line of the shortest distance between the lines 𝐿1: →𝑟= ^𝑖+ 2 ^𝑗+ 3 ^𝑘+ 𝜆 ^𝑖− ^𝑗+ ^𝑘 and\n𝐿2: →𝑟= 4 ^𝑖+ 5 ^𝑗+ 6 ^𝑘+ 𝜇 ^𝑖+ ^𝑗− ^𝑘 intersect 𝐿1 and 𝐿2 at 𝑃 and 𝑄 respectively. If 𝛼, 𝛽, 𝛾 is the midpoint of the\nline segment 𝑃𝑄, then 2𝛼+ 𝛽+ 𝛾 is equal to___________",
     "options": [],
     "correct_option": null,
     "numerical_answer": 21.0,
@@ -4051,6 +4109,8 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "21"
-    }
+    },
+    "raw_content": "Let  the   line  of  the  shortest  distance  between  the   lines  𝐿1: →𝑟= ^𝑖+ 2 ^𝑗+ 3 ^𝑘+ 𝜆 ^𝑖− ^𝑗+ ^𝑘  and\n      𝐿2: →𝑟= 4 ^𝑖+ 5 ^𝑗+ 6 ^𝑘+ 𝜇 ^𝑖+ ^𝑗− ^𝑘 intersect 𝐿1 and 𝐿2 at 𝑃 and 𝑄 respectively. If 𝛼, 𝛽, 𝛾 is the midpoint of the\n      line segment 𝑃𝑄, then 2𝛼+ 𝛽+ 𝛾 is equal to___________\n\n\n\n\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN\n",
+    "parsing_warnings": []
   }
 ]

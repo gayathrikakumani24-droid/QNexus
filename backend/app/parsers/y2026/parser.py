@@ -9,7 +9,6 @@ import logging
 from typing import List, Dict, Any, Tuple, Optional
 from app.schemas.question_schema import QuestionCreate
 from app.services.pdf_parser import extract_pages_from_pdf
-from app.services.extractor_service import extract_questions_from_pages
 from app.utils.id_generator import generate_paper_id
 
 logger = logging.getLogger("qnexus.parsers.y2026")
@@ -86,6 +85,7 @@ def parse_2026_paper(
         output_dir=target_output_dir
     )
 
+    from app.services.extractor_service import extract_questions_from_pages
     questions = extract_questions_from_pages(
         pages_data=pages_data,
         paper_id=paper_id,

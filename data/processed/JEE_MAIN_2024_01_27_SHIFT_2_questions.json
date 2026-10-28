@@ -2748,7 +2748,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "If 𝛼, 𝛽 are the roots of the equation, x2 - x - 1 = 0 and Sn = 2023𝛼n + 2024𝛽n, then\n      (1) 2  S12 = S11 + S10                                (2) S12 = S11 + S10\n      (3) 2  S11 = S12 + S10                                (4) S11 = S10 + S12\n\n                      4!                                     !                                          5!                    (                        )                                         (\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_2_Q_62",
@@ -2799,7 +2801,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "Let 𝛼=                 and 𝛽=                              3!                                             )4!.! Then :                     4!                                         5!                    (                                         (                        )                                            )\n      (1) 𝛼∈N and 𝛽∉N                                  (2) 𝛼∉N and 𝛽∈N\n      (3) 𝛼∈N and 𝛽∈N                                  (4) 𝛼∉N and 𝛽∉N\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_2_Q_63",
@@ -2850,7 +2854,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "The 20th term from the end of the progression 20, 191 181 173 … , - 1291 is :-                                                                       4,    2,    4,           4\n      (1) -118                                              (2) -110\n      (3) -115                                              (4) -100\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_2_Q_64",
@@ -2901,7 +2907,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "If 2tan2𝜃- 5sec𝜃= 1 has exactly 7 solutions in the interval 0, n𝜋 , for the least value of n ∈N then   n     k  is                                                                      2                          ∑k = 1 2k\n     equal to :\n\n                                                                                     - 15      (1) 2152141                    - 14                                        (2) 2142151\n             15                                                 1\n      (3) 1 -                                                 (4)         - 15              213                                              213214\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_2_Q_65",
@@ -2952,7 +2960,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "Let 𝐴 and 𝐵 be two finite sets with 𝑚 and 𝑛 elements respectively. The total number of subsets of the set 𝐴 is\n    56 more than the total number of subsets of 𝐵. Then the distance of the point P ( m, n ) from the point\n    Q ( - 2, - 3 ) is\n      (1) 10                                                 (2) 6\n      (3) 4                                                  (4) 8\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_2_Q_66",
@@ -3003,7 +3013,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "Let R be the interior region between the lines 3x - y + 1 = 0 and x + 2y - 5 = 0 containing the origin. The set\n     of all values of 𝑎, for which the points a2, a + 1 lie in R, is :\n      (1) ( - 3, - 1) ∪- 1 1                                (2) ( - 3, 0) ∪ 1 1                             3,                                                           3,\n      (3) ( - 3, 0) ∪ 2 1                                   (4) ( - 3, - 1) ∪ 1 1                          3,                                                                3,\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_2_Q_67",
@@ -3017,7 +3029,7 @@
       },
       {
         "id": "B",
-        "content": "8√5\n3"
+        "content": "8√5/3"
       },
       {
         "id": "C",
@@ -3025,7 +3037,7 @@
       },
       {
         "id": "D",
-        "content": "3√5\n3\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links..com/mWN\n(27 Jan Shift 2)\n\nQuestion Paper"
+        "content": "3√5/3"
       }
     ],
     "correct_option": "C",
@@ -3054,7 +3066,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "Let e1 be the eccentricity of the hyperbola x2 - y2 = 1 and e2 be the eccentricity of the ellipse                                                 16   9\n       x2    y2\n     +  = 1,  a > b, which passes through the foci of the hyperbola. If e1e2 = 1, then the length of the chord       a2    b2\n     of the ellipse parallel to the x-axis and passing through ( 0, 2 ) is :\n      (1) 4√5                                               (2) 8√5\n                                                                3\n      (3) 10√5                                               (4) 3√5\n           3\n\n\n\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN\nJEE Main 2024 (27 Jan Shift 2)                              JEE Main Previous Year Paper\n\nQuestion Paper                                                                         MathonGo\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_2_Q_68",
@@ -3105,7 +3119,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "If lim 3 + 𝛼sin𝑥+ 𝛽cos𝑥+ log𝑒( 1 - 𝑥) = 1 then 2𝛼- 𝛽 is equal to :     𝑥→0            3tan2𝑥               3,\n      (1) 2                                                  (2) 7\n      (3) 5                                                  (4) 1\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_2_Q_69",
@@ -3156,7 +3172,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "                       1        3   𝛼+ 3\n                                              2          2\n    The values of 𝛼, for which              1          1 = 0, lie in the interval                           1       𝛼+\n                                              3          3\n                   2𝛼+ 3 3𝛼+ 1   0\n      (1) ( - 2, 1 )                                          (2) ( - 3, 0 )\n      (3) -3 3                                               (4) ( 0, 3 )            2, 2\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_2_Q_70",
@@ -3207,7 +3225,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "Considering only the principal values of inverse trigonometric functions, the number of positive real values of\n    𝑥 satisfying tan-1 (x) + tan-1 (2x) = π is :\n                                              4\n      (1) More than 2                                       (2) 1\n      (3) 2                                                  (4) 0\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_2_Q_71",
@@ -3258,7 +3278,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "Let f: R - -1 →R and g: R - -5 →R be defined as fx = 2x + 3 and gx = |x | + 1 . Then the domain of the function\n               2                 2                           2x + 1            2x + 5\n     fog is :\n              5\n      (1) R - -                                               (2) 𝑅\n              2\n              7                                                     5   7\n      (3) R - -                                               (4) R - -   -              4                                                               2,   4\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_2_Q_72",
@@ -3309,7 +3331,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "Consider the function f: ( 0, 2 ) →R defined by f(x) = x + 2 and the function g ( x ) defined by\n                                                               2    x\n         min{f ( t ) },  0 < t ≤x and 0 < x ≤1\n     gx =      3                                                            . Then\n          + x,          1 < x < 2\n                2\n      (1) g is continuous but not differentiable at x = 1    (2) g is not continuous for all x ∈( 0, 2 )\n      (3) g is neither continuous nor differentiable at x = 1(4) g is continuous and differentiable for all\n                                                     x ∈( 0, 2 )\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_2_Q_73",
@@ -3360,7 +3384,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "Let g(x) = 3f x + f(3 - x) and f\" (x) > 0 for all x ∈( 0, 3 ) . If g is decreasing in ( 0, α ) and increasing in\n                     3\n      ( α, 3 ) , then 8α is\n      (1) 24                                                 (2) 0\n      (3) 18                                                 (4) 20\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_2_Q_74",
@@ -3382,7 +3408,7 @@
       },
       {
         "id": "D",
-        "content": "logetan-1x3 x3\n\n𝜋 𝑑𝑥"
+        "content": "logetan-1x3/𝜋 x3/𝑑𝑥"
       }
     ],
     "correct_option": "A",
@@ -3411,7 +3437,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "The integral ∫         x8 - x2dx       1 is equal to :                         x12 + 3x6 + 1tan-1x3 +                                                             x3\n      (1)               1 13                                  (2)                1 12         logtan-1x3 +\n                           x3               + C                               logetan-1x3 + x3 + C\n                        1                                                     1 3\n                                         +                                            + C      (3) logetan-1x3 + x3 + C                              (4) logetan-1x3                                                                                            x3\n\n                                             𝜋      𝑑𝑥\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_2_Q_75",
@@ -3433,7 +3461,7 @@
       },
       {
         "id": "D",
-        "content": "1 - 𝑎2 1 + 𝑎2\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links..com/mWN\n(27 Jan Shift 2)\n\nQuestion Paper"
+        "content": "1 - 𝑎2 1 + 𝑎2"
       }
     ],
     "correct_option": "C",
@@ -3462,7 +3490,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "For 0 < a < 1, the value of the integral ∫0 1 - 2𝑎cos𝑥+ 𝑎2 is :\n      (1)   𝜋2                                                (2)  𝜋2\n       𝜋+ 𝑎2                                               𝜋- 𝑎2\n          𝜋                                                  𝜋\n      (3)                                                    (4)\n         1 - 𝑎2                                                 1 + 𝑎2\n\n\n\n\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN\nJEE Main 2024 (27 Jan Shift 2)                              JEE Main Previous Year Paper\n\nQuestion Paper                                                                         MathonGo\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_2_Q_76",
@@ -3513,7 +3543,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "If y = y ( x ) is the solution curve of the differential equation x2 - 4dy - y2 - 3ydx = 0, x > 2, y(4) = 3 and\n                                                                                                              2\n      the slope of the curve is never zero, then the value of y ( 10 ) equals :\n             3                                                    3\n      (1)          1                                           (2) 1 + 2√2\n         1 + ( 8 ) 4\n            3                                                      3\n      (3)                                                             (4)         1         1 - 2√2\n                                                               1 - ( 8 ) 4\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_2_Q_77",
@@ -3564,7 +3596,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "The position vectors of the vertices A,  B and C of a triangle are 2 ^i - 3 ^j + 3 ^k,  2 ^i + 2 ^j + 3 ^k and - ^i + ^j + 3 ^k\n      respectively. Let 𝑙 denotes the length of the angle bisector AD of ∠BAC where D is on the line segment BC,\n     then 2𝑙2 equals :\n      (1) 49                                                 (2) 42\n      (3) 50                                                 (4) 45\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_2_Q_78",
@@ -3615,7 +3649,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "Let the position vectors of the vertices A,  B and C of a triangle be 2 ^i + 2 ^j + ^k,     ^i + 2 ^j + 2 ^k and 2 ^i + ^j + 2 ^k\n      respectively. Let l1, l2 and l3 be the lengths of perpendiculars drawn from the ortho centre of the triangle on the\n      sides AB, BC and CA respectively, then l12 + l22 + l32 equals :\n         1                                                     1\n      (1)                                                    (2)\n         5                                                     2\n      (3) 1                                                  (4) 1\n         4                                                     3\n\n                                                              x    y - 1    z - 2\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_2_Q_79",
@@ -3666,7 +3702,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "Let the image of the point ( 1, 0, 7 ) in the line =   =    be the point ( α, β, γ ) . Then which one of the\n                                                      1     2      3\n                                                                                 2π     3π\n     following points lies on the line passing through ( α, β, γ ) and making angles   and   with y - axis and z -\n                                                                                     3      4\n      axis respectively and an acute angle with x - axis?\n      (1) ( 1, - 2, 1 + √2 )                                  (2) ( 1, 2, 1 - √2 )\n      (3) ( 3, 4, 3 - 2√2 )                                   (4) ( 3, - 4, 3 + 2√2 )\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_2_Q_80",
@@ -3717,7 +3755,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "An urn contains 6 white and 9 black balls. Two successive draws of 4 balls are made without replacement. The\n      probability, that the first draw gives all white balls and the second draw gives all black balls, is :\n      (1)  5                                                 (2)  5\n         256                                                   715\n          3                                                     3\n      (3)                                                    (4)\n         715                                                   256\n\n                                      1\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_2_Q_81",
@@ -3750,7 +3790,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "20"
-    }
+    },
+    "raw_content": "Let the complex numbers α and                                                lie on the circles z - z02 = 4 and z - z02 = 16 respectively, where z0 = 1 + i.                                                                          ¯α\n     Then, the value of 100 | α| 2 is__________.\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_2_Q_82",
@@ -3783,7 +3825,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "0"
-    }
+    },
+    "raw_content": "The coefficient of x2012 in the expansion of 1 - x20081 + x + x22007 is equal to _____.\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_2_Q_83",
@@ -3816,7 +3860,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "32"
-    }
+    },
+    "raw_content": "If the sum of squares of all real values of α, for which the lines 2x - y + 3 = 0,  6x + 3y + 1 = 0 and\n    αx + 2y - 2 = 0 do not form a triangle is p, then the greatest integer less than or equal to p is ________.\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_2_Q_84",
@@ -3849,13 +3895,15 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "100"
-    }
+    },
+    "raw_content": "Consider a circle 𝑥- 𝛼2 + 𝑦- 𝛽2 = 50, where 𝛼, 𝛽> 0. If the circle touches the line 𝑦+ 𝑥= 0 at the point P,\n    whose distance from the origin is 4√2 , then ( 𝛼+ 𝛽) 2 is equal to _______.\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_2_Q_85",
     "paper_id": "JEE_MAIN_2024_01_27_SHIFT_2",
     "question_number": 85,
-    "content": "The mean and standard deviation of 15 observations were found to be 12 and 3 respectively. On rechecking it\nwas found that an observation was read as 10 in place of 12 . If 𝜇 and 𝜎2 denote the mean and variance of the\ncorrect observations respectively, then 15𝜇+ 𝜇2 + 𝜎2 is equal to _________.\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links..com/mWN\n(27 Jan Shift 2)\n\nQuestion Paper",
+    "content": "The mean and standard deviation of 15 observations were found to be 12 and 3 respectively. On rechecking it\nwas found that an observation was read as 10 in place of 12 . If 𝜇 and 𝜎2 denote the mean and variance of the\ncorrect observations respectively, then 15𝜇+ 𝜇2 + 𝜎2 is equal to _________.",
     "options": [],
     "correct_option": null,
     "numerical_answer": 2521.0,
@@ -3882,7 +3930,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "2521"
-    }
+    },
+    "raw_content": "The mean and standard deviation of 15 observations were found to be 12 and 3 respectively. On rechecking it\n    was found that an observation was read as 10 in place of 12 . If 𝜇 and 𝜎2 denote the mean and variance of the\n      correct observations respectively, then 15𝜇+ 𝜇2 + 𝜎2 is equal to _________.\n\n\n\n\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN\nJEE Main 2024 (27 Jan Shift 2)                              JEE Main Previous Year Paper\n\nQuestion Paper                                                                         MathonGo\n\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_2_Q_86",
@@ -3915,7 +3965,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "10"
-    }
+    },
+    "raw_content": "Let A be a 2 × 2 real matrix and I be the identity matrix of order 2 . If the roots of the equation |A - xI | = 0\n     be -1 and 3, then the sum of the diagonal elements of the matrix A2 is _____.\n\n                                                                                      π\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_2_Q_87",
@@ -3948,7 +4000,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "Let fx =   x       1 - t   where g is a continuous odd function. If    2 fx + x2cosx dx = π 2 - α, then α is equal             ∫0 gtloge 1 + tdt,                                          ∫-π      1 + ex      α\n                                                                                              2\n      to _____.\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_2_Q_88",
@@ -3981,7 +4035,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "304"
-    }
+    },
+    "raw_content": "If the area of the region ( x, y ) : 0 ≤y ≤min2x, 6x - x2 is A, then 12 A is equal to _______.\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_2_Q_89",
@@ -4014,13 +4070,15 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "11"
-    }
+    },
+    "raw_content": "If the solution curve, of the differential equation 𝑑𝑦   𝑥+ 𝑦- 2                                   𝑑𝑥=  𝑥- 𝑦  passing through the point ( 2, 1 ) is\n     tan-1𝑦- 1 - 1         𝑦- 1 2 =        1, then 5𝛽+ 𝛼 is equal to           𝑥- 1  𝛽log𝑒𝛼+ 𝑥- 1    log𝑒𝑥-\n\n                  x - 2    y     z - 7      x + 3    y + 2    z + 2\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_2_Q_90",
     "paper_id": "JEE_MAIN_2024_01_27_SHIFT_2",
     "question_number": 90,
-    "content": "The lines = = and = = intersect at the point P. If the distance of P from the line\n2 -2 16 4 3 1\nx + 1 y - 1\n= = z - 1 is 𝑙, then 14𝑙2 is equal to _____.\n2 3 1\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links..com/mWN",
+    "content": "The lines = = and = = intersect at the point P. If the distance of P from the line\n2 -2 16 4 3 1\nx + 1 y - 1\n= = z - 1 is 𝑙, then 14𝑙2 is equal to _____.\n2 3 1",
     "options": [],
     "correct_option": null,
     "numerical_answer": 108.0,
@@ -4047,6 +4105,8 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "108"
-    }
+    },
+    "raw_content": "The lines   =  =    and   =   =      intersect at the point P. If the distance of P from the line\n                 2      -2    16       4       3       1\n       x + 1               y - 1\n      =          =                         z - 1 is 𝑙, then 14𝑙2 is equal to _____.\n       2      3      1\n\n\n\n\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN\n",
+    "parsing_warnings": []
   }
 ]

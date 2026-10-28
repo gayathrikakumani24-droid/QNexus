@@ -2758,13 +2758,15 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "If z = x + iy, xy ≠0, satisfies the equation z2 + iz = 0, then z2  is equal to :\n                                                                                                                                                                                                                                                                             (1) 9                                                  (2) 1\n                                                                                                                                                                                                                                                                             (3) 4                                                  (4) 14\n\n                                                                                                                                                                                                             ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_1_Q_62",
     "paper_id": "JEE_MAIN_2024_01_30_SHIFT_1",
     "question_number": 62,
-    "content": "Let Sa denote the sum of first n terms an arithmetic progression. If S20 = 790 and S10 = 145, then S15−S5 is\n:\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links..com/mWN ∣\n(30 Jan Shift 1)\n\nQuestion Paper",
+    "content": "Let Sa denote the sum of first n terms an arithmetic progression. If S20 = 790 and S10 = 145, then S15−S5 is\n:",
     "options": [
       {
         "id": "A",
@@ -2809,7 +2811,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "Let Sa denote the sum of first n terms an arithmetic progression. If S20 = 790 and S10 = 145, then S15−S5 is\n                                                                                                                                                                                                                                                                                                                                                                                             :\n\n\n\n\n                                                                                                                                                                                                                                                                     Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN                                                                                                                                                                                                                                                                                                                                                                                                      ∣\nJEE Main 2024 (30 Jan Shift 1)                              JEE Main Previous Year Paper\n\nQuestion Paper                                                                         MathonGo\n\n\n      (1) 395                                                (2) 390\n      (3) 405                                                (4) 410\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_1_Q_63",
@@ -2860,7 +2864,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "If 2 sin3 x + sin 2x cos x + 4 sin x −4 = 0 has exactly 3 solutions in the interval [0, nπ2 ⌉, n ∈N , then the\n      roots of the equation x2 + nx + (n −3) = 0 belong to :\n      (1) (0, ∞)                                             (2) (−∞, 0)\n      (3) (−√172                         , √172 )                                    (4) Z\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_1_Q_64",
@@ -2911,7 +2917,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "A line passing through the point A(9, 0) makes an angle of 30° with the positive direction of x-axis. If this line\n       is rotated about A through an angle of 15° in the clockwise direction, then its equation in the new position is\n      (1)    y  + x = 9                                    (2)   x  + y = 9\n        √3−2                                          √3−2\n      (3)   x  + y = 9                                     (4)    y  + x = 9\n        √3+2                                          √3+2\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_1_Q_65",
@@ -2962,7 +2970,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "If the circles (x + 1)2 + (y + 2)2 = r2 and x2 + y2 −4x −4y + 4 = 0 intersect at exactly two distinct\n      points, then\n      (1) 5 < r < 9                                         (2) 0 < r < 7\n      (3) 3 < r < 7                                         (4) 21 < r < 7\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_1_Q_66",
@@ -3013,7 +3023,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "The maximum area of a triangle whose one vertex is at (0, 0) and the other two vertices lie on the curve\n     y = −2x2 + 54 at points (x, y) and (−x, y) where y > 0 is :\n      (1) 88                                                 (2) 122\n      (3) 92                                                 (4) 108\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_1_Q_67",
@@ -3064,7 +3076,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "If the length of the minor axis of ellipse is equal to half of the distance between the foci, then the eccentricity\n     of the ellipse is :\n      (1) √5                                                 (2) √3            3                                                            2\n      (3)  1                                                 (4)  2\n        √3                                           √5\n\n                    π                                                             1         x ∫x0 f(t)dt                                                                     lim                                                = α, then 8α2 is equal",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_1_Q_68",
@@ -3115,7 +3129,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "Let f : [−π2 , 2 ] →R be a differentiable function such that f(0) = 2 , If                                                                                          ex2−1                                                                 x→0\n      to :\n      (1) 16                                                 (2) 2\n      (3) 1                                                  (4) 4\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_1_Q_69",
@@ -3166,13 +3182,15 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "Let M denote the median of the following frequency distribution.\n       Class       0 −4  4 −8  8 −12  12 −16  16 −20\n      Frequency  3     9     10     8       6\n    Then 20M is equal to :\n      (1) 416                                                (2) 104\n      (3) 52                                                 (4) 208\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_1_Q_70",
     "paper_id": "JEE_MAIN_2024_01_30_SHIFT_1",
     "question_number": 70,
-    "content": "2 cos4 x 2 sin4 x 3 + sin2 2x\nIf f(x) = 3 + 2 cos4 x 2 sin4 x sin2 2x then 15 f ′(0) is equal to ________.\n2 cos4 x 3 + 2 sin4 x sin2 2x\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links..com/mWN ∣ ∣\n(30 Jan Shift 1)\n\nQuestion Paper",
+    "content": "2 cos4 x 2 sin4 x 3 + sin2 2x\nIf f(x) = 3 + 2 cos4 x 2 sin4 x sin2 2x then 15 f ′(0) is equal to ________.\n2 cos4 x 3 + 2 sin4 x sin2 2x",
     "options": [
       {
         "id": "A",
@@ -3217,7 +3235,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "            2 cos4 x     2 sin4 x   3 + sin2 2x\n       If  f(x) = 3 + 2 cos4 x   2 sin4 x      sin2 2x   then 15 f ′(0) is equal to ________.\n                2 cos4 x   3 + 2 sin4 x    sin2 2x\n\n\n\n\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN                     ∣                                                ∣\n                                                                                                                                                                                                                                                                                                                  JEE Main 2024 (30 Jan Shift 1)                              JEE Main Previous Year Paper\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                           Question Paper                                                                         MathonGo\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    (1) 0                                                  (2) 1\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    (3) 2                                                  (4) 6\n\n                                                                                                                                                                                                                                                                                                                                                                                                               ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_1_Q_71",
@@ -3268,7 +3288,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "Consider the system of linear equation x + y + z = 4μ, x + 2y + 2λz = 10μ, x + 3y + 4λ2z = μ2 + 15,\n                                                                                                                                                                                                                                                                                                                                                                                                              where λ, μ ∈R. Which one of the following statements is NOT correct?\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    (1) The system has unique solution if λ ≠12 and     (2) The system is inconsistent if λ = 12 and μ ≠1\n                                                                                                                                                                                                                                                                                                                                     μ ≠1, 15\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    (3) The system has infinite number of solutions if    (4) The system is consistent if λ ≠12\n                                                                                                                                                                                                                                                                                                                                                λ = 21 and μ = 15\n\n                                                                                                                                                                                                                                                                                     + (loge(3 −x))−1 is [−α, β) −{γ}, then α + β + γ is                                                                                                                                                                                                                                                                                                                                                                                                                       ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_1_Q_72",
@@ -3319,7 +3341,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "If the domain of the function f(x) = cos−1( 2−|x|4 )\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                 equal to :\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    (1) 12                                                 (2) 9\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    (3) 11                                                 (4) 8\n\n                                                                                                                                                                                                                                                                                                                                                                                                ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_1_Q_73",
@@ -3370,7 +3394,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "Let g : R →R be a non constant twice differentiable such that g′( 21 ) = g′( 23 ). If a real valued function f is\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                     defined as f(x) = 12 [ g(x) + g(2 −x)], then\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    (1) f ′′(x) = 0 for atleast two x in (0, 2)              (2) f ′′(x) = 0 for exactly one x in (0, 1)\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    (3) f ′′(x) = 0 for no x in (0, 1)                       (4) f ′( 23 ) + f ′( 21 ) = 1\n                                                                                                                                                                                                                                                                                                                                                                          ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_1_Q_74",
@@ -3421,7 +3447,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "The value of n→∞∑nlim   k=1 (n2+k2)(n2+3k2)n3         is :\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    (1) (2√3+3)π                                          (2)    13π\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              24                                             8(4√3+3)\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    (3) 13(2√3−3)π                                        (4)     π\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                8                                             8(2√3+3)\n\n                                                                                                                                                                                                                                                                                                                                                                          ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_1_Q_75",
@@ -3472,7 +3500,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "The area (in square units) of the region bounded by the parabola y2 = 4(x −2) and the line y = 2x −8.\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    (1) 8                                                  (2) 9\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    (3) 6                                                  (4) 7\n\n                                                                                                                                                                                                                                                                                                                                                                                                ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_1_Q_76",
@@ -3523,7 +3553,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "Let y = y(x) be the solution of the differential equation sec xdy + {2(1 −x) tan x + x(2 −x)}dx = 0 such\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      that y(0) = 2. Then y(2) is equal to :\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    (1) 2                                                  (2) 2{1 −sin(2)}\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    (3) 2{sin(2) + 1}                                     (4) 1\n\n                                                                                                                                                                                                                                                                                                                                                                                                ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_1_Q_77",
@@ -3574,13 +3606,15 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "Let A(2, 3, 5) and C(−3, 4, −2) be opposite vertices of a parallelogram ABCD if the diagonal\n−→\n                                                                                                                                                                                                                                                     BD = ˆi + 2ˆj + 3ˆk then the area of the parallelogram is equal to\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    (1) 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          2 √410                                           (2) 21 √474\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    (3) 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          2 √586                                           (4) 21 √306\n\n                                                                                                                                                                                                              →                       →    →\n                                                                                                                                                                                                                                                                                                                                                                                                ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_1_Q_78",
     "paper_id": "JEE_MAIN_2024_01_30_SHIFT_1",
     "question_number": 78,
-    "content": "Let →a = aiˆi + a2ˆj + a3ˆk and b = b1ˆi + b2ˆj + b3ˆk be two vectors such that →a = 1;→a⋅ b = 2 and b = 4. If\n\n× −3b, then the angle between b and →cis equal to : →c= 2(→a → → → b)\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links..com/mWN ∣ ∣\n(30 Jan Shift 1)\n\nQuestion Paper",
+    "content": "Let →a = aiˆi + a2ˆj + a3ˆk and b = b1ˆi + b2ˆj + b3ˆk be two vectors such that →a = 1;→a⋅ b = 2 and b = 4. If\n\n× −3b, then the angle between b and →cis equal to : →c= 2(→a → → → b)",
     "options": [
       {
         "id": "A",
@@ -3625,7 +3659,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "Let →a = aiˆi + a2ˆj + a3ˆk and b = b1ˆi + b2ˆj + b3ˆk  be two vectors such that →a = 1;→a⋅ b = 2 and b = 4. If\n\n                                                                                                                                                                                                                                                              ×                                                                                                                                                                                                                                                                           −3b, then the angle between b and →cis equal to :                                                                                                                                                                                                                                                                                                                                                                                                    →c= 2(→a →  →         →                                                                                                                                                                                                                                                                                                                                                      b)\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ∣                          ∣\nJEE Main 2024 (30 Jan Shift 1)                              JEE Main Previous Year Paper\n\nQuestion Paper                                                                         MathonGo\n\n      (1) cos−1( √32 )                                       (2) cos−1(−1√3 )\n                                                                                2 )                                                                                3      (3) cos−1(−√32 )                                     (4) cos−1(\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_1_Q_79",
@@ -3676,7 +3712,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "Let (α, β, γ) be the foot of perpendicular from the point (1, 2, 3) on the line x+35 = y−12 = z+43   . then\n    19(α + β + γ) is equal to :\n      (1) 102                                                (2) 101\n      (3) 99                                                 (4) 100\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_1_Q_80",
@@ -3727,13 +3765,15 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "Two integers x and y are chosen with replacement from the set {0, 1, 2, 3, … . . , 10}. Then the probability\n      that |x −y| > 5 is :\n      (1)  30                                                 (2)  62           121                                                          121\n      (3)  60                                                 (4)  31           121                                                          121\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_1_Q_81",
     "paper_id": "JEE_MAIN_2024_01_30_SHIFT_1",
     "question_number": 81,
-    "content": "Let α, β ∈ be roots of equation x2 −70x + λ = 0, where λ2 , λ3 ∉ . If λ assumes the minimum possible value,\n(√α−1+√β−1)(λ+35)\nthen is equal to : |α−β|",
+    "content": "Let α, β ∈ be roots of equation x2 −70x + λ = 0, where λ2 , λ3 ∉ . If λ assumes the minimum possible value,\n(√α−1+√β−1)(λ+35)",
     "options": [],
     "correct_option": null,
     "numerical_answer": 60.0,
@@ -3760,13 +3800,15 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "60"
-    }
+    },
+    "raw_content": "Let α, β ∈ be roots of equation x2 −70x + λ = 0, where λ2 , λ3 ∉ . If λ assumes the minimum possible value,\n          (√α−1+√β−1)(λ+35)\n     then                         is equal to :                 |α−β|\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_1_Q_82",
     "paper_id": "JEE_MAIN_2024_01_30_SHIFT_1",
     "question_number": 82,
-    "content": "Let α = 12 + 42 + 82 + 132 + 192 + 262 + … … . upto 10 terms and β = ∑10n=1 n4 . If 4α −β = 55k + 40,\nthen k is equal to _______.\n\n6",
+    "content": "Let α = 12 + 42 + 82 + 132 + 192 + 262 + … … . upto 10 terms and β = ∑10n=1 n4 . If 4α −β = 55k + 40,\nthen k is equal to _______.\n\n6 then is equal to : |α−β|",
     "options": [],
     "correct_option": null,
     "numerical_answer": 353.0,
@@ -3793,7 +3835,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "353"
-    }
+    },
+    "raw_content": "Let α = 12 + 42 + 82 + 132 + 192 + 262 + … … .  upto 10 terms and β = ∑10n=1 n4 . If 4α −β = 55k + 40,\n     then k is equal to _______.\n\n\n\n                                                                                                6",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_1_Q_83",
@@ -3826,13 +3870,15 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "138"
-    }
+    },
+    "raw_content": "Number of integral terms in the expansion of       1            1   824                                                                                      is equal to ______.                                                                                   2 ) + 11(                                                  )}                                         {7(\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_1_Q_84",
     "paper_id": "JEE_MAIN_2024_01_30_SHIFT_1",
     "question_number": 84,
-    "content": "Let the latus rectum of the hyperbola x2 = 1 subtend an angle of π3 at the centre of the hyperbola. If b2 9 −y2b2\nis equal to l (1 + √n), where l and m are co-prime numbers, then l2 + m2 + n2 is equal to __________. m",
+    "content": "Let the latus rectum of the hyperbola x2 = 1 subtend an angle of π3 at the centre of the hyperbola. If b2 9 −y2b2",
     "options": [],
     "correct_option": null,
     "numerical_answer": 182.0,
@@ -3859,13 +3905,15 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "182"
-    }
+    },
+    "raw_content": "Let the latus rectum of the hyperbola x2                           = 1 subtend an angle of π3 at the centre of the hyperbola. If b2                                                  9 −y2b2\n        is equal to                                   l (1 + √n), where l and m are co-prime numbers, then l2 + m2 + n2 is equal to __________.            m\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_1_Q_85",
     "paper_id": "JEE_MAIN_2024_01_30_SHIFT_1",
     "question_number": 85,
-    "content": "A group of 40 students appeared in an examination of 3 subjects - Mathematics, Physics & Chemistry. It was\nfound that all students passed in at least one of the subjects, 20 students passed in Mathematics, 25 students\npassed in Physics, 16 students passed in Chemistry, at most 11 students passed in both Mathematics and\nPhysics, at most 15 students passed in both Physics and Chemistry, at most 15 students passed in both\nMathematics and Chemistry. The maximum number of students passed in all the three subjects is _____.",
+    "content": "A group of 40 students appeared in an examination of 3 subjects - Mathematics, Physics & Chemistry. It was\nfound that all students passed in at least one of the subjects, 20 students passed in Mathematics, 25 students\npassed in Physics, 16 students passed in Chemistry, at most 11 students passed in both Mathematics and\nPhysics, at most 15 students passed in both Physics and Chemistry, at most 15 students passed in both\nMathematics and Chemistry. The maximum number of students passed in all the three subjects is _____. is equal to l (1 + √n), where l and m are co-prime numbers, then l2 + m2 + n2 is equal to __________. m",
     "options": [],
     "correct_option": null,
     "numerical_answer": 10.0,
@@ -3892,7 +3940,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "10"
-    }
+    },
+    "raw_content": "A group of 40 students appeared in an examination of 3 subjects - Mathematics, Physics & Chemistry. It was\n     found that all students passed in at least one of the subjects, 20 students passed in Mathematics, 25 students\n     passed in Physics, 16 students passed in Chemistry, at most 11 students passed in both Mathematics and\n     Physics, at most 15 students passed in both Physics and Chemistry, at most 15 students passed in both\n     Mathematics and Chemistry. The maximum number of students passed in all the three subjects is _____.\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_1_Q_86",
@@ -3925,7 +3975,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "44"
-    }
+    },
+    "raw_content": "Let A = {1, 2, 3, … . 7} and let P(A) denote the power set of A . If the number of functions f : A →P(A)\n     such that a ∈f(a), ∀a ∈A is mn, m and n ∈N and m is least, then m + n is equal to ______.\n\n                                        1  ,     |x| ≥2                                                    |x|",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_1_Q_87",
@@ -3958,7 +4010,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "15"
-    }
+    },
+    "raw_content": "If the function f(x) =                                                             is differentiable on R, then 48(a + b) is equal to _______.              { ax2 + 2b,  |x| < 2\n\n                       dx, where t denotes the greatest integer less than or equal to t, is _____.                       x+1",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_1_Q_88",
@@ -3991,7 +4045,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "155"
-    }
+    },
+    "raw_content": "The value 9 ∫90 [√10x                      ]\n\n                                                                                                                                                                                  ,",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_1_Q_89",
@@ -4024,13 +4080,15 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "97"
-    }
+    },
+    "raw_content": "Let y = y(x) be the solution of the differential equation (1 −x2)dy = [xy                                          + (x3 + 2)√3(1 −x2)]dx\n    −1 < x < 1, y(0) = 0. If y( 21 ) = mn , m and n are coprime numbers, then m + n is equal to __________.\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_1_Q_90",
     "paper_id": "JEE_MAIN_2024_01_30_SHIFT_1",
     "question_number": 90,
-    "content": "If d1 is the shortest distance between the lines x + 1 = 2 y = −12 z, x = y + 2 = 6 z −6 and d2 is the\nshortest distance between the lines x−1 2 = y+8−7 = z−45 , x−12 = y−21 = z−6−3 , then the value of 32√3d2 d1 is :\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links..com/mWN",
+    "content": "If d1 is the shortest distance between the lines x + 1 = 2 y = −12 z, x = y + 2 = 6 z −6 and d2 is the\nshortest distance between the lines x−1 2 = y+8−7 = z−45 , x−12 = y−21 = z−6−3 , then the value of 32√3d2 d1 is :",
     "options": [],
     "correct_option": null,
     "numerical_answer": 16.0,
@@ -4057,6 +4115,8 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "16"
-    }
+    },
+    "raw_content": "If d1 is the shortest distance between the lines x + 1 = 2 y = −12 z, x = y + 2 = 6 z −6 and d2 is the\n      shortest distance between the lines x−1                                                2 = y+8−7 = z−45  , x−12 = y−21 = z−6−3  , then the value of 32√3d2 d1  is :\n\n\n\n\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN\n",
+    "parsing_warnings": []
   }
 ]

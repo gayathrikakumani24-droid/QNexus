@@ -2750,7 +2750,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "If S = z ∈C : |z −i| = |z + i| = |z −1|, then, n(S) is:\n      (1) 1                                                  (2) 0\n      (3) 3                                                  (4) 2\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_1_Q_62",
@@ -2772,7 +2774,7 @@
       },
       {
         "id": "D",
-        "content": "8\n\nn"
+        "content": "8"
       }
     ],
     "correct_option": "C",
@@ -2801,7 +2803,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "The number of common terms in the progressions 4, 9, 14, 19, … …, up to 25th term and 3, 6, 9, 12,.... up to\n     37th term is :\n      (1) 9                                                  (2) 5\n      (3) 7                                                  (4) 8\n\n                                                                                 n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_1_Q_63",
@@ -2852,7 +2856,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "If A denotes the sum of all the coefficients in the expansion of (1 −3x + 10x2)  and B denotes the sum of all\n      the coefficients in the expansion of (1 + x2)n , then :\n      (1) A = B3                                           (2) 3 A = B\n      (3) B = A3                                           (4) A = 3 B\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_1_Q_64",
@@ -2874,7 +2880,7 @@
       },
       {
         "id": "D",
-        "content": "2√2 < k < 2√3\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links..com/mWN\n(27 Jan Shift 1)\n\nQuestion Paper"
+        "content": "2√2 < k < 2√3"
       }
     ],
     "correct_option": "A",
@@ -2903,7 +2909,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": " n−1Cr = (k2 −8)nCr+1 if and only if :\n      (1) 2√2 < k ≤3                                     (2) 2√3 < k ≤3√2\n      (3) 2√3 < k < 3√3                                  (4) 2√2 < k < 2√3\n\n\n\n\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN\nJEE Main 2024 (27 Jan Shift 1)                              JEE Main Previous Year Paper\n\nQuestion Paper                                                                         MathonGo\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_1_Q_65",
@@ -2954,7 +2962,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "The portion of the line 4x + 5y = 20 in the first quadrant is trisected by the lines L1 and L2 passing through\n      the origin. The tangent of an angle between the lines L1 and L2 is :\n      (1) 8                                                  (2) 25           5                                                            41\n      (3) 2                                                  (4) 30           5                                                            41\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_1_Q_66",
@@ -3005,7 +3015,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "Four distinct points (2k, 3k), (1, 0), (0, 1) and (0, 0) lie on a circle for k equal to :\n      (1)  2                                                  (2)  3           13                                                           13\n      (3)  5                                                  (4)  1           13                                                           13\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_1_Q_67",
@@ -3027,7 +3039,7 @@
       },
       {
         "id": "D",
-        "content": "36\n\ny2 x2"
+        "content": "36"
       }
     ],
     "correct_option": "C",
@@ -3056,7 +3068,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "If the shortest distance of the parabola y2 = 4x from the centre of the circle x2 + y2 −4x −16y + 64 = 0 is d\n         , then d2 is equal to :\n      (1) 16                                                 (2) 24\n      (3) 20                                                 (4) 36\n\n                                                            y2                                                     x2",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_1_Q_68",
@@ -3107,7 +3121,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "The length of the chord of the ellipse                                                  25                        + 16                           = 1, whose mid point is (1, 52 ), is equal to:\n      (1) √1691                                              (2) √2009             5                                                            5\n      (3) √1741                                              (4) √1541\n             5                                                            5\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_1_Q_69",
@@ -3158,7 +3174,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "If a = lim √1+√1+x4−√2 and b = lim      sin2 x      , then the value of ab3 is :\n          x→0        x4             x→0 √2−√1+cos x\n      (1) 36                                                 (2) 32\n      (3) 25                                                 (4) 30\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_1_Q_70",
@@ -3209,7 +3227,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "Let a1, a2, . . . , a10 be 10 observations such that ∑10k=1 ak = 50 and ∑∀k<j ak ⋅aj = 1100. Then the standard\n     deviation of a1, a2, … , a10 is equal to :\n      (1) 5                                                  (2) √5\n      (3) 10                                                 (4) √115\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_1_Q_71",
@@ -3260,7 +3280,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "Let S = {1, 2, 3, … , 10}. Suppose M is the set of all the subsets of S , then the relation\n   R = {(A, B) : A ∩B ≠ϕ; A, B ∈M} is :\n      (1) symmetric and reflexive only                     (2) reflexive only\n      (3) symmetric and transitive only                     (4) symmetric only\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_1_Q_72",
@@ -3311,7 +3333,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "                 ⎡cos x −sin x  0 ⎤     Consider the matrix f(x) =  sin x   cos x  0   . Given below are two statements :\n                     ⎣  0      0    1 ⎦\n     Statement I: f(−x) is the inverse of the matrix f(x).\n     Statement II: f(x) f(y) = f(x + y).\n     In the light of the above statements, choose the correct answer from the options given below\n      (1) Statement I is false but Statement II is true       (2) Both Statement I and Statement II are false\n      (3) Statement I is true but Statement II is false       (4) Both Statement I and Statement II are true\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_1_Q_73",
@@ -3333,7 +3357,7 @@
       },
       {
         "id": "D",
-        "content": "neither one-one nor onto\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links..com/mWN ⎢ ⎥\n(27 Jan Shift 1)\n\nQuestion Paper"
+        "content": "neither one-one nor onto"
       }
     ],
     "correct_option": "D",
@@ -3362,7 +3386,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "The function f : N −{1} →N; defined by f(n) = the highest prime factor of n, is :\n      (1) both one-one and onto                            (2) one-one only\n      (3) onto only                                          (4) neither one-one nor onto\n\n\n\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN                     ⎢           ⎥\nJEE Main 2024 (27 Jan Shift 1)                              JEE Main Previous Year Paper\n\nQuestion Paper                                                                         MathonGo\n\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_1_Q_74",
@@ -3413,13 +3439,15 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "                                                                             , x < 3                 ⎧ a(7x−12−x2)b|x2−7x+12|\n     Consider the function f(x) =           sin(x−3)          ,where [x] denotes the greatest integer less than or equal\n                                                                      x−[x]                 ⎨  2               , x > 3\n                 ⎩    b          , x = 3\n      to x . If S denotes the set of all ordered pairs (a, b) such that f(x) is continuous at x = 3, then the number of\n     elements in S is :\n      (1) 2                                                  (2) Infinitely many\n      (3) 4                                                  (4) 1\n\n                 dx = a + b√2 + c√3, where a, b, c are rational numbers, then 2a + 3 b −4c is equal to :",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_1_Q_75",
     "paper_id": "JEE_MAIN_2024_01_27_SHIFT_1",
     "question_number": 75,
-    "content": "If ∫10 √3+x+√1+x1",
+    "content": "If ∫10 √3+x+√1+x1 dx = a + b√2 + c√3, where a, b, c are rational numbers, then 2a + 3 b −4c is equal to :",
     "options": [
       {
         "id": "A",
@@ -3464,7 +3492,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "If ∫10 √3+x+√1+x1\n      (1) 4                                                  (2) 10\n      (3) 7                                                  (4) 8\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_1_Q_76",
@@ -3515,7 +3545,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "If (a, b) be the orthocentre of the triangle whose vertices are (1, 2), (2, 3) and (3, 1), and\n     I1 = ∫ba xsin(4x −x2) dx, I2 = ∫ba sin(4x −x2) dx , then 36 I1I2  is equal to :\n      (1) 72                                                 (2) 88\n      (3) 80                                                 (4) 66\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_1_Q_77",
@@ -3566,7 +3598,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "Let x = x(t) and y = y(t) be solutions of the differential equations dxdt + ax = 0 and dydt + by = 0\n      respectively, a, b ∈R. Given that x(0) = 2 ; y(0) = 1 and 3 y(1) = 2 x(1), the value of t, for which\n     x(t) = y(t), is :\n      (1) log                   2 2                                             (2) log4 3                   3\n\n                                                                                                   4                                                       2      (3) log3 4                                             (4) log                                                                                                   3\n\n          →                      →\n                                    and→cbe the vector such that →a×→c= b and →a⋅→c= 3, then",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_1_Q_78",
@@ -3617,7 +3651,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "If →a = ˆi + 2ˆj + ˆk, b = 3(ˆi                            −ˆj + ˆk)\n\n                                    is equal to       ×          − b    →a⋅((→c → →           b)                  −→c)\n      (1) 32                                                 (2) 24\n      (3) 20                                                 (4) 36\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_1_Q_79",
@@ -3668,7 +3704,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "The distance, of the point (7, −2, 11) from the line x−61 = y−40 = z−83  along the line x−52 = y−1−3 = z−56   , is :\n      (1) 12                                                 (2) 14\n      (3) 18                                                 (4) 21\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_1_Q_80",
@@ -3719,7 +3757,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "If the shortest distance between the lines x−41 = y+12 = −3z  and x−λ2 = y+14 = z−2−5  is √56  , then the sum of all\n      possible values of λ is :\n      (1) 5                                                  (2) 8\n      (3) 7                                                  (4) 10\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_1_Q_81",
@@ -3752,13 +3792,15 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "5"
-    }
+    },
+    "raw_content": "If α satisfies the equation x2 + x + 1 = 0 and (1 + α)7 = A + Bα + Cα2, A, B, C ≥0 , then\n     5(3 A −2 B −C) is equal to\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_1_Q_82",
     "paper_id": "JEE_MAIN_2024_01_27_SHIFT_1",
     "question_number": 82,
-    "content": "If 8 = 3 + 14 (3 + p) + 421 (3 + 2p) + 431 (3 + 3p) + … ∞, then the value of p is\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links..com/mWN ⎪ ⎪\n(27 Jan Shift 1)\n\nQuestion Paper",
+    "content": "If 8 = 3 + 14 (3 + p) + 421 (3 + 2p) + 431 (3 + 3p) + … ∞, then the value of p is",
     "options": [],
     "correct_option": null,
     "numerical_answer": 9.0,
@@ -3785,7 +3827,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "9"
-    }
+    },
+    "raw_content": "If 8 = 3 + 14 (3 + p) + 421 (3 + 2p) + 431 (3 + 3p) + … ∞, then the value of p is\n\n\n\n\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN                 ⎪                 ⎪\nJEE Main 2024 (27 Jan Shift 1)                              JEE Main Previous Year Paper\n\nQuestion Paper                                                                         MathonGo\n\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_1_Q_83",
@@ -3818,13 +3862,15 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "48"
-    }
+    },
+    "raw_content": "Let the set of all a ∈R such that the equation cos 2x + a sin x = 2a −7 has a solution be [p, q] and\n     r = tan 9°−tan 27°− cot163° + tan 81°, then pqr is equal to ________.\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_1_Q_84",
     "paper_id": "JEE_MAIN_2024_01_27_SHIFT_1",
     "question_number": 84,
-    "content": "⎡ 2 0 1⎤ ⎡ 1 ⎤ Let A = 1 1 0 , B = [B1 B2 B3 ], where B1 , B2, B3 are column matrices, and AB1 = 0 ,\n⎣ 1 0 1⎦ ⎣ 0 ⎦\n⎡2 ⎤ ⎡ 3 ⎤ AB2 = 3 , AB3 = 2\n⎣0 ⎦ ⎣ 1 ⎦\nIf α = |B| and β is the sum of all the diagonal elements of B , then α3 + β3 is equal to",
+    "content": "⎡ 2 0 1⎤ ⎡ 1 ⎤ Let A = 1 1 0 , B = [B1 B2 B3 ], where B1 , B2, B3 are column matrices, and AB1 = 0 ,\n⎣ 1 0 1⎦ ⎣ 0 ⎦\n⎡2 ⎤ ⎡ 3 ⎤ AB2 = 3 , AB3 = 2\n⎣0 ⎦ ⎣ 1 ⎦",
     "options": [],
     "correct_option": null,
     "numerical_answer": 28.0,
@@ -3851,13 +3897,15 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "28"
-    }
+    },
+    "raw_content": "      ⎡ 2  0  1⎤                                             ⎡ 1 ⎤     Let A =  1  1  0  , B = [B1  B2  B3 ], where B1 , B2, B3 are column matrices, and AB1 =  0   ,\n         ⎣ 1  0  1⎦                                             ⎣ 0 ⎦\n        ⎡2 ⎤     ⎡ 3 ⎤    AB2 =  3  , AB3 =  2\n        ⎣0 ⎦     ⎣ 1 ⎦\n       If α = |B| and β is the sum of all the diagonal elements of B , then α3 + β3 is equal to\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_1_Q_85",
     "paper_id": "JEE_MAIN_2024_01_27_SHIFT_1",
     "question_number": 85,
-    "content": "Let f(x) = x3 + x2f ′(1) + xf ′′(2) + f ′′′(3), x ∈R. Then f ′(10) is equal to\n\n+ x −y, ∀x, y ∈(0, ∞). Then",
+    "content": "If α = |B| and β is the sum of all the diagonal elements of B , then α3 + β3 is equal to Let f(x) = x3 + x2f ′(1) + xf ′′(2) + f ′′′(3), x ∈R. Then f ′(10) is equal to\n\n+ x −y, ∀x, y ∈(0, ∞). Then",
     "options": [],
     "correct_option": null,
     "numerical_answer": 202.0,
@@ -3884,7 +3932,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "202"
-    }
+    },
+    "raw_content": "Let f(x) = x3 + x2f ′(1) + xf ′′(2) + f ′′′(3), x ∈R. Then f ′(10) is equal to\n\n                                          + x −y, ∀x, y ∈(0, ∞). Then",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_1_Q_86",
@@ -3917,7 +3967,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "2890"
-    }
+    },
+    "raw_content": "Let for a differentiable function f : (0, ∞) →R, f(x) −f(y) ≥loge( xy )\n    ∑20n=1 f ′( n21 ) is equal to\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_1_Q_87",
@@ -3950,7 +4002,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "119"
-    }
+    },
+    "raw_content": "Let the area of the region {(x, y) : x −2y + 4 ≥0, x + 2y2 ≥0, x + 4y2 ≤8, y ≥0} be mn , where m and n\n      are coprime numbers. Then m + n is equal to ______.\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_1_Q_88",
@@ -3983,7 +4037,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "29"
-    }
+    },
+    "raw_content": "If the solution of the differential equation (2x + 3y −2)dx + (4x + 6y −7)dy = 0, y(0) = 3, is\n    αx + βy + 3 loge |2x + 3y −γ| = 6, then α + 2β + 3γ is equal to ______.\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_1_Q_89",
@@ -4016,13 +4072,15 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "5"
-    }
+    },
+    "raw_content": "The least positive integral value of α, for which the angle between the vectors αˆi −2ˆj + 2ˆk and αˆi + 2αˆj −2ˆk\n       is acute, is _____.\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_27_SHIFT_1_Q_90",
     "paper_id": "JEE_MAIN_2024_01_27_SHIFT_1",
     "question_number": 90,
-    "content": "A fair die is tossed repeatedly until a six is obtained. Let X denote the number of tosses required and let\na = P(X = 3), b = P(X ≥3) and c = P(X ≥6 ∣X > 3). Then b+ca is equal to\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links..com/mWN ⎢ ⎥ ⎢ ⎥ ⎢ ⎥ ⎢ ⎥",
+    "content": "A fair die is tossed repeatedly until a six is obtained. Let X denote the number of tosses required and let\na = P(X = 3), b = P(X ≥3) and c = P(X ≥6 ∣X > 3). Then b+ca is equal to",
     "options": [],
     "correct_option": null,
     "numerical_answer": 12.0,
@@ -4049,6 +4107,8 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "12"
-    }
+    },
+    "raw_content": "A fair die is tossed repeatedly until a six is obtained. Let X denote the number of tosses required and let\n     a = P(X = 3), b = P(X ≥3) and c = P(X ≥6 ∣X > 3). Then b+ca   is equal to\n\n\n\n\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN         ⎢     ⎥                                             ⎢ ⎥        ⎢ ⎥     ⎢ ⎥\n",
+    "parsing_warnings": []
   }
 ]

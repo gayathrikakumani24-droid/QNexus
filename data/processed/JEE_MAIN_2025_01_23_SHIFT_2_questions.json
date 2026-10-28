@@ -48,7 +48,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": " The distance of the line x−2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           2 = y−63 = z−34  from the point (1, 4, 0) along the line x1 = y−22 = z+33   is :\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                (1) √17                                               (2) √15\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                (3) √14                                               (4) √13\n\n                                                                                                                                                                                                                                                                                                                                                                ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_02",
@@ -99,7 +101,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": " Let A = {(x, y) ∈R × R : |x + y| ⩾3} and B = {(x, y) ∈R × R : |x| + |y| ≤3}. If\n                                                                                                                                                                                                                                                         C = {(x, y) ∈A ∩B : x = 0 or y = 0}, then ∑(x,y)∈C |x + y| is :\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                (1) 15                                                  (2) 24\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                (3) 18                                                  (4) 12\n\n                                                                                                                                                                                                                                                                                                                                                                ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_03",
@@ -150,7 +154,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": " Let X = R × R. Define a relation R on X as : (a1, b1)R (a2, b2) ⇔b1 = b2 Statement I :  R is an\n                                                                                                                                                                                                                                                                                                                                                                                                                              equivalence relation. Statement II : For some (a, b) ∈X , the set S = {(x, y) ∈X : (x, y)R(a, b)} represents a\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                line parallel to y = x. In the light of the above statements, choose the correct answer from the options given\n                                                                                                                                                                                                                                                                                                                                                                                 below :\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                (1) Both Statement I and Statement II are false        (2) Statement I is true but Statement II is false\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                (3) Both Statement I and Statement II are true        (4) Statement I is false but Statement II is true\n\n                                                                                                                                                                                                                                                                                                                                                                ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_04",
@@ -201,7 +207,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": " Let ∫x3 sin x dx = g(x) + C , where C is the constant of integration. If\n                                                                                                                                                                                                                                                                                                                                                                        8 (g ( π2 ) + g′ ( π2 )) = απ3 + βπ2 + γ, α, β, γ ∈Z , then α + β −γ equals :\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                (1) 48                                                  (2) 55\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                (3) 62                                                  (4) 47\n\n                                                                                                                                                                                                                                                                                                                                                                ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_05",
@@ -252,7 +260,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": " A rod of length eight units moves such that its ends A and B always lie on the lines x −y + 2 = 0 and\n                                                                                                                                                                                                                                                                                                                                                                               y + 2 = 0, respectively. If the locus of the point P , that divides the rod AB internally in the ratio 2 : 1 is\n                                                                                                                                                                                                                                                                                                                                                                        9 (x2 + αy2 + βxy + γx + 28y) −76 = 0, then α −β −γ is equal to :\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                (1) 22                                                  (2) 21\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                (3) 23                                                  (4) 24\n\n                                                                                                                                                                                                                                                                                                                                                                ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_06",
@@ -274,7 +284,7 @@
       },
       {
         "id": "D",
-        "content": "6\n\nx"
+        "content": "6"
       }
     ],
     "correct_option": "B",
@@ -303,7 +313,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": " If the square of the shortest distance between the lines x−2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             1 = y−12 = z+3−3 and x+12 = y+34 = z+5−5  is mn , where\n                                                                                                                                                                                                                                                                                                                                    m, n are coprime numbers, then m + n is equal to :\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                (1) 21                                                  (2) 9\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                (3) 14                                                  (4) 6\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         x\n                                                                                                                                                                                                                                                                                                                                                                ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_07",
@@ -354,7 +366,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "          (2x2−3x+5)(3x−1) 2                                                                                                                                                                                                                                                                                                                                             limx→∞                        is equal to :                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 (3x2+5x+4)√(3x+2)x\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                (1)   2                                                  (2)  2e\n                                                                                                                                                                                                                                                                                                                                                                                                                                             √3e                                           √3\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                (3)   2                                                  (4) 2e                                                                                                                                                                                                                                                                                                                                                                                                                                             3√e                                                          3\n\n                                                                                                                                                                                                                                                                                                                                                                ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_08",
@@ -376,7 +390,7 @@
       },
       {
         "id": "D",
-        "content": "7\n\ny2"
+        "content": "7/y2"
       }
     ],
     "correct_option": "D",
@@ -405,7 +419,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": " Let the point A divide the line segment joining the points P(−1, −1, 2) and Q(5, 5, 10) internally in the ratio\n−−−−→ →   →  →\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                           r : 1(r > 0). If O is the origin and (OQ ⋅OA) −15 |OP × OA|2 = 10, then the value of r is :\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                (1) √7                                                 (2) 14\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                (3) 3                                                   (4) 7\n2025 (23 Jan Shift 2)                                      JEE Main Previous Year Paper\n\nJEE Main 2025 January                                                                   MathonGo\n\n\n                                                             y2",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_09",
@@ -456,7 +472,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": " The length of the chord of the ellipse x2                                                 4 +                                                        2 = 1, whose mid-point is (1, 12 ), is :\n     (1) 5          3 √15                                             (2) 13 √15\n     (3) 2          3 √15                                             (4) √15\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_10",
@@ -507,7 +525,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "                  x + y + z = 6\n    The system of equations x + 2y + 5z = 9, has no solution if\n                      x + 5y + λz = μ,\n      (1) λ = 15, μ ≠17                                   (2) λ ≠17, μ ≠18\n      (3) λ = 17, μ ≠18                                   (4) λ = 17, μ = 18\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_11",
@@ -558,7 +578,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "Let the range of the function f(x) = 6 + 16 cos x ⋅cos ( π3 −x) ⋅cos ( π3 + x) ⋅sin 3x ⋅cos 6x, x ∈R be [α, β]\n         . Then the distance of the point (α, β) from the line 3x + 4y + 12 = 0 is :\n      (1) 11                                                 (2) 8\n      (3) 10                                                 (4) 9\n\n                                                                              sin                                                                         y > 0 and x(1) = π2 . Then",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_12",
@@ -609,7 +631,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "Let x = x(y) be the solution of the differential equation y = (x                                      −y dxdy )                                                        ( xy ),\n     cos(x(2)) is equal to :\n      (1) 1 −2(loge 2)2                                     (2) 1 −2 (loge 2)\n      (3) 2 (loge 2) −1                                     (4) 2(loge 2)2 −1\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_13",
@@ -660,7 +684,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "A spherical chocolate ball has a layer of ice-cream of uniform thickness around it. When the thickness of the\n     ice-cream layer is 1 cm , the ice-cream melts at the rate of 81 cm3/min and the thickness of the ice-cream\n      layer decreases at the rate of                                         1 cm/min. The surface area (in cm2 ) of the chocolate ball (without the ice-                                     4π\n     cream layer) is :\n      (1) 196π                                              (2) 256π\n      (3) 225π                                              (4) 128π\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_14",
@@ -711,7 +737,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "The number of complex numbers z , satisfying |z| = 1 and  z¯z +  ¯zz = 1, is :\n      (1) 4                                                  (2) 8\n      (3) 10                                                 (4) 6\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_15",
@@ -762,7 +790,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "                          ⎡ 0 ⎤  ⎡ 0 ⎤  ⎡4⎤  ⎡0⎤    ⎡2 ⎤  ⎡1 ⎤\n     Let A = [aij] be 3 × 3 matrix such that A  1 =  0  , A  1 =  1  and A  1 =  0   , then a23 equals :\n                             ⎣ 0 ⎦  ⎣ 1 ⎦  ⎣3⎦  ⎣0⎦    ⎣2 ⎦  ⎣0 ⎦\n      (1) -1                                                 (2) 2\n      (3) 1                                                  (4) 0\n\n\n                                 2 x                           sin                     2                                      dx equals :                            3                                      3",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_16",
@@ -813,7 +843,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "If I = ∫ 0π           3                     dx, then ∫210   sin4x sinx+cos4x cos xx                            2                                      2 x                       sin                      x+cos\n      (1) π2                                                 (2) π2           12                                                           4\n      (3) π2                                                 (4) π2           16                                                           8               ∣∣                             ⎢ ⎥  ⎢ ⎥  ⎢ ⎥  ⎢ ⎥    ⎢ ⎥  ⎢ ⎥\n2025 (23 Jan Shift 2)                                      JEE Main Previous Year Paper\n\nJEE Main 2025 January                                                                   MathonGo\n\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_17",
@@ -864,7 +896,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "A board has 16 squares as shown in the figure:\n\n\n\n\n\n     Out of these 16 squares, two squares are chosen at random. The probability that they have no side in common\n       is :\n      (1) 7/10                                               (2) 4/5\n      (3) 23/30                                              (4) 3/5\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_18",
@@ -915,7 +949,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "Let the shortest distance from (a, 0), a > 0, to the parabola y2 = 4x be 4 . Then the equation of the circle\n     passing through the point (a, 0) and the focus of the parabola, and having its centre on the axis of the parabola\n       is :\n      (1) x2 + y2 −10x + 9 = 0                           (2) x2 + y2 −6x + 5 = 0\n      (3) x2 + y2 −4x + 3 = 0                            (4) x2 + y2 −8x + 7 = 0\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_19",
@@ -937,7 +973,7 @@
       },
       {
         "id": "D",
-        "content": "20\n\na"
+        "content": "20"
       }
     ],
     "correct_option": "B",
@@ -966,7 +1002,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "If in the expansion of (1 + x)p(1 −x)q , the coefficients of x and x2 are 1 and -2 , respectively, then p2 + q2 is\n     equal to :\n      (1) 18                                                 (2) 13\n      (3) 8                                                  (4) 20\n\n                                                                                       a",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_20",
@@ -1017,7 +1055,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "If the area of the region {(x, y) : −1 ≤x ≤1, 0 ≤y ≤a + e|x| −e−x, a > 0} is e2+8e+1e      , then the value of\n       is :\n      (1) 8                                                  (2) 7\n      (3) 5                                                  (4) 6\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_21",
@@ -1050,7 +1090,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "8788"
-    }
+    },
+    "raw_content": "The variance of the numbers 8, 21, 34, 47, … , 320 is\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_22",
@@ -1083,7 +1125,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "474"
-    }
+    },
+    "raw_content": "The roots of the quadratic equation 3x2 −px + q = 0 are 10th and 11th terms of an arithmetic progression\n     with common difference 32 . If the sum of the first 11 terms of this arithmetic progression is 88 , then q −2p is\n     equal to         -.\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_23",
@@ -1116,13 +1160,15 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "17280"
-    }
+    },
+    "raw_content": "The number of ways, 5 boys and 4 girls can sit in a row so that either all the boys sit together or no two boys\n       sit together, is        -\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_24",
     "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
     "question_number": 24,
-    "content": "The focus of the parabola y2 = 4x + 16 is the centre of the circle C of radius 5 . If the values of λ, for which\nC passes through the point of intersection of the lines 3x −y = 0 and x + λy = 4, are λ1 and λ2, λ1 < λ2 ,\nthen 12λ1 + 29λ2 is equal to",
+    "content": "The focus of the parabola y2 = 4x + 16 is the centre of the circle C of radius 5 . If the values of λ, for which\nC passes through the point of intersection of the lines 3x −y = 0 and x + λy = 4, are λ1 and λ2, λ1 < λ2 ,",
     "options": [],
     "correct_option": null,
     "numerical_answer": 15.0,
@@ -1149,13 +1195,15 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "15"
-    }
+    },
+    "raw_content": "The focus of the parabola y2 = 4x + 16 is the centre of the circle C of radius 5 . If the values of λ, for which\n   C passes through the point of intersection of the lines 3x −y = 0 and x + λy = 4, are λ1 and λ2, λ1 < λ2 ,\n     then 12λ1 + 29λ2 is equal to\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_25",
     "paper_id": "JEE_MAIN_2025_01_23_SHIFT_2",
     "question_number": 25,
-    "content": "Let α, β be the roots of the equation x2 −ax −b = 0 with Im(α) < Im(β). Let Pn = αn −βn . If\nP3 = −5√7i, P4 = −3√7i, P5 = 11√7i and P6 = 45√7i , then α4 + β4 is equal to . ∣∣",
+    "content": "Let α, β be the roots of the equation x2 −ax −b = 0 with Im(α) < Im(β). Let Pn = αn −βn . If\nP3 = −5√7i, P4 = −3√7i, P5 = 11√7i and P6 = 45√7i , then α4 + β4 is equal to . ∣∣ then 12λ1 + 29λ2 is equal to",
     "options": [],
     "correct_option": null,
     "numerical_answer": 31.0,
@@ -1182,7 +1230,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "31"
-    }
+    },
+    "raw_content": "Let α, β be the roots of the equation x2 −ax −b = 0 with Im(α) < Im(β). Let Pn = αn −βn . If\n    P3 = −5√7i, P4 = −3√7i, P5 = 11√7i and P6 = 45√7i , then α4 + β4  is equal to          .              ∣∣\n2025 (23 Jan Shift 2)                                      JEE Main Previous Year Paper\n\nJEE Main 2025 January                                                                   MathonGo\n\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_23_SHIFT_2_Q_26",

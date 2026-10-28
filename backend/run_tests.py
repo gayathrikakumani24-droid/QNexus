@@ -59,6 +59,45 @@ print("\n[test_ai_service]")
 from tests.test_ai_service import test_get_similar_questions_excludes_target
 run_test("test_get_similar_questions_excludes_target", test_get_similar_questions_excludes_target)
 
+# 6. test_math_parser
+print("\n[test_math_parser]")
+from tests.test_math_parser import (
+    test_simple_algebraic_equations,
+    test_negative_signs_and_subtraction,
+    test_fractions_and_nested_fractions,
+    test_superscripts_and_subscripts,
+    test_latex_expressions_and_delimiters,
+    test_roots_limits_derivatives_integrals,
+    test_matrices_and_multiline_expressions,
+    test_inequalities_and_set_notation,
+    test_html_entities_and_unicode_symbols,
+    test_scientific_notation_and_decimals,
+    test_options_fraction_repair,
+    test_promotional_noise_removal,
+    test_equations_in_prose,
+    test_empty_and_malformed_records,
+    test_physics_chemistry_regression_safety,
+    test_cross_question_leakage_repair,
+    test_idempotent_parsing
+)
+run_test("test_simple_algebraic_equations", test_simple_algebraic_equations)
+run_test("test_negative_signs_and_subtraction", test_negative_signs_and_subtraction)
+run_test("test_fractions_and_nested_fractions", test_fractions_and_nested_fractions)
+run_test("test_superscripts_and_subscripts", test_superscripts_and_subscripts)
+run_test("test_latex_expressions_and_delimiters", test_latex_expressions_and_delimiters)
+run_test("test_roots_limits_derivatives_integrals", test_roots_limits_derivatives_integrals)
+run_test("test_matrices_and_multiline_expressions", test_matrices_and_multiline_expressions)
+run_test("test_inequalities_and_set_notation", test_inequalities_and_set_notation)
+run_test("test_html_entities_and_unicode_symbols", test_html_entities_and_unicode_symbols)
+run_test("test_scientific_notation_and_decimals", test_scientific_notation_and_decimals)
+run_test("test_options_fraction_repair", test_options_fraction_repair)
+run_test("test_promotional_noise_removal", test_promotional_noise_removal)
+run_test("test_equations_in_prose", test_equations_in_prose)
+run_test("test_empty_and_malformed_records", test_empty_and_malformed_records)
+run_test("test_physics_chemistry_regression_safety", test_physics_chemistry_regression_safety)
+run_test("test_cross_question_leakage_repair", test_cross_question_leakage_repair)
+run_test("test_idempotent_parsing", test_idempotent_parsing)
+
 print("\n" + "=" * 40)
 if errors:
     print(f"FAILED: {len(errors)} tests failed.")

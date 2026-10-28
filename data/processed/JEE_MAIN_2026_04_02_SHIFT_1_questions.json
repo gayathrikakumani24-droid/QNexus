@@ -36,13 +36,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let α, α + 2, α ∈Z , be the roots of the quadratic equation\nx(x + 2) + (x + 1)(x + 3) + (x + 2)(x + 4) + … + (x + n −1)(x + n + 1) = 4n for some n ∈N. Then n + α\nis equal to :\n\n\n(1) 0                        (2) 1                        (3) 2                        (4) 3\n\n\nMathonGo Answer Key : (3)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_1_Q_2",
     "paper_id": "JEE_MAIN_2026_04_02_SHIFT_1",
     "question_number": 2,
-    "content": "2x       y\nLet x and y be real numbers such that 50     −     = 31 + 17i , i = √−1. Then the value of 10(x −3y)                       ( 1 + 3i   1 −2i )\nis :",
+    "content": "2x y\nLet x and y be real numbers such that 50 − = 31 + 17i , i = √−1. Then the value of 10(x −3y) ( 1 + 3i 1 −2i )\nis :",
     "options": [
       {
         "id": "A",
@@ -75,13 +80,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "2x       y\nLet x and y be real numbers such that 50     −     = 31 + 17i , i = √−1. Then the value of 10(x −3y)                       ( 1 + 3i   1 −2i )\nis :\n\n\n(1) 20                       (2) 31                       (3) 35                       (4) 75\n\n\nMathonGo Answer Key : (4)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_1_Q_3",
     "paper_id": "JEE_MAIN_2026_04_02_SHIFT_1",
     "question_number": 3,
-    "content": "Let α, β ∈R be such that the system of linear equations\nx + 2y + z = 5\n2x + y + αz = 5\n8x + 4y + βz = 18\n                β\nhas no solution. Then     is equal to :\n              α",
+    "content": "Let α, β ∈R be such that the system of linear equations\nx + 2y + z = 5\n2x + y + αz = 5\n8x + 4y + βz = 18\nβ\nhas no solution. Then is equal to :\nα",
     "options": [
       {
         "id": "A",
@@ -114,13 +124,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let α, β ∈R be such that the system of linear equations\nx + 2y + z = 5\n2x + y + αz = 5\n8x + 4y + βz = 18\n                β\nhas no solution. Then     is equal to :\n              α\n\n(1) −4                      (2) 4                        (3) 8                        (4) −8\n\n\nMathonGo Answer Key : (2)\n\n\n\n\n\n                                          #PaperPhodnaHai\n                                  www.mathongo.com\n02 April (Morning Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_1_Q_4",
     "paper_id": "JEE_MAIN_2026_04_02_SHIFT_1",
     "question_number": 4,
-    "content": "1  2          3  3\nLet A =        and B =              . If A2 −4A + I = O and B2 −5B −6I = O, then among the two statements :       [ 1  α ]        [ β  2 ]\n                         13  15\n(S1): [(B −A)(B + A)]T =                      [ 7   10 ]\nand\n(S2): det(adj(A + B)) = −5,",
+    "content": "1 2 3 3\nLet A = and B = . If A2 −4A + I = O and B2 −5B −6I = O, then among the two statements : [ 1 α ] [ β 2 ]\n13 15\n(S1): [(B −A)(B + A)]T = [ 7 10 ]\nand\n(S2): det(adj(A + B)) = −5,",
     "options": [
       {
         "id": "A",
@@ -153,7 +168,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "1  2          3  3\nLet A =        and B =              . If A2 −4A + I = O and B2 −5B −6I = O, then among the two statements :       [ 1  α ]        [ β  2 ]\n                         13  15\n(S1): [(B −A)(B + A)]T =                      [ 7   10 ]\nand\n(S2): det(adj(A + B)) = −5,\n\n\n(1) only (S1) is correct                                  (2) only (S2) is correct\n(3) both (S1) and (S2) are correct                       (4) both (S1) and (S2) are wrong\n\n\nMathonGo Answer Key : (2)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_1_Q_5",
@@ -192,7 +212,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let A be the set of first 101 terms of an A.P., whose first term is 1 and the common difference is 5 and let B be the\nset of first 71 terms of an A.P., whose first term is 9 and the common difference is 7. Then the number of elements\nin A ∩B, which are divisible by 3, is :\n\n\n(1) 4                        (2) 5                        (3) 6                        (4) 7\n\n\nMathonGo Answer Key : (2)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_1_Q_6",
@@ -231,13 +256,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "The number of seven-digit numbers, that can be formed by using the digits 1, 2, 3, 5 and 7 such that each digit is\nused at least once, is :\n\n\n(1) 15400                   (2) 17800                   (3) 16800                   (4) 29400\n\n\nMathonGo Answer Key : (3)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_1_Q_7",
     "paper_id": "JEE_MAIN_2026_04_02_SHIFT_1",
     "question_number": 7,
-    "content": "6 (35Cr)\nThe number of elements in the set S =     k) : k ∈Z and 36Cr+1 =                    , is :                                 {(r,                         (k2 −3) }",
+    "content": "6 (35Cr)\nThe number of elements in the set S = k) : k ∈Z and 36Cr+1 = , is : {(r, (k2 −3) }",
     "options": [
       {
         "id": "A",
@@ -270,13 +300,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "6 (35Cr)\nThe number of elements in the set S =     k) : k ∈Z and 36Cr+1 =                    , is :                                 {(r,                         (k2 −3) }\n\n\n(1) 2                        (2) 4                        (3) 8                        (4) 16\n\n\nMathonGo Answer Key : (2)\n\n\n\n\n\n                                          #PaperPhodnaHai\n                                  www.mathongo.com\n02 April (Morning Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_1_Q_8",
     "paper_id": "JEE_MAIN_2026_04_02_SHIFT_1",
     "question_number": 8,
-    "content": "If the mean of the data\n\n Class     5 −10 10 −15 15 −20 20 −25 25 −30 30 −35\n\n Frequency 2      k       28      54      k + 1   5\n\n\nis 21, then k is one of the roots of the equation :",
+    "content": "If the mean of the data\n\nClass 5 −10 10 −15 15 −20 20 −25 25 −30 30 −35\n\nFrequency 2 k 28 54 k + 1 5\n\nis 21, then k is one of the roots of the equation :",
     "options": [
       {
         "id": "A",
@@ -309,13 +344,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "If the mean of the data\n\n Class     5 −10 10 −15 15 −20 20 −25 25 −30 30 −35\n\n Frequency 2      k       28      54      k + 1   5\n\n\nis 21, then k is one of the roots of the equation :\n\n\n(1) 2x2 −23x −10 = 0                                 (2) 4x2 −35x + 24 = 0\n(3) 2x2 −19x −10 = 0                                 (4) 2x2 −35x + 98 = 0\n\n\nMathonGo Answer Key : (3)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_1_Q_9",
     "paper_id": "JEE_MAIN_2026_04_02_SHIFT_1",
     "question_number": 9,
-    "content": "5       5\nLet the mid points of the sides of a triangle ABC be       ,      ,       ,   and (4, 5). If its incentre is (h, k), then                             ( 2 7) ( 2 3)\n3h + k is equal to :",
+    "content": "5 5\nLet the mid points of the sides of a triangle ABC be , , , and (4, 5). If its incentre is (h, k), then ( 2 7) ( 2 3)\n3h + k is equal to :",
     "options": [
       {
         "id": "A",
@@ -348,13 +388,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "5       5\nLet the mid points of the sides of a triangle ABC be       ,      ,       ,   and (4, 5). If its incentre is (h, k), then                             ( 2 7) ( 2 3)\n3h + k is equal to :\n\n\n(1) 11                       (2) 12                       (3) 13                       (4) 14\n\n\nMathonGo Answer Key : (3)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_1_Q_10",
     "paper_id": "JEE_MAIN_2026_04_02_SHIFT_1",
     "question_number": 10,
-    "content": "x2    y2                                      √5\nLet an ellipse  +  = 1, a < b, pass through the point (4, 3) and have eccentricity        . Then the length of its\n             a2    b2                                                     3\nlatus rectum is :",
+    "content": "x2 y2 √5\nLet an ellipse + = 1, a < b, pass through the point (4, 3) and have eccentricity . Then the length of its\na2 b2 3\nlatus rectum is :",
     "options": [
       {
         "id": "A",
@@ -387,13 +432,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "x2    y2                                      √5\nLet an ellipse  +  = 1, a < b, pass through the point (4, 3) and have eccentricity        . Then the length of its\n             a2    b2                                                     3\nlatus rectum is :\n\n\n(1) 4√5                    (2) 2√5                    (3) 7√5                    (4) 8√5\n     3                                            3                     3\n\nMathonGo Answer Key : (4)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_1_Q_11",
     "paper_id": "JEE_MAIN_2026_04_02_SHIFT_1",
     "question_number": 11,
-    "content": "π       5π      7π                     10Kπ\nIf sin       sin        sin    = K , then the value of sin              is :    ( 18 )  ( 18 )  ( 18 )               (  3  )",
+    "content": "π 5π 7π 10Kπ\nIf sin sin sin = K , then the value of sin is : ( 18 ) ( 18 ) ( 18 ) ( 3 )",
     "options": [
       {
         "id": "A",
@@ -426,7 +476,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "π       5π      7π                     10Kπ\nIf sin       sin        sin    = K , then the value of sin              is :    ( 18 )  ( 18 )  ( 18 )               (  3  )\n\n(1) √3 + 1                 (2) √3 −1                 (3) √3                     (4) 1\n    2√2              √2                   2                     2\n\nMathonGo Answer Key : (1)\n\n\n\n                                          #PaperPhodnaHai\n                                  www.mathongo.com\n02 April (Morning Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_1_Q_12",
@@ -465,13 +520,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let S = {x ∈[−π, π] : sin x(sin x + cos x) = a, a ∈Z}. Then n(S) is equal to :\n\n\n(1) 3                        (2) 6                        (3) 7                        (4) 9\n\n\nMathonGo Answer Key : (4)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_1_Q_13",
     "paper_id": "JEE_MAIN_2026_04_02_SHIFT_1",
     "question_number": 13,
-    "content": "x + 1    y + a    z + b + 1    x −2    y −b    z −2a\nIf the point of intersection of the lines    =    =          and    =    =           lies on xy-\n                                 3       5         7          1       4       7\nplane, then the value of a + b is :",
+    "content": "x + 1 y + a z + b + 1 x −2 y −b z −2a\nIf the point of intersection of the lines = = and = = lies on xy-\n3 5 7 1 4 7\nplane, then the value of a + b is :",
     "options": [
       {
         "id": "A",
@@ -504,13 +564,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "x + 1    y + a    z + b + 1    x −2    y −b    z −2a\nIf the point of intersection of the lines    =    =          and    =    =           lies on xy-\n                                 3       5         7          1       4       7\nplane, then the value of a + b is :\n\n\n(1) 2                        (2) 5                        (3) 7                        (4) 9\n\n\nMathonGo Answer Key : (3)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_1_Q_14",
     "paper_id": "JEE_MAIN_2026_04_02_SHIFT_1",
     "question_number": 14,
-    "content": "+                                                   + 4If →a and →b are two vectors such that |→a| = 2 and |→b| = 3, then the maximum value of 3 (3→a                                                                                                   2→b)                                                                                                       (3→a −2→b)\nis :",
+    "content": "+ + 4If →a and →b are two vectors such that |→a| = 2 and |→b| = 3, then the maximum value of 3 (3→a 2→b) (3→a −2→b)\nis :",
     "options": [
       {
         "id": "A",
@@ -543,7 +608,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "+                                                   + 4If →a and →b are two vectors such that |→a| = 2 and |→b| = 3, then the maximum value of 3 (3→a                                                                                                   2→b)                                                                                                       (3→a −2→b)\nis :\n\n\n(1) 30                       (2) 36                       (3) 60                       (4) 72\n\n\nMathonGo Answer Key : (3)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_1_Q_15",
@@ -582,13 +652,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let a line L passing through the point (1, 1, 1) be perpendicular to both the vectors 2^i + 2^j + ^k and ^i + 2^j + 2^k. If\nP(a, b, c) is the foot of perpendicular from the origin on the line L, then the value of 34(a + b + c) is :\n\n\n(1) 50                       (2) 80                       (3) 100                     (4) 120\n\n\nMathonGo Answer Key : (3)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_1_Q_16",
     "paper_id": "JEE_MAIN_2026_04_02_SHIFT_1",
     "question_number": 16,
-    "content": "sin(x3 −5x2 + ax + b)\nIf lim               = m, then a + b + m is equal to :\n  x→2 (√x −1 −1) loge(x −1)",
+    "content": "sin(x3 −5x2 + ax + b)\nIf lim = m, then a + b + m is equal to :\nx→2 (√x −1 −1) loge(x −1)",
     "options": [
       {
         "id": "A",
@@ -621,7 +696,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "sin(x3 −5x2 + ax + b)\nIf lim               = m, then a + b + m is equal to :\n  x→2 (√x −1 −1) loge(x −1)\n\n(1) 5                        (2) 6                        (3) 8                        (4) 10\n\n\nMathonGo Answer Key : (2)\n\n\n                                          #PaperPhodnaHai\n                                  www.mathongo.com         ∣∣∣\n02 April (Morning Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_1_Q_17",
@@ -660,13 +740,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "If the curve y = f(x) passes through the point (1, e) and satisfies the differential equation dy = y(2 + loge x) dx,\nx > 0, then f(e) is equal to :\n\n(1) ee                       (2) ee2                      (3) e2e                      (4) e2e\n\n\nMathonGo Answer Key : (3)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_1_Q_18",
     "paper_id": "JEE_MAIN_2026_04_02_SHIFT_1",
     "question_number": 18,
-    "content": "sin x\n                                                                                           ,  x ≠0The number of critical points of the function f(x) = ⎧  x             in the interval (−2π, 2π) is equal to :                        ⎨                                                         1,      x = 0                        ⎩",
+    "content": "sin x\n, x ≠0The number of critical points of the function f(x) = ⎧ x in the interval (−2π, 2π) is equal to : ⎨ 1, x = 0 ⎩",
     "options": [
       {
         "id": "A",
@@ -699,13 +784,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "sin x\n                                                                                           ,  x ≠0The number of critical points of the function f(x) = ⎧  x             in the interval (−2π, 2π) is equal to :                        ⎨                                                         1,      x = 0                        ⎩\n\n(1) 1                        (2) 3                        (3) 5                        (4) 7\n\n\nMathonGo Answer Key : (3)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_1_Q_19",
     "paper_id": "JEE_MAIN_2026_04_02_SHIFT_1",
     "question_number": 19,
-    "content": "3   ex + e−x\nLet [⋅] denote the greatest integer function. Then the value of                          is :                                            ∫ 0 (    [x]!  )dx",
+    "content": "3 ex + e−x\nLet [⋅] denote the greatest integer function. Then the value of is : ∫ 0 ( [x]! )dx",
     "options": [
       {
         "id": "A",
@@ -738,17 +828,22 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "3   ex + e−x\nLet [⋅] denote the greatest integer function. Then the value of                          is :                                            ∫ 0 (    [x]!  )dx\n\n(1)                                                       (2) 1    e2 + e3 −1 −1                       + e3 −1 −1              e2    e3                              2 (e2        e2    e3 )\n(3)          1     1                                (4) 1    e2 + e3 −   −                                        (e2 + e3) −1 −1\n             2e2    2e3                            2             e2    e3\n\nMathonGo Answer Key : (2)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_1_Q_20",
     "paper_id": "JEE_MAIN_2026_04_02_SHIFT_1",
     "question_number": 20,
-    "content": "dy\nLet y = y(x) be the solution curve of the differential equation (1 + sin x)  + (y +",
+    "content": "dy\nLet y = y(x) be the solution curve of the differential equation (1 + sin x) + (y +",
     "options": [
       {
         "id": "A",
-        "content": "cos x = 0, y(0) = 0. If the\n dx\n −1\ncurve y = y(x) passes through the point , then a value of α is : (α, 2 )\n\n π π π π(1)"
+        "content": "cos x = 0, y(0) = 0. If the\ndx\n−1\ncurve y = y(x) passes through the point , then a value of α is : (α, 2 )\n\nπ π π π(1)"
       },
       {
         "id": "B",
@@ -777,13 +872,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "dy\nLet y = y(x) be the solution curve of the differential equation (1 + sin x)  + (y + 1) cos x = 0, y(0) = 0. If the\n                                                       dx\n                             −1\ncurve y = y(x) passes through the point                  , then a value of α is :                              (α,  2 )\n\n   π                   π                   π                   π(1)                          (2)                          (3)                          (4)\n    6                     4                     3                     2\n\nMathonGo Answer Key : (4)\n\n\n\n\n\n                                          #PaperPhodnaHai\n                                  www.mathongo.com               ∣∣\n02 April (Morning Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_1_Q_21",
     "paper_id": "JEE_MAIN_2026_04_02_SHIFT_1",
     "question_number": 21,
-    "content": "2x −5\nIf the domain of the function f(x) =                              is (−∞, a] ∪{b} ∪[c, d) ∪(e, ∞), then the value of                                    √log(0.6) ( x2 −4 )\na + b + c + d + e is _______.",
+    "content": "2x −5\nIf the domain of the function f(x) = is (−∞, a] ∪{b} ∪[c, d) ∪(e, ∞), then the value of √log(0.6) ( x2 −4 )\na + b + c + d + e is _______.",
     "options": [],
     "correct_option": "D",
     "numerical_answer": null,
@@ -799,13 +899,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "2x −5\nIf the domain of the function f(x) =                              is (−∞, a] ∪{b} ∪[c, d) ∪(e, ∞), then the value of                                    √log(0.6) ( x2 −4 )\na + b + c + d + e is _______.\n\n\n\nMathonGo Answer Key : 4",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_1_Q_22",
     "paper_id": "JEE_MAIN_2026_04_02_SHIFT_1",
     "question_number": 22,
-    "content": "n                     6                         ak+1 −ak   2\nIf    ak = 6n3 , then                          is equal to _______. ∑     ∑ (    36  )   k=1                k=1",
+    "content": "n 6 ak+1 −ak 2",
     "options": [],
     "correct_option": null,
     "numerical_answer": 91.0,
@@ -821,13 +926,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "n                     6                         ak+1 −ak   2\nIf    ak = 6n3 , then                          is equal to _______. ∑     ∑ (    36  )   k=1                k=1\n\n\n\nMathonGo Answer Key : 91",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_1_Q_23",
     "paper_id": "JEE_MAIN_2026_04_02_SHIFT_1",
     "question_number": 23,
-    "content": "m\nLet a, b, c ∈{1, 2, 3, 4}. If the probability, that ax2 + 2√2 bx + c > 0 for all x ∈R, is      , gcd(m, n) = 1, then\n                                                           n\nm + n is equal to _______.",
+    "content": "If ak = 6n3 , then is equal to _______. ∑ ∑ ( 36 ) k=1 k=1 m\nLet a, b, c ∈{1, 2, 3, 4}. If the probability, that ax2 + 2√2 bx + c > 0 for all x ∈R, is , gcd(m, n) = 1, then\nn\nm + n is equal to _______.",
     "options": [],
     "correct_option": null,
     "numerical_answer": 81.0,
@@ -843,7 +953,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "m\nLet a, b, c ∈{1, 2, 3, 4}. If the probability, that ax2 + 2√2 bx + c > 0 for all x ∈R, is      , gcd(m, n) = 1, then\n                                                           n\nm + n is equal to _______.\n\n\n\nMathonGo Answer Key : 81",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_1_Q_24",
@@ -865,13 +980,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let a circle C have its centre in the first quadrant, intersect the coordinate axes at exactly three points and cut off\nequal intercepts from the coordinate axes. If the length of the chord of C on the line x + y = 1 is √14, then the\nsquare of the radius of C is _______.\n\n\n\nMathonGo Answer Key : 8",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_1_Q_25",
     "paper_id": "JEE_MAIN_2026_04_02_SHIFT_1",
     "question_number": 25,
-    "content": "2√3                         4\nIf α =       log2(x2 + 4) dx +   √2x −4 dx, then α2 is equal to _______.     ∫ 0                 ∫ 2",
+    "content": "2√3 4",
     "options": [],
     "correct_option": "A",
     "numerical_answer": null,
@@ -887,7 +1007,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "2√3                         4\nIf α =       log2(x2 + 4) dx +   √2x −4 dx, then α2 is equal to _______.     ∫ 0                 ∫ 2\n\n\n\nMathonGo Answer Key : 192\n\n\n\n\n\n                                          #PaperPhodnaHai\n                                  www.mathongo.com          ∣∣\n02 April (Morning Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_1_Q_26",

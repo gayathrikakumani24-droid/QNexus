@@ -48,7 +48,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 16,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": " Group A consists of 7 boys and 3 girls, while group B consists of 6 boys and 5 girls. The number of ways, 4\n    boys and 4 girls can be invited for a picnic if 5 of them must be from group A and the remaining 3 from group\n  B, is equal to :\n     (1) 8750                                               (2) 9100\n     (3) 8925                                               (4) 8575\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_24_SHIFT_2_Q_02",
@@ -70,7 +72,7 @@
       },
       {
         "id": "D",
-        "content": "11\n\nand"
+        "content": "11/and"
       }
     ],
     "correct_option": "C",
@@ -99,7 +101,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 16,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "                   x + 2y −3z = 2\n     If the system of equations 2x + λy + 5z = 5   has infinitely many solutions, then λ + μ is equal to :\n                        14x + 3y + μz = 33\n     (1) 13                                                  (2) 10\n     (3) 12                                                  (4) 11\n\n                                                               and",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_24_SHIFT_2_Q_03",
@@ -150,7 +154,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 16,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": " Let A = {x             ∈(0, π) −{ π2 } : log(2/π) | sin x| + log(2/π) | cos x| = 2}\n   B = {x ⩾0 : √x(√x −4) −3|√x −2| + 6 = 0}. Then n(A ∪B) is equal to :\n     (1) 4                                                   (2) 8\n     (3) 6                                                   (4) 2\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_24_SHIFT_2_Q_04",
@@ -201,7 +207,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 16,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": " The area of the region enclosed by the curves y = ex, y = |ex −1| and y-axis is:\n     (1) 1 −loge 2                                          (2) loge 2\n     (3) 1 + loge 2                                          (4) 2 loge 2 −1\n\n                                                                 y2",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_24_SHIFT_2_Q_05",
@@ -252,7 +260,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 16,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": " The equation of the chord, of the ellipse x2                            = 1, whose mid-point is (3, 1) is :                                                    25 + 16\n     (1) 48x + 25y = 169                                  (2) 5x + 16y = 31\n     (3) 25x + 101y = 176                                 (4) 4x + 122y = 134\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_24_SHIFT_2_Q_06",
@@ -303,7 +313,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 16,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": " Let the points ( 112 , α) lie on or inside the triangle with sides x + y = 11, x + 2y = 16 and 2x + 3y = 29. Then\n    the product of the smallest and the largest values of α is equal to :\n     (1) 44                                                  (2) 22\n     (3) 33                                                  (4) 55\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_24_SHIFT_2_Q_07",
@@ -354,7 +366,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 16,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": " Let f : (0, ∞) →R be a function which is differentiable at all points of its domain and satisfies the condition\n    x2f ′(x) = 2xf(x) + 3, with f(1) = 4. Then 2f(2) is equal to :\n     (1) 39                                                  (2) 19\n     (3) 29                                                  (4) 23\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_24_SHIFT_2_Q_08",
@@ -405,7 +419,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 16,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": " If 7 = 5 + 17 (5 + α) + 721 (5 + 2α) + 731 (5 + 3α)+   ∞, then the value of α is :\n     (1) 6                                                   (2) 6          7\n     (3) 1                                                   (4) 1          7\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_24_SHIFT_2_Q_09",
@@ -456,7 +472,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 16,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": " Let [x] denote the greatest integer function, and let m and n respectively be the numbers of the points, where the\n    function f(x) = [x] + |x −2|, −2 < x < 3, is not continuous and not differentiable. Then m + n is equal to :\n     (1) 6                                                   (2) 8\n     (3) 9                                                   (4) 7\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_24_SHIFT_2_Q_10",
@@ -507,7 +525,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 16,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "Let A = [aij] be a square matrix of order 2 with entries either 0 or 1 . Let E be the event that A is an invertible\n      matrix. Then the probability P(E) is :\n2025 (24 Jan Shift 2)                                      JEE Main Previous Year Paper\n\nJEE Main 2025 January                                                                   MathonGo\n\n      (1)  3                                                  (2) 5           16                                                           8\n      (3) 3                                                  (4) 1           8                                                            8\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_24_SHIFT_2_Q_11",
@@ -558,7 +578,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 16,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "Let the position vectors of three vertices of a triangle be 4→p + →q −3→r, −5→p + →q + 2→r and 2→p−→q+ 2→r. If the                                                                                                                         →p+→q+→r     position vectors of the orthocenter and the circumcenter of the triangle are                                                                         and α→p + β→q + γ→r                                                                                              4\n      respectively, then α + 2β + 5γ is equal to :\n      (1) 3                                                  (2) 4\n      (3) 1                                                  (4) 6\n\n           →          →",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_24_SHIFT_2_Q_12",
@@ -609,7 +631,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 16,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "Let →a = 3^i −^j + 2^k, b =→a× (^i −2^k) and→c= b × ^k. Then the projection of→c−2^j on →a is :\n      (1) 2√14                                             (2) √14\n      (3) 3√7                                               (4) 2√7\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_24_SHIFT_2_Q_13",
@@ -660,7 +684,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 16,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": " The number of real solution(s) of the equation x2 + 3x + 2 = min{|x −3|, |x + 2|} is :\n      (1) 1                                                  (2) 0\n      (3) 2                                                  (4) 3\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_24_SHIFT_2_Q_14",
@@ -711,7 +737,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 16,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": " The function f : (−∞, ∞) →(−∞, 1), defined by f(x) = 2x−2−x2x+2−x  is :\n      (1) Neither one-one nor onto                       (2) Onto but not one-one\n      (3) Both one-one and onto                          (4) One-one but not onto\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_24_SHIFT_2_Q_15",
@@ -762,7 +790,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 16,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": " In an arithmetic progression, if S40 = 1030 and S12 = 57, then S30 −S10 is equal to :\n      (1) 525                                                (2) 510\n      (3) 515                                                (4) 505\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_24_SHIFT_2_Q_16",
@@ -813,7 +843,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 16,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "Suppose A and B are the coefficients of 30th and 12th terms respectively in the binomial expansion of\n     (1 + x)2n−1 . If 2 A = 5 B , then n is equal to :\n      (1) 22                                                 (2) 20\n      (3) 21                                                 (4) 19\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_24_SHIFT_2_Q_17",
@@ -864,7 +896,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 16,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "Let (2, 3) be the largest open interval in which the function f(x) = 2 loge(x −2) −x2 + ax + 1 is strictly\n      increasing and (b, c) be the largest open interval, in which the function g(x) = (x −1)3(x + 2 −a)2 is strictly\n      decreasing. Then 100(a + b −c) is equal to :\n      (1) 420                                                (2) 360\n      (3) 160                                                (4) 280\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_24_SHIFT_2_Q_18",
@@ -915,7 +949,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 16,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "                      a +  sinx x     1        b\n     For some a, b, let f(x) =    a     1 +  sinx x     b       , x ≠0, limx→0 f(x) = λ + μa + νb. Then\n                             a        1     b +  sinx x\n     (λ + μ + ν)2 is equal to :\n      (1) 16                                                 (2) 25\n      (3) 9                                                  (4) 36\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_24_SHIFT_2_Q_19",
@@ -966,7 +1002,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 16,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "If the equation of the parabola with vertex V ( 32 , 3) and the directrix x + 2y = 0 is\n    αx2 + βy2 −γxy −30x −60y + 225 = 0, then α + β + γ is equal to :                                      ∣                                       ∣\n2025 (24 Jan Shift 2)                                      JEE Main Previous Year Paper\n\nJEE Main 2025 January                                                                   MathonGo\n\n\n      (1) 7                                                  (2) 9\n      (3) 8                                                  (4) 6\n\n                                                             (1+β2)                                                                                     (1+γ2)                                                                                                             (1+α2)\n                                                                                                                                          is                            +                                        +                                                     +",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_24_SHIFT_2_Q_20",
@@ -988,7 +1026,7 @@
       },
       {
         "id": "D",
-        "content": "3π\n\nL."
+        "content": "3π/L."
       }
     ],
     "correct_option": "A",
@@ -1017,7 +1055,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 16,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "If α > β > γ > 0, then the expression cot−1 {β                                                            (α−β) }                                  + cot−1 {γ                                                                                       (β−γ) }                                              + cot−1 {α                                                                                                              (γ−α) }\n     equal to :\n      (1) π                                                  (2) 0\n      (3) π           2 −(α + β + γ)                                 (4) 3π\n\n                                                                 L.",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_24_SHIFT_2_Q_21",
@@ -1050,7 +1090,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 16,
       "raw_answer": "957"
-    }
+    },
+    "raw_content": "Let P be the image of the point Q(7, −2, 5) in the line L : x−12 = y+13 = 4z and R(5, p, q) be a point on\n    Then the square of the area of △PQR is ________.\n\n                                                             x + 1 + C, where C is the",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_24_SHIFT_2_Q_22",
@@ -1083,7 +1125,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 16,
       "raw_answer": "16"
-    }
+    },
+    "raw_content": "If ∫2x2+5x+9 dx = x√x2 + x + 1 + α√x2 + x + 1 + β loge x + 12 + √x2 +         √x2+x+1\n     constant of integration, then α + 2β is equal to     _______.\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_24_SHIFT_2_Q_23",
@@ -1116,7 +1160,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 16,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "Let y = y(x) be the solution of the differential equation 2 cos x dxdy = sin 2x −4y sin x, x ∈(0, π2 ). If\n     y ( π3 ) = 0, then y′ ( π4 ) + y ( π4 ) is equal to     ________.\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_24_SHIFT_2_Q_24",
@@ -1149,7 +1195,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 16,
       "raw_answer": "392"
-    }
+    },
+    "raw_content": "Number of functions f : {1, 2, … , 100} →{0, 1}, that assign 1 to exactly one of the positive integers less\n     than or equal to 98 , is equal to ________.\n\n                                                            y2\n                       +                          = 1 be two hyperbolas having length of latus rectums 15√2 and             = 1 and H2 : −x2",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_24_SHIFT_2_Q_25",
@@ -1182,7 +1230,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 16,
       "raw_answer": "55"
-    }
+    },
+    "raw_content": "Let H1 : x2a2 −y2b2                                        A2                                                 B2\n                                                   and e2 respectively. If the product of the lengths of    12√5 respectively. Let their ecentricities be e1 = √52\n      their transverse axes is 100√10, then 25e22 is equal to ________.\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_24_SHIFT_2_Q_26",

@@ -2752,7 +2752,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "If z = 21 −2i, is such that z + 1 = αz + β(1                                                       i),\n      (1) −4                                                (2) 3\n      (3) 2                                                  (4) −1\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_1_Q_62",
@@ -2803,7 +2805,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "In an A.P., the sixth term a6 = 2. If the a1a4a5 is the greatest, then the common difference of the A.P., is equal\n      to\n      (1) 3                                                  (2) 8           2                                                            5\n      (3) 2                                                  (4) 5           3                                                            8\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_1_Q_63",
@@ -2854,7 +2858,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "If in a G.P. of 64 terms, the sum of all the terms is 7 times the sum of the odd terms of the G.P, then the\n    common ratio of the G.P. is equal to\n      (1) 7                                                  (2) 4\n      (3) 5                                                  (4) 6\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_1_Q_64",
@@ -2905,7 +2911,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "If α, −π2 < α < π2 is the solution of 4 cos θ + 5 sin θ = 1, then the value of tan α is\n      (1) 10−√10                                            (2) 10−√10\n              6                                                           12\n      (3) √10−10                                            (4) √10−10\n              12                                                           6\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_1_Q_65",
@@ -2927,7 +2935,7 @@
       },
       {
         "id": "D",
-        "content": "30\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links..com/mWN ∣∣\n(29 Jan Shift 1)\n\nQuestion Paper"
+        "content": "30"
       }
     ],
     "correct_option": "B",
@@ -2956,7 +2964,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "Let (5, a4 ), be the circumcenter of a triangle with vertices A(a, −2), B(a, 6) and C( a4 , −2). Let α denote the\n     circumradius, β denote the area and γ denote the perimeter of the triangle. Then α + β + γ is\n      (1) 60                                                 (2) 53\n      (3) 62                                                 (4) 30\n\n\n\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN         ∣∣\nJEE Main 2024 (29 Jan Shift 1)                              JEE Main Previous Year Paper\n\nQuestion Paper                                                                         MathonGo\n\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_1_Q_66",
@@ -3007,7 +3017,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "In a Δ ABC , suppose y = x is the equation of the bisector of the angle B and the equation of the side AC is\n    2x −y = 2. If 2 AB = BC and the point A and B are respectively (4, 6) and (α, β), then α + 2β is equal to\n      (1) −4                                                (2) 42\n      (3) 2                                                  (4) −1\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_1_Q_67",
@@ -3058,7 +3070,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "           1       ( π2 )3       1\n     lim         ∫ x3   cos( t3        is equal to           (x−π2 )2           )dt)    x→π2 (\n      (1) 3π                                                 (2) 3π2            8                                                            4\n      (3) 3π2                                                (4) 3π            8                                                           4\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_1_Q_68",
@@ -3109,7 +3123,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "Let R be a relation on Z × Z defined by (a, b)R(c, d) if and only if ad −bc is divisible by 5 . Then R is\n      (1) Reflexive and symmetric but not transitive       (2) Reflexive but neither symmetric not transitive\n      (3) Reflexive, symmetric and transitive               (4) Reflexive and transitive but not symmetric\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_1_Q_69",
@@ -3160,13 +3176,15 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "      ⎡ 1  0  0 ⎤           3     Let A =  0 α β  and 2A = 221 where α, β ∈Z , Then a value of α is\n         ⎣ 0 β α⎦\n      (1) 3                                                  (2) 5\n      (3) 17                                                 (4) 9\n\n                                                                                                              is equal to",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_1_Q_70",
     "paper_id": "JEE_MAIN_2024_01_29_SHIFT_1",
     "question_number": 70,
-    "content": "Let A be a square matrix such that AAT = I. Then 12 A[( A + AT)2 + (A −AT)2]",
+    "content": "Let A be a square matrix such that AAT = I. Then 12 A[( A + AT)2 + (A −AT)2] is equal to",
     "options": [
       {
         "id": "A",
@@ -3211,7 +3229,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "Let A be a square matrix such that AAT = I. Then 12 A[(                                   A + AT)2 + (A −AT)2]\n      (1) A2 + I                                            (2) A3 + I\n      (3) A2 + AT                                          (4) A3 + AT\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_1_Q_71",
@@ -3262,7 +3282,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "If f(x) = { 21 +−x2x,3 , 0−1≤x≤x≤3< 0 ; g(x) = { x,−x,0 <−3x ≤1≤x ≤0 , then range of (f ∘g(x)) is\n      (1) (0, 1]                                              (2) [0, 3)\n      (3) [0, 1]                                              (4) [0, 1)\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_1_Q_72",
@@ -3313,7 +3335,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "Consider the function f : [ 12 , 1] →R defined by f(x) = 4√2x3 −3√2x −1. Consider the statements\n       (I) The curve y = f(x) intersects the x-axis exactly at one point\n       (II) The curve y = f(x) intersects the x-axis at x = cos 12π\n    Then\n      (1) Only (II) is correct                                (2) Both (I) and (II) are incorrect\n      (3) Only (I) is correct                                 (4) Both (I) and (II) are correct\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_1_Q_73",
@@ -3364,7 +3388,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "Suppose f(x) = (2x+2−x) tan x√tan−1(x2−x+1) . Then the value of f ′(0) is equal to\n                                 (7x2+3x+1)3\n      (1) π                                                  (2) 0\n      (3) √π                                                (4) π2\n\n                                            π\n                       +                                 = 4 ( π + a) −2, then the value of a is",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_1_Q_74",
@@ -3386,7 +3412,7 @@
       },
       {
         "id": "D",
-        "content": "32\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links..com/mWN ∣ ⎢ ⎥\n(29 Jan Shift 1)\n\nQuestion Paper"
+        "content": "32"
       }
     ],
     "correct_option": "A",
@@ -3415,7 +3441,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "If the value of the integral ∫ −π2 2 ( x21+πxcos x       1+sin2 x          π                                                               1+e(sin x)2023 )dx\n      (1) 3                                                  (2) −32\n      (3) 2                                                  (4) 32\n\n\n\n\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN                                      ∣         ⎢     ⎥\nJEE Main 2024 (29 Jan Shift 1)                              JEE Main Previous Year Paper\n\nQuestion Paper                                                                         MathonGo\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_1_Q_75",
@@ -3466,7 +3494,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "For x ∈(−π2 , π2 ), if y(x) = ∫  cosecxcosecx+sinsec x+tan xx sin2 x dx and  limπ    = 0 then y( π4 ) is equal to                                                      x→( 2 )−y(x)\n      (1) tan−1( √21 )                                       (2) 21 tan−1( √21 )\n      (3) −1                                                                                      2 )          √2 tan−1( √21 )                                 (4) √21 tan−1(−1\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_1_Q_76",
@@ -3517,7 +3547,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "A function y = f(x) satisfies f(x) sin 2x + sin x −(1 + cos2 x)f ′(x) = 0 with condition f(0) = 0. Then\n     f( π2 ) is equal to\n      (1) 1                                                  (2) 0\n      (3) −1                                                (4) 2\n\n     →                →            →\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_1_Q_77",
@@ -3568,7 +3600,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "Let →a, b and→cbe three non-zero vectors such that b and→care non-collinear if →a+ 5b is collinear with\n      →c,→b + 6→cis collinear with →a and →a+ α→b + β→c= →0, then α + β is equal to\n      (1) 35                                                 (2) 30\n      (3) −30                                               (4) −25\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_1_Q_78",
@@ -3619,7 +3653,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "Let O be the origin and the position vector of A and B be 2ˆi + 2ˆj + ˆk and 2ˆi + 4ˆj + 4ˆk respectively. If the\n      internal bisector of ∠AOB meets the line AB at C , then the length of OC is\n      (1)           3           2 √31                                             (2) 32 √34\n      (3) 3           4 √34                                             (4) 23 √31\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_1_Q_79",
@@ -3670,7 +3706,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "Let PQR be a triangle with R(−1, 4, 2). Suppose M(2, 1, 2) is the mid point of PQ . The distance of the\n      centroid of ΔPQR from the point of intersection of the line x−20 = 2y = z+3−1 and x−11 = y+3−3 = z+11   is\n      (1) 69                                                 (2) 9\n      (3) √69                                               (4) √99\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_1_Q_80",
@@ -3721,7 +3759,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "A fair die is thrown until 2 appears. Then the probability, that 2 appears in even number of throws, is\n      (1) 5                                                  (2) 1           6                                                            6\n      (3)  5                                                  (4)  6           11                                                           11\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_1_Q_81",
@@ -3754,7 +3794,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "13"
-    }
+    },
+    "raw_content": "Let α, β be the roots of the equation x2 −x + 2 = 0 with Im (α) >Im (β). Then α6 + α4 + β4 −5α2 is equal\n      to\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_1_Q_82",
@@ -3787,7 +3829,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "553"
-    }
+    },
+    "raw_content": "All the letters of the word GTWENTY are written in all possible ways with or without meaning and these\n     words are written as in a dictionary. The serial number of the word GTWENTY IS\n\n                   11C2                                     11C9",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_1_Q_83",
@@ -3820,13 +3864,15 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "2041"
-    }
+    },
+    "raw_content": "If 11C1           2 +                    3 + … . . +                                    10 = mn with gcd (n, m) = 1, then n + m is equal to\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_1_Q_84",
     "paper_id": "JEE_MAIN_2024_01_29_SHIFT_1",
     "question_number": 84,
-    "content": "Equations of two diameters of a circle are 2x −3y = 5 and 3x −4y = 7. The line joining the points\n(−227 , −4) and (−17 , 3) intersects the circle at only one point P(α, β). Then 17β −α is equal to\n\n= 1 lie on the curve y2 = 3x2 ,",
+    "content": "Equations of two diameters of a circle are 2x −3y = 5 and 3x −4y = 7. The line joining the points\n(−227 , −4) and (−17 , 3) intersects the circle at only one point P(α, β). Then 17β −α is equal to",
     "options": [],
     "correct_option": null,
     "numerical_answer": 2.0,
@@ -3853,13 +3899,15 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "Equations of two diameters of a circle are 2x −3y = 5 and 3x −4y = 7. The line joining the points\n    (−227 , −4) and (−17 , 3) intersects the circle at only one point P(α, β). Then 17β −α is equal to\n\n                                           = 1 lie on the curve y2 = 3x2 ,",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_1_Q_85",
     "paper_id": "JEE_MAIN_2024_01_29_SHIFT_1",
     "question_number": 85,
-    "content": "If the points of intersection of two distinct conics x2 + y2 = 4b and x216 + y2b2\nthen 3√3 times the area of the rectangle formed by the intersection points is _______.",
+    "content": "If the points of intersection of two distinct conics x2 + y2 = 4b and x216 + y2b2",
     "options": [],
     "correct_option": null,
     "numerical_answer": 432.0,
@@ -3886,13 +3934,15 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "432"
-    }
+    },
+    "raw_content": "If the points of intersection of two distinct conics x2 + y2 = 4b and x216 + y2b2\n     then 3√3 times the area of the rectangle formed by the intersection points is _______.\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_1_Q_86",
     "paper_id": "JEE_MAIN_2024_01_29_SHIFT_1",
     "question_number": 86,
-    "content": "If the mean and variance of the data 65, 68, 58, 44, 48, 45, 60, α, β, 60 where α > β are 56 and 66. 2\nrespectively, then α2 + β2 is equal to\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links..com/mWN\n(29 Jan Shift 1)\n\nQuestion Paper",
+    "content": "If the mean and variance of the data 65, 68, 58, 44, 48, 45, 60, α, β, 60 where α > β are 56 and 66. 2\nrespectively, then α2 + β2 is equal to then 3√3 times the area of the rectangle formed by the intersection points is _______. = 1 lie on the curve y2 = 3x2 ,",
     "options": [],
     "correct_option": null,
     "numerical_answer": 6344.0,
@@ -3919,7 +3969,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "6344"
-    }
+    },
+    "raw_content": "If the mean and variance of the data 65, 68, 58, 44, 48, 45, 60, α, β, 60 where α > β are 56 and 66. 2\n      respectively, then α2 + β2 is equal to\n\n\n\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN\nJEE Main 2024 (29 Jan Shift 1)                              JEE Main Previous Year Paper\n\nQuestion Paper                                                                         MathonGo\n\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_1_Q_87",
@@ -3952,7 +4004,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "5"
-    }
+    },
+    "raw_content": "Let f(x) = 2x −x2, x ∈R. If m and n are respectively the number of points at which the curves y = f(x) and\n    y = f ′(x) intersects the x−axis, then the value of m + n is\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_1_Q_88",
@@ -3985,7 +4039,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "171"
-    }
+    },
+    "raw_content": "The area (in sq. units) of the part of circle x2 + y2 = 169 which is below the line 5x −y = 13 is\n      πα\n       2β −652 + αβ sin−1( 1312 ) where α, β are coprime numbers. Then α + β is equal to\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_1_Q_89",
@@ -4018,13 +4074,15 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "If the solution curve y = y(x) of the differential equation (1 + y2)(1 + loge x)dx + xdy = 0, x > 0 passes\n                                           α−tan( 23 )     through the point (1, 1) and y(e) =           3   , then α + 2β is\n                                            β+tan( 2 )\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_29_SHIFT_1_Q_90",
     "paper_id": "JEE_MAIN_2024_01_29_SHIFT_1",
     "question_number": 90,
-    "content": "A line with direction ratio 2, 1, 2 meets the lines x = y + 2 = z and x + 2 = 2y = 2z respectively at the point\nP and Q. if the length of the perpendicular from the point (1, 2, 12) to the line PQ is l, then l2 is\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links..com/mWN",
+    "content": "A line with direction ratio 2, 1, 2 meets the lines x = y + 2 = z and x + 2 = 2y = 2z respectively at the point\nP and Q. if the length of the perpendicular from the point (1, 2, 12) to the line PQ is l, then l2 is",
     "options": [],
     "correct_option": null,
     "numerical_answer": 65.0,
@@ -4051,6 +4109,8 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "65"
-    }
+    },
+    "raw_content": "A line with direction ratio 2, 1, 2 meets the lines x = y + 2 = z and x + 2 = 2y = 2z respectively at the point\n   P and Q. if the length of the perpendicular from the point (1, 2, 12) to the line PQ is l, then l2 is\n\n\n\n\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN\n",
+    "parsing_warnings": []
   }
 ]

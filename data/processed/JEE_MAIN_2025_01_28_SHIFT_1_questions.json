@@ -48,7 +48,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": " Let O be the origin, the point A be z1 = √3 + 2√2i , the point B (z2) be such that √3 |z2| = |z1| and\n    arg (z2) = arg (z1) + π6 . Then\n     (1) area of triangle ABO is  11                         (2) ABO is an obtuse angled isosceles triangle\n                           √3\n     (3) area of triangle ABO is 11                         (4) ABO is a scalene triangle                                     4\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_02",
@@ -99,7 +101,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": " Let f : R →R be a function defined by f(x) = (2 + 3a)x2 + ( a+2a−1 )x + b, a ≠1. If\n    f(x + y) = f(x) + f(y) + 1 −27 xy , then the value of 28 ∑5i=1 |f(i)| is\n     (1) 545                                                (2) 715\n     (3) 735                                                (4) 675\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_03",
@@ -150,7 +154,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": " Let ABCD be a trapezium whose vertices lie on the parabola y2 = 4x. Let the sides AD and BC of the\n    trapezium be parallel to y -axis. If the diagonal AC is of length 25                                                            and it passes through the point (1, 0), then                                                                              4\n    the area of ABCD is\n     (1) 75          4                                                            (2) = 252\n     (3) 125                                                 (4) 75           8                                                            8\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_04",
@@ -201,7 +207,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": " The sum of all local minimum values of the function\n                     ⎧ 1 −2x,             x < −1\n                                 f(x) =                                                        3 (7 + 2|x|),     −1 ≤x ≤2                     ⎨ 1\n                                                        11                     ⎩                                                        18 (x −4)(x −5),      x > 2\n\n     is\n     (1) 157                                                 (2) 131          72                                                           72\n     (3) 171                                                 (4) 167          72                                                           72\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_05",
@@ -252,7 +260,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": " Let nCr−1 = 28, nCr = 56 and nCr+1 = 70. Let A(4 cos t, 4 sin t), B(2 sin t, −2 cos t) and\n  C (3r −n, r2 −n −1) be the vertices of a triangle ABC , where t is a parameter. If (3x −1)2 + (3y)2 = α, is\n    the locus of the centroid of triangle ABC , then α equals\n     (1) 6                                                   (2) 18\n     (3) 8                                                   (4) 20\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_06",
@@ -303,7 +313,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": " Let the equation of the circle, which touches x-axis at the point (a, 0), a > 0 and cuts off an intercept of length b\n    on y-axis be x2 + y2 −αx + βy + γ = 0. If the circle lies below x-axis, then the ordered pair (2a, b2) is equal\n     to\n     (1) (γ, β2 −4α)                                       (2) (α, β2 + 4γ)\n     (3) (γ, β2 + 4α)                                       (4) (α, β2 −4γ)\n\n                    2x",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_07",
@@ -354,7 +366,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": " If f(x) =                               , x ∈R, then ∑81k=1 f ( 82k ) is equal to              2x+√2\n     (1) 1.81√2                                            (2) 41\n     (3) 82                                                  (4) 81                                                                        2\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_08",
@@ -405,7 +419,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": " Two number k1 and k2 are randomly chosen from the set of natural numbers. Then, the probability that the\n    value of ik1 + ik2, (i = √−1) is non-zero, equals                     ⎪                     ⎪\n2025 (28 Jan Shift 1)                                      JEE Main Previous Year Paper\n\nJEE Main 2025 January                                                                   MathonGo\n\n     (1) 1                                                   (2) 3          2                                                            4\n     (3) 1                                                   (4) 2          4                                                            3\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_09",
@@ -456,7 +472,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": " If the image of the point (4, 4, 3) in the line x−12 = y−21 = z−13   is (α, β, γ), then α + β + γ is equal to\n     (1) 9                                                   (2) 12\n     (3) 7                                                   (4) 8\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_10",
@@ -507,7 +525,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": " cos (sin−1 35 + sin−1 135 + sin−1 3365 ) is equal to:\n      (1) 1                                                  (2) 0\n      (3) 32                                                 (4) 33           65                                                           65\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_11",
@@ -558,7 +578,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "Let A(x, y, z) be a point in xy-plane, which is equidistant from three points (0, 3, 2), (2, 0, 3) and ( 0, 0, 1 ). Let\n   B = (1, 4, −1) and C = (2, 0, −2). Then among the statements (S1) : △ABC is an isosceles right angled\n      triangle, and (S2) : the area of △ABC is 9√22   ,\n      (1) both are true                                       (2) only (S2) is true\n      (3) only (S1) is true                                   (4) both are false\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_12",
@@ -609,7 +631,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "The area (in sq. units) of the region {(x, y) : 0 ≤y ≤2|x| + 1, 0 ≤y ≤x2 + 1, |x| ≤3} is\n      (1) 80                                                 (2) 64            3                                                            3\n      (3) 32                                                 (4) 17            3                                                            3\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_13",
@@ -660,7 +684,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "The sum, of the squares of all the roots of the equation x2 + |2x −3| −4 = 0, is\n      (1) 3(3 −√2)                                        (2) 6(3 −√2)\n      (3) 6(2 −√2)                                        (4) 3(2 −√2)\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_14",
@@ -711,7 +737,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "Let Tr be the rth term of an A.P. If for some m, Tm = 251 , T25 = 201  , and 20 ∑25r=1 Tr = 13, then\n     5 m ∑2r=mm Tr is equal to\n      (1) 98                                                 (2) 126\n      (3) 142                                                (4) 112\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_15",
@@ -733,7 +761,7 @@
       },
       {
         "id": "D",
-        "content": "14/25"
+        "content": "14/25\n\nx > 0 and f(2) = 3. Then f(6) is equal to"
       }
     ],
     "correct_option": "A",
@@ -762,7 +790,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "Three defective oranges are accidently mixed with seven good ones and on looking at them, it is not possible\n      to differentiate between them. Two oranges are drawn at random from the lot. If x denote the number of\n      defective oranges, then the variance of x is\n      (1) 28/75                                              (2) 18/25\n      (3) 26/75                                             (4) 14/25\n\n                                           x > 0 and f(2) = 3. Then f(6) is equal to",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_16",
@@ -784,7 +814,7 @@
       },
       {
         "id": "D",
-        "content": "2\n\nπ\ndx = π (απ2 + β), α, β ∈Z , then (α + β)2 equals"
+        "content": "2\n\nπ"
       }
     ],
     "correct_option": "A",
@@ -813,13 +843,15 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "Let for some function y = f(x), ∫x0 tf(t)dt = x2f(x),\n      (1) 1                                                  (2) 3\n      (3) 6                                                  (4) 2\n\n\n             π\n                dx = π (απ2 + β), α, β ∈Z , then (α + β)2 equals",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_17",
     "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
     "question_number": 17,
-    "content": "If ∫ −π2 2 96x2(1+ex)cos2 x",
+    "content": "If ∫ −π2 2 96x2(1+ex)cos2 x dx = π (απ2 + β), α, β ∈Z , then (α + β)2 equals",
     "options": [
       {
         "id": "A",
@@ -864,7 +896,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "If ∫ −π2 2  96x2(1+ex)cos2 x\n      (1) 64                                                 (2) 196\n      (3) 144                                                (4) 100\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_18",
@@ -915,7 +949,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "Let ⟨an⟩ be a sequence such that a0 = 0, a1 = 12 and 2an+2 = 5an+1 −3an, n = 0, 1, 2, 3, … . Then ∑100k=1 ak\n       is equal to\n2025 (28 Jan Shift 1)                                      JEE Main Previous Year Paper\n\nJEE Main 2025 January                                                                   MathonGo\n\n      (1) 3a99 −100                                        (2) 3a100 −100\n      (3) 3a99 + 100                                        (4) 3a100 + 100\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_19",
@@ -966,7 +1002,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "The number of different 5 digit numbers greater than 50000 that can be formed using the digits 0 ,\n      1, 2, 3, 4, 5, 6, 7, such that the sum of their first and last digits should not be more than 8 , is\n      (1) 4608                                              (2) 5720\n      (3) 5719                                              (4) 4607\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_20",
@@ -1017,7 +1055,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "The relation R = {(x, y) : x, y ∈Z and x + y is even } is:\n      (1) reflexive and symmetric but not transitive        (2) an equivalence relation\n      (3) symmetric and transitive but not reflexive        (4) reflexive and transitive but not symmetric\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_21",
@@ -1050,13 +1090,15 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "5"
-    }
+    },
+    "raw_content": "        ⎧3x,                     x < 0\n     Let f(x) =  min{1 + x + [x], x + 2[x]},  0 ≤x ≤2 where [.] denotes greatest integer function. If α and β        ⎨        ⎩5,                      x > 2,\n      are the number of points, where f is not continuous and is not differentiable, respectively, then α + β equals\n     __________\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_22",
     "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
     "question_number": 22,
-    "content": "Let M denote the set of all real matrices of order 3 × 3 and let S = {−3, −2, −1, 1, 2}. Let\n\nS1 = {A = [aij] ∈M : A = AT and aij ∈ S, ∀i, j},\nS2 = {A = [aij] ∈M : A = −AT and aij ∈ S, ∀i, j},\nS3 = {A = [aij] ∈M : a11 + a22 + a33 = 0 and aij ∈ S, ∀i, j}.\n\nIf n ( S1 ∪2 US3) = 125α, then α equals _______",
+    "content": "Let M denote the set of all real matrices of order 3 × 3 and let S = {−3, −2, −1, 1, 2}. Let\n\nS1 = {A = [aij] ∈M : A = AT and aij ∈ S, ∀i, j},\nS2 = {A = [aij] ∈M : A = −AT and aij ∈ S, ∀i, j},\nS3 = {A = [aij] ∈M : a11 + a22 + a33 = 0 and aij ∈ S, ∀i, j}.",
     "options": [],
     "correct_option": null,
     "numerical_answer": 1613.0,
@@ -1083,13 +1125,15 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "1613"
-    }
+    },
+    "raw_content": "Let M denote the set of all real matrices of order 3 × 3 and let S = {−3, −2, −1, 1, 2}. Let\n\n                         S1 = {A = [aij] ∈M : A = AT and aij ∈ S, ∀i, j},\n                         S2 = {A = [aij] ∈M : A = −AT and aij ∈ S, ∀i, j},\n                         S3 = {A = [aij] ∈M : a11 + a22 + a33 = 0 and aij ∈ S, ∀i, j}.\n\n       If n ( S1 ∪2 US3) = 125α, then α equals _______\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_23",
     "paper_id": "JEE_MAIN_2025_01_28_SHIFT_1",
     "question_number": 23,
-    "content": "If α = 1 + ∑6r=1(−3)r−1 12C2r−1 , then the distance of the point (12, √3) from the line αx −√3y + 1 = 0\nis _________.\n\nbe an ellipse. Ellipses E1 's are constructed such that their centres and eccentricities are",
+    "content": "If n ( S1 ∪2 US3) = 125α, then α equals _______ If α = 1 + ∑6r=1(−3)r−1 12C2r−1 , then the distance of the point (12, √3) from the line αx −√3y + 1 = 0\nis _________.\n\nbe an ellipse. Ellipses E1 's are constructed such that their centres and eccentricities are",
     "options": [],
     "correct_option": null,
     "numerical_answer": 5.0,
@@ -1116,7 +1160,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "5"
-    }
+    },
+    "raw_content": "  If α = 1 + ∑6r=1(−3)r−1  12C2r−1 , then the distance of the point (12, √3) from the line αx −√3y + 1 = 0\n       is _________.\n\n                        be an ellipse. Ellipses E1 's are constructed such that their centres and eccentricities are",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_24",
@@ -1149,7 +1195,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "54"
-    }
+    },
+    "raw_content": "Let E1 : x29 + y24 = 1\n    same as that of E1 , and the length of minor axis of Ei is the length of major axis of Ei+1(i ≥1). If Ai is the\n     area of the ellipse Ei , then π5 (∑∞i=1 Ai), is equal to\n\n         →       →   →",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_25",
@@ -1182,7 +1230,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "6"
-    }
+    },
+    "raw_content": "Let →a = ^i +^j + ^k, b = 2^i + 2^j + ^k and d = →a × b. If→cis a vector such that →a ⋅→c= |→c|, |→c−2→a|2 = 8 and the\n        →          →   →                               π     angle between d and→cis                                                      , then |10 −3 b ⋅→c| + |d ×→c|2 is equal to                                    4\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_1_Q_26",

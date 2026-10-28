@@ -192,7 +192,7 @@ Provide the progressive level {hint_level} hint."""
                 next_hint_available=hint_level < 3
             )
 
-    def get_similar_questions(self, question_id: str, top_k: int = 5) -> List[SearchResultItem]:
+    def get_similar_questions(self, question_id: str, top_k: int = 5, min_score: float = 0.05) -> List[SearchResultItem]:
         """
         Finds semantically similar PYQs using Pinecone vector distance and hydrates full docs from MongoDB.
         Excludes the query question itself from the result set.
@@ -254,9 +254,12 @@ Provide the progressive level {hint_level} hint."""
                 q_id = hit["id"]
 
             if q_id and q_id != question_id:
-                filtered_ids.append(q_id)
                 raw_score = getattr(hit, "score", 0.0) or (hit.get("score", 0.0) if isinstance(hit, dict) else 0.0)
-                score_map[q_id] = round(float(raw_score), 4)
+                score_float = round(float(raw_score), 4)
+                if min_score is not None and score_float < min_score:
+                    continue
+                filtered_ids.append(q_id)
+                score_map[q_id] = score_float
             if len(filtered_ids) >= top_k:
                 break
 

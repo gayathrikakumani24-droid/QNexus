@@ -2754,7 +2754,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "If 𝑧 is a complex number, then the number of common roots of the equation 𝑧1985 + 𝑧100 + 1 = 0 and\n     𝑧3 + 2𝑧2 + 2𝑧+ 1 = 0, is equal to :\n      (1) 1                                                  (2) 2\n      (3) 0                                                  (4) 3\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_2_Q_62",
@@ -2805,7 +2807,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "Let 𝑎 and 𝑏 be two distinct positive real numbers. Let 11th term of a GP, whose first term is 𝑎 and third term is\n      𝑏, is equal to 𝑝th term of another GP, whose first term is 𝑎 and fifth term is 𝑏. Then 𝑝 is equal to\n      (1) 20                                                 (2) 25\n      (3) 21                                                 (4) 24\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_2_Q_63",
@@ -2827,7 +2831,7 @@
       },
       {
         "id": "D",
-        "content": "6\n\n𝜋"
+        "content": "6/𝜋"
       }
     ],
     "correct_option": "A",
@@ -2856,7 +2860,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "Suppose 28 - 𝑝,   𝑝,  70 - 𝛼,  𝛼 are the coefficient of four consecutive terms in the expansion of ( 1 + 𝑥) 𝑛.\n    Then the value of 2𝛼- 3𝑝 equals\n      (1) 7                                                  (2) 10\n      (3) 4                                                  (4) 6\n\n                  𝜋\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_2_Q_64",
@@ -2907,7 +2913,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "For 𝛼, 𝛽∈0,   let 3sin ( 𝛼+ 𝛽) = 2sin ( 𝛼- 𝛽) and a real number 𝑘 be such that tan𝛼=  tan𝛽. Then the\n                   2\n     value of 𝑘 is equal to\n      (1) -5                                                 (2) 5\n      (3) 2                                                  (4) -2\n         3                                                      3\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_2_Q_65",
@@ -2958,7 +2966,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "If 𝑥2 - 𝑦2 + 2ℎ𝑥𝑦+ 2𝑔𝑥+ 2𝑓𝑦+ 𝑐= 0 is the locus of a point, which moves such that it is always equidistant\n     from the lines 𝑥+ 2𝑦+ 7 = 0 and 2𝑥- 𝑦+ 8 = 0, then the value of 𝑔+ 𝑐+ ℎ- 𝑓 equals\n      (1) 14                                                 (2) 6\n      (3) 8                                                  (4) 29\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_2_Q_66",
@@ -3009,13 +3019,15 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "Let 𝐴( 𝛼, 0 ) and 𝐵( 0, 𝛽) be the points on the line 5𝑥+ 7𝑦= 50. Let the point 𝑃 divide the line segment 𝐴𝐵\n                                                                                           𝑥2    𝑦2\n      internally in the ratio 7:  3. Let 3𝑥- 25 = 0 be a directrix of the ellipse 𝐸:  +  = 1 and the corresponding\n                                                                                         𝑎2    𝑏2\n     focus be 𝑆. If from 𝑆, the perpendicular on the 𝑥- axis passes through 𝑃, then the length of the latus rectum of\n    𝐸 is equal to\n         25                                                    32\n      (1)                                                    (2)\n          3                                                     9\n      (3) 25                                                 (4) 32\n          9                                                     5\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_2_Q_67",
     "paper_id": "JEE_MAIN_2024_01_30_SHIFT_2",
     "question_number": 67,
-    "content": "Let 𝑃 be a point on the hyperbola H: 𝑥2 - 𝑦2 = 1, in the first quadrant such that the area of triangle formed by 𝑃\n9 4\nand the two foci of H is 2√13. Then, the square of the distance of 𝑃 from the origin is\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links..com/mWN\n(30 Jan Shift 2)\n\nQuestion Paper",
+    "content": "Let 𝑃 be a point on the hyperbola H: 𝑥2 - 𝑦2 = 1, in the first quadrant such that the area of triangle formed by 𝑃\n9 4\nand the two foci of H is 2√13. Then, the square of the distance of 𝑃 from the origin is",
     "options": [
       {
         "id": "A",
@@ -3060,7 +3072,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "Let 𝑃 be a point on the hyperbola H: 𝑥2 - 𝑦2 = 1, in the first quadrant such that the area of triangle formed by 𝑃\n                                           9   4\n     and the two foci of H is 2√13. Then, the square of the distance of 𝑃 from the origin is\n\n\n\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN\nJEE Main 2024 (30 Jan Shift 2)                              JEE Main Previous Year Paper\n\nQuestion Paper                                                                         MathonGo\n\n\n      (1) 18                                                 (2) 26\n      (3) 22                                                 (4) 20\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_2_Q_68",
@@ -3111,7 +3125,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "        𝑥 0 0                                                                            2𝜋            4𝜋\n     Let 𝑅= 0 𝑦0 be a non-zero 3 × 3 matrix, where 𝑥sin𝜃= 𝑦sin𝜃+  = 𝑧sin𝜃+   ≠0, 𝜃∈( 0, 2𝜋) .\n                                                                               3             3\n           0 0  𝑧\n     For a square matrix 𝑀, let Trace𝑀 denote the sum of all the diagonal entries of 𝑀. Then, among the\n      statements:\n       I Trace ( 𝑅) = 0\n      ( II ) If Trace ( adj ( adj ( 𝑅) ) = 0, then 𝑅 has exactly one non-zero entry.\n      (1) Both ( I ) and ( II ) are true                      (2) Only ( II ) is true\n      (3) Neither ( I ) nor ( II ) is true                     (4) Only ( I ) is true\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_2_Q_69",
@@ -3162,7 +3178,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "Consider the system of linear equations 𝑥+ 𝑦+ 𝑧= 5, 𝑥+ 2𝑦+ 𝜆2𝑧= 9 and 𝑥+ 3𝑦+ 𝜆𝑧= 𝜇, where\n      𝜆, 𝜇∈𝑅. Then, which of the following statement is NOT correct ?\n      (1) System has infinite number of solution if 𝜆= 1  (2) System is inconsistent if 𝜆= 1 and 𝜇≠13\n        and 𝜇= 13\n      (3) System has unique solution if 𝜆≠1 and 𝜇≠13  (4) System is consistent if 𝜆≠1 and 𝜇= 13\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_2_Q_70",
@@ -3184,7 +3202,7 @@
       },
       {
         "id": "D",
-        "content": "9\n\n𝑥2𝑔𝑥𝑑𝑥"
+        "content": "9/𝑥2𝑔𝑥𝑑𝑥"
       }
     ],
     "correct_option": "B",
@@ -3213,7 +3231,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "If the domain of the function 𝑓𝑥=     2𝑥+ 3 + cos-12𝑥- 1 is ( 𝛼, 𝛽], then the value of 5𝛽- 4𝛼 is equal to                                        log𝑒 4𝑥2 + 𝑥- 3      𝑥+ 2\n      (1) 10                                                 (2) 12\n      (3) 11                                                 (4) 9\n\n                                                                   𝑥2𝑔𝑥𝑑𝑥",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_2_Q_71",
@@ -3264,7 +3284,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "Let 𝑓: 𝑅→𝑅 be a function defined 𝑓𝑥=     𝑥  / 4 and 𝑔𝑥= 𝑓𝑓𝑓𝑓𝑥 then 18 ∫0√2√5                                               1 + 𝑥41\n      (1) 33                                                 (2) 36\n      (3) 42                                                 (4) 39\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_2_Q_72",
@@ -3315,7 +3337,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "Let a and b be real constants such that the function 𝑓 defined by 𝑓𝑥= 𝑥2 + 3𝑥+ 𝑎, 𝑥≤1 be differentiable\n                                                𝑏𝑥+ 2,   𝑥> 1\n                                2\n     on 𝑅. Then, the value of ∫-2 𝑓𝑥𝑑𝑥 equals\n         15                                                    19\n      (1)                                                    (2)\n          6                                                     6\n      (3) 21                                                 (4) 17\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_2_Q_73",
@@ -3366,7 +3390,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "Let 𝑓: 𝑅- {0} →𝑅 be a function satisfying 𝑓 𝑥    𝑓( 𝑥) for all 𝑥, 𝑦, 𝑓( 𝑦) ≠0. If 𝑓' (1) = 2024, then                            𝑦= 𝑓( 𝑦)\n      (1) 𝑥𝑓'𝑥- 2024𝑓𝑥= 0                                (2) 𝑥𝑓'𝑥+ 2024𝑓𝑥= 0\n      (3) 𝑥' (𝑥) + 𝑓(𝑥) = 2024                          (4) 𝑥𝑓' (𝑥) - 2023𝑓(𝑥) = 0\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_2_Q_74",
@@ -3417,13 +3443,15 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "Let 𝑓𝑥= 𝑥+ 32𝑥- 23, 𝑥∈[ - 4, 4]. If 𝑀 and 𝑚 are the maximum and minimum values of 𝑓, respectively in\n       [ - 4, 4], then the value of 𝑀- 𝑚 is :\n      (1) 600                                               (2) 392\n      (3) 608                                               (4) 108\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_2_Q_75",
     "paper_id": "JEE_MAIN_2024_01_30_SHIFT_2",
     "question_number": 75,
-    "content": "Let 𝑦= 𝑓( 𝑥) be a thrice differentiable function in ( - 5, 5 ) . Let the tangents to the curve 𝑦= 𝑓( 𝑥) at\n( 1, f ( 1 ) ) and ( 3, f ( 3 ) ) make angles 𝜋 and 𝜋 respectively with positive x-axis. If 6 4,\n3 2\n27 ∫1 𝑓'𝑡 + 1𝑓\"𝑡𝑑𝑡= 𝛼+ 𝛽√3 where 𝛼, 𝛽 are integers, then the value of 𝛼+ 𝛽 equals\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links..com/mWN\n(30 Jan Shift 2)\n\nQuestion Paper",
+    "content": "Let 𝑦= 𝑓( 𝑥) be a thrice differentiable function in ( - 5, 5 ) . Let the tangents to the curve 𝑦= 𝑓( 𝑥) at\n( 1, f ( 1 ) ) and ( 3, f ( 3 ) ) make angles 𝜋 and 𝜋 respectively with positive x-axis. If 6 4,\n3 2\n27 ∫1 𝑓'𝑡 + 1𝑓\"𝑡𝑑𝑡= 𝛼+ 𝛽√3 where 𝛼, 𝛽 are integers, then the value of 𝛼+ 𝛽 equals",
     "options": [
       {
         "id": "A",
@@ -3439,7 +3467,7 @@
       },
       {
         "id": "D",
-        "content": "36\n\n39\n, then 𝑓𝑥- 𝑐𝑥𝑑𝑥="
+        "content": "36\n\n39"
       }
     ],
     "correct_option": "B",
@@ -3468,13 +3496,15 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "Let 𝑦= 𝑓( 𝑥) be a thrice differentiable function in ( - 5, 5 ) . Let the tangents to the curve 𝑦= 𝑓( 𝑥) at\n      ( 1, f ( 1 ) ) and ( 3, f ( 3 ) ) make angles 𝜋 and 𝜋 respectively with positive x-axis. If                                                6      4,\n          3   2\n    27 ∫1 𝑓'𝑡 + 1𝑓\"𝑡𝑑𝑡= 𝛼+ 𝛽√3   where 𝛼,  𝛽 are integers, then the value of 𝛼+ 𝛽 equals\n\n\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN\nJEE Main 2024 (30 Jan Shift 2)                              JEE Main Previous Year Paper\n\nQuestion Paper                                                                         MathonGo\n\n\n      (1) -14                                                (2) 26\n      (3) -16                                                (4) 36\n\n                                                                                                            39\n                                                                                                                                                                                  , then                                                                      𝑓𝑥- 𝑐𝑥𝑑𝑥=",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_2_Q_76",
     "paper_id": "JEE_MAIN_2024_01_30_SHIFT_2",
     "question_number": 76,
-    "content": "Let 𝑓: 𝑅→𝑅 be defined 𝑓𝑥= 𝑎𝑒2𝑥+ 𝑏𝑒𝑥+ 𝑐𝑥. If 𝑓(0) = - 1, 𝑓'log𝑒2 = 21 and ∫0log4 2\nthe value of |𝑎+ 𝑏+ 𝑐| equals:",
+    "content": "Let 𝑓: 𝑅→𝑅 be defined 𝑓𝑥= 𝑎𝑒2𝑥+ 𝑏𝑒𝑥+ 𝑐𝑥. If 𝑓(0) = - 1, 𝑓'log𝑒2 = 21 and ∫0log4 2\nthe value of |𝑎+ 𝑏+ 𝑐| equals: , then 𝑓𝑥- 𝑐𝑥𝑑𝑥=",
     "options": [
       {
         "id": "A",
@@ -3490,7 +3520,7 @@
       },
       {
         "id": "D",
-        "content": "8\n\n2"
+        "content": "8/2"
       }
     ],
     "correct_option": "D",
@@ -3519,7 +3549,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "Let 𝑓: 𝑅→𝑅 be defined 𝑓𝑥= 𝑎𝑒2𝑥+ 𝑏𝑒𝑥+ 𝑐𝑥. If 𝑓(0) =  - 1, 𝑓'log𝑒2 = 21 and ∫0log4                                                                                                             2\n      the value of |𝑎+ 𝑏+ 𝑐| equals:\n      (1) 16                                                 (2) 10\n      (3) 12                                                 (4) 8\n\n                                                                                                          2\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_2_Q_77",
@@ -3541,7 +3573,7 @@
       },
       {
         "id": "D",
-        "content": "85"
+        "content": "85\n\n2 is equal to"
       }
     ],
     "correct_option": "A",
@@ -3570,7 +3602,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "Let →𝑎= ^𝑖+ 𝛼 ^𝑗+ 𝛽 ^𝑘    ,  𝛼, 𝛽∈𝑅. Let a vector →𝑏 be such that the angle between →𝑎 and →𝑏 is 𝜋 and →𝑏 = 6, If\n                                                                                                   4\n      →𝑎· →𝑏= 3√2, then the value of 𝛼2 + 𝛽2 | →𝑎× →𝑏|2 is equal to\n      (1) 90                                                 (2) 75\n      (3) 95                                                 (4) 85\n\n                                                                                           2 is equal to",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_2_Q_78",
@@ -3621,7 +3655,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "Let →𝑎 and →𝑏 be two vectors such that | →𝑏| = 1 and | →𝑏× →𝑎| = 2 Then |( →𝑏× →𝑎) - →𝑏|\n      (1) 3                                                  (2) 5\n      (3) 1                                                  (4) 4\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_2_Q_79",
@@ -3672,7 +3708,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "Let 𝐿1: →𝑟= ^𝑖- ^𝑗+ 2 ^𝑘+ 𝜆 ^𝑖- ^𝑗+ 2 ^𝑘, 𝜆∈𝑅, 𝐿2: →𝑟= ^𝑗- ^𝑘+ 𝜇3 ^𝑖+ ^𝑗+ 𝑝 ^𝑘, 𝜇∈𝑅 and\n      𝐿3: →𝑟= 𝛿(𝑙 ^𝑖+ 𝑚 ^𝑗+ 𝑛 ^𝑘), 𝛿∈𝑅 be three lines such that 𝐿1 is perpendicular to 𝐿2 and 𝐿3 is perpendicular to\n     both 𝐿1 and 𝐿2. Then the point which lies on 𝐿3 is\n      (1) ( - 1, 7, 4 )                                        (2) ( - 1, - 7, 4 )\n      (3) ( 1, 7, - 4 )                                        (4) ( 1, - 7, 4 )\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_2_Q_80",
@@ -3723,7 +3761,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "Bag 𝐴 contains 3 white, 7 red balls and bag 𝐵 contains 3 white, 2 red balls. One bag is selected at random\n     and a ball is drawn from it. The probability of drawing the ball from the bag A, if the ball drawn in white, is :\n         1                                                     1\n      (1)                                                    (2)\n         4                                                     9\n      (3) 1                                                  (4) 3\n         3                                                     10\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_2_Q_81",
@@ -3756,7 +3796,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "The number of real solutions of the equation \\(x\\left(x^2+3|x|+5|x-1|+6|x-2|\\right)=0\\) is ______.\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_2_Q_82",
@@ -3789,7 +3831,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "11376"
-    }
+    },
+    "raw_content": "In an examination of Mathematics paper, there are 20 questions of equal marks and the question paper is\n     divided into three sections : A, B and C. A student is required to attempt total 15 questions taking at least 4\n     questions from each section. If section A has 8 questions, section B has 6 questions and section C has 6\n      questions, then the total number of ways a student can select 15 questions is _________.\n\n                                                                                            6      𝑛\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_2_Q_83",
@@ -3822,7 +3866,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "9"
-    }
+    },
+    "raw_content": "Let 𝑆𝑛 be the sum to n-terms of an arithmetic progression 3, 7, 11, … … , if 40 < 𝑛( 𝑛+ 1 ) ∑𝑘= 1 𝑆𝑘< 42,\n     then 𝑛 equals ____________.\n\n                                                𝑛C𝑘 𝑛C𝑘+ 1                𝑛     𝑛C𝑘 2",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_2_Q_84",
@@ -3855,13 +3901,15 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "10"
-    }
+    },
+    "raw_content": "Let 𝛼=                      and 𝛽=   𝑛- 1          ∑𝑘= 0 𝑘+ 1       ∑𝑘= 0   𝑘+ 2      . If 5𝛼= 6𝛽, then 𝑛 equals\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_2_Q_85",
     "paper_id": "JEE_MAIN_2024_01_30_SHIFT_2",
     "question_number": 85,
-    "content": "Consider two circles 𝐶1: 𝑥2 + 𝑦2 = 25 and 𝐶2: ( 𝑥- 𝛼) 2 + 𝑦2 = 16, where 𝛼∈( 5, 9 ) . Let the angle between\n. If the the two radii (one to each circle) drawn from one of the intersection points of C1and C2 be sin-1√638\nlength of common chord of 𝐶1 and 𝐶2 is 𝛽, then the value of ( 𝛼𝛽) 2 equals _________.\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links..com/mWN\n(30 Jan Shift 2)\n\nQuestion Paper",
+    "content": "Consider two circles 𝐶1: 𝑥2 + 𝑦2 = 25 and 𝐶2: ( 𝑥- 𝛼) 2 + 𝑦2 = 16, where 𝛼∈( 5, 9 ) . Let the angle between\n. If the the two radii (one to each circle) drawn from one of the intersection points of C1and C2 be sin-1√638\nlength of common chord of 𝐶1 and 𝐶2 is 𝛽, then the value of ( 𝛼𝛽) 2 equals _________.",
     "options": [],
     "correct_option": null,
     "numerical_answer": 1575.0,
@@ -3888,7 +3936,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "1575"
-    }
+    },
+    "raw_content": "Consider two circles 𝐶1: 𝑥2 + 𝑦2 = 25 and 𝐶2: ( 𝑥- 𝛼) 2 + 𝑦2 = 16, where 𝛼∈( 5, 9 ) . Let the angle between\n                                                                                                                                                                           . If the      the two radii (one to each circle) drawn from one of the intersection points of C1and C2 be sin-1√638\n     length of common chord of 𝐶1 and 𝐶2 is 𝛽, then the value of ( 𝛼𝛽) 2 equals _________.\n\n\n\n\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN\nJEE Main 2024 (30 Jan Shift 2)                              JEE Main Previous Year Paper\n\nQuestion Paper                                                                         MathonGo\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_2_Q_86",
@@ -3921,7 +3971,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "29"
-    }
+    },
+    "raw_content": "If the variance 𝜎2 of the data  xi  0 1 5 6 10 12 17  is 𝑘 then the value of 𝑘 is ______ {where   .\n                                                               fi  3 2 3 2  6  3  3\n      denotes the greatest integer funciton}\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_2_Q_87",
@@ -3954,7 +4006,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "960"
-    }
+    },
+    "raw_content": "The number of symmetric relations defined on the set {1, 2, 3, 4} which are not reflexive is _______.\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_2_Q_88",
@@ -3987,7 +4041,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "5"
-    }
+    },
+    "raw_content": "The area of the region enclosed by the parabola ( 𝑦- 2 ) 2 = 𝑥- 1, the line 𝑥- 2 𝑦+ 4 = 0 and the positive\n     coordinate axes is __________.\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_2_Q_89",
@@ -4020,13 +4076,15 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "20"
-    }
+    },
+    "raw_content": "Let 𝑌= 𝑌( 𝑋) be a curve lying in the first quadrant such that the area enclosed by the line\n    𝑌- 𝑦= 𝑌' (𝑥) (𝑋- 𝑥) and the co-ordinate axes, where ( 𝑥, 𝑦) is any point on the curve, is always\n         -𝑦2       + 1, 𝑌'𝑥≠0. If 𝑌( 1 ) = 1, then 12 𝑌( 2 ) equals ________.\n       2𝑌' (𝑥)\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_01_30_SHIFT_2_Q_90",
     "paper_id": "JEE_MAIN_2024_01_30_SHIFT_2",
     "question_number": 90,
-    "content": "Let a line passing through the point ( - 1, 2, 3 ) intersect the lines 𝐿1: 𝑥- 1 = 𝑦- 2 = 𝑧+ 1 at 𝑀( 𝛼, 𝛽, 𝛾) and 3 2 -2\n𝑥+ 2 𝑦- 2 𝑧- 1 ( 𝛼+ 𝛽+ 𝛾) 2\nequals ________________. = = at 𝑁( 𝑎, 𝑏, 𝑐) . Then the value of 𝐿2: -3 -2 4 ( 𝑎+ 𝑏+ 𝑐) 2\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links..com/mWN",
+    "content": "Let a line passing through the point ( - 1, 2, 3 ) intersect the lines 𝐿1: 𝑥- 1 = 𝑦- 2 = 𝑧+ 1 at 𝑀( 𝛼, 𝛽, 𝛾) and 3 2 -2\n𝑥+ 2 𝑦- 2 𝑧- 1 ( 𝛼+ 𝛽+ 𝛾) 2\nequals ________________. = = at 𝑁( 𝑎, 𝑏, 𝑐) . Then the value of 𝐿2: -3 -2 4 ( 𝑎+ 𝑏+ 𝑐) 2",
     "options": [],
     "correct_option": null,
     "numerical_answer": 196.0,
@@ -4053,6 +4111,8 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "196"
-    }
+    },
+    "raw_content": "Let a line passing through the point ( - 1, 2, 3 ) intersect the lines 𝐿1: 𝑥- 1 = 𝑦- 2 = 𝑧+ 1 at 𝑀( 𝛼, 𝛽, 𝛾) and                                                                             3      2        -2\n       𝑥+ 2    𝑦- 2    𝑧- 1                                           ( 𝛼+ 𝛽+ 𝛾) 2\n                                                                     equals ________________.        =            =                               at 𝑁( 𝑎, 𝑏, 𝑐) . Then the value of      𝐿2:             -3                      -2                         4                                                                                   ( 𝑎+ 𝑏+ 𝑐) 2\n\n\n\n\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN\n",
+    "parsing_warnings": []
   }
 ]

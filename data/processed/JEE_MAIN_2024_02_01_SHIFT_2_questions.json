@@ -2725,7 +2725,7 @@
       },
       {
         "id": "D",
-        "content": "8\n3"
+        "content": "8/3"
       }
     ],
     "correct_option": "A",
@@ -2754,7 +2754,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "Let 𝛼 and 𝛽 be the roots of the equation 𝑝𝑥2 + 𝑞𝑥−𝑟= 0, where 𝑝≠0. If 𝑝,  𝑞 and 𝑟 be the consecutive\n     terms of a non-constant G.P and 1   1    3 then the value of 𝛼−𝛽2 is:                     𝛼+ 𝛽= 4,\n      (1) 80                                                 (2) 9\n          9\n         20\n      (3)                                                    (4) 8\n          3\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_2_Q_62",
@@ -2768,7 +2770,7 @@
       },
       {
         "id": "B",
-        "content": "2\n3"
+        "content": "2/3"
       },
       {
         "id": "C",
@@ -2776,7 +2778,7 @@
       },
       {
         "id": "D",
-        "content": "3\n2"
+        "content": "3/2"
       }
     ],
     "correct_option": "C",
@@ -2805,7 +2807,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "If 𝑧 is a complex number such that 𝑧≤1, then the minimum value of 𝑧+ 1 + 4𝑖 is:                                                               23\n                                                               5\n      (1) 2                                                  (2)\n                                                               2\n         3\n      (3)                                                    (4) 3\n         2\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_2_Q_63",
@@ -2856,7 +2860,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "Let 𝑆𝑛 denote the sum of the first n terms of an arithmetic progression. If 𝑆10 = 390 and the ratio of the tenth\n     and the fifth terms is 15   :  7, then 𝑆15 −𝑆5 is equal to:\n      (1) 800                                               (2) 890\n      (3) 790                                               (4) 690\n\n                                                                                                                                    1       18\n                                                                                                          1       1",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_2_Q_64",
@@ -2907,7 +2913,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "Let 𝑚 and 𝑛 be the coefficients of seventh and thirteenth terms respectively in the expansion of    3 +     2                                                                                     3𝑥    2𝑥 3\n                  1\n         . Then 𝑛                  3 is:\n         𝑚\n      (1) 4                                                  (2) 1\n         9                                                     9\n         1                                                     9\n      (3)                                                    (4)\n         4                                                     4\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_2_Q_65",
@@ -2958,7 +2966,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "The number of solutions of the equation 4sin2𝑥−4cos3𝑥+ 9 −4cos𝑥= 0; 𝑥∈−2𝜋, 2𝜋 is:\n      (1) 1                                                  (2) 3\n      (3) 2                                                  (4) 0\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_2_Q_66",
@@ -2980,7 +2990,7 @@
       },
       {
         "id": "D",
-        "content": "1\n2"
+        "content": "1/2"
       }
     ],
     "correct_option": "A",
@@ -3009,13 +3019,15 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "Let the locus of the mid points of the chords of circle 𝑥2 + 𝑦−12 = 1 drawn from the origin intersect the line\n   𝑥+ 𝑦= 1 at 𝑃 and 𝑄. Then, the length of 𝑃𝑄 is:\n          1\n      (1)                                                    (2) √2         √2\n         1\n      (3)                                                    (4) 1\n         2\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_2_Q_67",
     "paper_id": "JEE_MAIN_2024_02_01_SHIFT_2",
     "question_number": 67,
-    "content": "Let 𝑃 be a point on the ellipse 𝑥2 + 𝑦2 = 1. Let the line passing through 𝑃 and parallel to 𝑦- axis meet the\n9 4\ncircle 𝑥2 + 𝑦2 = 9 at point 𝑄 such that 𝑃 and 𝑄 are on the same side of the 𝑥- axis. Then, the eccentricity of\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links..com/mWN\n(01 Feb Shift 2)\n\nQuestion Paper\n\nthe locus of the point 𝑅 on 𝑃𝑄 such that 𝑃𝑅: 𝑅𝑄= 4: 3 as 𝑃 moves on the ellipse, is:\n11 13",
+    "content": "Let 𝑃 be a point on the ellipse 𝑥2 + 𝑦2 = 1. Let the line passing through 𝑃 and parallel to 𝑦- axis meet the\n9 4\ncircle 𝑥2 + 𝑦2 = 9 at point 𝑄 such that 𝑃 and 𝑄 are on the same side of the 𝑥- axis. Then, the eccentricity of\n\nthe locus of the point 𝑅 on 𝑃𝑄 such that 𝑃𝑅: 𝑅𝑄= 4: 3 as 𝑃 moves on the ellipse, is:\n11 13",
     "options": [
       {
         "id": "A",
@@ -3060,7 +3072,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "Let 𝑃 be a point on the ellipse 𝑥2 + 𝑦2 = 1. Let the line passing through 𝑃 and parallel to 𝑦- axis meet the\n                                     9    4\n      circle 𝑥2 + 𝑦2 = 9 at point 𝑄 such that 𝑃 and 𝑄 are on the same side of the 𝑥- axis. Then, the eccentricity of\n\n\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN\nJEE Main 2024 (01 Feb Shift 2)                              JEE Main Previous Year Paper\n\nQuestion Paper                                                                         MathonGo\n\n\n      the locus of the point 𝑅 on 𝑃𝑄 such that 𝑃𝑅: 𝑅𝑄= 4: 3 as 𝑃 moves on the ellipse, is:\n         11                                                    13\n      (1)                                                    (2)\n         19                                                    21\n      (3) √139                                               (4) √13\n           23                                                    7\n\n                                                                                                𝑥",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_2_Q_68",
@@ -3111,7 +3125,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "Let 𝑓𝑥= 𝑥−1,  𝑥  is even, 𝑥∈𝑁. If for some 𝑎∈𝑁, 𝑓𝑓𝑓𝑎= 21, then  lim 𝑥3                                                                              where 𝑡 denotes the                 2𝑥,  𝑥  is odd,                                  𝑥→𝑎− 𝑎− 𝑎,\n      greatest integer less than or equal to 𝑡, is equal to:\n      (1) 121                                               (2) 144\n      (3) 169                                               (4) 225\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_2_Q_69",
@@ -3125,7 +3141,7 @@
       },
       {
         "id": "B",
-        "content": "3\n2"
+        "content": "3/2"
       },
       {
         "id": "C",
@@ -3133,7 +3149,7 @@
       },
       {
         "id": "D",
-        "content": "1\n2"
+        "content": "1/2"
       }
     ],
     "correct_option": "A",
@@ -3162,7 +3178,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "Consider 10 observation 𝑥1, 𝑥2,  .  .. 𝑥10, such that ∑𝑖=10 1 𝑥𝑖−𝛼= 2 and ∑𝑖=10 1 𝑥𝑖−𝛽2 = 40, where 𝛼, 𝛽 are\n                                                                             6     84                 𝛽\n      positive integers. Let the mean and the variance of the observations be  and    respectively. The   is equal to:\n                                                                             5     25                 𝛼\n      (1) 2                                                  (2) 3\n                                                               2\n      (3) 5                                                  (4) 1\n         2\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_2_Q_70",
@@ -3213,7 +3231,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "Consider   the   relations  𝑅1  and  𝑅2   defined   as  𝑎𝑅1𝑏⇔𝑎2 + 𝑏2 = 1   for   all   𝑎, 𝑏, ∈𝑅  and\n      𝑎, 𝑏𝑅2𝑐, 𝑑⇔𝑎+ 𝑑= 𝑏+ 𝑐 for all 𝑎, 𝑏, 𝑐, 𝑑∈𝑁× 𝑁. Then\n      (1) Only 𝑅1 is an equivalence relation                (2) Only 𝑅2 is an equivalence relation\n      (3) 𝑅1 and 𝑅2 both are equivalence relation          (4) Neither 𝑅1 nor 𝑅2 is an equivalence relation\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_2_Q_71",
@@ -3264,7 +3284,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "Let the system of equations 𝑥+ 2𝑦+ 3𝑧= 5, 2𝑥+ 3𝑦+ 𝑧= 9, 4𝑥+ 3𝑦+ 𝜆𝑧= 𝜇 have infinite number of\n      solutions. Then 𝜆+ 2𝜇 is equal to:\n      (1) 28                                                 (2) 17\n      (3) 22                                                 (4) 15\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_2_Q_72",
@@ -3315,7 +3337,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "If the domain of the function 𝑓𝑥= √𝑥2 −25 +     + 2𝑥−15 is −∞, 𝛼∪𝛽, ∞, then 𝛼2 + 𝛽3 is equal to:                                           4 −𝑥2    log10𝑥2\n      (1) 140                                               (2) 175\n      (3) 150                                               (4) 125\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_2_Q_73",
@@ -3366,7 +3390,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "Let 𝑓𝑥= 2𝑥2 + 5𝑥- 3, 𝑥∈𝑅. If 𝑚 and 𝑛 denote the number of points where 𝑓 is not continuous and not\n      differentiable respectively, then 𝑚+ 𝑛 is equal to:\n      (1) 5                                                  (2) 2\n      (3) 0                                                  (4) 3\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_2_Q_74",
@@ -3388,7 +3414,7 @@
       },
       {
         "id": "D",
-        "content": "-1\n\n𝜋"
+        "content": "-1/𝜋"
       }
     ],
     "correct_option": "A",
@@ -3417,7 +3443,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "The value of                            1                     1 2𝑥3 −3𝑥2 −𝑥+ 1 3𝑑𝑥 is equal to:                ∫0\n      (1) 0                                                  (2) 1\n      (3) 2                                                  (4) -1\n\n          𝜋\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_2_Q_75",
@@ -3431,7 +3459,7 @@
       },
       {
         "id": "B",
-        "content": "1\n3"
+        "content": "1/3"
       },
       {
         "id": "C",
@@ -3468,13 +3496,15 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "    3\n       If ∫ cos4𝑥𝑑𝑥= 𝑎𝜋+ 𝑏√3, where 𝑎 and 𝑏 are rational numbers, then 9𝑎+ 8𝑏 is equal to:\n         0\n      (1) 2                                                  (2) 1\n                                                               3\n      (3) 3                                                  (4)\n                                                               2\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_2_Q_76",
     "paper_id": "JEE_MAIN_2024_02_01_SHIFT_2",
     "question_number": 76,
-    "content": "Let 𝛼 be a non-zero real number. Suppose 𝑓: 𝑅→𝑅 is a differentiable function such that 𝑓0 = 1 and\n𝑥→−∞𝑓𝑥=lim 1. If 𝑓'𝑥= 𝛼𝑓𝑥+ 3, for all 𝑥∈𝑅, then 𝑓−log𝑒2 is equal to ________.\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links..com/mWN\n(01 Feb Shift 2)\n\nQuestion Paper",
+    "content": "Let 𝛼 be a non-zero real number. Suppose 𝑓: 𝑅→𝑅 is a differentiable function such that 𝑓0 = 1 and\n𝑥→−∞𝑓𝑥=lim 1. If 𝑓'𝑥= 𝛼𝑓𝑥+ 3, for all 𝑥∈𝑅, then 𝑓−log𝑒2 is equal to ________.",
     "options": [
       {
         "id": "A",
@@ -3519,7 +3549,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "Let 𝛼 be a non-zero real number. Suppose 𝑓: 𝑅→𝑅  is a differentiable function such that 𝑓0 = 1 and\n   𝑥→−∞𝑓𝑥=lim        1. If 𝑓'𝑥= 𝛼𝑓𝑥+ 3, for all 𝑥∈𝑅, then 𝑓−log𝑒2 is equal to ________.\n\n\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN\nJEE Main 2024 (01 Feb Shift 2)                              JEE Main Previous Year Paper\n\nQuestion Paper                                                                         MathonGo\n\n\n      (1) 1                                                  (2) 5\n      (3) 9                                                  (4) 7\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_2_Q_77",
@@ -3570,7 +3602,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "Consider a 𝛥𝐴𝐵𝐶 where 𝐴1, 3, 2, 𝐵−2, 8, 0 and 𝐶3, 6, 7. If the angle bisector of ∠𝐵𝐴𝐶 meets the line 𝐵𝐶 at 𝐷,\n     then the length of the projection of the vector →𝐴𝐷 on the vector →𝐴𝐶 is:\n      (1)  37                                                (2) √38\n         2√38                                                   2\n           39\n      (3)                                                    (4) √19         2√38\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_2_Q_78",
@@ -3621,7 +3655,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "If the mirror image of the point 𝑃( 3, 4, 9 ) in the line 𝑥−1 = 𝑦+ 1 = 𝑧−2 is 𝛼, 𝛽, 𝛾, then 14𝛼+ 𝛽+ 𝛾 is:\n                                                              3       2       1\n      (1) 102                                               (2) 138\n      (3) 108                                               (4) 132\n\n                                  𝑥+ 3   𝑦−4   𝑧+ 1\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_2_Q_79",
@@ -3672,7 +3708,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "Let 𝑃 and 𝑄 be the points on the line   =   =     which are at a distance of 6 units from the point\n                                                8       2       2\n    𝑅( 1, 2, 3 ) . If the centroid of the triangle 𝑃𝑄𝑅 is 𝛼, 𝛽, 𝛾, then 𝛼2 + 𝛽2 + 𝛾2 is:\n      (1) 26                                                 (2) 36\n      (3) 18                                                 (4) 24\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_2_Q_80",
@@ -3723,7 +3761,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "Let Ajay will not appear in JEE exam with probability 𝑝= 2  while both Ajay and Vijay will appear in the                                                                              7,\n    exam with probability 𝑞= 15. Then the probability, that Ajay will appear in the exam and Vijay will not appear\n       is:\n          9                                                    18\n      (1)                                                    (2)\n         35                                                    35\n      (3) 24                                                 (4) 3\n         35                                                    35\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_2_Q_81",
@@ -3756,7 +3796,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "101"
-    }
+    },
+    "raw_content": "The lines 𝐿1, 𝐿2,  .  .. , 𝐿20 are distinct. For 𝑛= 1, 2, 3,  .  .. , 10 all the lines 𝐿2𝑛−1 are parallel to each other and\n       all the lines 𝐿2𝑛 pass through a given point 𝑃. The maximum number of points of intersection of pairs of lines\n     from the set 𝐿1, 𝐿2,  .  .. , 𝐿20 is equal to:\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_2_Q_82",
@@ -3789,7 +3831,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "If three successive terms of a G.P. with common ratio 𝑟𝑟> 1 are the length of the sides of a triangle and 𝑟\n     denotes the greatest integer less than or equal to r, then 3𝑟+ −𝑟 is equal to:\n\n                                                                    2𝜋\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_2_Q_83",
@@ -3822,7 +3866,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "36"
-    }
+    },
+    "raw_content": "Let 𝐴𝐵𝐶 be an isosceles triangle in which 𝐴 is at −1, 0, ∠𝐴=      , 𝐴𝐵= 𝐴𝐶 and 𝐵 is on the positive 𝑥-\n                                                                       3\n                                                                                        𝛽4\n      axis. If 𝐵𝐶= 4√3 and the line 𝐵𝐶 intersects the line 𝑦= 𝑥+ 3 at 𝛼, 𝛽, then     is:                                                                                        𝛼2\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_2_Q_84",
@@ -3855,7 +3901,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "Let 𝐴= 𝐼2 −2𝑀𝑀𝑇, where 𝑀 is real matrix of order 2 × 1 such that the relation 𝑀𝑇𝑀= 𝐼1 holds. If 𝜆 is a\n      real number such that the relation 𝐴𝑋= 𝜆𝑋 holds for some non-zero real matrix 𝑋 of order 2 × 1, then the sum\n     of squares of all possible values of 𝜆 is equal to:\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_2_Q_85",
@@ -3888,7 +3936,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "105"
-    }
+    },
+    "raw_content": "If 𝑦= √𝑥+ 1𝑥2 −√𝑥    1                  then 96𝑦'𝜋 is equal to:          𝑥√𝑥+ 𝑥+ √𝑥+ 153cos2𝑥−5cos3𝑥,           6\n                                   𝑥\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_2_Q_86",
@@ -3921,13 +3971,15 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "219"
-    }
+    },
+    "raw_content": "Let 𝑓: 0, ∞→𝑅 and 𝐹𝑥= ∫ 𝑡𝑓𝑡𝑑𝑡. If 𝐹𝑥2 = 𝑥4 + 𝑥5, then   12  𝑓𝑟2 is equal to:                                            ∑𝑟= 1\n                                 0\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_2_Q_87",
     "paper_id": "JEE_MAIN_2024_02_01_SHIFT_2",
     "question_number": 87,
-    "content": "Three points 𝑂0, 0, 𝑃𝑎, 𝑎2, 𝑄−𝑏, 𝑏2, 𝑎> 0, 𝑏> 0, are on the parabola 𝑦= 𝑥2. Let 𝑆1 be the area of the\nregion bounded by the line 𝑃𝑄 and the parabola, and 𝑆2 be the area of the triangle 𝑂𝑃𝑄. If the minimum value\n𝑆1 𝑚 of is 𝑛, gcd𝑚, 𝑛= 1, then 𝑚+ 𝑛 is equal to: 𝑆2\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links..com/mWN\n(01 Feb Shift 2)\n\nQuestion Paper",
+    "content": "Three points 𝑂0, 0, 𝑃𝑎, 𝑎2, 𝑄−𝑏, 𝑏2, 𝑎> 0, 𝑏> 0, are on the parabola 𝑦= 𝑥2. Let 𝑆1 be the area of the\nregion bounded by the line 𝑃𝑄 and the parabola, and 𝑆2 be the area of the triangle 𝑂𝑃𝑄. If the minimum value\n𝑆1 𝑚 of is 𝑛, gcd𝑚, 𝑛= 1, then 𝑚+ 𝑛 is equal to: 𝑆2",
     "options": [],
     "correct_option": null,
     "numerical_answer": 7.0,
@@ -3954,7 +4006,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "7"
-    }
+    },
+    "raw_content": "Three points 𝑂0, 0,  𝑃𝑎, 𝑎2,  𝑄−𝑏, 𝑏2, 𝑎> 0, 𝑏> 0, are on the parabola 𝑦= 𝑥2. Let 𝑆1 be the area of the\n     region bounded by the line 𝑃𝑄 and the parabola, and 𝑆2 be the area of the triangle 𝑂𝑃𝑄. If the minimum value\n          𝑆1  𝑚     of             is 𝑛,  gcd𝑚, 𝑛= 1, then 𝑚+ 𝑛 is equal to:          𝑆2\n\n\n\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN\nJEE Main 2024 (01 Feb Shift 2)                              JEE Main Previous Year Paper\n\nQuestion Paper                                                                         MathonGo\n\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_2_Q_88",
@@ -3987,7 +4041,9 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "8"
-    }
+    },
+    "raw_content": "The sum of squares of all possible values of 𝑘, for which area of the region bounded by the parabolas\n     2𝑦2 = 𝑘𝑥 and 𝑘𝑦2 = 2𝑦−𝑥 is maximum, is equal to:\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_2_Q_89",
@@ -4020,13 +4076,15 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "5"
-    }
+    },
+    "raw_content": "If 𝑑𝑥    1 + 𝑥−𝑦2 , 𝑥1 = 1, then 5𝑥2 is equal to:     𝑑𝑦=    𝑦\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2024_02_01_SHIFT_2_Q_90",
     "paper_id": "JEE_MAIN_2024_02_01_SHIFT_2",
     "question_number": 90,
-    "content": "Let →𝑎= ^𝑖+ ^𝑗+ ^𝑘, →𝑏= − ^𝑖−8 ^𝑗+ 2 ^𝑘 and →𝑐= 4 ^𝑖+ 𝑐2 ^𝑗+ 𝑐3 ^𝑘 be three vectors such that →𝑏× →𝑎= →𝑐× →𝑎. If the\nangle between the vector →𝑐 and the vector 3 ^𝑖+ 4 ^𝑗+ ^𝑘 is 𝜃, then the greatest integer less than or equal to tan2𝜃\nis:\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links..com/mWN",
+    "content": "Let →𝑎= ^𝑖+ ^𝑗+ ^𝑘, →𝑏= − ^𝑖−8 ^𝑗+ 2 ^𝑘 and →𝑐= 4 ^𝑖+ 𝑐2 ^𝑗+ 𝑐3 ^𝑘 be three vectors such that →𝑏× →𝑎= →𝑐× →𝑎. If the\nangle between the vector →𝑐 and the vector 3 ^𝑖+ 4 ^𝑗+ ^𝑘 is 𝜃, then the greatest integer less than or equal to tan2𝜃",
     "options": [],
     "correct_option": null,
     "numerical_answer": 38.0,
@@ -4053,6 +4111,8 @@
       "source_format": "2024_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "38"
-    }
+    },
+    "raw_content": "Let →𝑎= ^𝑖+ ^𝑗+ ^𝑘, →𝑏= − ^𝑖−8 ^𝑗+ 2 ^𝑘 and →𝑐= 4 ^𝑖+ 𝑐2 ^𝑗+ 𝑐3 ^𝑘 be three vectors such that →𝑏× →𝑎= →𝑐× →𝑎. If the\n     angle between the vector →𝑐 and the vector 3 ^𝑖+ 4 ^𝑗+ ^𝑘 is 𝜃, then the greatest integer less than or equal to tan2𝜃\n       is:\n\n\n\n\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN\n",
+    "parsing_warnings": []
   }
 ]

@@ -3,7 +3,7 @@
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_1",
     "paper_id": "JEE_MAIN_2026_04_06_SHIFT_2",
     "question_number": 1,
-    "content": "2x2 −3x + 2\nLet f : R →R be defined as f(x) =                         . Then f is :\n                                3x2 + x + 3",
+    "content": "2x2 −3x + 2\nLet f : R →R be defined as f(x) = . Then f is :\n3x2 + x + 3",
     "options": [
       {
         "id": "A",
@@ -36,13 +36,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "2x2 −3x + 2\nLet f : R →R be defined as f(x) =                         . Then f is :\n                                3x2 + x + 3\n\n(1) both one-one and onto                               (2) one-one but not onto\n(3) onto but not one-one                                 (4) neither one-one nor onto\n\n\nMathonGo Answer Key : (4)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_2",
     "paper_id": "JEE_MAIN_2026_04_06_SHIFT_2",
     "question_number": 2,
-    "content": "Consider the quadratic equation (n2 −2n + 2)x2 −3x + (n2 −2n + 2)2 = 0, n ∈R. Let α be the minimum value\nof the product of its roots and β be the maximum value of the sum of its roots. Then the sum of the first six terms of\n                                   α\nthe G.P., whose first term is α and the common ratio is     , is :\n                                        β",
+    "content": "Consider the quadratic equation (n2 −2n + 2)x2 −3x + (n2 −2n + 2)2 = 0, n ∈R. Let α be the minimum value\nof the product of its roots and β be the maximum value of the sum of its roots. Then the sum of the first six terms of\nα\nthe G.P., whose first term is α and the common ratio is , is :\nβ",
     "options": [
       {
         "id": "A",
@@ -75,13 +80,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Consider the quadratic equation (n2 −2n + 2)x2 −3x + (n2 −2n + 2)2 = 0, n ∈R. Let α be the minimum value\nof the product of its roots and β be the maximum value of the sum of its roots. Then the sum of the first six terms of\n                                   α\nthe G.P., whose first term is α and the common ratio is     , is :\n                                        β\n\n(1) 61                      (2) 121                     (3) 364                     (4) 1093\n    37                     81                    243                    729\n\nMathonGo Answer Key : (3)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_3",
     "paper_id": "JEE_MAIN_2026_04_06_SHIFT_2",
     "question_number": 3,
-    "content": "Let S = {z ∈C : z2 + √6 iz −3 = 0}. Then ∑ z8 is equal to :\n                                              z∈S",
+    "content": "Let S = {z ∈C : z2 + √6 iz −3 = 0}. Then ∑ z8 is equal to :\nz∈S",
     "options": [
       {
         "id": "A",
@@ -114,7 +124,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let S = {z ∈C : z2 + √6 iz −3 = 0}. Then ∑ z8 is equal to :\n                                              z∈S\n\n\n(1) 162                     (2) 184                     (3) 262                     (4) 324\n\n\nMathonGo Answer Key : (1)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_4",
@@ -153,13 +168,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "The sum of all possible values of θ ∈[0, 2π], for which the system of equations :\nx cos 3θ −8y −12z = 0\nx cos 2θ + 3y + 3z = 0\nx + y + 3z = 0\nhas a non-trivial solution, is equal to :\n\n\n(1) π                        (2) 2π                       (3) 3π                       (4) 4π\n\n\nMathonGo Answer Key : (4)\n\n\n\n\n\n                                          #PaperPhodnaHai\n                                  www.mathongo.com\n06 April (Evening Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_5",
     "paper_id": "JEE_MAIN_2026_04_06_SHIFT_2",
     "question_number": 5,
-    "content": "⎡ 1  0  0 ⎤                                                                  b31 −b21\nLet A =  3  1  0  and B = [bij], 1 ≤i, j ≤3. If B = A99 −I , then the value of              is :\n      ⎣ 9  3  1 ⎦                                                                     b32",
+    "content": "⎡ 1 0 0 ⎤ b31 −b21\nLet A = 3 1 0 and B = [bij], 1 ≤i, j ≤3. If B = A99 −I , then the value of is :\n⎣ 9 3 1 ⎦ b32",
     "options": [
       {
         "id": "A",
@@ -192,13 +212,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "⎡ 1  0  0 ⎤                                                                  b31 −b21\nLet A =  3  1  0  and B = [bij], 1 ≤i, j ≤3. If B = A99 −I , then the value of              is :\n      ⎣ 9  3  1 ⎦                                                                     b32\n\n\n(1) 99                       (2) 199                     (3) 149                     (4) 159\n\n\nMathonGo Answer Key : (3)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_6",
     "paper_id": "JEE_MAIN_2026_04_06_SHIFT_2",
     "question_number": 6,
-    "content": "1           1\nThe sum 1 +   (12 + 22) +   (12 + 22 + 32) + … upto 10 terms is equal to :\n            2           3",
+    "content": "1 1\nThe sum 1 + (12 + 22) + (12 + 22 + 32) + … upto 10 terms is equal to :\n2 3",
     "options": [
       {
         "id": "A",
@@ -231,7 +256,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "1           1\nThe sum 1 +   (12 + 22) +   (12 + 22 + 32) + … upto 10 terms is equal to :\n            2           3\n\n(1) 130                     (2) 155                     (3) 315                     (4) 325\n                                                  2                     2\n\nMathonGo Answer Key : (3)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_7",
@@ -270,7 +300,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "A building has ground floor and 10 more floors. Nine persons enter in a lift at the ground floor. The lift goes up to\nthe 10th floor. The number of ways, in which any 4 persons exit at a floor and the remaining 5 persons exit at a\ndifferent floor, if the lift does not stop at the first and the second floors, is equal to :\n\n\n(1) 2184                    (2) 3064                    (3) 7056                    (4) 11340\n\n\nMathonGo Answer Key : (3)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_8",
@@ -309,7 +344,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let the mean and the variance of seven observations 2, 4, α, 8, β, 12, 14, α < β , be 8 and 16 respectively. Then the\nquadratic equation whose roots are 3α + 2 and 2β + 1 is :\n\n\n(1) x2 −35x + 306 = 0                                 (2) x2 −41x + 420 = 0\n(3) x2 −45x + 506 = 0                                 (4) x2 −37x + 342 = 0\n\n\nMathonGo Answer Key : (2)\n\n\n\n\n\n                                          #PaperPhodnaHai\n                                  www.mathongo.com      ⎢     ⎥\n06 April (Evening Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_9",
@@ -348,7 +388,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "A bag contains 6 blue and 6 green balls. Pairs of balls are drawn without replacement until the bag is empty. The\nprobability that each drawn pair consists of one blue and one green ball is :\n\n(1) 63                     (2) 17                     (3) 16                     (4) 64\n    925                    231                    231                    925\n\nMathonGo Answer Key : (3)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_10",
@@ -387,13 +432,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let C be a circle having centre in the first quadrant and touching the x-axis at a distance of 3 units from the origin.\nIf the circle C has an intercept of length 6√3 on y-axis, then the length of the chord of the circle C on the line\nx −y = 3 is :\n\n(1) 8                        (2) 6                        (3) 6√2                    (4) 8√2\n\n\nMathonGo Answer Key : (3)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_11",
     "paper_id": "JEE_MAIN_2026_04_06_SHIFT_2",
     "question_number": 11,
-    "content": "√3                    4√6\nThe eccentricity of an ellipse E with centre at the origin O is     and its directrices are x = ±         . Let\n                                                   2                           3\n    x2H :   −y2 = 1 be a hyperbola whose eccentricity is equal to the length of semi-major axis of E , and whose\n     a2    b2\nlength of latus rectum is equal to the length of minor axis of E . Then the distance between the foci of H is :",
+    "content": "√3 4√6\nThe eccentricity of an ellipse E with centre at the origin O is and its directrices are x = ± . Let\n2 3\nx2H : −y2 = 1 be a hyperbola whose eccentricity is equal to the length of semi-major axis of E , and whose\na2 b2\nlength of latus rectum is equal to the length of minor axis of E . Then the distance between the foci of H is :",
     "options": [
       {
         "id": "A",
@@ -426,13 +476,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "√3                    4√6\nThe eccentricity of an ellipse E with centre at the origin O is     and its directrices are x = ±         . Let\n                                                   2                           3\n    x2H :   −y2 = 1 be a hyperbola whose eccentricity is equal to the length of semi-major axis of E , and whose\n     a2    b2\nlength of latus rectum is equal to the length of minor axis of E . Then the distance between the foci of H is :\n\n(1) 4√2                    (2) 4√2                    (3)  4                      (4) 8\n   √7                     7               √7                    7\n\nMathonGo Answer Key : (4)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_12",
     "paper_id": "JEE_MAIN_2026_04_06_SHIFT_2",
     "question_number": 12,
-    "content": "1\nLet x = 9 be a directrix of an ellipse E , whose centre is at the origin and eccentricity is     . Let P(α, 0), α > 0, be a\n                                                                       3\nfocus of E and AB be a chord passing through P . Then the locus of the mid point of AB is :",
+    "content": "1\nLet x = 9 be a directrix of an ellipse E , whose centre is at the origin and eccentricity is . Let P(α, 0), α > 0, be a\n3\nfocus of E and AB be a chord passing through P . Then the locus of the mid point of AB is :",
     "options": [
       {
         "id": "A",
@@ -465,7 +520,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "1\nLet x = 9 be a directrix of an ellipse E , whose centre is at the origin and eccentricity is     . Let P(α, 0), α > 0, be a\n                                                                       3\nfocus of E and AB be a chord passing through P . Then the locus of the mid point of AB is :\n\n(1) 9y2 = 8x(1 −x)                                    (2) 3y2 = 4x(1 −x)\n(3) 9y2 = 8x(x −1)                                    (4) 3y2 = 4x(x −1)\n\n\nMathonGo Answer Key : (1)\n\n\n\n\n\n                                          #PaperPhodnaHai\n                                  www.mathongo.com\n06 April (Evening Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_13",
@@ -504,13 +564,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "If sin(tan−1(x√2)) = cot(sin−1 √1 −x2), x ∈(0, 1), then the value of x is :\n\n(1) 1                       (2) 1                       (3) 2                       (4) 5\n    2                     3                     3                     8\n\nMathonGo Answer Key : (1)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_14",
     "paper_id": "JEE_MAIN_2026_04_06_SHIFT_2",
     "question_number": 14,
-    "content": "x −4    y −3    z −2    x + 2    y −6    z −5\nThe shortest distance between the lines    =    =       and    =    =         is :\n                                  1       2     −3       2       4     −5",
+    "content": "x −4 y −3 z −2 x + 2 y −6 z −5\nThe shortest distance between the lines = = and = = is :\n1 2 −3 2 4 −5",
     "options": [
       {
         "id": "A",
@@ -543,7 +608,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "x −4    y −3    z −2    x + 2    y −6    z −5\nThe shortest distance between the lines    =    =       and    =    =         is :\n                                  1       2     −3       2       4     −5\n\n(1) 5√6                    (2) 2√5                    (3) 3√5                    (4) 4√5\n     6\n\nMathonGo Answer Key : (3)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_15",
@@ -582,13 +652,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let →a = 2^i + 3^j + 3^k and →b = 6^i + 3^j + 3^k. Then the square of the area of the triangle with adjacent sidesdetermined by the vectors (2→a + 3→b) and (→a −→b) is :\n\n\n(1) 450                     (2) 900                     (3) 1800                    (4) 2400\n\n\nMathonGo Answer Key : (3)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_16",
     "paper_id": "JEE_MAIN_2026_04_06_SHIFT_2",
     "question_number": 16,
-    "content": "(tan(x −2))(rx2 + (p −2)x −2p)\nLet lim                    = 5 for some r, p ∈R. If the set of all possible values of q , such that\n   x→2            (x −2)2\nthe roots of the equation rx2 −px + q = 0 lie in (0, 2), be the interval (α, β], then 4(α + β) equals :",
+    "content": "(tan(x −2))(rx2 + (p −2)x −2p)\nLet lim = 5 for some r, p ∈R. If the set of all possible values of q , such that\nx→2 (x −2)2\nthe roots of the equation rx2 −px + q = 0 lie in (0, 2), be the interval (α, β], then 4(α + β) equals :",
     "options": [
       {
         "id": "A",
@@ -621,13 +696,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "(tan(x −2))(rx2 + (p −2)x −2p)\nLet lim                    = 5 for some r, p ∈R. If the set of all possible values of q , such that\n   x→2            (x −2)2\nthe roots of the equation rx2 −px + q = 0 lie in (0, 2), be the interval (α, β], then 4(α + β) equals :\n\n\n(1) 11                       (2) 13                       (3) 17                       (4) 21\n\n\nMathonGo Answer Key : (3)\n\n\n\n\n\n                                          #PaperPhodnaHai\n                                  www.mathongo.com\n06 April (Evening Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_17",
     "paper_id": "JEE_MAIN_2026_04_06_SHIFT_2",
     "question_number": 17,
-    "content": "1  3  −1                                                         x      ⎡      ⎤\nLet A =  2  1  α   be a singular matrix. Let f(x) = ∫ (t2 + 2t + 3) dt, x ∈[1, α]. If M and m are respectively\n                                                                 0      ⎣ 0  1  −1 ⎦\nthe maximum and the minimum values of f in [1, α], then 3(M −m) is equal to :",
+    "content": "1 3 −1 x ⎡ ⎤\nLet A = 2 1 α be a singular matrix. Let f(x) = ∫ (t2 + 2t + 3) dt, x ∈[1, α]. If M and m are respectively\n0 ⎣ 0 1 −1 ⎦\nthe maximum and the minimum values of f in [1, α], then 3(M −m) is equal to :",
     "options": [
       {
         "id": "A",
@@ -660,13 +740,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "1  3  −1                                                         x      ⎡      ⎤\nLet A =  2  1  α   be a singular matrix. Let f(x) = ∫ (t2 + 2t + 3) dt, x ∈[1, α]. If M and m are respectively\n                                                                 0      ⎣ 0  1  −1 ⎦\nthe maximum and the minimum values of f in [1, α], then 3(M −m) is equal to :\n\n\n(1) 64                       (2) 68                       (3) 72                       (4) 76\n\n\nMathonGo Answer Key : (2)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_18",
     "paper_id": "JEE_MAIN_2026_04_06_SHIFT_2",
     "question_number": 18,
-    "content": "Let f : R →R be such that f(xy) = f(x)f(y), for all x, y ∈R and f(0) ≠0. Let g : [1, ∞) →R be a differentiable\nfunction such that\n           x\nx2g(x) = ∫ (t2f(t) −tg(t)) dt.\n            1\nThen g(2) is equal to :",
+    "content": "Let f : R →R be such that f(xy) = f(x)f(y), for all x, y ∈R and f(0) ≠0. Let g : [1, ∞) →R be a differentiable\nfunction such that\nx\nx2g(x) = ∫ (t2f(t) −tg(t)) dt.\n1\nThen g(2) is equal to :",
     "options": [
       {
         "id": "A",
@@ -699,7 +784,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let f : R →R be such that f(xy) = f(x)f(y), for all x, y ∈R and f(0) ≠0. Let g : [1, ∞) →R be a differentiable\nfunction such that\n           x\nx2g(x) = ∫ (t2f(t) −tg(t)) dt.\n            1\nThen g(2) is equal to :\n\n(1) 13                      (2) 11                      (3) 15                      (4) 17\n    8                     16                     32                     64\n\nMathonGo Answer Key : (3)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_19",
@@ -738,13 +828,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "The area of the region {(x, y) : x2 −8x ≤y ≤−x} is :\n\n(1) 343                     (2) 637                     (3) 437                     (4) 523\n     6                     6                     6                     6\n\nMathonGo Answer Key : (1)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_20",
     "paper_id": "JEE_MAIN_2026_04_06_SHIFT_2",
     "question_number": 20,
-    "content": "1   x3 + |x| + 1\nThe value of the integral ∫                            is equal to :                       −1 ( x2 + 2|x| + 1 )dx",
+    "content": "1 x3 + |x| + 1\nThe value of the integral ∫ is equal to : −1 ( x2 + 2|x| + 1 )dx",
     "options": [
       {
         "id": "A",
@@ -777,7 +872,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "1   x3 + |x| + 1\nThe value of the integral ∫                            is equal to :                       −1 ( x2 + 2|x| + 1 )dx\n\n(1) 3 loge 2                 (2) 2 loge 2                 (3) 5 loge 3                 (4) 3 loge 3\n\n\nMathonGo Answer Key : (2)\n\n\n\n\n\n                                          #PaperPhodnaHai\n                                  www.mathongo.com      ⎢      ⎥\n06 April (Evening Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_21",
@@ -799,13 +899,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let R = {(x, y) ∈N × N : loge(x + y) ≤2}. Then the minimum number of elements, required to be added in R to\nmake it a transitive relation, is __________.\n\n\n\nMathonGo Answer Key : 15",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_22",
     "paper_id": "JEE_MAIN_2026_04_06_SHIFT_2",
     "question_number": 22,
-    "content": "10                     9a9\nIf (1 −x3)10 = ∑ arxr(1 −x)30−2r , then       is equal to __________.\n                r=0                       a10",
+    "content": "10 9a9\nIf (1 −x3)10 = ∑ arxr(1 −x)30−2r , then is equal to __________.\nr=0 a10",
     "options": [],
     "correct_option": "C",
     "numerical_answer": null,
@@ -821,7 +926,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "10                     9a9\nIf (1 −x3)10 = ∑ arxr(1 −x)30−2r , then       is equal to __________.\n                r=0                       a10\n\n\n\nMathonGo Answer Key : 30",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_23",
@@ -843,13 +953,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let the line x −y = 4 intersect the circle C : (x −4)2 + (y + 3)2 = 9 at the points Q and R. If P(α, β) is a point\non C such that PQ = PR, then (6α + 8β)2 is equal to __________.\n\n\n\nMathonGo Answer Key : 18",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_24",
     "paper_id": "JEE_MAIN_2026_04_06_SHIFT_2",
     "question_number": 24,
-    "content": "x −1    y    z + 1\nLet the image of the point P(0, −5, 0) in the line    =  =       be the point R and the image of the point\n                                          2     1   −2\n     −1            x −1    y + 9    z + 1\nQ             ,    in the line    =    =       be the point S . Then the square of the area of the  (0,  2  0)        −1      4       1\nparallelogram PQRS is __________.",
+    "content": "x −1 y z + 1\nLet the image of the point P(0, −5, 0) in the line = = be the point R and the image of the point\n2 1 −2\n−1 x −1 y + 9 z + 1\nQ , in the line = = be the point S . Then the square of the area of the (0, 2 0) −1 4 1\nparallelogram PQRS is __________.",
     "options": [],
     "correct_option": "A",
     "numerical_answer": null,
@@ -865,13 +980,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "x −1    y    z + 1\nLet the image of the point P(0, −5, 0) in the line    =  =       be the point R and the image of the point\n                                          2     1   −2\n     −1            x −1    y + 9    z + 1\nQ             ,    in the line    =    =       be the point S . Then the square of the area of the  (0,  2  0)        −1      4       1\nparallelogram PQRS is __________.\n\n\n\nMathonGo Answer Key : 162",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_25",
     "paper_id": "JEE_MAIN_2026_04_06_SHIFT_2",
     "question_number": 25,
-    "content": "+ 8;  x < 0               −8)1/3;  x < 0\nLet f(x) =                and g(x) =                                    .         {x3x2 −4;  x ≥0         {(x(x + 4)1/2;  x ≥0\nThen the number of points, where the function g ∘f is discontinuous, is __________.",
+    "content": "+ 8; x < 0 −8)1/3; x < 0\nLet f(x) = and g(x) = . {x3x2 −4; x ≥0 {(x(x + 4)1/2; x ≥0\nThen the number of points, where the function g ∘f is discontinuous, is __________.",
     "options": [],
     "correct_option": "C",
     "numerical_answer": null,
@@ -887,7 +1007,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "+ 8;  x < 0               −8)1/3;  x < 0\nLet f(x) =                and g(x) =                                    .         {x3x2 −4;  x ≥0         {(x(x + 4)1/2;  x ≥0\nThen the number of points, where the function g ∘f is discontinuous, is __________.\n\n\n\nMathonGo Answer Key : 3\n\n\n\n\n\n                                          #PaperPhodnaHai\n                                  www.mathongo.com\n06 April (Evening Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_2_Q_26",

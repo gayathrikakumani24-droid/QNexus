@@ -48,7 +48,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": " For a 3 × 3 matrix M , let trace (M) denote the sum of all the diagonal elements of M . Let A be a 3 × 3 matrix\n                                                                                                                                                             such that |A| = 12 and trace (A) = 3. If B = adj(adj(2A)), then the value of |B|+ trace (B) equals :\n                                                                                                                                                                                         (1) 56                                                  (2) 132\n                                                                                                                                                                                         (3) 174                                                (4) 280\n\n                                                                                                                                          ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_22_SHIFT_2_Q_02",
@@ -99,7 +101,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": " In a group of 3 girls and 4 boys, there are two boys B1 and B2 . The number of ways, in which these girls and\n                                                                                                                                                         boys can stand in a queue such that all the girls stand together, all the boys stand together, but B1 and B2 are\n                                                                                                                                                                         not adjacent to each other, is :\n                                                                                                                                                                                         (1) 96                                                  (2) 144\n                                                                                                                                                                                         (3) 120                                                (4) 72\n\n                                                                                                                                          ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_22_SHIFT_2_Q_03",
@@ -150,7 +154,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": " Let α, β, γ and δ be the coefficients of x7, x5, x3 and x respectively in the expansion of\n                                                                                                                                                                                                                              5                      5                          αu + βv = 18\n                                                                                                      +                                                                                                                                                                                                                                                                                                                         , x > 1. If u and v satisfy the equations                                                                                                                                                                                                                                                              then u + v equals :                                                                                                                           (x                                                                                              + √x3 −1)                                                                                                                                         (x −√x3 −1)                                                                                                                                                                                         γu + δv = 20\n                                                                                                                                                                                         (1) 5                                                   (2) 3\n                                                                                                                                                                                         (3) 4                                                   (4) 8\n\n                                                                                                                                          ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_22_SHIFT_2_Q_04",
@@ -201,7 +207,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": " Let a line pass through two distinct points P(−2, −1, 3) and Q , and be parallel to the vector 3^i + 2^j + 2^k. If the\n                                                                                                                                                                               distance of the point Q from the point R(1, 3, 3) is 5 , then the square of the area of △PQR is equal to :\n                                                                                                                                                                                         (1) 148                                                (2) 136\n                                                                                                                                                                                         (3) 144                                                (4) 140\n\n                                                                                                                                          ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_22_SHIFT_2_Q_05",
@@ -252,7 +260,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": " If A and B are two events such that P(A ∩B) = 0.1, and P(A ∣B) and P(B ∣A) are the roots of the equation\n–\n                                                                                                                                                   12x2 −7x + 1 = 0, then the value of P(A∪B) is :\n                                                                                                                                                                                                               P(A∩B)\n                                                                                                                                                                                         (1) 4                                                   (2) 7                                                                                                                                                                                                                3                                                            4\n                                                                                                                                                                                         (3) 5                                                   (4) 9                                                                                                                                                                                                                3                                                            4\n\n                                                                                                                                          ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_22_SHIFT_2_Q_06",
@@ -303,7 +313,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "          x sin−1 x       sin−1 x       x                                                                             1                                                                                                     +                                                                                                                                                                                                                        If ∫ex                                                                                                           + 1−x2                                                                                                                  = g(x) + C, where C is the constant of integration, then g ( 2 ) equals                                                                                                                                                                                                                                               (1−x2)3/2                                                                                                     ( √1−x2                                                                                                                                           )dx\n                                                                                                                                                                                                                                                                      :\n                                                                                                                                                                                         (1) π                                                   (2) π                                                                                                                                                                                                                4 √e3                                                       6 √e3\n                                                                                                                                                                                         (3) π                                                                                                                                                                                                                4 √e2                                              (4) π6 √e2\n\n                                                                                                                                          ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_22_SHIFT_2_Q_07",
@@ -354,7 +366,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": " The area of the region enclosed by the curves y = x2 −4x + 4 and y2 = 16 −8x is :\n                                                                                                                                                                                         (1) 8                                                   (2) 4                                                                                                                                                                                                                3                                                            3\n                                                                                                                                                                                         (3) 8                                                   (4) 5\n\n                                                                                                                                                 x ∈R. Then the numbers of local maximum and local minimum points of f ,                                                                                                                                          ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_22_SHIFT_2_Q_08",
@@ -405,7 +419,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": " Let f(x) = ∫x20   t2−8t+15et    dt,\n                                                                                                                                                                                          respectively, are :\n                                                                                                                                                                                         (1) 2 and 3                                             (2) 2 and 2\n                                                                                                                                                                                         (3) 3 and 2                                             (4) 1 and 3\n\n                                                                                                                                          ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_22_SHIFT_2_Q_09",
@@ -419,7 +435,7 @@
       },
       {
         "id": "B",
-        "content": "263√3\n8"
+        "content": "263√3/8"
       },
       {
         "id": "C",
@@ -456,7 +472,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": " Let P(4, 4√3) be a point on the parabola y2 = 4ax and PQ be a focal chord of the parabola. If M and N are the\n                                                                                                                                                                                   foot of perpendiculars drawn from P and Q respectively on the directrix of the parabola, then the area of the\n                                                                                                                                                                                        quadrilateral PQMN is equal to :\n2025 (22 Jan Shift 2)                                      JEE Main Previous Year Paper\n\nJEE Main 2025 January                                                                   MathonGo\n\n     (1) 17√3                                              (2) 263√3\n                                                                         8\n     (3) 34√3                                               (4) 343√3            3                                                             8\n\n                                                                          π",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_22_SHIFT_2_Q_10",
@@ -507,7 +525,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "Let →a and →b be two unit vectors such that the angle between them is                                                                                                                           . If λ→a + 2→b and 3→a −λ→b are                                                                                    3\n     perpendicular to each other, then the number of values of λ in [−1, 3] is :\n      (1) 2                                                  (2) 1\n      (3) 0                                                  (4) 3\n\n                          e      1     x    x                                   loge α\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_22_SHIFT_2_Q_11",
@@ -558,7 +578,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "If limx→∞(( 1−e ) ( e − 1+x )) = α, then the value of 1+loge α equals :\n      (1) e−1                                                (2) e2\n      (3) e−2                                                (4) e\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_22_SHIFT_2_Q_12",
@@ -609,7 +631,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "Let A = {1, 2, 3, 4} and B = {1, 4, 9, 16}. Then the number of many-one functions f : A →B such that\n     1 ∈f( A) is equal to :\n      (1) 151                                                (2) 139\n      (3) 163                                                (4) 127\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_22_SHIFT_2_Q_13",
@@ -631,7 +655,7 @@
       },
       {
         "id": "D",
-        "content": "4\n\ny+2"
+        "content": "4/y+2"
       }
     ],
     "correct_option": "B",
@@ -660,7 +684,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "Suppose that the number of terms in an A.P. is 2k, k ∈N . If the sum of all odd terms of the A.P. is 40 , the sum\n     of all even terms is 55 and the last term of the A.P. exceeds the first term by 27, then k is equal to :\n      (1) 6                                                  (2) 5\n      (3) 8                                                  (4) 4\n\n                                                   y+2",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_22_SHIFT_2_Q_14",
@@ -711,7 +737,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "The perpendicular distance, of the line x−1                                                     2 =                                               −1 = z+32  from the point P(2, −10, 1), is :\n      (1) 6                                                  (2) 5√2\n      (3) 4√3                                               (4) 3√5\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_22_SHIFT_2_Q_15",
@@ -762,13 +790,15 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "                        x + y + 2z = 6\n       If the system of linear equations : 2x + 3y + az = a + 1 where a, b ∈R, has infinitely many solutions, then\n                     −x −3y + bz = 2 b\n    7a + 3b is equal to :\n      (1) 16                                                 (2) 12\n      (3) 22                                                 (4) 9\n\n                                               = 0, y ∈(−π2 , π2 ) with",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_22_SHIFT_2_Q_16",
     "paper_id": "JEE_MAIN_2025_01_22_SHIFT_2",
     "question_number": 16,
-    "content": "If x = f(y) is the solution of the differential equation (1 + y2) + (x −2etan−1 y) dydx\nis equal to : f(0) = 1, then f ( √31 )",
+    "content": "If x = f(y) is the solution of the differential equation (1 + y2) + (x −2etan−1 y) dydx\nis equal to : f(0) = 1, then f ( √31 ) = 0, y ∈(−π2 , π2 ) with",
     "options": [
       {
         "id": "A",
@@ -813,7 +843,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "If x = f(y) is the solution of the differential equation (1 + y2) + (x −2etan−1 y) dydx\n                                    is equal to :     f(0) = 1, then f               ( √31 )\n      (1) eπ/12                                               (2) eπ/4\n      (3) eπ/3                                               (4) eπ/6\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_22_SHIFT_2_Q_17",
@@ -864,7 +896,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "Let αθ and βθ be the distinct roots of 2x2 + (cos θ)x −1 = 0, θ ∈(0, 2π). If m and M are the minimum and\n      the maximum values of α4θ + β4θ , then 16(M + m) equals :\n      (1) 24                                                 (2) 25\n      (3) 17                                                 (4) 27\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_22_SHIFT_2_Q_18",
@@ -915,7 +949,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "The sum of all values of θ ∈[0, 2π] satisfying 2 sin2 θ = cos 2θ and 2 cos2 θ = 3 sin θ is\n2025 (22 Jan Shift 2)                                      JEE Main Previous Year Paper\n\nJEE Main 2025 January                                                                   MathonGo\n\n      (1) 4π                                                 (2) 5π6\n      (3) π                                                  (4) π                                                                        2\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_22_SHIFT_2_Q_19",
@@ -966,7 +1002,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "Let the curve z(1 + i) + ¯z(1 −i) = 4, z ∈C, divide the region |z −3| ≤1 into two parts of areas α and β .\n    Then |α −β| equals :\n      (1) 1 + π2                                              (2) 1 + π3\n      (3) 1 + π6                                              (4) 1 + π4\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_22_SHIFT_2_Q_20",
@@ -1017,13 +1055,15 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "Let E : x2 +  y2 = 1, a > b and H :  x2 −  y2 = 1. Let the distance between the foci of E and the foci of H                 a2      b2                      A2     B2\n     be 2√3. If a −A = 2, and the ratio of the eccentricities of E and H is 13 , then the sum of the lengths of their\n      latus rectums is equal to:\n      (1) 10                                                 (2) 9\n      (3) 8                                                  (4) 7\n\n            = α × 229 , then α is equal to ______",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_22_SHIFT_2_Q_21",
     "paper_id": "JEE_MAIN_2025_01_22_SHIFT_2",
     "question_number": 21,
-    "content": "If ∑30r=1 r2(30Cr)230Cr−1",
+    "content": "If ∑30r=1 r2(30Cr)230Cr−1 = α × 229 , then α is equal to ______",
     "options": [],
     "correct_option": null,
     "numerical_answer": 465.0,
@@ -1050,7 +1090,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "465"
-    }
+    },
+    "raw_content": "If ∑30r=1 r2(30Cr)230Cr−1\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_22_SHIFT_2_Q_22",
@@ -1083,7 +1125,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "Let A = {1, 2, 3}. The number of relations on A , containing (1, 2) and (2, 3), which are reflexive and\n      transitive but not symmetric, is ______ -\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_22_SHIFT_2_Q_23",
@@ -1116,7 +1160,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "145"
-    }
+    },
+    "raw_content": "Let A(6, 8), B(10 cos α, −10 sin α) and C(−10 sin α, 10 cos α), be the vertices of a triangle. If L(a, 9) and\n    G(h, k) be its orthocenter and centroid respectively, then (5a −3h + 6k + 100 sin 2α) is equal to ______ -.\n\n                                                                                                                          , −1 < x < 1 such that",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_22_SHIFT_2_Q_24",
@@ -1149,7 +1195,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "27"
-    }
+    },
+    "raw_content": "Let y = f(x) be the solution of the differential equation  dydx + x2−1xy = √1−x2x6+4x\n     f(0) = 0. If 6 ∫1/2−1/2 f(x)dx = 2π −α then α2 is equal to _______ .\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_22_SHIFT_2_Q_25",
@@ -1182,7 +1230,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 15,
       "raw_answer": "28"
-    }
+    },
+    "raw_content": "Let the distance between two parallel lines be 5 units and a point P lie between the lines at a unit distance\n     from one of them. An equilateral triangle PQR is formed such that Q lies on one of the parallel lines, while R\n       lies on the other. Then (QR)2 is equal to _______ -.\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_22_SHIFT_2_Q_26",

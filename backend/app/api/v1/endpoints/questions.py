@@ -26,7 +26,8 @@ def get_question(question_id: str):
 @router.get("/{question_id}/similar", response_model=List[SearchResultItem], summary="Get Similar PYQs")
 def get_similar_questions(
     question_id: str,
-    top_k: int = Query(5, ge=1, le=20, description="Number of similar questions to retrieve")
+    top_k: int = Query(5, ge=1, le=20, description="Number of similar questions to retrieve"),
+    min_score: float = Query(0.05, ge=0.0, le=1.0, description="Minimum similarity score threshold (default 5%)")
 ):
     """
     Retrieves semantically similar previous year questions using Pinecone Cloud vector similarity.
@@ -34,7 +35,7 @@ def get_similar_questions(
     """
     try:
         service = AIService()
-        similar_items = service.get_similar_questions(question_id=question_id, top_k=top_k)
+        similar_items = service.get_similar_questions(question_id=question_id, top_k=top_k, min_score=min_score)
         return similar_items
     except ValueError as e:
         raise HTTPException(status_code=404, detail=str(e))

@@ -170,6 +170,7 @@ def attach_2024_answers(
             paper_id=paper_id,
             question_number=q_num,
             content=q_content,
+            raw_content=q.get("raw_content", q_content),
             options=formatted_options,
             correct_option=correct_option,
             numerical_answer=numerical_answer,

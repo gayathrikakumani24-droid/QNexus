@@ -1,6 +1,12 @@
 import re
 from typing import List, Dict, Any, Tuple, Optional
 from app.schemas.question_schema import QuestionCreate, QuestionOption
+from app.parsers.math_normalizer import (
+    normalize_math_text,
+    clean_option_content,
+    repair_cross_question_leakage,
+    decode_html_and_unicode
+)
 import logging
 
 logger = logging.getLogger("qnexus.services.extractor_service")
@@ -310,18 +316,25 @@ def extract_questions_from_pages(
             default_subject = "General"
 
         clean_content, options = parse_options_from_text(raw_q_text)
+        clean_content = normalize_math_text(clean_content) if clean_content else normalize_math_text(raw_q_text)
+
+        cleaned_options = [
+            QuestionOption(id=opt.id, content=clean_option_content(opt.content))
+            for opt in options
+        ]
 
         # Stable question ID format: JEE_MAIN_{DATE}_{SHIFT}_Q_{QUESTION_NUMBER}
         prefix_date = clean_date if clean_date.startswith(str(year)) else f"{year}_{clean_date}"
         question_id = f"JEE_MAIN_{prefix_date}_{clean_shift}_Q_{q_num}"
-        question_type = "MCQ" if len(options) > 0 else "NUMERICAL"
+        question_type = "MCQ" if len(cleaned_options) > 0 else "NUMERICAL"
 
         question_obj = QuestionCreate(
             question_id=question_id,
             paper_id=paper_id,
             question_number=q_num,
-            content=clean_content if clean_content else raw_q_text,
-            options=options,
+            content=clean_content,
+            raw_content=raw_q_text,
+            options=cleaned_options,
             correct_option=correct_option,
             numerical_answer=numerical_answer,
             official_solution=None,
@@ -339,6 +352,11 @@ def extract_questions_from_pages(
             shift=shift_val
         )
         questions.append(question_obj)
+
+    # Convert questions to dicts for repair_cross_question_leakage then back
+    q_dicts = [q.model_dump() for q in questions]
+    repaired_dicts = repair_cross_question_leakage(q_dicts)
+    questions = [QuestionCreate(**qd) for qd in repaired_dicts]
 
     logger.info(f"Extracted {len(questions)} questions deterministically for paper {paper_id}")
     return questions

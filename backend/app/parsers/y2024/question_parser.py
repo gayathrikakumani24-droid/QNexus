@@ -54,6 +54,13 @@ def normalize_whitespace(text: str) -> str:
             prev_blank = False
     return '\n'.join(cleaned_lines).strip()
 
+from app.parsers.math_normalizer import (
+    normalize_math_text,
+    clean_option_content,
+    repair_cross_question_leakage,
+    decode_html_and_unicode
+)
+
 def extract_mcq_options(raw_chunk: str) -> Tuple[str, List[Dict[str, str]]]:
     """
     Extracts question statement and options (1), (2), (3), (4) from raw question chunk.
@@ -64,7 +71,7 @@ def extract_mcq_options(raw_chunk: str) -> Tuple[str, List[Dict[str, str]]]:
     clean_chunk = clean_noise(raw_chunk)
     opt_matches = list(OPTION_MARKER_PATTERN.finditer(clean_chunk))
     if not opt_matches:
-        return normalize_whitespace(clean_chunk), []
+        return normalize_math_text(clean_chunk), []
 
     # Group matches by option number
     by_key = {
@@ -73,7 +80,7 @@ def extract_mcq_options(raw_chunk: str) -> Tuple[str, List[Dict[str, str]]]:
     }
 
     if not all(len(by_key[k]) > 0 for k in [1, 2, 3, 4]):
-        return normalize_whitespace(clean_chunk), []
+        return normalize_math_text(clean_chunk), []
 
     best_seq = None
 
@@ -129,13 +136,13 @@ def extract_mcq_options(raw_chunk: str) -> Tuple[str, List[Dict[str, str]]]:
                 break
 
     if not best_seq:
-        return normalize_whitespace(clean_chunk), []
+        return normalize_math_text(clean_chunk), []
 
     markers = best_seq
 
     # Everything before the first option marker is the question statement
     content_raw = clean_chunk[:markers[0][0]]
-    cleaned_content = normalize_whitespace(content_raw)
+    cleaned_content = normalize_math_text(content_raw)
 
     id_map = {1: "A", 2: "B", 3: "C", 4: "D"}
     options_by_num: Dict[int, str] = {}
@@ -143,18 +150,10 @@ def extract_mcq_options(raw_chunk: str) -> Tuple[str, List[Dict[str, str]]]:
     for idx, (m_start, m_end, opt_num) in enumerate(markers):
         next_start = markers[idx + 1][0] if idx + 1 < len(markers) else len(clean_chunk)
         opt_text = clean_chunk[m_end:next_start]
-        options_by_num[opt_num] = normalize_whitespace(opt_text)
-
-    # Clean Option 4 if PyMuPDF sorted next question's equation lines before question header
-    opt4_text = options_by_num.get(4, "")
-    if "\n\n" in opt4_text:
-        parts = opt4_text.split("\n\n", 1)
-        trailing = parts[1].strip()
-        if trailing.startswith("=") or "is equal to" in trailing or trailing.endswith(":"):
-            options_by_num[4] = normalize_whitespace(parts[0])
+        options_by_num[opt_num] = opt_text.strip()
 
     options_list = [
-        {"id": id_map[i], "content": options_by_num.get(i, "")}
+        {"id": id_map[i], "content": clean_option_content(options_by_num.get(i, ""))}
         for i in [1, 2, 3, 4]
     ]
 
@@ -253,16 +252,20 @@ def parse_2024_questions_from_doc(
         else:
             q_type = "NUMERICAL"
             options = []
-            cleaned_content = normalize_whitespace(clean_noise(raw_q_chunk))
+            cleaned_content = normalize_math_text(clean_noise(raw_q_chunk))
 
         extracted_questions.append({
             "question_number": q_num,
             "content": cleaned_content,
+            "raw_content": raw_q_chunk,
             "options": options,
             "question_type": q_type,
             "subject": subject,
             "page_number": page_num
         })
+
+    # Resolve any cross-question equation leakage where equation fragments were sorted before Q{n+1}
+    extracted_questions = repair_cross_question_leakage(extracted_questions)
 
     logger.info(f"Successfully segmented {len(extracted_questions)} questions from 2024 PDF.")
     return extracted_questions

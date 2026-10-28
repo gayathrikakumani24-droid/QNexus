@@ -36,7 +36,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let α, β be the roots of the equation x2 −x + p = 0 and γ, δ be the roots the equation x2 −4x + q = 0; p, q ∈Z. If\nα, β, γ, δ are in G.P., then |p + q| equals :\n\n\n(1) 16                       (2) 32                       (3) 34                       (4) 38\n\n\nMathonGo Answer Key : (3)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_2_Q_2",
@@ -75,13 +80,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let z1, z2 ∈C be the distinct solutions of the equation z2 + 4z −(1 + 12i) = 0. Then |z1|2 + |z2|2 is equal to :\n\n\n(1) 18                       (2) 22                       (3) 29                       (4) 34\n\n\nMathonGo Answer Key : (4)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_2_Q_3",
     "paper_id": "JEE_MAIN_2026_04_05_SHIFT_2",
     "question_number": 3,
-    "content": "If f : N →Z is defined by\n        n     −1        −5\nf(n) = −2n2   3(2k + 1)     2k + 1       , k ∈N,\n       −3n3  3k(2k + 1)  3k(k + 2) + 1\nand ∑kn=1 f(n) = 98, then k is equal to :",
+    "content": "If f : N →Z is defined by\nn −1 −5\nf(n) = −2n2 3(2k + 1) 2k + 1 , k ∈N,\n−3n3 3k(2k + 1) 3k(k + 2) + 1\nand ∑kn=1 f(n) = 98, then k is equal to :",
     "options": [
       {
         "id": "A",
@@ -114,13 +124,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "If f : N →Z is defined by\n        n     −1        −5\nf(n) = −2n2   3(2k + 1)     2k + 1       , k ∈N,\n       −3n3  3k(2k + 1)  3k(k + 2) + 1\nand ∑kn=1 f(n) = 98, then k is equal to :\n\n(1) 3                        (2) 4                        (3) 5                        (4) 6\n\n\nMathonGo Answer Key : (1)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_2_Q_4",
     "paper_id": "JEE_MAIN_2026_04_05_SHIFT_2",
     "question_number": 4,
-    "content": "⎛ 1⎞  ⎛ 1⎞  ⎛ 0⎞  ⎛ 0⎞    ⎛ 0⎞  ⎛ −1 ⎞\nLet M be a 3 × 3 matrix such that M  0 =  2    , M  1 =  1  and M  0 =   1     . If\n                 ⎝ 0⎠  ⎝ 3⎠  ⎝ 0⎠  ⎝ 2⎠    ⎝ 1⎠  ⎝ 1 ⎠\n  ⎛ x⎞  ⎛ 1 ⎞\nM  y  =   7     , then x + y + z equals :\n  ⎝ z ⎠  ⎝ 11⎠",
+    "content": "⎛ 1⎞ ⎛ 1⎞ ⎛ 0⎞ ⎛ 0⎞ ⎛ 0⎞ ⎛ −1 ⎞\nLet M be a 3 × 3 matrix such that M 0 = 2 , M 1 = 1 and M 0 = 1 . If\n⎝ 0⎠ ⎝ 3⎠ ⎝ 0⎠ ⎝ 2⎠ ⎝ 1⎠ ⎝ 1 ⎠\n⎛ x⎞ ⎛ 1 ⎞\nM y = 7 , then x + y + z equals :\n⎝ z ⎠ ⎝ 11⎠",
     "options": [
       {
         "id": "A",
@@ -153,13 +168,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "⎛ 1⎞  ⎛ 1⎞  ⎛ 0⎞  ⎛ 0⎞    ⎛ 0⎞  ⎛ −1 ⎞\nLet M be a 3 × 3 matrix such that M  0 =  2    , M  1 =  1  and M  0 =   1     . If\n                 ⎝ 0⎠  ⎝ 3⎠  ⎝ 0⎠  ⎝ 2⎠    ⎝ 1⎠  ⎝ 1 ⎠\n  ⎛ x⎞  ⎛ 1 ⎞\nM  y  =   7     , then x + y + z equals :\n  ⎝ z ⎠  ⎝ 11⎠\n\n\n(1) 4                        (2) 5                        (3) 7                        (4) 11\n\n\nMathonGo Answer Key : (2)\n\n\n\n\n\n                                          #PaperPhodnaHai\n                                  www.mathongo.com          ∣                                            ∣                 ⎜ ⎟  ⎜ ⎟  ⎜ ⎟  ⎜ ⎟    ⎜ ⎟  ⎜ ⎟  ⎜ ⎟  ⎜ ⎟\n05 April (Evening Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_2_Q_5",
     "paper_id": "JEE_MAIN_2026_04_05_SHIFT_2",
     "question_number": 5,
-    "content": "1           2           3           4       m\nIf the sum of the first 10 terms of the series       +       +       +       + … is      ,\n                                    1 + 14 × 4   1 + 24 × 4   1 + 34 × 4   1 + 44 × 4       n\ngcd(m, n) = 1, then m + n is equal to :",
+    "content": "1 2 3 4 m\nIf the sum of the first 10 terms of the series + + + + … is ,\n1 + 14 × 4 1 + 24 × 4 1 + 34 × 4 1 + 44 × 4 n\ngcd(m, n) = 1, then m + n is equal to :",
     "options": [
       {
         "id": "A",
@@ -192,7 +212,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "1           2           3           4       m\nIf the sum of the first 10 terms of the series       +       +       +       + … is      ,\n                                    1 + 14 × 4   1 + 24 × 4   1 + 34 × 4   1 + 44 × 4       n\ngcd(m, n) = 1, then m + n is equal to :\n\n\n(1) 256                     (2) 264                     (3) 276                     (4) 284\n\n\nMathonGo Answer Key : (3)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_2_Q_6",
@@ -231,13 +256,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let A1, A2, A3, … , A39 be 39 arithmetic means between the numbers 59 and 159. Then the mean of A25, A28, A31\nand A36 is equal to :\n\n\n(1) 129                     (2) 136                     (3) 131.50                  (4) 134\n\n\nMathonGo Answer Key : (4)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_2_Q_7",
     "paper_id": "JEE_MAIN_2026_04_05_SHIFT_2",
     "question_number": 7,
-    "content": "10\n                                         1\nThe coefficient of x2 in the expansion of    +           , x ≠0, is :                              (2x2   x )",
+    "content": "10\n1\nThe coefficient of x2 in the expansion of + , x ≠0, is : (2x2 x )",
     "options": [
       {
         "id": "A",
@@ -270,7 +300,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "10\n                                         1\nThe coefficient of x2 in the expansion of    +           , x ≠0, is :                              (2x2   x )\n\n\n(1) 3240                    (2) 3360                    (3) 3480                    (4) 3600\n\n\nMathonGo Answer Key : (2)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_2_Q_8",
@@ -309,7 +344,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "The probabilities that players A and B of a team are selected for the captaincy for a tournament are 0.6 and 0.4,\nrespectively. If A is selected the captain, the probability that the team wins the tournament is 0.8 and if B is selected\nthe captain, the probability that the team wins the tournament is 0.7. Then the probability, that the team wins the\ntournament, is :\n\n\n(1) 0.74                     (2) 0.76                     (3) 0.72                     (4) 0.78\n\n\nMathonGo Answer Key : (2)\n\n\n\n\n\n                                          #PaperPhodnaHai\n                                  www.mathongo.com\n05 April (Evening Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_2_Q_9",
@@ -348,7 +388,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "A box contains 5 blue, 6 yellow and 4 red balls. The number of ways, of drawing 8 balls containing at least two\nballs of each colour, is :\n\n\n(1) 4100                    (2) 4140                    (3) 4230                    (4) 4290\n\n\nMathonGo Answer Key : (1)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_2_Q_10",
@@ -387,7 +432,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "A variable X takes values 0, 0, 2, 6, 12, 20, … , n(n −1) with frequencies nC0, nC1, nC2, nC3, nC4, nC5, … , nCn ,\nrespectively. If the mean of this data is 60, then its median is :\n\n\n(1) 56                       (2) 42                       (3) 72                       (4) 90\n\n\nMathonGo Answer Key : (1)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_2_Q_11",
@@ -426,7 +476,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let the point P be the vertex of the parabola y = x2 −6x + 12. If a line passing through the point P intersects the\ncircle x2 + y2 −2x −4y + 3 = 0 at the points R and S , then the maximum value of (PR + PS)2 is :\n\n\n(1) 10                       (2) 20                       (3) 25                       (4) 5\n\n\nMathonGo Answer Key : (2)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_2_Q_12",
@@ -465,7 +520,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let the directrix of the parabola P : y2 = 8x, cut x-axis at the point A . Let B(α, β), α > 1, be a point on P such\nthat the slope of AB is 3/5. If BC is a focal chord of P , then six times the area of △ABC is :\n\n\n(1) 80                       (2) 160                     (3) 174                     (4) 192\n\n\nMathonGo Answer Key : (2)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_2_Q_13",
@@ -504,13 +564,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let the eccentricity e of a hyperbola satisfy the equation 6e2 −11e + 3 = 0. If the foci of the hyperbola are (3, 5)\nand (3, −4), then the length of its latus rectum is :\n\n(1) 11                      (2) 17                      (3) 15                      (4) 17\n    3                     3                     2                     2\n\nMathonGo Answer Key : (3)\n                                          #PaperPhodnaHai\n                                  www.mathongo.com\n05 April (Evening Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_2_Q_14",
     "paper_id": "JEE_MAIN_2026_04_05_SHIFT_2",
     "question_number": 14,
-    "content": "x + 3    y −4    z + 1\nLet a triangle PQR be such that P and Q lie on the line    =    =       and are at a distance of 6 units\n                                                8       2       2\nfrom R(1, 2, 3). If (α, β, γ) is the centroid of △PQR, then α + β + γ is equal to :",
+    "content": "x + 3 y −4 z + 1\nLet a triangle PQR be such that P and Q lie on the line = = and are at a distance of 6 units\n8 2 2\nfrom R(1, 2, 3). If (α, β, γ) is the centroid of △PQR, then α + β + γ is equal to :",
     "options": [
       {
         "id": "A",
@@ -543,13 +608,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "x + 3    y −4    z + 1\nLet a triangle PQR be such that P and Q lie on the line    =    =       and are at a distance of 6 units\n                                                8       2       2\nfrom R(1, 2, 3). If (α, β, γ) is the centroid of △PQR, then α + β + γ is equal to :\n\n\n(1) 4                        (2) 5                        (3) 6                        (4) 8\n\n\nMathonGo Answer Key : (3)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_2_Q_15",
     "paper_id": "JEE_MAIN_2026_04_05_SHIFT_2",
     "question_number": 15,
-    "content": "x    y −1    z −2\nIf the distance of the point (a, 2, 5) from the image of the point (1, 2, 7) in the line  =    =         is 4, then\n                                                                   1     1       2\nthe sum of all possible values of a is equal to :",
+    "content": "x y −1 z −2\nIf the distance of the point (a, 2, 5) from the image of the point (1, 2, 7) in the line = = is 4, then\n1 1 2\nthe sum of all possible values of a is equal to :",
     "options": [
       {
         "id": "A",
@@ -582,13 +652,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "x    y −1    z −2\nIf the distance of the point (a, 2, 5) from the image of the point (1, 2, 7) in the line  =    =         is 4, then\n                                                                   1     1       2\nthe sum of all possible values of a is equal to :\n\n\n(1) 11                       (2) 9                        (3) 6                        (4) 4\n\n\nMathonGo Answer Key : (3)\n\n                  →          →                      →          →      →",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_2_Q_16",
     "paper_id": "JEE_MAIN_2026_04_05_SHIFT_2",
     "question_number": 16,
-    "content": "→      →        →Let O be the origin, OP = →a and OQ = →b. If R is the point on OP such that OP = 5OR, and M is the point such\nthat OQ = 5RM , then PM is equal to :",
+    "content": "→ → →Let O be the origin, OP = →a and OQ = →b. If R is the point on OP such that OP = 5OR, and M is the point such\nthat OQ = 5RM , then PM is equal to :",
     "options": [
       {
         "id": "A",
@@ -621,13 +696,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "→      →        →Let O be the origin, OP = →a and OQ = →b. If R is the point on OP such that OP = 5OR, and M is the point such\nthat OQ = 5RM , then PM is equal to :\n\n(1) 1                                                    (2) 1        (→a −4→b)                                                                   (→b −4→a)\n    5                                            5\n(3) 1                                                    (4) 1      (−→a + 4→b)                                             (−→b + 4→a)\n    5                                            5\n\nMathonGo Answer Key : (2)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_2_Q_17",
     "paper_id": "JEE_MAIN_2026_04_05_SHIFT_2",
     "question_number": 17,
-    "content": "(1 −cos(xy)) tan(xy)\nLet f(x) = limy→0                                        . Then the number of solutions of the equation f(x) = sin x, x ∈R is :\n                            y3",
+    "content": "(1 −cos(xy)) tan(xy)\nLet f(x) = limy→0 . Then the number of solutions of the equation f(x) = sin x, x ∈R is :\ny3",
     "options": [
       {
         "id": "A",
@@ -660,13 +740,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "(1 −cos(xy)) tan(xy)\nLet f(x) = limy→0                                        . Then the number of solutions of the equation f(x) = sin x, x ∈R is :\n                            y3\n\n\n(1) 0                        (2) 2                        (3) 3                        (4) 1\n\n\nMathonGo Answer Key : (3)\n\n\n\n\n\n                                          #PaperPhodnaHai\n                                  www.mathongo.com\n05 April (Evening Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_2_Q_18",
     "paper_id": "JEE_MAIN_2026_04_05_SHIFT_2",
     "question_number": 18,
-    "content": "Let (21−a + 21+a), f(a), (3a + 3−a) be in A.P. and α be the minimum value of f(a). Then the value of the integral\n           dx\n∫loge(α)                    is :\n  loge(α−1) (e2x −e−2x)",
+    "content": "Let (21−a + 21+a), f(a), (3a + 3−a) be in A.P. and α be the minimum value of f(a). Then the value of the integral\ndx\n∫loge(α) is :\nloge(α−1) (e2x −e−2x)",
     "options": [
       {
         "id": "A",
@@ -699,7 +784,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let (21−a + 21+a), f(a), (3a + 3−a) be in A.P. and α be the minimum value of f(a). Then the value of the integral\n           dx\n∫loge(α)                    is :\n  loge(α−1) (e2x −e−2x)\n\n(1) 1      4                                           (2) 1      4\n      loge                                                   loge    2   ( 3 )                                   4   ( 3 )\n(3) 1      8                                           (4) 1      8\n      loge                                                   loge    2   ( 5 )                                   4   ( 5 )\n\n\nMathonGo Answer Key : (2)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_2_Q_19",
@@ -738,7 +828,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "dt + (1 −x)(loge x −1) + e . Then theLet f : [1, ∞) →R be a differentiable function defined as f(x) = ∫x1 f(t)\nvalue of f(f(1)) is :\n\n\n(1) (1 + ee)                 (2) (1 + e)                  (3) (1 + e + ee)            (4) 1 + 2e\n\n\nMathonGo Answer Key : (1)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_2_Q_20",
@@ -777,7 +872,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let f(x) and g(x) be twice differentiable functions satisfying f ′′(x) = g′′(x) for all x ∈R, f ′(1) = 2g′(1) = 4 and\ng(2) = 3f(2) = 9. Then f(25) −g(25) is equal to :\n\n\n(1) 20                       (2) 40                       (3) −20                     (4) −40\n\n\nMathonGo Answer Key : (2)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_2_Q_21",
@@ -799,13 +899,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let A = {1, 4, 7} and B = {2, 3, 8}. Then the number of elements, in the relation\nR = {((a1, b1), (a2, b2)) ∈((A × B) × (A × B)) : a1 + b2 divides a2 + b1} is _______.\n\n\n\nMathonGo Answer Key : 18\n\n\n\n\n\n                                          #PaperPhodnaHai\n                                  www.mathongo.com\n05 April (Evening Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_2_Q_22",
     "paper_id": "JEE_MAIN_2026_04_05_SHIFT_2",
     "question_number": 22,
-    "content": "From the point (−1, −1), two rays are sent making angles of 45° with the line x + y = 0. These rays get reflected\nfrom the mirror x + 2y = 1. If the equations of the reflected rays are ax + by = 9 and cx + dy = 7, a, b, c, d ∈Z,\nthen the value of ad + bc is _______.",
+    "content": "From the point (−1, −1), two rays are sent making angles of 45° with the line x + y = 0. These rays get reflected\nfrom the mirror x + 2y = 1. If the equations of the reflected rays are ax + by = 9 and cx + dy = 7, a, b, c, d ∈Z,",
     "options": [],
     "correct_option": null,
     "numerical_answer": 7.0,
@@ -821,13 +926,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "From the point (−1, −1), two rays are sent making angles of 45° with the line x + y = 0. These rays get reflected\nfrom the mirror x + 2y = 1. If the equations of the reflected rays are ax + by = 9 and cx + dy = 7, a, b, c, d ∈Z,\nthen the value of ad + bc is _______.\n\n\n\nMathonGo Answer Key : 7",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_2_Q_23",
     "paper_id": "JEE_MAIN_2026_04_05_SHIFT_2",
     "question_number": 23,
-    "content": "5θ            7θ\nIf S =   ∈[−π, π] : cos θ cos  = cos 7θ cos         , then n(S) is equal to _______.     {θ                  2             2 }",
+    "content": "5θ 7θ",
     "options": [],
     "correct_option": "A",
     "numerical_answer": null,
@@ -843,13 +953,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "5θ            7θ\nIf S =   ∈[−π, π] : cos θ cos  = cos 7θ cos         , then n(S) is equal to _______.     {θ                  2             2 }\n\n\n\nMathonGo Answer Key : 19",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_2_Q_24",
     "paper_id": "JEE_MAIN_2026_04_05_SHIFT_2",
     "question_number": 24,
-    "content": "π\n                                = sin x, x ∈R. Let the maximum value of f on R beLet f : R →R be a function such that f(x) + 3f (  −x)                                          2\nα. If the area of the region bounded by the curves g(x) = x2 and h(x) = βx3 , β > 0, is α2 , then 30β3 is equal to\n_______.",
+    "content": "If S = ∈[−π, π] : cos θ cos = cos 7θ cos , then n(S) is equal to _______. {θ 2 2 } then the value of ad + bc is _______. π\n= sin x, x ∈R. Let the maximum value of f on R beLet f : R →R be a function such that f(x) + 3f ( −x) 2\nα. If the area of the region bounded by the curves g(x) = x2 and h(x) = βx3 , β > 0, is α2 , then 30β3 is equal to\n_______.",
     "options": [],
     "correct_option": "A",
     "numerical_answer": null,
@@ -865,13 +980,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "π\n                                = sin x, x ∈R. Let the maximum value of f on R beLet f : R →R be a function such that f(x) + 3f (  −x)                                          2\nα. If the area of the region bounded by the curves g(x) = x2 and h(x) = βx3 , β > 0, is α2 , then 30β3 is equal to\n_______.\n\n\n\nMathonGo Answer Key : 16",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_2_Q_25",
     "paper_id": "JEE_MAIN_2026_04_05_SHIFT_2",
     "question_number": 25,
-    "content": "π\nLet y = y(x) be the solution of the differential equation (tan x)1/2 dy = (sec3 x −(tan x)3/2y) dx, 0 < x <     ,\n                                                                                        2\n   π    6√2     π     4\ny    =          . If y              =  α, then α4 equals _______. (  )               (  )   4      5        3     5",
+    "content": "π\nLet y = y(x) be the solution of the differential equation (tan x)1/2 dy = (sec3 x −(tan x)3/2y) dx, 0 < x < ,\n2\nπ 6√2 π 4\ny = . If y = α, then α4 equals _______. ( ) ( ) 4 5 3 5",
     "options": [],
     "correct_option": "D",
     "numerical_answer": null,
@@ -887,7 +1007,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "π\nLet y = y(x) be the solution of the differential equation (tan x)1/2 dy = (sec3 x −(tan x)3/2y) dx, 0 < x <     ,\n                                                                                        2\n   π    6√2     π     4\ny    =          . If y              =  α, then α4 equals _______. (  )               (  )   4      5        3     5\n\n\n\nMathonGo Answer Key : 48\n\n\n\n\n\n                                          #PaperPhodnaHai\n                                  www.mathongo.com\n05 April (Evening Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_2_Q_26",

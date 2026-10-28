@@ -19,7 +19,7 @@
       },
       {
         "id": "D",
-        "content": "157\n\n→"
+        "content": "157/→"
       }
     ],
     "correct_option": "D",
@@ -30,10 +30,8 @@
     "concept": null,
     "difficulty": "Medium",
     "question_type": "MCQ",
-    "has_images": true,
-    "image_urls": [
-      "/uploads/questions/JEE_MAIN_2025_01_29_SHIFT_2_Q_1.png"
-    ],
+    "has_images": false,
+    "image_urls": [],
     "page_number": 1,
     "year": 2025,
     "session": "January",
@@ -50,7 +48,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": " Let f(x) = ∫t0\n     (1) 253                                                (2) 154\n     (3) 125                                                (4) 157\n\n                      →",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_29_SHIFT_2_Q_02",
@@ -83,10 +83,8 @@
     "concept": null,
     "difficulty": "Medium",
     "question_type": "MCQ",
-    "has_images": true,
-    "image_urls": [
-      "/uploads/questions/JEE_MAIN_2025_01_29_SHIFT_2_Q_2.png"
-    ],
+    "has_images": false,
+    "image_urls": [],
     "page_number": 1,
     "year": 2025,
     "session": "January",
@@ -103,7 +101,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "    Let ^a be a unit vector perpendicular to the vectors b = ^i −2^j + 3^k and→c= 2^i + 3^j −^k, and makes an angle of\n\n                                                                        α    cos−1 (−13 ) with the vector ^i + ^j + ^k. If ^a makes an angle of π3 with the vector ^i + α^j + ^k, then the value of\n     is :\n     (1) √6                                                 (2) −√6\n     (3) −√3                                               (4) √3\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_29_SHIFT_2_Q_03",
@@ -154,7 +154,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": " If for the solution curve y = f(x) of the differential equation  dydx + (tan x)y = (1+22+secsec xx)2 ,\n   x ∈( −π2  , π2 ), f ( π3 ) = √310 , then f ( π4 ) is equal to :\n     (1)  √3+1                                             (2) 5−√3\n         10(4+√3)                                           2√2\n     (3)  9√3+3                                             (4) 4−√2\n         10(4+√3)                                                      14\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_29_SHIFT_2_Q_04",
@@ -205,7 +207,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": " Let P be the foot of the perpendicular from the point (1, 2, 2) on the line L : x−11 = y+1−1 = z−22   . Let the line       →r = (−^i + ^j −2^k) + λ(^i −^j + ^k), λ ∈R, intersect the line L at Q . Then 2(PQ)2 is equal to :\n     (1) 25                                                  (2) 19\n     (3) 29                                                  (4) 27\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_29_SHIFT_2_Q_05",
@@ -238,10 +242,8 @@
     "concept": null,
     "difficulty": "Medium",
     "question_type": "MCQ",
-    "has_images": true,
-    "image_urls": [
-      "/uploads/questions/JEE_MAIN_2024_01_29_SHIFT_2_Q_5.png"
-    ],
+    "has_images": false,
+    "image_urls": [],
     "page_number": 1,
     "year": 2025,
     "session": "January",
@@ -258,7 +260,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": " Let A = [aij] be a matrix of order 3 × 3, with aij = (√2)i+j . If the sum of all the elements in the third row of\n   A2 is α + β√2, α, β ∈Z, then α + β is equal to :\n     (1) 280                                                (2) 224\n     (3) 210                                                (4) 168\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_29_SHIFT_2_Q_06",
@@ -309,7 +313,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": " Let the line x + y = 1 meet the axes of x and y at A and B, respectively. A right angled triangle AMN is\n    inscribed in the triangle OAB , where O is the origin and the points M and N lie on the lines OB and AB,\n     respectively. If the area of the triangle AMN is 4                                                      of the area of the triangle OAB and AN : NB = λ : 1, then                                                            9\n    the sum of all possible value(s) of is λ :\n     (1) 2                                                   (2) 5                                                                       2\n     (3) 1                                                   (4) 13          2                                                             6\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_29_SHIFT_2_Q_07",
@@ -360,7 +366,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": " If all the words with or without meaning made using all the letters of the word \"KANPUR\" are arranged as in a\n     dictionary, then the word at 440th position in this arrangement, is :\n     (1) PRNAUK                                          (2) PRKANU\n     (3) PRKAUN                                          (4) PRNAKU\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_29_SHIFT_2_Q_08",
@@ -411,7 +419,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": " If the set of all a ∈R, for which the equation 2x2 + (a −5)x + 15 = 3a has no real root, is the interval (α, β),\n    and X = {x ∈Z : α < x < β}, then ∑x∈X x2 is equal to :\n     (1) 2109                                               (2) 2129\n     (3) 2119                                               (4) 2139\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_29_SHIFT_2_Q_09",
@@ -462,7 +472,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": " Let A = [aij] be a 2 × 2 matrix such that aij ∈{0, 1} for all i and j. Let the random variable X denote the\n    possible values of the determinant of the matrix A . Then, the variance of X is :\n2025 (29 Jan Shift 2)                                      JEE Main Previous Year Paper\n\nJEE Main 2025 January                                                                   MathonGo\n\n     (1) 3                                                   (2) 5          4                                                            8\n     (3) 3                                                   (4) 1          8                                                            4\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_29_SHIFT_2_Q_10",
@@ -495,10 +507,8 @@
     "concept": null,
     "difficulty": "Medium",
     "question_type": "MCQ",
-    "has_images": true,
-    "image_urls": [
-      "/uploads/questions/JEE_MAIN_2024_01_29_SHIFT_2_Q_10.png"
-    ],
+    "has_images": false,
+    "image_urls": [],
     "page_number": 2,
     "year": 2025,
     "session": "January",
@@ -515,7 +525,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "Let the function f(x) = (x2 + 1) x2 −ax + 2 + cos |x| be not differentiable at the two points x = α = 2\n     and x = β . Then the distance of the point (α, β) from the line 12x + 5y + 10 = 0 is equal to :\n      (1) 5                                                  (2) 4\n      (3) 3                                                  (4) 2\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_29_SHIFT_2_Q_11",
@@ -566,7 +578,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "Let the area enclosed between the curves |y| = 1 −x2 and x2 + y2 = 1 be α. If 9α = βπ + γ; β, γ are\n      integers, then the value of |β −γ| equals.\n      (1) 27                                                 (2) 33\n      (3) 15                                                 (4) 18\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_29_SHIFT_2_Q_12",
@@ -617,7 +631,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "The remainder, when 7103 is divided by 23 , is equal to :\n      (1) 6                                                  (2) 17\n      (3) 9                                                  (4) 14\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_29_SHIFT_2_Q_13",
@@ -668,7 +684,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "If αx + βy = 109 is the equation of the chord of the ellipse x29 + y24 = 1                                                                                                                                 , whose mid point is ( 52 , 12 ), then\n    α + β is equal to :\n      (1) 58                                                 (2) 46\n      (3) 37                                                 (4) 72\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_29_SHIFT_2_Q_14",
@@ -719,7 +737,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "If the domain of the function log5 (18x −x2 −77) is (α, β) and the domain of the function\n                                 is (γ, δ), then α2 + β2 + γ 2 is equal to :      log(x−1)         ( 2x2+3x−2x2−3x−4 )\n      (1) 195                                                (2) 179\n      (3) 186                                                (4) 174\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_29_SHIFT_2_Q_15",
@@ -770,7 +790,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "Let a circle C pass through the points (4, 2) and (0, 2), and its centre lie on 3x + 2y + 2 = 0. Then the length\n     of the chord, of the circle C , whose mid-point is (1, 2), is :\n      (1) √3                                                (2) 2√2\n      (3) 2√3                                               (4) 4√2\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_29_SHIFT_2_Q_16",
@@ -821,7 +843,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "Let a straight line L pass through the point P(2, −1, 3) and be perpendicular to the lines x−12 = y+11 = z−3−2\n     and x−3             1 = y−23 = z+24   . If the line L intersects the yz -plane at the point Q , then the distance between the\n      points P and Q is :\n      (1) √10                                               (2) 2√3\n      (3) 2                                                  (4) 3\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_29_SHIFT_2_Q_17",
@@ -872,7 +896,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "Bag 1 contains 4 white balls and 5 black balls, and Bag 2 contains n white balls and 3 black balls. One ball is\n     drawn randomly from Bag 1 and transferred to Bag 2. A ball is then drawn randomly from Bag 2. If the\n      probability, that the ball drawn is white, is 29/45, then n is equal to :\n      (1) 6                                                  (2) 3\n      (3) 5                                                  (4) 4      ∣∣\n2025 (29 Jan Shift 2)                                      JEE Main Previous Year Paper\n\nJEE Main 2025 January                                                                   MathonGo\n\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_29_SHIFT_2_Q_18",
@@ -923,7 +949,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "Let α, β(α ≠β) be the values of m , for which the equations x + y + z = 1; x + 2y + 4z = m and\n    x + 4y + 10z = m2 have infinitely many solutions. Then the value of ∑10n=1 (nα + nβ) is equal to :\n      (1) 3080                                              (2) 560\n      (3) 3410                                              (4) 440\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_29_SHIFT_2_Q_19",
@@ -974,7 +1002,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "Let S = N ∪{0}. Define a relation R from S to R by : R = {(x, y) : loge y = x loge ( 25 ), x ∈ S, y ∈R}\n     Then, the sum of all the elements in the range of R is equal to :\n      (1) 10                                                 (2) 3            9                                                           2\n      (3) 5                                                  (4) 5           2                                                            3\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_29_SHIFT_2_Q_20",
@@ -996,7 +1026,7 @@
       },
       {
         "id": "D",
-        "content": "2\n\nπ"
+        "content": "2/π"
       }
     ],
     "correct_option": "D",
@@ -1025,7 +1055,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "If sin x + sin2 x = 1, x ∈(0, π2 ), then\n     (cos12 x + tan12 x) + 3 (cos10 x + tan10 x + cos8 x + tan8 x) + (cos6 x + tan6 x) is equal to :\n      (1) 4                                                  (2) 1\n      (3) 3                                                  (4) 2\n\n\n                 π\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_29_SHIFT_2_Q_21",
@@ -1058,7 +1090,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "12"
-    }
+    },
+    "raw_content": "If 24 ∫ 0 4 (sin 4x − 12π + [2 sin x])dx = 2π + α, where [⋅] denotes the greatest integer function, then α is\n     equal to _______.\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_29_SHIFT_2_Q_22",
@@ -1091,7 +1125,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "11132"
-    }
+    },
+    "raw_content": "Let a1, a2, … , a2024 be an Arithmetic Progression such that\n     a1 + (a5 + a10 + a15 + … + a2020) + a2024 = 2233. Then a1 + a2 + a3 + … + a2024 is equal to _______\n\n\n                                                   1                                                                     2\n                                                                     3 , then α is equal to ________                (3x +                                                                       t = 5eα ( 85 )",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_29_SHIFT_2_Q_23",
@@ -1124,7 +1160,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "64"
-    }
+    },
+    "raw_content": "If limt→0 (∫10                     5)tdx)\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_29_SHIFT_2_Q_24",
@@ -1157,7 +1195,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "1328"
-    }
+    },
+    "raw_content": "Let y2 = 12x be the parabola and S be its focus. Let PQ be a focal chord of the parabola such that\n    (SP)(SQ) = 1474  . Let C be the circle described taking PQ as a diameter. If the equation of a circle C is\n     64x2 + 64y2 −αx −64√3y = β , then β −α is equal to ________.\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_29_SHIFT_2_Q_25",
@@ -1190,7 +1230,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 14,
       "raw_answer": "10"
-    }
+    },
+    "raw_content": "Let integers a, b ∈[−3, 3] be such that a + b ≠0. Then the number of all possible ordered pairs (a, b), for\n                         z + 1   ω     ω2\n     which             z−a = 1 and  ω    z + ω2    1  = 1, z ∈C, where ω and ω2 are the roots of x2 + x + 1 = 0, is             z+b\n                        ω2     1     z + ω\n     equal to ________.\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_29_SHIFT_2_Q_26",

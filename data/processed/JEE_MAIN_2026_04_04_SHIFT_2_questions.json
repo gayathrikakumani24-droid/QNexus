@@ -36,7 +36,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-04",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "For the function f : [1, ∞) →[1, ∞) defined by f(x) = (x −1)4 + 1, among the two statements:\n(I) The set S = {x ∈[1, ∞) : f(x) = f −1(x)} contains exactly two elements, and\n(II) The set S = {x ∈[1, ∞) : f(x) = f −1(x + 1)} is an empty set,\n\n\n(1) only (I) is TRUE                                     (2) only (II) is TRUE\n(3) both (I) and (II) are TRUE                           (4) neither (I) nor (II) is TRUE\n\n\nMathonGo Answer Key : (1)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_04_SHIFT_2_Q_2",
@@ -75,7 +80,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-04",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let S = {z ∈C : z2 + 4z + 16 = 0}. Then ∑z∈S |z + √3i|2 is equal to:\n\n(1) 42                       (2) 23                       (3) 27                       (4) 38\n\n\nMathonGo Answer Key : (4)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_04_SHIFT_2_Q_3",
@@ -114,13 +124,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-04",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "If the system of equations:\nx + y + z = 5\nx + 2y + 3z = 9\nx + 3y + λz = μ\nhas infinitely many solutions, then the value of λ + μ is:\n\n\n(1) 16                       (2) 18                       (3) 19                       (4) 21\n\n\nMathonGo Answer Key : (2)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_04_SHIFT_2_Q_4",
     "paper_id": "JEE_MAIN_2026_04_04_SHIFT_2",
     "question_number": 4,
-    "content": "If α = 1 and β = 1 + i√2, where i = √−1 are two roots of the equation x3 + ax2 + bx + c = 0, a, b, c ∈R, then\n              bx + c)dx is equal to:∫1−1(x3 + ax2 +",
+    "content": "If α = 1 and β = 1 + i√2, where i = √−1 are two roots of the equation x3 + ax2 + bx + c = 0, a, b, c ∈R, then\nbx + c)dx is equal to:∫1−1(x3 + ax2 +",
     "options": [
       {
         "id": "A",
@@ -153,7 +168,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-04",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "If α = 1 and β = 1 + i√2, where i = √−1 are two roots of the equation x3 + ax2 + bx + c = 0, a, b, c ∈R, then\n              bx + c)dx is equal to:∫1−1(x3 + ax2 +\n\n(1) −2                      (2) −4                      (3) −8                      (4) −10\n\n\nMathonGo Answer Key : (3)\n\n\n\n\n\n                                          #PaperPhodnaHai\n                                  www.mathongo.com\n04 April (Evening Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_04_SHIFT_2_Q_5",
@@ -192,13 +212,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-04",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "If the quadratic equation (λ + 2)x2 −3λx + 4λ = 0, λ ≠−2, has two positive roots, then the number of possible\nintegral values of λ is:\n\n\n(1) 1                        (2) 2                        (3) 3                        (4) 4\n\n\nMathonGo Answer Key : (2)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_04_SHIFT_2_Q_6",
     "paper_id": "JEE_MAIN_2026_04_04_SHIFT_2",
     "question_number": 6,
-    "content": "⎡ 1   2    7 ⎤\nLet A =  4  −2   8   and det(A −αI) = 0, where α is a real number. If the largest possible value of α is p,\n      ⎣ 3   8  −7 ⎦\nthen the circle (x −p)2 + (y −2p)2 = 320, intersects the co-ordinate axes at",
+    "content": "⎡ 1 2 7 ⎤\nLet A = 4 −2 8 and det(A −αI) = 0, where α is a real number. If the largest possible value of α is p,\n⎣ 3 8 −7 ⎦\nthen the circle (x −p)2 + (y −2p)2 = 320, intersects the co-ordinate axes at",
     "options": [
       {
         "id": "A",
@@ -231,13 +256,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-04",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "⎡ 1   2    7 ⎤\nLet A =  4  −2   8   and det(A −αI) = 0, where α is a real number. If the largest possible value of α is p,\n      ⎣ 3   8  −7 ⎦\nthen the circle (x −p)2 + (y −2p)2 = 320, intersects the co-ordinate axes at\n\n\n(1) 1 point                  (2) 2 points                 (3) 3 points                 (4) 4 points\n\n\nMathonGo Answer Key : (3)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_04_SHIFT_2_Q_7",
     "paper_id": "JEE_MAIN_2026_04_04_SHIFT_2",
     "question_number": 7,
-    "content": "1   1    1                1   1    1\nLet α =  +  +  + … ∞ and β =  +  +  + … ∞. Then the value of (0.2)log√5(α) + (0.04)log5(β) is\n        4   8   16                3   9   27\nequal to:",
+    "content": "1 1 1 1 1 1\nLet α = + + + … ∞ and β = + + + … ∞. Then the value of (0.2)log√5(α) + (0.04)log5(β) is\n4 8 16 3 9 27\nequal to:",
     "options": [
       {
         "id": "A",
@@ -270,7 +300,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-04",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "1   1    1                1   1    1\nLet α =  +  +  + … ∞ and β =  +  +  + … ∞. Then the value of (0.2)log√5(α) + (0.04)log5(β) is\n        4   8   16                3   9   27\nequal to:\n\n\n(1) 4                        (2) 5                        (3) 8                        (4) 25\n\n\nMathonGo Answer Key : (3)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_04_SHIFT_2_Q_8",
@@ -309,13 +344,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-04",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "For 10 observations x1, x2, … , x10 , if ∑10i=1(xi + 2)2 = 180 and ∑10i=1(xi −1)2 = 90, then their standard\ndeviation is:\n\n\n(1) 2                        (2) √3                      (3) 2√2                    (4) 3\n\n\nMathonGo Answer Key : (4)\n\n\n\n\n\n                                          #PaperPhodnaHai\n                                  www.mathongo.com      ⎢        ⎥\n04 April (Evening Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_04_SHIFT_2_Q_9",
     "paper_id": "JEE_MAIN_2026_04_04_SHIFT_2",
     "question_number": 9,
-    "content": "1     18\nIn the expansion of   −                 , x > 0, if the term independent of x is (221)k, then k is equal to:             (9x  3√x )",
+    "content": "1 18\nIn the expansion of − , x > 0, if the term independent of x is (221)k, then k is equal to: (9x 3√x )",
     "options": [
       {
         "id": "A",
@@ -348,13 +388,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-04",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "1     18\nIn the expansion of   −                 , x > 0, if the term independent of x is (221)k, then k is equal to:             (9x  3√x )\n\n\n(1) 84                       (2) 78                       (3) 168                     (4) 198\n\n\nMathonGo Answer Key : (1)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_04_SHIFT_2_Q_10",
     "paper_id": "JEE_MAIN_2026_04_04_SHIFT_2",
     "question_number": 10,
-    "content": "x2    y2\nLet P(3 cos α, 2 sin α), α ≠0, be a point on the ellipse  +  = 1, Q be a point on the circle\n                                              9    4\nx2 + y2 −14x −14y + 82 = 0 and R be a point on the line x + y = 5 such that the centroid of the triangle PQR is\n              2\n  + cos α, 3 +   sin      . Then the sum of the ordinates of all possible points R is:(2            3  α)",
+    "content": "x2 y2\nLet P(3 cos α, 2 sin α), α ≠0, be a point on the ellipse + = 1, Q be a point on the circle\n9 4\nx2 + y2 −14x −14y + 82 = 0 and R be a point on the line x + y = 5 such that the centroid of the triangle PQR is\n2\n+ cos α, 3 + sin . Then the sum of the ordinates of all possible points R is:(2 3 α)",
     "options": [
       {
         "id": "A",
@@ -387,13 +432,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-04",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "x2    y2\nLet P(3 cos α, 2 sin α), α ≠0, be a point on the ellipse  +  = 1, Q be a point on the circle\n                                              9    4\nx2 + y2 −14x −14y + 82 = 0 and R be a point on the line x + y = 5 such that the centroid of the triangle PQR is\n              2\n  + cos α, 3 +   sin      . Then the sum of the ordinates of all possible points R is:(2            3  α)\n\n\n(1) 6                        (2) 2                        (3) 4                        (4) 8\n\n\nMathonGo Answer Key : (4)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_04_SHIFT_2_Q_11",
     "paper_id": "JEE_MAIN_2026_04_04_SHIFT_2",
     "question_number": 11,
-    "content": "x2Let H :   −y2 = 1 be a hyperbola such that the distance between its foci is 6 and the distance between its\n        a2    b2\n           8\ndirectrices is     . If the line x = α intersects the hyperbola H at the points A and B such that the area of the triangle\n           3\nAOB is 4√15, where O is the origin, then α2 equals",
+    "content": "x2Let H : −y2 = 1 be a hyperbola such that the distance between its foci is 6 and the distance between its\na2 b2\n8\ndirectrices is . If the line x = α intersects the hyperbola H at the points A and B such that the area of the triangle\n3\nAOB is 4√15, where O is the origin, then α2 equals",
     "options": [
       {
         "id": "A",
@@ -426,13 +476,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-04",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "x2Let H :   −y2 = 1 be a hyperbola such that the distance between its foci is 6 and the distance between its\n        a2    b2\n           8\ndirectrices is     . If the line x = α intersects the hyperbola H at the points A and B such that the area of the triangle\n           3\nAOB is 4√15, where O is the origin, then α2 equals\n\n\n(1) 12                       (2) 16                       (3) 24                       (4) 25\n\n\nMathonGo Answer Key : (2)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_04_SHIFT_2_Q_12",
     "paper_id": "JEE_MAIN_2026_04_04_SHIFT_2",
     "question_number": 12,
-    "content": "x       x\n                                             is equal to:               sinmax0≤x≤π        (16             (  ) cos3 (  ))                 2        2",
+    "content": "x x\nis equal to: sinmax0≤x≤π (16 ( ) cos3 ( )) 2 2",
     "options": [
       {
         "id": "A",
@@ -465,13 +520,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-04",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "x       x\n                                             is equal to:               sinmax0≤x≤π        (16             (  ) cos3 (  ))                 2        2\n\n(1) 3√3                    (2) 3√3                    (3) 4√3                    (4) 6√3\n     2\n\nMathonGo Answer Key : (2)\n\n\n\n\n\n                                          #PaperPhodnaHai\n                                  www.mathongo.com\n04 April (Evening Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_04_SHIFT_2_Q_13",
     "paper_id": "JEE_MAIN_2026_04_04_SHIFT_2",
     "question_number": 13,
-    "content": "1        8The shortest distance between the lines →r =       ^i + 2^j +   + λ(2^i −5^j + 6^k) and                        ( 3        3 ^k)→r =           ^i −1  + μ(^j −^k), λ, μ ∈R, is:   (−23    3 ^k)",
+    "content": "1 8The shortest distance between the lines →r = ^i + 2^j + + λ(2^i −5^j + 6^k) and ( 3 3 ^k)→r = ^i −1 + μ(^j −^k), λ, μ ∈R, is: (−23 3 ^k)",
     "options": [
       {
         "id": "A",
@@ -504,13 +564,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-04",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "1        8The shortest distance between the lines →r =       ^i + 2^j +   + λ(2^i −5^j + 6^k) and                        ( 3        3 ^k)→r =           ^i −1  + μ(^j −^k), λ, μ ∈R, is:   (−23    3 ^k)\n\n\n(1) √5                      (2) 3                        (3) 2√3                    (4) √15\n\n\nMathonGo Answer Key : (2)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_04_SHIFT_2_Q_14",
     "paper_id": "JEE_MAIN_2026_04_04_SHIFT_2",
     "question_number": 14,
-    "content": "α −1                            x −2    y −1    z\nIf   + 1, α2 −3α,            is the image of (α, 2α, 1) in the line    =    =     , then the possible  (2α              2  )                                3       2     1\nvalue(s) of α is (are)",
+    "content": "α −1 x −2 y −1 z\nIf + 1, α2 −3α, is the image of (α, 2α, 1) in the line = = , then the possible (2α 2 ) 3 2 1\nvalue(s) of α is (are)",
     "options": [
       {
         "id": "A",
@@ -543,13 +608,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-04",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "α −1                            x −2    y −1    z\nIf   + 1, α2 −3α,            is the image of (α, 2α, 1) in the line    =    =     , then the possible  (2α              2  )                                3       2     1\nvalue(s) of α is (are)\n\n\n(1) Only 3                                               (2) Only 3 and −1\n(3)        1                                            (4)          1   Only 3,   and −1                              Only 3 and\n          4                                               4\n\nMathonGo Answer Key : (1)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_04_SHIFT_2_Q_15",
     "paper_id": "JEE_MAIN_2026_04_04_SHIFT_2",
     "question_number": 15,
-    "content": "√3Let ^u and ^v be unit vectors inclined at an acute angle such that |^u × ^v| =        . If →A = λ^u + ^v + (^u × ^v), then λ is\n                                                            2\nequal to:",
+    "content": "√3Let ^u and ^v be unit vectors inclined at an acute angle such that |^u × ^v| = . If →A = λ^u + ^v + (^u × ^v), then λ is\n2\nequal to:",
     "options": [
       {
         "id": "A",
@@ -582,7 +652,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-04",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "√3Let ^u and ^v be unit vectors inclined at an acute angle such that |^u × ^v| =        . If →A = λ^u + ^v + (^u × ^v), then λ is\n                                                            2\nequal to:\n\n(1) 4                                                    (2) 2      (→A ⋅^u) −2 (→A ⋅^v)                                      (→A ⋅^u) −1 (→A ⋅^v)\n    3         3                                  3         3\n(3) 4         2                                        (4)      (→A ⋅^u) +   (→A ⋅^v)                                    (→A ⋅^u) −1 (→A ⋅^v)\n    3         3                                          2\n\nMathonGo Answer Key : (1)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_04_SHIFT_2_Q_16",
@@ -621,7 +696,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-04",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let for some α ∈R, f : R →R be a function satisfying f(x + y) = f(x) + 2y2 + y + αxy for all x, y ∈R. If\nf(0) = −1 and f(1) = 2, then the value of ∑5n=1(α + f(n)) is:\n\n(1) 110                     (2) 140                     (3) 150                     (4) 170\n\n\nMathonGo Answer Key : (2)\n\n\n\n\n\n                                          #PaperPhodnaHai\n                                  www.mathongo.com\n04 April (Evening Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_04_SHIFT_2_Q_17",
@@ -660,7 +740,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-04",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let A = {(a, b, c) : a, b, c are non-negative integers and a + b + 2c = 22}. Then n(A) is equal to:\n\n\n(1) 121                     (2) 124                     (3) 144                     (4) 169\n\n\nMathonGo Answer Key : (3)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_04_SHIFT_2_Q_18",
@@ -699,13 +784,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-04",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "The area of the region bounded by the curves x + 3y2 = 0 and x + 4y2 = 1 is equal to:\n\n(1) 1                       (2) 2                       (3) 4                       (4) 5\n    3                     3                     3                     3\n\nMathonGo Answer Key : (3)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_04_SHIFT_2_Q_19",
     "paper_id": "JEE_MAIN_2026_04_04_SHIFT_2",
     "question_number": 19,
-    "content": "dy     6x2 + (3x2 + 2x3 + 4)e−2x\nLet y = y(x) be the solution of the differential equation:   +                  = 2 + e−2x ,                                           dx  (    (x3 + 2)(2 + e−2x)   )y\n                          3\nx ∈(−1, 2), satisfying y(0) =     . If y(1) = α(2 + e−2), then α is equal to:\n                          2",
+    "content": "dy 6x2 + (3x2 + 2x3 + 4)e−2x\nLet y = y(x) be the solution of the differential equation: + = 2 + e−2x , dx ( (x3 + 2)(2 + e−2x) )y\n3\nx ∈(−1, 2), satisfying y(0) = . If y(1) = α(2 + e−2), then α is equal to:\n2",
     "options": [
       {
         "id": "A",
@@ -738,7 +828,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-04",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "dy     6x2 + (3x2 + 2x3 + 4)e−2x\nLet y = y(x) be the solution of the differential equation:   +                  = 2 + e−2x ,                                           dx  (    (x3 + 2)(2 + e−2x)   )y\n                          3\nx ∈(−1, 2), satisfying y(0) =     . If y(1) = α(2 + e−2), then α is equal to:\n                          2\n\n(1) 13                      (2) 6                       (3) 12                      (4) 13\n    8                     13                     13                     12\n\nMathonGo Answer Key : (4)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_04_SHIFT_2_Q_20",
@@ -777,13 +872,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-04",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "x + x2)dx is equal to:The integral ∫10 cot−1(1 +\n\n(1)           1      5    π                       (2)           1      5   2 tan−1 2 +   loge    +                       2 tan−1 2 +   loge   −π             2   ( 4 )   2                               2   ( 4 )   2\n(3)                  5    π                       (4)                  5   2 tan−1 2 −1 loge    +                       2 tan−1 2 −1 loge   −π             2   ( 4 )   2                               2   ( 4 )   2\n\n\nMathonGo Answer Key : (4)\n\n\n\n\n\n                                          #PaperPhodnaHai\n                                  www.mathongo.com\n04 April (Evening Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_04_SHIFT_2_Q_21",
     "paper_id": "JEE_MAIN_2026_04_04_SHIFT_2",
     "question_number": 21,
-    "content": "From a month of 31 days, 3 different dates are selected at random. If the probability that these dates are in an\n                     a\nincreasing A.P. is equal to     , where a, b ∈N and gcd(a, b) = 1, then a + b is equal to ______\n                          b",
+    "content": "From a month of 31 days, 3 different dates are selected at random. If the probability that these dates are in an\na\nincreasing A.P. is equal to , where a, b ∈N and gcd(a, b) = 1, then a + b is equal to ______\nb",
     "options": [],
     "correct_option": null,
     "numerical_answer": 944.0,
@@ -799,13 +899,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-04",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "From a month of 31 days, 3 different dates are selected at random. If the probability that these dates are in an\n                     a\nincreasing A.P. is equal to     , where a, b ∈N and gcd(a, b) = 1, then a + b is equal to ______\n                          b\n\n\n\nMathonGo Answer Key : 944",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_04_SHIFT_2_Q_22",
     "paper_id": "JEE_MAIN_2026_04_04_SHIFT_2",
     "question_number": 22,
-    "content": "x < 0\nLet f(x) =                     and g(x) = f(|x|) + |f(x)|. If the number of points where g is not continuous          {ex−1,x2 −5x + 6,  x ≥0\nand is not differentiable are α and β respectively, then α + β is equal to ______",
+    "content": "x < 0\nLet f(x) = and g(x) = f(|x|) + |f(x)|. If the number of points where g is not continuous {ex−1,x2 −5x + 6, x ≥0\nand is not differentiable are α and β respectively, then α + β is equal to ______",
     "options": [],
     "correct_option": "D",
     "numerical_answer": null,
@@ -821,13 +926,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-04",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "x < 0\nLet f(x) =                     and g(x) = f(|x|) + |f(x)|. If the number of points where g is not continuous          {ex−1,x2 −5x + 6,  x ≥0\nand is not differentiable are α and β respectively, then α + β is equal to ______\n\n\n\nMathonGo Answer Key : 4",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_04_SHIFT_2_Q_23",
     "paper_id": "JEE_MAIN_2026_04_04_SHIFT_2",
     "question_number": 23,
-    "content": "Let A, B be points on the two half-lines x −√3|y| = α, α > 0 at a distance of α from their point of intersection P .\n                                                                            9\nThe line segment AB meets the angle bisector of the given half-lines at the point Q . If PQ =   and R is the radius\n                                                                            2\n                             α2\nof the circumcircle of △PAB, then      is equal to ______\n                    R",
+    "content": "Let A, B be points on the two half-lines x −√3|y| = α, α > 0 at a distance of α from their point of intersection P .\n9\nThe line segment AB meets the angle bisector of the given half-lines at the point Q . If PQ = and R is the radius\n2\nα2\nof the circumcircle of △PAB, then is equal to ______\nR",
     "options": [],
     "correct_option": null,
     "numerical_answer": 9.0,
@@ -843,7 +953,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-04",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let A, B be points on the two half-lines x −√3|y| = α, α > 0 at a distance of α from their point of intersection P .\n                                                                            9\nThe line segment AB meets the angle bisector of the given half-lines at the point Q . If PQ =   and R is the radius\n                                                                            2\n                             α2\nof the circumcircle of △PAB, then      is equal to ______\n                    R\n\n\n\nMathonGo Answer Key : 9",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_04_SHIFT_2_Q_24",
@@ -865,13 +980,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-04",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let A, B and C be the vertices of a variable right angled triangle inscribed in the parabola y2 = 16x. Let the vertex\nB containing the right angle be (4, 8) and the locus of the centroid of △ABC be a conic Co . Then three times the\nlength of latus rectum of Co is ______\n\n\n\nMathonGo Answer Key : 16",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_04_SHIFT_2_Q_25",
     "paper_id": "JEE_MAIN_2026_04_04_SHIFT_2",
     "question_number": 25,
-    "content": "π\n                                                                                                                                                                                  . Then                                                                                                   t dt, x                                                                                                                                                      ,Let f be a twice differentiable function such that f(x) = ∫x0 tan(t −x)dt −∫x0 f(t) tan                                                  ∈(−π                                                                        )                                                                                  2  2\n    π                 π\n                                           is equal to ______     + 12f ′             + ff ′′ (  )         (−π )                    (  )    6           6       6",
+    "content": "π\n. Then t dt, x ,Let f be a twice differentiable function such that f(x) = ∫x0 tan(t −x)dt −∫x0 f(t) tan ∈(−π ) 2 2\nπ π",
     "options": [],
     "correct_option": null,
     "numerical_answer": 5.0,
@@ -887,7 +1007,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-04",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "π\n                                                                                                                                                                                  . Then                                                                                                   t dt, x                                                                                                                                                      ,Let f be a twice differentiable function such that f(x) = ∫x0 tan(t −x)dt −∫x0 f(t) tan                                                  ∈(−π                                                                        )                                                                                  2  2\n    π                 π\n                                           is equal to ______     + 12f ′             + ff ′′ (  )         (−π )                    (  )    6           6       6\n\n\n\nMathonGo Answer Key : 5\n\n\n                                          #PaperPhodnaHai\n                                  www.mathongo.com\n04 April (Evening Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_04_SHIFT_2_Q_26",

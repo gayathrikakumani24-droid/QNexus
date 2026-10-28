@@ -1,0 +1,1412 @@
+[
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_2_Q_61",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_2",
+    "question_number": 61,
+    "content": "The number of solutions, of the equation 𝑒sin𝑥−2𝑒−sin𝑥= 2 is",
+    "options": [
+      {
+        "id": "A",
+        "content": "2"
+      },
+      {
+        "id": "B",
+        "content": "more than 2"
+      },
+      {
+        "id": "C",
+        "content": "1"
+      },
+      {
+        "id": "D",
+        "content": "0"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 11,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "4"
+    },
+    "raw_content": "The number of solutions, of the equation 𝑒sin𝑥−2𝑒−sin𝑥= 2 is\n      (1) 2                                                  (2) more than 2\n      (3) 1                                                  (4) 0\n\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_2_Q_62",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_2",
+    "question_number": 62,
+    "content": "Let 𝑧1 and 𝑧2 be two complex number such that 𝑧1 + 𝑧2 = 5 and 𝑧13 + 𝑧23 = 20 + 15𝑖. Then 𝑧14 + 𝑧24 equals-",
+    "options": [
+      {
+        "id": "A",
+        "content": "30√3"
+      },
+      {
+        "id": "B",
+        "content": "75"
+      },
+      {
+        "id": "C",
+        "content": "15√15"
+      },
+      {
+        "id": "D",
+        "content": "25√3"
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 11,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    },
+    "raw_content": "Let 𝑧1 and 𝑧2 be two complex number such that 𝑧1 + 𝑧2 = 5 and 𝑧13 + 𝑧23 = 20 + 15𝑖. Then 𝑧14 + 𝑧24 equals-\n      (1) 30√3                                              (2) 75\n      (3) 15√15                                            (4) 25√3\n\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_2_Q_63",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_2",
+    "question_number": 63,
+    "content": "The number of ways in which 21 identical apples can be distributed among three children such that each child\ngets at least 2 apples, is",
+    "options": [
+      {
+        "id": "A",
+        "content": "406"
+      },
+      {
+        "id": "B",
+        "content": "130"
+      },
+      {
+        "id": "C",
+        "content": "142"
+      },
+      {
+        "id": "D",
+        "content": "136"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 11,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "4"
+    },
+    "raw_content": "The number of ways in which 21 identical apples can be distributed among three children such that each child\n      gets at least 2 apples, is\n      (1) 406                                               (2) 130\n      (3) 142                                               (4) 136\n\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_2_Q_64",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_2",
+    "question_number": 64,
+    "content": "Let 2nd, 8th and 44th, terms of a non-constant 𝐴. 𝑃. be respectively the 1st, 2nd and 3rd terms of 𝐺. 𝑃. If\nthe first term of A.P. is 1 then the sum of first 20 terms is equal to-",
+    "options": [
+      {
+        "id": "A",
+        "content": "980"
+      },
+      {
+        "id": "B",
+        "content": "960"
+      },
+      {
+        "id": "C",
+        "content": "990"
+      },
+      {
+        "id": "D",
+        "content": "970"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 11,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "4"
+    },
+    "raw_content": "Let 2nd,  8th and 44th, terms of a non-constant 𝐴. 𝑃. be respectively the 1st,  2nd and 3rd terms of 𝐺. 𝑃. If\n      the first term of A.P. is 1 then the sum of first 20 terms is equal to-\n      (1) 980                                               (2) 960\n      (3) 990                                               (4) 970\n\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_2_Q_65",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_2",
+    "question_number": 65,
+    "content": "If for some 𝑚, 𝑛; 6 𝐶𝑚+ 26𝐶𝑚+ 1+6𝐶𝑚+ 2 >8 𝐶3 and 𝑛−1𝑃3:𝑛𝑃4 = 1: 8, then 𝑛𝑃𝑚+ 1+𝑛+ 1𝐶𝑚 is equal to",
+    "options": [
+      {
+        "id": "A",
+        "content": "380"
+      },
+      {
+        "id": "B",
+        "content": "376"
+      },
+      {
+        "id": "C",
+        "content": "384"
+      },
+      {
+        "id": "D",
+        "content": "372"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 11,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "4"
+    },
+    "raw_content": "If for some 𝑚,  𝑛;  6 𝐶𝑚+ 26𝐶𝑚+ 1+6𝐶𝑚+ 2 >8 𝐶3 and 𝑛−1𝑃3:𝑛𝑃4 = 1: 8, then 𝑛𝑃𝑚+ 1+𝑛+ 1𝐶𝑚 is equal to\n      (1) 380                                               (2) 376\n      (3) 384                                               (4) 372\n\n\n\n\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN\nJEE Main 2024 (31 Jan Shift 2)                              JEE Main Previous Year Paper\n\nQuestion Paper                                                                         MathonGo\n\n\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_2_Q_66",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_2",
+    "question_number": 66,
+    "content": "Let 𝐴𝑎, 𝑏, 𝐵3, 4 and −6, −8 respectively denote the centroid, circumcentre and orthocentre of a\ntriangle. Then, the distance of the point 𝑃2𝑎+ 3, 7𝑏+ 5 from the line 2𝑥+ 3𝑦−4 = 0 measured parallel to\nthe line 𝑥−2𝑦−1 = 0 is",
+    "options": [
+      {
+        "id": "A",
+        "content": "15√5"
+      },
+      {
+        "id": "B",
+        "content": "17√5\n7 6"
+      },
+      {
+        "id": "C",
+        "content": "17√5"
+      },
+      {
+        "id": "D",
+        "content": "√5\n7 17"
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 12,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "3",
+      "correct_option": "C",
+      "option_index": 2
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "3"
+    },
+    "raw_content": "Let 𝐴𝑎,   𝑏,  𝐵3,  4 and −6,  −8 respectively denote the centroid, circumcentre and orthocentre of a\n      triangle. Then, the distance of the point 𝑃2𝑎+ 3, 7𝑏+ 5 from the line 2𝑥+ 3𝑦−4 = 0 measured parallel to\n      the line 𝑥−2𝑦−1 = 0 is\n      (1) 15√5                                               (2) 17√5\n           7                                                     6\n      (3) 17√5                                               (4) √5\n           7                                                   17\n\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_2_Q_67",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_2",
+    "question_number": 67,
+    "content": "Let a variable line passing through the centre of the circle 𝑥2 + 𝑦2 −16𝑥−4𝑦= 0, meet the positive co-\nordinate axes at the point 𝐴 and 𝐵. Then the minimum value of 𝑂𝐴+ 𝑂𝐵, where 𝑂 is the origin, is equal to",
+    "options": [
+      {
+        "id": "A",
+        "content": "12"
+      },
+      {
+        "id": "B",
+        "content": "18"
+      },
+      {
+        "id": "C",
+        "content": "20"
+      },
+      {
+        "id": "D",
+        "content": "24"
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 12,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    },
+    "raw_content": "Let a variable line passing through the centre of the circle 𝑥2 + 𝑦2 −16𝑥−4𝑦= 0, meet the positive co-\n      ordinate axes at the point 𝐴 and  𝐵. Then the minimum value of 𝑂𝐴+ 𝑂𝐵, where 𝑂 is the origin, is equal to\n      (1) 12                                                 (2) 18\n      (3) 20                                                 (4) 24\n\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_2_Q_68",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_2",
+    "question_number": 68,
+    "content": "Let 𝑃 be a parabola with vertex 2, 3 and directrix 2𝑥+ 𝑦= 6. Let an ellipse 𝐸: 𝑥2 + 𝑦2 = 1, 𝑎> 𝑏\n𝑎2 𝑏2\n1\nof eccentricity pass through the focus of the parabola 𝑃. Then the square of the length of the latus rectum\n√2\nof 𝐸, is",
+    "options": [
+      {
+        "id": "A",
+        "content": "385"
+      },
+      {
+        "id": "B",
+        "content": "347\n8 8\n512 656"
+      },
+      {
+        "id": "C",
+        "content": ""
+      },
+      {
+        "id": "D",
+        "content": "25 25"
+      }
+    ],
+    "correct_option": "D",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 12,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "4",
+      "correct_option": "D",
+      "option_index": 3
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "4"
+    },
+    "raw_content": "Let 𝑃 be a parabola with vertex 2,  3 and directrix 2𝑥+ 𝑦= 6. Let an ellipse 𝐸: 𝑥2 + 𝑦2 = 1, 𝑎> 𝑏\n                                                                                                𝑎2    𝑏2\n                      1\n      of eccentricity    pass through the focus of the parabola 𝑃. Then the square of the length of the latus rectum\n                    √2\n     of 𝐸, is\n      (1) 385                                                (2) 347\n          8                                                     8\n         512                                                   656\n      (3)                                                    (4)\n          25                                                    25\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_2_Q_69",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_2",
+    "question_number": 69,
+    "content": "Let 𝑓: →𝑅→0, ∞ be strictly increasing function such that lim 𝑓7𝑥 1. Then, the value of lim 𝑓5𝑥 is 𝑥→∞ 𝑓𝑥= 𝑥→∞ 𝑓𝑥−1\nequal to",
+    "options": [
+      {
+        "id": "A",
+        "content": "4"
+      },
+      {
+        "id": "B",
+        "content": "0"
+      },
+      {
+        "id": "C",
+        "content": "7"
+      },
+      {
+        "id": "D",
+        "content": "1/5"
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 12,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    },
+    "raw_content": "Let 𝑓: →𝑅→0, ∞ be strictly increasing function such that lim 𝑓7𝑥   1. Then, the value of lim 𝑓5𝑥      is                                       𝑥→∞ 𝑓𝑥=             𝑥→∞ 𝑓𝑥−1\n     equal to\n      (1) 4                                                  (2) 0\n      (3) 7                                                  (4) 1\n         5\n\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_2_Q_70",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_2",
+    "question_number": 70,
+    "content": "Let the mean and the variance of 6 observation 𝑎, 𝑏, 68, 44, 48, 60 be 55 and 194, respectively if\n𝑎> 𝑏, then 𝑎+ 3𝑏 is",
+    "options": [
+      {
+        "id": "A",
+        "content": "200"
+      },
+      {
+        "id": "B",
+        "content": "190"
+      },
+      {
+        "id": "C",
+        "content": "180"
+      },
+      {
+        "id": "D",
+        "content": "210"
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 12,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "3",
+      "correct_option": "C",
+      "option_index": 2
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "3"
+    },
+    "raw_content": "Let the mean and the variance of 6 observation 𝑎,   𝑏,  68,  44,  48,  60 be 55 and 194, respectively if\n   𝑎> 𝑏, then 𝑎+ 3𝑏 is\n      (1) 200                                               (2) 190\n      (3) 180                                               (4) 210\n\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_2_Q_71",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_2",
+    "question_number": 71,
+    "content": "1 1 −1 −1 0 0\nLet A be a 3 × 3 real matrix such that 𝐴 0 = 2 0 , 𝐴 0 = 4 0 , 𝐴 1 = 2 1 . Then, the system\n1 1 1 1 0 0\n𝑥 1\n𝐴−3𝐼 𝑦 = 2 has\n𝑧 3",
+    "options": [
+      {
+        "id": "A",
+        "content": "unique solution"
+      },
+      {
+        "id": "B",
+        "content": "exactly two solutions"
+      },
+      {
+        "id": "C",
+        "content": "no solution"
+      },
+      {
+        "id": "D",
+        "content": "infinitely many solutions"
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 12,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "1",
+      "correct_option": "A",
+      "option_index": 0
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "1"
+    },
+    "raw_content": "                                  1     1    −1    −1     0     0\n     Let A be a 3 × 3 real matrix such that 𝐴 0 = 2 0  ,  𝐴 0 = 4 0    ,  𝐴 1 = 2 1  . Then, the system\n                                      1     1     1      1     0     0\n          𝑥    1\n   𝐴−3𝐼 𝑦 = 2 has\n           𝑧    3\n      (1) unique solution                                    (2) exactly two solutions\n      (3) no solution                                        (4) infinitely many solutions\n\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_2_Q_72",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_2",
+    "question_number": 72,
+    "content": "If 𝑎= sin−1sin5 and 𝑏= cos−1cos5, then 𝑎2 + 𝑏2 is equal to",
+    "options": [
+      {
+        "id": "A",
+        "content": "4𝜋2 + 25"
+      },
+      {
+        "id": "B",
+        "content": "8𝜋2 −40𝜋+ 50"
+      },
+      {
+        "id": "C",
+        "content": "4𝜋2 −20𝜋+ 50"
+      },
+      {
+        "id": "D",
+        "content": "25"
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 12,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    },
+    "raw_content": "If 𝑎= sin−1sin5 and 𝑏= cos−1cos5, then 𝑎2 + 𝑏2 is equal to\n      (1) 4𝜋2 + 25                                          (2) 8𝜋2 −40𝜋+ 50\n      (3) 4𝜋2 −20𝜋+ 50                                  (4) 25\n\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_2_Q_73",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_2",
+    "question_number": 73,
+    "content": "If the function 𝑓: −∞, −1 →𝑎, 𝑏 defined by 𝑓𝑥= 𝑒𝑥3 −3𝑥+ 1 is one-one and onto, then the distance of the\npoint 𝑃2𝑏+ 4, 𝑎+ 2 from the line 𝑥+ 𝑒−3𝑦= 4 is:",
+    "options": [
+      {
+        "id": "A",
+        "content": "2√1 + 𝑒6"
+      },
+      {
+        "id": "B",
+        "content": "4√1 + 𝑒6"
+      },
+      {
+        "id": "C",
+        "content": "3√1 + 𝑒6"
+      },
+      {
+        "id": "D",
+        "content": "√1 + 𝑒6"
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 12,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "1",
+      "correct_option": "A",
+      "option_index": 0
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "1"
+    },
+    "raw_content": "If the function 𝑓: −∞, −1 →𝑎, 𝑏 defined by 𝑓𝑥= 𝑒𝑥3 −3𝑥+ 1 is one-one and onto, then the distance of the\n      point 𝑃2𝑏+ 4, 𝑎+ 2 from the line 𝑥+ 𝑒−3𝑦= 4 is:\n      (1) 2√1 + 𝑒6                                          (2) 4√1 + 𝑒6\n      (3) 3√1 + 𝑒6                                          (4) √1 + 𝑒6\n\n\n\n\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN\nJEE Main 2024 (31 Jan Shift 2)                              JEE Main Previous Year Paper\n\nQuestion Paper                                                                         MathonGo\n\n\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_2_Q_74",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_2",
+    "question_number": 74,
+    "content": "Consider the function 𝑓: 0, ∞→𝑅 defined by 𝑓𝑥= 𝑒−log𝑒𝑥. If 𝑚 and 𝑛 be respectively the number of points at\nwhich 𝑓 is not continuous and 𝑓 is not differentiable, then 𝑚+ 𝑛 is",
+    "options": [
+      {
+        "id": "A",
+        "content": "0"
+      },
+      {
+        "id": "B",
+        "content": "3"
+      },
+      {
+        "id": "C",
+        "content": "1"
+      },
+      {
+        "id": "D",
+        "content": "2"
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 13,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "3",
+      "correct_option": "C",
+      "option_index": 2
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "3"
+    },
+    "raw_content": "Consider the function 𝑓: 0, ∞→𝑅 defined by 𝑓𝑥= 𝑒−log𝑒𝑥. If 𝑚 and 𝑛 be respectively the number of points at\n     which 𝑓 is not continuous and 𝑓 is not differentiable, then 𝑚+ 𝑛 is\n      (1) 0                                                  (2) 3\n      (3) 1                                                  (4) 2\n\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_2_Q_75",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_2",
+    "question_number": 75,
+    "content": "Let 𝑓, 𝑔: 0, ∞→𝑅 be two functions defined by 𝑓𝑥= 𝑥𝑡−𝑡2𝑒−𝑡2𝑑𝑡 and 𝑔𝑥= 𝑥2 𝑡 12𝑒−𝑡2𝑑𝑡. Then the ∫−𝑥 ∫0\nvalue of 9𝑓√log𝑒9 + 𝑔√log𝑒9 is equal to",
+    "options": [
+      {
+        "id": "A",
+        "content": "6"
+      },
+      {
+        "id": "B",
+        "content": "9"
+      },
+      {
+        "id": "C",
+        "content": "8"
+      },
+      {
+        "id": "D",
+        "content": "10"
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 13,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "3",
+      "correct_option": "C",
+      "option_index": 2
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "3"
+    },
+    "raw_content": "Let 𝑓, 𝑔: 0, ∞→𝑅 be two functions defined by 𝑓𝑥=  𝑥𝑡−𝑡2𝑒−𝑡2𝑑𝑡 and 𝑔𝑥=   𝑥2 𝑡 12𝑒−𝑡2𝑑𝑡. Then the                                                 ∫−𝑥                    ∫0\n     value of 9𝑓√log𝑒9 + 𝑔√log𝑒9 is equal to\n      (1) 6                                                  (2) 9\n      (3) 8                                                  (4) 10\n\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_2_Q_76",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_2",
+    "question_number": 76,
+    "content": "The area of the region enclosed by the parabola 𝑦= 4𝑥−𝑥2 and 3𝑦= 𝑥−42 is equal to\n32",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": "4\n9\n14"
+      },
+      {
+        "id": "C",
+        "content": "6"
+      },
+      {
+        "id": "D",
+        "content": "3"
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 13,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "3",
+      "correct_option": "C",
+      "option_index": 2
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "3"
+    },
+    "raw_content": "The area of the region enclosed by the parabola 𝑦= 4𝑥−𝑥2 and 3𝑦= 𝑥−42 is equal to\n         32\n      (1)                                                    (2) 4\n          9\n                                                               14\n      (3) 6                                                  (4)\n                                                                3\n\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_2_Q_77",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_2",
+    "question_number": 77,
+    "content": "The temperature 𝑇𝑡 of a body at time 𝑡= 0 is 160° 𝐹 and it decreases continuously as per the differential\n𝑑𝑇\nequation 𝑑𝑡= −𝐾𝑇−80, where 𝐾 is positive constant. If 𝑇15 = 120° 𝐹, then 𝑇45 is equal to",
+    "options": [
+      {
+        "id": "A",
+        "content": "85° 𝐹"
+      },
+      {
+        "id": "B",
+        "content": "95° 𝐹"
+      },
+      {
+        "id": "C",
+        "content": "90° 𝐹"
+      },
+      {
+        "id": "D",
+        "content": "80° 𝐹"
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 13,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "3",
+      "correct_option": "C",
+      "option_index": 2
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "3"
+    },
+    "raw_content": "The temperature 𝑇𝑡 of a body at time 𝑡= 0 is 160° 𝐹 and it decreases continuously as per the differential\n              𝑑𝑇\n     equation 𝑑𝑡= −𝐾𝑇−80, where 𝐾 is positive constant. If 𝑇15 = 120°  𝐹, then 𝑇45 is equal to\n      (1) 85° 𝐹                                            (2) 95° 𝐹\n      (3) 90° 𝐹                                            (4) 80° 𝐹\n\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_2_Q_78",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_2",
+    "question_number": 78,
+    "content": "Let 𝛼, 𝛽, 𝛾 be mirror image of the point 2, 3, 5 in the line 𝑥−1 = 𝑦−2 = 𝑧−3 . Then 2𝛼+ 3𝛽+ 4𝛾 is equal to\n2 3 4",
+    "options": [
+      {
+        "id": "A",
+        "content": "32"
+      },
+      {
+        "id": "B",
+        "content": "33"
+      },
+      {
+        "id": "C",
+        "content": "31"
+      },
+      {
+        "id": "D",
+        "content": "34\n\n𝑥−1 𝑦+ 1 𝑧+ 4"
+      }
+    ],
+    "correct_option": "B",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 13,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "2",
+      "correct_option": "B",
+      "option_index": 1
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "2"
+    },
+    "raw_content": "Let 𝛼, 𝛽, 𝛾 be mirror image of the point 2, 3, 5 in the line 𝑥−1 = 𝑦−2 = 𝑧−3 . Then 2𝛼+ 3𝛽+ 4𝛾 is equal to\n                                                                 2       3       4\n      (1) 32                                                 (2) 33\n      (3) 31                                                 (4) 34\n\n                                              𝑥−1   𝑦+ 1   𝑧+ 4\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_2_Q_79",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_2",
+    "question_number": 79,
+    "content": "The shortest distance between lines 𝐿1 and 𝐿2, where 𝐿1: 2 = −3 = 2 and 𝐿2 is the line passing through\n𝑥−3 𝑦 𝑧−1\nthe points 𝐴−4, 4, 3, 𝐵−1, 6, 3 and perpendicular to the line = = , is\n−2 3 1",
+    "options": [
+      {
+        "id": "A",
+        "content": "121"
+      },
+      {
+        "id": "B",
+        "content": "24\n√221 √117"
+      },
+      {
+        "id": "C",
+        "content": "141"
+      },
+      {
+        "id": "D",
+        "content": "42\n√221 √117"
+      }
+    ],
+    "correct_option": "C",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 13,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "3",
+      "correct_option": "C",
+      "option_index": 2
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "3"
+    },
+    "raw_content": "The shortest distance between lines 𝐿1 and 𝐿2, where 𝐿1:  2 =  −3 =  2  and 𝐿2 is the line passing through\n                                                 𝑥−3    𝑦   𝑧−1\n      the points 𝐴−4, 4, 3,  𝐵−1, 6, 3 and perpendicular to the line   = =        , is\n                                                           −2    3     1\n      (1)  121                                                (2)  24\n         √221                                               √117\n      (3)  141                                                (4)  42\n         √221                                               √117\n\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_2_Q_80",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_2",
+    "question_number": 80,
+    "content": "A coin is biased so that a head is twice as likely to occur as a tail. If the coin is tossed 3 times, then the\nprobability of getting two tails and one head is-\n2 1",
+    "options": [
+      {
+        "id": "A",
+        "content": ""
+      },
+      {
+        "id": "B",
+        "content": "9 9"
+      },
+      {
+        "id": "C",
+        "content": "2"
+      },
+      {
+        "id": "D",
+        "content": "1\n27 27"
+      }
+    ],
+    "correct_option": "A",
+    "numerical_answer": null,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "MCQ",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 13,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "MCQ",
+      "raw": "1",
+      "correct_option": "A",
+      "option_index": 0
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "1"
+    },
+    "raw_content": "A coin is biased so that a head is twice as likely to occur as a tail. If the coin is tossed 3 times, then the\n      probability of getting two tails and one head is-\n         2                                                     1\n      (1)                                                    (2)\n         9                                                     9\n      (3) 2                                                  (4) 1\n         27                                                    27\n\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_2_Q_81",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_2",
+    "question_number": 81,
+    "content": "Let 𝑎, 𝑏, 𝑐 be the length of three sides of a triangle satisfying the condition 𝑎2 + 𝑏2𝑥2 −2𝑏𝑎+ 𝑐\n𝑥+ 𝑏2 + 𝑐2 = 0. If the set of all possible values of 𝑥 is in the interval 𝛼, 𝛽, then 12𝛼2 + 𝛽2 is equal to\n_______.",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 36.0,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 13,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "36",
+      "value": 36.0
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "36"
+    },
+    "raw_content": "Let 𝑎, 𝑏, 𝑐 be the length of three sides of a triangle satisfying the condition 𝑎2 + 𝑏2𝑥2 −2𝑏𝑎+ 𝑐\n   𝑥+ 𝑏2 + 𝑐2 = 0. If the set of all possible values of 𝑥 is in the interval 𝛼, 𝛽, then 12𝛼2 + 𝛽2 is equal to\n     _______.\n\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_2_Q_82",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_2",
+    "question_number": 82,
+    "content": "Let the coefficient of 𝑥𝑟 in the expansion of\n𝑥+ 3𝑛−1 + 𝑥+ 3𝑛−2𝑥+ 2 + 𝑥+ 3𝑛−3𝑥+ 22 + . ... + 𝑥+ 2𝑛−1 be 𝛼𝑟. If ∑𝑟=𝑛 0 𝛼𝑟= 𝛽𝑛−𝛾𝑛, 𝛽, 𝛾∈𝑁,",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 25.0,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 13,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "25",
+      "value": 25.0
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "25"
+    },
+    "raw_content": "Let         the         coefficient         of        𝑥𝑟         in         the        expansion         of\n   𝑥+ 3𝑛−1 + 𝑥+ 3𝑛−2𝑥+ 2 + 𝑥+ 3𝑛−3𝑥+ 22 +  .  ... + 𝑥+ 2𝑛−1  be  𝛼𝑟.  If ∑𝑟=𝑛  0 𝛼𝑟= 𝛽𝑛−𝛾𝑛, 𝛽, 𝛾∈𝑁,\n     then the value of 𝛽2 + 𝛾2 equals _______.\n\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_2_Q_83",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_2",
+    "question_number": 83,
+    "content": "Let 𝐴−2, −1, 𝐵1, 0, 𝐶𝛼, 𝛽 and 𝐷𝛾, 𝛿 be the vertices of a parallelogram 𝐴𝐵𝐶𝐷. If the point 𝐶 lies on\n2𝑥−𝑦= 5 and the point 𝐷 lies on 3𝑥−2𝑦= 6, then the value of 𝛼+ 𝛽+ 𝛾+ 𝛿 is equal to ______. then the value of 𝛽2 + 𝛾2 equals _______.",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 32.0,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 13,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "32",
+      "value": 32.0
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "32"
+    },
+    "raw_content": "Let 𝐴−2, −1,  𝐵1, 0,  𝐶𝛼, 𝛽 and 𝐷𝛾, 𝛿 be the vertices of a parallelogram 𝐴𝐵𝐶𝐷. If the point 𝐶 lies on\n   2𝑥−𝑦= 5 and the point 𝐷 lies on 3𝑥−2𝑦= 6, then the value of 𝛼+ 𝛽+ 𝛾+ 𝛿 is equal to ______.\n\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_2_Q_84",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_2",
+    "question_number": 84,
+    "content": "If lim 𝑎𝑥2𝑒𝑥−𝑏log𝑒1 + 𝑥+ 𝑐𝑥𝑒−𝑥 = 1, then 16𝑎2 + 𝑏2 + 𝑐2 is equal to ______.\n𝑥→0 𝑥2sin𝑥",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 81.0,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 13,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "81",
+      "value": 81.0
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "81"
+    },
+    "raw_content": "If lim 𝑎𝑥2𝑒𝑥−𝑏log𝑒1 + 𝑥+ 𝑐𝑥𝑒−𝑥 = 1, then 16𝑎2 + 𝑏2 + 𝑐2 is equal to ______.\n     𝑥→0          𝑥2sin𝑥\n\n\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN\nJEE Main 2024 (31 Jan Shift 2)                              JEE Main Previous Year Paper\n\nQuestion Paper                                                                         MathonGo\n\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_2_Q_85",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_2",
+    "question_number": 85,
+    "content": "Let 𝐴= 1, 2, 3, . ...100 . Let 𝑅 be a relation on 𝐴 defined by 𝑥, 𝑦∈𝑅 if and only if 2𝑥= 3𝑦. Let 𝑅1 be a\nsymmetric relation on 𝐴 such that 𝑅⊂𝑅1 and the number of elements in 𝑅1 is 𝑛. Then the minimum value of\n𝑛 is _______.",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 66.0,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 14,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "66",
+      "value": 66.0
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "66"
+    },
+    "raw_content": "Let 𝐴= 1, 2, 3,  . ...100 . Let 𝑅 be a relation on 𝐴 defined by 𝑥, 𝑦∈𝑅 if and only if 2𝑥= 3𝑦. Let 𝑅1 be a\n     symmetric relation on 𝐴 such that 𝑅⊂𝑅1 and the number of elements in 𝑅1 is 𝑛. Then the minimum value of\n    𝑛 is _______.\n\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_2_Q_86",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_2",
+    "question_number": 86,
+    "content": "Let 𝐴 be a 3 × 3 matrix and det𝐴= 2. If 𝑛= det𝑎𝑑𝑗𝑎𝑑𝑗.⏟ ... 𝑎𝑑𝑗𝐴 , then the remainder when 𝑛 is divided by 9\n\n2024 −times\nis equal to __________.\n\n𝜋",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 7.0,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 14,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "7",
+      "value": 7.0
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "7"
+    },
+    "raw_content": "Let 𝐴 be a 3 × 3 matrix and det𝐴= 2. If 𝑛= det𝑎𝑑𝑗𝑎𝑑𝑗.⏟                ... 𝑎𝑑𝑗𝐴 , then the remainder when 𝑛 is divided by 9\n\n                                                            2024 −times\n        is equal to __________.\n\n         𝜋\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_2_Q_87",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_2",
+    "question_number": 87,
+    "content": "120 𝑥2sin𝑥cos𝑥 ∫ is equal to ______. 𝜋3 0 sin4𝑥+ cos4𝑥𝑑𝑥",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 15.0,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 14,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "15",
+      "value": 15.0
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "15"
+    },
+    "raw_content": " 120    𝑥2sin𝑥cos𝑥       ∫                  is equal to ______.       𝜋3 0 sin4𝑥+ cos4𝑥𝑑𝑥\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_2_Q_88",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_2",
+    "question_number": 88,
+    "content": "Let 𝑦= 𝑦𝑥 be the solution of the differential equation sec2𝑥𝑑𝑥+ 𝑒2𝑦tan2𝑥+ tan𝑥𝑑𝑦= 0, 0 < 𝑥< 𝜋 𝑦𝜋 = 0. 2, 4\n𝜋\nIf 𝑦 = 𝛼, then 𝑒8𝛼 is equal to ______.\n6",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 9.0,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 14,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "9",
+      "value": 9.0
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "9"
+    },
+    "raw_content": "Let 𝑦= 𝑦𝑥 be the solution of the differential equation sec2𝑥𝑑𝑥+ 𝑒2𝑦tan2𝑥+ tan𝑥𝑑𝑦= 0, 0 < 𝑥< 𝜋 𝑦𝜋 = 0.                                                                                                                              2,  4\n         𝜋\n       If 𝑦 = 𝛼, then 𝑒8𝛼 is equal to ______.\n          6\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_2_Q_89",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_2",
+    "question_number": 89,
+    "content": "Let →𝑎= 3 ^𝑖+ 2 ^𝑗+ ^𝑘, →𝑏= 2 ^𝑖− ^𝑗+ 3 ^𝑘 and →𝑐 be a vector such that →𝑎+ →𝑏× →𝑐= 2→𝑎× →𝑏+ 24 ^𝑗−6 ^𝑘 and\n→ 2\n→𝑎− 𝑏+ ^𝑖. →𝑐= −3. Then →𝑐 is equal to _______.",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 38.0,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 14,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "38",
+      "value": 38.0
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "38"
+    },
+    "raw_content": "Let →𝑎= 3 ^𝑖+ 2 ^𝑗+ ^𝑘, →𝑏= 2 ^𝑖− ^𝑗+ 3 ^𝑘 and  →𝑐 be a vector such  that →𝑎+ →𝑏× →𝑐= 2→𝑎× →𝑏+ 24 ^𝑗−6 ^𝑘 and\n       →                       2\n    →𝑎− 𝑏+ ^𝑖. →𝑐= −3. Then →𝑐  is equal to _______.\n\n",
+    "parsing_warnings": []
+  },
+  {
+    "question_id": "JEE_MAIN_2024_01_31_SHIFT_2_Q_90",
+    "paper_id": "JEE_MAIN_2024_01_31_SHIFT_2",
+    "question_number": 90,
+    "content": "A line passes through 𝐴4, −6, −2 and 𝐵16, −2, 4. The point 𝑃𝑎, 𝑏, 𝑐 where 𝑎, 𝑏, 𝑐 are non-negative integers,\non the line 𝐴𝐵 lies at a distance of 21 units, from the point 𝐴. The distance between the points 𝑃𝑎, 𝑏, 𝑐 and\n𝑄4, −12, 3 is equal to ______.",
+    "options": [],
+    "correct_option": null,
+    "numerical_answer": 22.0,
+    "official_solution": null,
+    "subject": "Mathematics",
+    "chapter": null,
+    "concept": null,
+    "difficulty": "Medium",
+    "question_type": "NUMERICAL",
+    "has_images": false,
+    "image_urls": [],
+    "page_number": 14,
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-31",
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": {
+      "type": "NUMERICAL",
+      "raw": "22",
+      "value": 22.0
+    },
+    "metadata": {
+      "source_format": "2024_separate_answer_key",
+      "answer_key_page": 15,
+      "raw_answer": "22"
+    },
+    "raw_content": "A line passes through 𝐴4, −6, −2 and 𝐵16, −2, 4. The point 𝑃𝑎, 𝑏, 𝑐 where 𝑎, 𝑏, 𝑐 are non-negative integers,\n     on the line 𝐴𝐵 lies at a distance of 21 units, from the point 𝐴. The distance between the points 𝑃𝑎, 𝑏, 𝑐 and\n     𝑄4, −12, 3 is equal to ______.\n\n\n\n\n\nJoin the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN\n",
+    "parsing_warnings": []
+  }
+]

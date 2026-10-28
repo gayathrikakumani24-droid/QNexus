@@ -36,7 +36,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let a, b ∈C. Let α, β be the roots of the equation x2 + ax + b = 0. If β −α = √11 and β2 −α2 = 3i√11, then\n(β3 −α3)2 is equal to:\n\n\n(1) 160                     (2) 176                     (3) 194                     (4) 187\n\n\nMathonGo Answer Key : (2)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_1_Q_2",
@@ -75,13 +80,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let the sum of the first n terms of an A.P. be 3n2 + 5n. Then the sum of squares of the first 10 terms of the A.P. is:\n\n\n(1) 10220                   (2) 12860                   (3) 15220                   (4) 19780\n\n\nMathonGo Answer Key : (3)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_1_Q_3",
     "paper_id": "JEE_MAIN_2026_04_05_SHIFT_1",
     "question_number": 3,
-    "content": "⎡ 1⎤  ⎡ 5⎤   ⎡ 0⎤  ⎡ 3⎤  ⎡ 1⎤  ⎡ 3⎤    ⎡ 0⎤  ⎡ 1⎤\nLet A be a 3 × 3 matrix such that AT  0 =  2   , AT  0 =  1   , A  0 =  4  and A  0 =  3   . If\n                       ⎣ 1⎦  ⎣ 2⎦   ⎣ 1⎦  ⎣ 1⎦  ⎣ 1⎦  ⎣ 4⎦    ⎣ 1⎦  ⎣ 1⎦\ndet(A) = 1, then det(adj(A2 + A)) is equal to:",
+    "content": "⎡ 1⎤ ⎡ 5⎤ ⎡ 0⎤ ⎡ 3⎤ ⎡ 1⎤ ⎡ 3⎤ ⎡ 0⎤ ⎡ 1⎤\nLet A be a 3 × 3 matrix such that AT 0 = 2 , AT 0 = 1 , A 0 = 4 and A 0 = 3 . If\n⎣ 1⎦ ⎣ 2⎦ ⎣ 1⎦ ⎣ 1⎦ ⎣ 1⎦ ⎣ 4⎦ ⎣ 1⎦ ⎣ 1⎦\ndet(A) = 1, then det(adj(A2 + A)) is equal to:",
     "options": [
       {
         "id": "A",
@@ -114,7 +124,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "⎡ 1⎤  ⎡ 5⎤   ⎡ 0⎤  ⎡ 3⎤  ⎡ 1⎤  ⎡ 3⎤    ⎡ 0⎤  ⎡ 1⎤\nLet A be a 3 × 3 matrix such that AT  0 =  2   , AT  0 =  1   , A  0 =  4  and A  0 =  3   . If\n                       ⎣ 1⎦  ⎣ 2⎦   ⎣ 1⎦  ⎣ 1⎦  ⎣ 1⎦  ⎣ 4⎦    ⎣ 1⎦  ⎣ 1⎦\ndet(A) = 1, then det(adj(A2 + A)) is equal to:\n\n\n(1) 16                       (2) 25                       (3) 49                       (4) 64\n\n\nMathonGo Answer Key : (4)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_1_Q_4",
@@ -153,13 +168,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Consider the system of linear equations in x, y, z :\nx + 2y + tz = 0,\n6x + y + 5tz = 0,\n3x + t2y + f(t)z = 0,\nwhere f : R →R is a differentiable function. If this system has infinitely many solutions for all t ∈R, then f\n\n(1) is a constant function                                (2) is strictly increasing on R\n(3) is strictly decreasing on R                           (4) has two critical points\n\n\nMathonGo Answer Key : (2)\n\n\n\n\n\n                                          #PaperPhodnaHai\n                                  www.mathongo.com                       ⎢ ⎥  ⎢ ⎥   ⎢ ⎥  ⎢ ⎥  ⎢ ⎥  ⎢ ⎥    ⎢ ⎥  ⎢ ⎥\n05 April (Morning Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_1_Q_5",
     "paper_id": "JEE_MAIN_2026_04_05_SHIFT_1",
     "question_number": 5,
-    "content": "10        528\n                                is equal to:∑ ( n(n + 1)(n + 2) )n=1",
+    "content": "10 528\nis equal to:∑ ( n(n + 1)(n + 2) )n=1",
     "options": [
       {
         "id": "A",
@@ -192,13 +212,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "10        528\n                                is equal to:∑ ( n(n + 1)(n + 2) )n=1\n\n\n(1) 65                       (2) 130                     (3) 220                     (4) 440\n\n\nMathonGo Answer Key : (2)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_1_Q_6",
     "paper_id": "JEE_MAIN_2026_04_05_SHIFT_1",
     "question_number": 6,
-    "content": "π\nLet tan A, tan B, where A, B             ,       , be the roots of the quadratic equation x2 −2x −5 = 0. Then                ∈(−π2  2 )\n     A + B\n20 sin2               is equal to:    (   2  )",
+    "content": "π\nLet tan A, tan B, where A, B , , be the roots of the quadratic equation x2 −2x −5 = 0. Then ∈(−π2 2 )\nA + B\n20 sin2 is equal to: ( 2 )",
     "options": [
       {
         "id": "A",
@@ -231,7 +256,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "π\nLet tan A, tan B, where A, B             ,       , be the roots of the quadratic equation x2 −2x −5 = 0. Then                ∈(−π2  2 )\n     A + B\n20 sin2               is equal to:    (   2  )\n\n(1) 10 + √10                                            (2) 10 −2√10\n(3) 10 −3√10                                          (4) 10 −√10\n\n\nMathonGo Answer Key : (3)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_1_Q_7",
@@ -270,13 +300,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "A letter is known to have arrived by post either from KANPUR or from ANANTPUR. On the envelope just two\nconsecutive letters AN are visible. The probability, that the letter came from ANANTPUR, is:\n\n(1) 7                       (2) 10                      (3) 12                      (4) 7\n    10                     17                     19                     19\n\nMathonGo Answer Key : (2)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_1_Q_8",
     "paper_id": "JEE_MAIN_2026_04_05_SHIFT_1",
     "question_number": 8,
-    "content": "The mean deviation about the mean for the data\n\n xi  5 7 9 10 12 15\n\n fi  8 6 2 2  2  6\n\nis equal to:",
+    "content": "The mean deviation about the mean for the data\n\nxi 5 7 9 10 12 15\n\nfi 8 6 2 2 2 6\n\nis equal to:",
     "options": [
       {
         "id": "A",
@@ -309,13 +344,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "The mean deviation about the mean for the data\n\n xi  5 7 9 10 12 15\n\n fi  8 6 2 2  2  6\n\nis equal to:\n\n(1) 40                      (2) 42                      (3) 44                      (4) 46\n    13                     13                     13                     13\n\nMathonGo Answer Key : (3)\n\n\n\n\n\n                                          #PaperPhodnaHai\n                                  www.mathongo.com\n05 April (Morning Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_1_Q_9",
     "paper_id": "JEE_MAIN_2026_04_05_SHIFT_1",
     "question_number": 9,
-    "content": "x2    y2                                4\nLet a focus of the ellipse E :   +  = 1 be S(4, 0) and its eccentricity be     . If the point P(3, α) lies on E and\n                          a2    b2                                5\nO is the origin, then the area of △POS is equal to:",
+    "content": "x2 y2 4\nLet a focus of the ellipse E : + = 1 be S(4, 0) and its eccentricity be . If the point P(3, α) lies on E and\na2 b2 5\nO is the origin, then the area of △POS is equal to:",
     "options": [
       {
         "id": "A",
@@ -348,7 +388,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "x2    y2                                4\nLet a focus of the ellipse E :   +  = 1 be S(4, 0) and its eccentricity be     . If the point P(3, α) lies on E and\n                          a2    b2                                5\nO is the origin, then the area of △POS is equal to:\n\n\n(1) 12/5                    (2) 14/5                    (3) 24/5                    (4) 48/5\n\n\nMathonGo Answer Key : (3)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_1_Q_10",
@@ -387,7 +432,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let P be a moving point on the circle x2 + y2 −6x −8y + 21 = 0. Then, the maximum distance of P from the\nvertex of the parabola x2 + 6x + y + 13 = 0 is equal to:\n\n\n(1) 8                        (2) 10                       (3) 12                       (4) 9\n\n\nMathonGo Answer Key : (3)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_1_Q_11",
@@ -426,7 +476,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "In an equilateral triangle PQR, let the vertex P be at (3, 5) and the side QR be along the line x + y = 4. If the\northocentre of the triangle PQR is (α, β), then 9(α + β) is equal to:\n\n\n(1) 16                       (2) 27                       (3) 36                       (4) 48\n\n\nMathonGo Answer Key : (4)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_1_Q_12",
@@ -465,13 +520,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "The sum of all the integral values of p such that the equation 3 sin2 x + 12 cos x −3 = p, x ∈R, has at least one\nsolution, is:\n\n\n(1) −54                     (2) −60                     (3) −75                     (4) −84\n\n\nMathonGo Answer Key : (3)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_1_Q_13",
     "paper_id": "JEE_MAIN_2026_04_05_SHIFT_1",
     "question_number": 13,
-    "content": "x −2    y −5    z −2\nThe square of the distance of the point P(5, 6, 7) from the line    =    =         is equal to:\n                                                     2       3       4",
+    "content": "x −2 y −5 z −2\nThe square of the distance of the point P(5, 6, 7) from the line = = is equal to:\n2 3 4",
     "options": [
       {
         "id": "A",
@@ -504,7 +564,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "x −2    y −5    z −2\nThe square of the distance of the point P(5, 6, 7) from the line    =    =         is equal to:\n                                                     2       3       4\n\n(1) 3                        (2) 5                        (3) 6                        (4) 8\n\n\nMathonGo Answer Key : (3)\n\n                                          #PaperPhodnaHai\n                                  www.mathongo.com\n05 April (Morning Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_1_Q_14",
@@ -543,7 +608,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let →a = √7^i + ^j −^k and →b = ^j + 2^k. If →r is a vector such that →r × →a + →a × →b = →0 and →r ⋅→a = 0, then |3→r|2 is equal\nto:\n\n\n(1) 44                       (2) 54                       (3) 86                       (4) 132\n\n\nMathonGo Answer Key : (1)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_1_Q_15",
@@ -582,7 +652,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "The square of the distance of the point of intersection of the lines →r = (^i + ^j −^k) + λ(a^i −^j), a ≠0 and→r = (4^i −^k) + μ(2^i + a^k) from the origin is:\n\n\n(1) 5                        (2) 10                       (3) 17                       (4) 26\n\n\nMathonGo Answer Key : (3)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_1_Q_16",
@@ -621,13 +696,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "The area of the region R = {(x, y) : xy ≤27, 1 ≤y ≤x2} is equal to:\n\n\n(1)                                                       (2)   78 loge 3 −52                                 54 loge 3 −52\n              3                                            3\n(3)                                                       (4)          26   54 loge 3 −26                                 54 loge 3 +\n              3                                            3\n\nMathonGo Answer Key : (2)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_1_Q_17",
     "paper_id": "JEE_MAIN_2026_04_05_SHIFT_1",
     "question_number": 17,
-    "content": "1 −cos(αx) cos((α + 1)x) cos((α + 2)x)\nThe product of all possible values of α, for which lim                         = 2, is:                                          x→0 (             sin2((α + 1)x)        )",
+    "content": "1 −cos(αx) cos((α + 1)x) cos((α + 2)x)\nThe product of all possible values of α, for which lim = 2, is: x→0 ( sin2((α + 1)x) )",
     "options": [
       {
         "id": "A",
@@ -660,13 +740,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "1 −cos(αx) cos((α + 1)x) cos((α + 2)x)\nThe product of all possible values of α, for which lim                         = 2, is:                                          x→0 (             sin2((α + 1)x)        )\n\n(1) −2                      (2) 1                        (3) −1                      (4) 5\n                                                                       4\n\nMathonGo Answer Key : (3)\n\n\n\n\n\n                                          #PaperPhodnaHai\n                                  www.mathongo.com\n05 April (Morning Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_1_Q_18",
     "paper_id": "JEE_MAIN_2026_04_05_SHIFT_1",
     "question_number": 18,
-    "content": "∞ loge(x)The value of the integral           dx is:                  ∫ 0   x2 + 4",
+    "content": "∞ loge(x)The value of the integral dx is: ∫ 0 x2 + 4",
     "options": [
       {
         "id": "A",
@@ -699,13 +784,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "∞ loge(x)The value of the integral           dx is:                  ∫ 0   x2 + 4\n\n(1) π loge(2)                                            (2) π loge(2)\n       2                                            4\n(3) 1 + π loge(2)                                        (4) 2 + π loge(2)\n\n\nMathonGo Answer Key : (2)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_1_Q_19",
     "paper_id": "JEE_MAIN_2026_04_05_SHIFT_1",
     "question_number": 19,
-    "content": "x + y     f(x) + f(y)\nLet f : R →R be a differentiable function such that f      =               for all x, y ∈R, and f ′(0) = 3.                              (  3  )        3\nThen the minimum value of the function g(x) = 3 + exf(x), is:",
+    "content": "x + y f(x) + f(y)\nLet f : R →R be a differentiable function such that f = for all x, y ∈R, and f ′(0) = 3. ( 3 ) 3\nThen the minimum value of the function g(x) = 3 + exf(x), is:",
     "options": [
       {
         "id": "A",
@@ -738,13 +828,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "x + y     f(x) + f(y)\nLet f : R →R be a differentiable function such that f      =               for all x, y ∈R, and f ′(0) = 3.                              (  3  )        3\nThen the minimum value of the function g(x) = 3 + exf(x), is:\n\n(1)    e + 1                                            (2)    e −1   3                                            3   (  e )                         (  e )\n(3) 3 −e                                                (4) 3e\n      e\n\nMathonGo Answer Key : (2)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_1_Q_20",
     "paper_id": "JEE_MAIN_2026_04_05_SHIFT_1",
     "question_number": 20,
-    "content": "π/3  4 −csc2 x\nThe value of the integral                                is:                  ∫ π/6 (  cos4 x  )dx",
+    "content": "π/3 4 −csc2 x\nThe value of the integral is: ∫ π/6 ( cos4 x )dx",
     "options": [
       {
         "id": "A",
@@ -777,7 +872,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "π/3  4 −csc2 x\nThe value of the integral                                is:                  ∫ π/6 (  cos4 x  )dx\n\n(1) 11                      (2) 16                      (3)  32                     (4)  64\n   √3               √3                3√3               3√3\n\nMathonGo Answer Key : (3)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_1_Q_21",
@@ -799,7 +899,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let A = {1, 2, 3, 4, 5, 6}. The number of one-one functions f : A →A such that f(1) ≥3, f(3) ≤4 and\nf(2) + f(3) = 5, is __________.\n\n\n\nMathonGo Answer Key : 72\n\n\n\n\n\n                                          #PaperPhodnaHai\n                                  www.mathongo.com\n05 April (Morning Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_1_Q_22",
@@ -821,13 +926,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Two players A and B play a series of games of badminton. The player, who wins 5 games first, wins the series.\nAssuming that no game ends in a draw, the number of ways, in which player A wins the series is __________.\n\n\n\nMathonGo Answer Key : 126",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_1_Q_23",
     "paper_id": "JEE_MAIN_2026_04_05_SHIFT_1",
     "question_number": 23,
-    "content": "1        n\nIf the sum of the coefficients of x7 and x14 in the expansion of                        , x ≠0, is zero, then the value of n is                                   ( x3 −x4)\n__________.",
+    "content": "1 n\nIf the sum of the coefficients of x7 and x14 in the expansion of , x ≠0, is zero, then the value of n is ( x3 −x4)\n__________.",
     "options": [],
     "correct_option": "B",
     "numerical_answer": null,
@@ -843,13 +953,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "1        n\nIf the sum of the coefficients of x7 and x14 in the expansion of                        , x ≠0, is zero, then the value of n is                                   ( x3 −x4)\n__________.\n\n\n\nMathonGo Answer Key : 21",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_1_Q_24",
     "paper_id": "JEE_MAIN_2026_04_05_SHIFT_1",
     "question_number": 24,
-    "content": "11  π                 2p−1\nIf  +    tan−1        = α, then tan α is equal to __________.   4 ∑    ( 1 + 22p−1 )        p=1",
+    "content": "11 π 2p−1",
     "options": [],
     "correct_option": "B",
     "numerical_answer": null,
@@ -865,13 +980,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "11  π                 2p−1\nIf  +    tan−1        = α, then tan α is equal to __________.   4 ∑    ( 1 + 22p−1 )        p=1\n\n\n\nMathonGo Answer Key : 2048",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_1_Q_25",
     "paper_id": "JEE_MAIN_2026_04_05_SHIFT_1",
     "question_number": 25,
-    "content": "y              y              π\nLet y = y(x) be the solution of the differential equation x sin     =    sin                        , y(1) =   and let                                          ( x )dy  (y   ( x ) −x)dx        2\n           y(e12)\nα = cos                   . Then the number of integral values of p, for which the equation     (  e12 )\nx2 + y2 −2px + 2py + α + 2 = 0 represents a circle of radius r ≤6, is __________.",
+    "content": "If + tan−1 = α, then tan α is equal to __________. 4 ∑ ( 1 + 22p−1 ) p=1 y y π\nLet y = y(x) be the solution of the differential equation x sin = sin , y(1) = and let ( x )dy (y ( x ) −x)dx 2\ny(e12)\nα = cos . Then the number of integral values of p, for which the equation ( e12 )\nx2 + y2 −2px + 2py + α + 2 = 0 represents a circle of radius r ≤6, is __________.",
     "options": [],
     "correct_option": null,
     "numerical_answer": 6.0,
@@ -887,7 +1007,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-05",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "y              y              π\nLet y = y(x) be the solution of the differential equation x sin     =    sin                        , y(1) =   and let                                          ( x )dy  (y   ( x ) −x)dx        2\n           y(e12)\nα = cos                   . Then the number of integral values of p, for which the equation     (  e12 )\nx2 + y2 −2px + 2py + α + 2 = 0 represents a circle of radius r ≤6, is __________.\n\n\n\nMathonGo Answer Key : 6\n\n\n\n\n\n                                          #PaperPhodnaHai\n                                  www.mathongo.com\n05 April (Morning Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_05_SHIFT_1_Q_26",

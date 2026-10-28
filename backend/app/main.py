@@ -22,17 +22,18 @@ app = FastAPI(
 )
 
 # CORS Configuration - Explicit origins for secure credentials handling
-origins = list(filter(None, [
-    settings.FRONTEND_URL,
+extra_origins = [url.strip().rstrip("/") for url in settings.FRONTEND_URL.split(",") if url.strip()]
+origins = list(set(filter(None, extra_origins + [
     "http://localhost:5173",
     "http://127.0.0.1:5173",
     "http://localhost:3000",
     "http://127.0.0.1:3000",
-]))
+])))
 
 app.add_middleware(
     CORSMiddleware,
     allow_origins=origins,
+    allow_origin_regex=r"https://.*\.vercel\.app",
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

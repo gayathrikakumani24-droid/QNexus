@@ -3,7 +3,7 @@
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_1_Q_1",
     "paper_id": "JEE_MAIN_2026_04_06_SHIFT_1",
     "question_number": 1,
-    "content": "x + [x]\nLet [⋅] denote the greatest integer function. If the domain of the function f(x) = sin−1                is [α, β), then                                               (   3  )\nα2 + β2 is equal to:",
+    "content": "x + [x]\nLet [⋅] denote the greatest integer function. If the domain of the function f(x) = sin−1 is [α, β), then ( 3 )\nα2 + β2 is equal to:",
     "options": [
       {
         "id": "A",
@@ -36,7 +36,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "x + [x]\nLet [⋅] denote the greatest integer function. If the domain of the function f(x) = sin−1                is [α, β), then                                               (   3  )\nα2 + β2 is equal to:\n\n\n(1) 2                        (2) 5                        (3) 10                       (4) 13\n\n\nMathonGo Answer Key : (2)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_1_Q_2",
@@ -75,7 +80,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let one root of the quadratic equation in x: (k2 −15k + 27)x2 + 9(k −1)x + 18 = 0 be twice the other. Then the\nlength of the latus rectum of the parabola y2 = 6kx is equal to:\n\n\n(1) 4                        (2) 6                        (3) 8                        (4) 12\n\n\nMathonGo Answer Key : (4)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_1_Q_3",
@@ -114,7 +124,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let e1 and e2 be two distinct roots of the equation x2 −ax + 2 = 0. Let the sets\n{a ∈R : e1 and e2 are the eccentricities of hyperbolas} = (α, β), and\n{a ∈R : e1 and e2 are the eccentricities of an ellipse and a hyperbola, respectively} = (γ, ∞). Then\nα2 + β2 + γ 2 is equal to:\n\n\n(1) 18                       (2) 22                       (3) 26                       (4) 34\n\n\nMathonGo Answer Key : (3)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_1_Q_4",
@@ -153,7 +168,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let the set of all values of k ∈R such that the equation z(¯z + 2 + i) + k(2 + 3i) = 0, z ∈C, has at least one\nsolution, be the interval [α, β]. Then 9(α + β) is equal to:\n\n(1) −10                     (2) −8                      (3) 10√13                  (4) 8√13\n\n\nMathonGo Answer Key : (1)\n\n\n\n\n\n                                          #PaperPhodnaHai\n                                  www.mathongo.com\n06 April (Morning Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_1_Q_5",
@@ -192,7 +212,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "The value of 13 −23 + 33 −… + 153 is:\n\n\n(1) 1706                    (2) 1856                    (3) 1982                    (4) 2403\n\n\nMathonGo Answer Key : (2)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_1_Q_6",
@@ -231,7 +256,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "The sum of the first ten terms of an A.P. is 160 and the sum of the first two terms of a G.P. is 8. If the first term of\nthe A.P. is equal to the common ratio of the G.P. and the first term of the G.P. is equal to common difference of the\nA.P., then the sum of all possible values of the first term of the G.P. is:\n\n(1) 34                      (2) 34                      (3) 32                      (4) 32\n    9                     13                     9                     13\n\nMathonGo Answer Key : (1)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_1_Q_7",
@@ -270,7 +300,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "The number of 4-letter words, with or without meaning, each consisting of two vowels and two consonants that can\nbe formed from the letters of the word INCONSEQUENTIAL, without repeating any letter, is:\n\n\n(1) 2670                    (2) 2840                    (3) 2920                    (4) 3600\n\n\nMathonGo Answer Key : (4)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_1_Q_8",
@@ -309,7 +344,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "If the coefficients of the middle terms in the binomial expansions of (1 + αx)26 and (1 −αx)28 , α ≠0, are equal,\nthen the value of α is:\n\n(1) 1                        (2) 14                      (3) 27                      (4) 7\n                          13                     7                     27\n\nMathonGo Answer Key : (4)\n\n\n\n\n\n                                          #PaperPhodnaHai\n                                  www.mathongo.com\n06 April (Morning Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_1_Q_9",
@@ -348,13 +388,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "A data consists of 20 observations x1, x2, … , x20 . If ∑20i=1(xi + 5)2 = 2500 and ∑20i=1(xi −5)2 = 100, then the\nratio of mean to standard deviation of this data is:\n\n\n(1) 2 : 1                     (2) 3 : 1                     (3) 3 : 2                     (4) 4 : 1\n\n\nMathonGo Answer Key : (2)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_1_Q_10",
     "paper_id": "JEE_MAIN_2026_04_06_SHIFT_1",
     "question_number": 10,
-    "content": "A bag contains (N + 1) coins −N fair coins, and one coin with 'Head' on both sides. A coin is selected at random\n                                        9\nand tossed. If the probability of getting 'Head' is       , then N is equal to:\n                                        16",
+    "content": "A bag contains (N + 1) coins −N fair coins, and one coin with 'Head' on both sides. A coin is selected at random\n9\nand tossed. If the probability of getting 'Head' is , then N is equal to:\n16",
     "options": [
       {
         "id": "A",
@@ -387,13 +432,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "A bag contains (N + 1) coins −N fair coins, and one coin with 'Head' on both sides. A coin is selected at random\n                                        9\nand tossed. If the probability of getting 'Head' is       , then N is equal to:\n                                        16\n\n(1) 5                        (2) 7                        (3) 8                        (4) 9\n\n\nMathonGo Answer Key : (2)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_1_Q_11",
     "paper_id": "JEE_MAIN_2026_04_06_SHIFT_1",
     "question_number": 11,
-    "content": "x2If the eccentricity e of the hyperbola   −y2 = 1, passing through (6, 4√3), satisfies 15(e2 + 1) = 34e , then the\n                                 a2    b2\n                                     x2       y2\nlength of the latus rectum of the hyperbola  −      = 1 is:\n                                            b2    2(a2 + 1)",
+    "content": "x2If the eccentricity e of the hyperbola −y2 = 1, passing through (6, 4√3), satisfies 15(e2 + 1) = 34e , then the\na2 b2\nx2 y2\nlength of the latus rectum of the hyperbola − = 1 is:\nb2 2(a2 + 1)",
     "options": [
       {
         "id": "A",
@@ -426,7 +476,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "x2If the eccentricity e of the hyperbola   −y2 = 1, passing through (6, 4√3), satisfies 15(e2 + 1) = 34e , then the\n                                 a2    b2\n                                     x2       y2\nlength of the latus rectum of the hyperbola  −      = 1 is:\n                                            b2    2(a2 + 1)\n\n\n(1) 10                       (2) 20                       (3) 25                       (4) 30\n\n\nMathonGo Answer Key : (1)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_1_Q_12",
@@ -465,13 +520,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let chord PQ of length 3√13 of the parabola y2 = 12x be such that the ordinates of points P and Q are in the ratio\n1 : 2. If the chord PQ subtends an angle α at the focus of the parabola, then sin α is equal to:\n\n(1) 3                       (2) 4                       (3) 5                       (4) 12\n    5                     5                      13                     13\n\nMathonGo Answer Key : (1)\n\n\n\n\n\n                                          #PaperPhodnaHai\n                                  www.mathongo.com\n06 April (Morning Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_1_Q_13",
     "paper_id": "JEE_MAIN_2026_04_06_SHIFT_1",
     "question_number": 13,
-    "content": "1                             π\nLet 0 < α < 1, β =    and tan−1(1 −α) + tan−1(1 −β) =     . Then 6(α + β) is equal to:\n               3α                                4",
+    "content": "1 π\nLet 0 < α < 1, β = and tan−1(1 −α) + tan−1(1 −β) = . Then 6(α + β) is equal to:\n3α 4",
     "options": [
       {
         "id": "A",
@@ -504,13 +564,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "1                             π\nLet 0 < α < 1, β =    and tan−1(1 −α) + tan−1(1 −β) =     . Then 6(α + β) is equal to:\n               3α                                4\n\n(1) 6                        (2) 7                        (3) 8                        (4) 9\n\n\nMathonGo Answer Key : (2)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_1_Q_14",
     "paper_id": "JEE_MAIN_2026_04_06_SHIFT_1",
     "question_number": 14,
-    "content": "Let S = {θ ∈(−2π, 2π) : cos θ + 1 = √3 sin θ}. Then ∑θ∈S θ is equal to:\n                                             2π                   4π(1)                          (2)                          (3)                          (4)  −2π             −4π\n      3                     3                    3                     3",
+    "content": "Let S = {θ ∈(−2π, 2π) : cos θ + 1 = √3 sin θ}. Then ∑θ∈S θ is equal to:\n2π 4π(1) (2) (3) (4) −2π −4π\n3 3 3 3",
     "options": [],
     "correct_option": "B",
     "numerical_answer": null,
@@ -526,13 +591,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let S = {θ ∈(−2π, 2π) : cos θ + 1 = √3 sin θ}. Then ∑θ∈S θ is equal to:\n\n                                             2π                   4π(1)                          (2)                          (3)                          (4)  −2π             −4π\n      3                     3                    3                     3\n\nMathonGo Answer Key : (2)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_1_Q_15",
     "paper_id": "JEE_MAIN_2026_04_06_SHIFT_1",
     "question_number": 15,
-    "content": "x    y −1    z −a + 1          a\nLet the image of the point P(1, 6, a) in the line L :  =    =                   , b > 0, be       , 0, a +     . If                                                            (                                                                               c)                                          1     2          b                                                                          3\nS(α, β, γ), α > 0, is the point on L such that the distance of S from the foot of perpendicular from the point P on L\nis 2√14, then α + β + γ is equal to:",
+    "content": "x y −1 z −a + 1 a\nLet the image of the point P(1, 6, a) in the line L : = = , b > 0, be , 0, a + . If ( c) 1 2 b 3\nS(α, β, γ), α > 0, is the point on L such that the distance of S from the foot of perpendicular from the point P on L\nis 2√14, then α + β + γ is equal to:",
     "options": [
       {
         "id": "A",
@@ -565,13 +635,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "x    y −1    z −a + 1          a\nLet the image of the point P(1, 6, a) in the line L :  =    =                   , b > 0, be       , 0, a +     . If                                                            (                                                                               c)                                          1     2          b                                                                          3\nS(α, β, γ), α > 0, is the point on L such that the distance of S from the foot of perpendicular from the point P on L\nis 2√14, then α + β + γ is equal to:\n\n\n(1) 19                       (2) 20                       (3) 21                       (4) 22\n\n\nMathonGo Answer Key : (3)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_1_Q_16",
     "paper_id": "JEE_MAIN_2026_04_06_SHIFT_1",
     "question_number": 16,
-    "content": "x + 1    y + 3    z + 5        x −2    y −4    z −6\nLet a line L be perpendicular to both the lines L1 :    =    =       and L2 :    =    =            .\n                                            3       5       7            1       4       7\n                                     x −8    y −4\n                                              7        7    zIf θ is the acute angle between the lines L and L3 :     =     =     , then tan θ is equal to:\n                                            2        1      2",
+    "content": "x + 1 y + 3 z + 5 x −2 y −4 z −6\nLet a line L be perpendicular to both the lines L1 : = = and L2 : = = .\n3 5 7 1 4 7\nx −8 y −4\n7 7 zIf θ is the acute angle between the lines L and L3 : = = , then tan θ is equal to:\n2 1 2",
     "options": [
       {
         "id": "A",
@@ -604,13 +679,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "x + 1    y + 3    z + 5        x −2    y −4    z −6\nLet a line L be perpendicular to both the lines L1 :    =    =       and L2 :    =    =            .\n                                            3       5       7            1       4       7\n                                     x −8    y −4\n                                              7        7    zIf θ is the acute angle between the lines L and L3 :     =     =     , then tan θ is equal to:\n                                            2        1      2\n\n(1) 3                       (2) 5                       (3) 5                       (4) 4    √2               √2               √2               √2\n    2                     2                     3                     3\n\nMathonGo Answer Key : (2)\n\n\n\n\n\n                                          #PaperPhodnaHai\n                                  www.mathongo.com\n06 April (Morning Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_1_Q_17",
     "paper_id": "JEE_MAIN_2026_04_06_SHIFT_1",
     "question_number": 17,
-    "content": "x2 sin2 x\nThe value of limx→0                      is:            ( x2 −sin2 x )",
+    "content": "x2 sin2 x\nThe value of limx→0 is: ( x2 −sin2 x )",
     "options": [
       {
         "id": "A",
@@ -643,13 +723,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "x2 sin2 x\nThe value of limx→0                      is:            ( x2 −sin2 x )\n\n(1) 2                        (2) 3                        (3) 4                        (4) 6\n\n\nMathonGo Answer Key : (2)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_1_Q_18",
     "paper_id": "JEE_MAIN_2026_04_06_SHIFT_1",
     "question_number": 18,
-    "content": "32 cos4 x\nThe value of the integral ∫π/4−π/4           x       is:                 ( 1 + esin )dx",
+    "content": "32 cos4 x\nThe value of the integral ∫π/4−π/4 x is: ( 1 + esin )dx",
     "options": [
       {
         "id": "A",
@@ -682,7 +767,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "32 cos4 x\nThe value of the integral ∫π/4−π/4           x       is:                 ( 1 + esin )dx\n\n\n(1) 4π + 2                  (2) 3π + 8                  (3) 3π + 4                  (4) 4π + 3\n\n\nMathonGo Answer Key : (2)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_1_Q_19",
@@ -721,13 +811,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "The area of the region {(x, y) : 0 ≤y ≤6 −x, y2 ≥4x −3, x ≥0} is:\n\n\n(1) 8                        (2) 9                        (3) 12                       (4) 15\n\n\nMathonGo Answer Key : (2)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_1_Q_20",
     "paper_id": "JEE_MAIN_2026_04_06_SHIFT_1",
     "question_number": 20,
-    "content": "1  1  1\nLet e be the base of natural logarithm and let f : {1, 2, 3, 4} →{1, e, e2, e3} and g : {1, e, e2, e3}               ,    ,                                                        →{1, 2  3  4 }\nbe two bijective functions such that f is strictly decreasing and g is strictly increasing. If\n          −1       1      xϕ(x) =                                     , then the area of the region R = {(x, y) : x2 ≤y ≤ϕ(x), 0 ≤x ≤1} is:       [f  {g−1 ( 2 )}]",
+    "content": "1 1 1\nLet e be the base of natural logarithm and let f : {1, 2, 3, 4} →{1, e, e2, e3} and g : {1, e, e2, e3} , , →{1, 2 3 4 }\nbe two bijective functions such that f is strictly decreasing and g is strictly increasing. If\n−1 1 xϕ(x) = , then the area of the region R = {(x, y) : x2 ≤y ≤ϕ(x), 0 ≤x ≤1} is: [f {g−1 ( 2 )}]",
     "options": [
       {
         "id": "A",
@@ -760,13 +855,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "1  1  1\nLet e be the base of natural logarithm and let f : {1, 2, 3, 4} →{1, e, e2, e3} and g : {1, e, e2, e3}               ,    ,                                                        →{1, 2  3  4 }\nbe two bijective functions such that f is strictly decreasing and g is strictly increasing. If\n          −1       1      xϕ(x) =                                     , then the area of the region R = {(x, y) : x2 ≤y ≤ϕ(x), 0 ≤x ≤1} is:       [f  {g−1 ( 2 )}]\n\n(1) 3 −loge(2)                                          (2)    1\n     3 loge(2)                                     3 loge(2)\n(3) 3 + loge(2)                                          (4) 3 + loge(2)\n                                                 2 + loge(3)\n\nMathonGo Answer Key : (1)\n\n\n\n\n\n                                          #PaperPhodnaHai\n                                  www.mathongo.com\n06 April (Morning Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_1_Q_21",
     "paper_id": "JEE_MAIN_2026_04_06_SHIFT_1",
     "question_number": 21,
-    "content": "−1  1  −1                                                      2  −2   2Let A = ⎡ 1   0   1 ⎤ satisfy A2 + α(adj(adj(A))) + β(adj(A)(adj(adj(A)))) = ⎡ −2   0  −1 ⎤ for some\n          0   0   1                                                      0    0  −1      ⎣        ⎦                                      ⎣         ⎦\nα, β ∈R. Then (α −β)2 is equal to _______",
+    "content": "−1 1 −1 2 −2 2Let A = ⎡ 1 0 1 ⎤ satisfy A2 + α(adj(adj(A))) + β(adj(A)(adj(adj(A)))) = ⎡ −2 0 −1 ⎤ for some\n0 0 1 0 0 −1 ⎣ ⎦ ⎣ ⎦\nα, β ∈R. Then (α −β)2 is equal to _______",
     "options": [],
     "correct_option": "D",
     "numerical_answer": null,
@@ -782,7 +882,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "−1  1  −1                                                      2  −2   2Let A = ⎡ 1   0   1 ⎤ satisfy A2 + α(adj(adj(A))) + β(adj(A)(adj(adj(A)))) = ⎡ −2   0  −1 ⎤ for some\n          0   0   1                                                      0    0  −1      ⎣        ⎦                                      ⎣         ⎦\nα, β ∈R. Then (α −β)2 is equal to _______\n\n\n\nMathonGo Answer Key : 4",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_1_Q_22",
@@ -804,7 +909,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let the centre of the circle x2 + y2 + 2gx + 2fy + 25 = 0 be in the first quadrant and lie on the line 2x −y = 4.\nLet the area of an equilateral triangle inscribed in the circle be 27√3. Then the square of the length of the chord of\nthe circle on the line x = 1 is _______.\n\n\n\nMathonGo Answer Key : 80",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_1_Q_23",
@@ -826,13 +936,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "If →a = ^i + ^j + ^k, →b = ^j −^k and →c be three vectors such that →a × →c = →b and →a ⋅→c = 3, then →c ⋅(→a −2→b) is equal to\n_______.\n\n\n\nMathonGo Answer Key : 3",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_1_Q_24",
     "paper_id": "JEE_MAIN_2026_04_06_SHIFT_1",
     "question_number": 24,
-    "content": "For the functions f(θ) = α tan2 θ + β cot2 θ, and g(θ) = α sin2 θ + β cos2 θ, α > β > 0, let\n                                          α                    2β\nmin0<θ<π/2 f(θ) = max0<θ<π g(θ). If the first term of a G.P. is             , its common ratio is       and the sum of                                   ( 2β )            ( α )\n         m\nits first 10 terms is      , gcd(m, n) = 1, then m + n is equal to _______.\n              n",
+    "content": "For the functions f(θ) = α tan2 θ + β cot2 θ, and g(θ) = α sin2 θ + β cos2 θ, α > β > 0, let\nα 2β\nmin0<θ<π/2 f(θ) = max0<θ<π g(θ). If the first term of a G.P. is , its common ratio is and the sum of ( 2β ) ( α )\nm\nits first 10 terms is , gcd(m, n) = 1, then m + n is equal to _______.\nn",
     "options": [],
     "correct_option": "A",
     "numerical_answer": null,
@@ -848,7 +963,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "For the functions f(θ) = α tan2 θ + β cot2 θ, and g(θ) = α sin2 θ + β cos2 θ, α > β > 0, let\n                                          α                    2β\nmin0<θ<π/2 f(θ) = max0<θ<π g(θ). If the first term of a G.P. is             , its common ratio is       and the sum of                                   ( 2β )            ( α )\n         m\nits first 10 terms is      , gcd(m, n) = 1, then m + n is equal to _______.\n              n\n\n\n\nMathonGo Answer Key : 1279",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_1_Q_25",
@@ -870,7 +990,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-06",
-    "shift": "Shift 1"
+    "shift": "Shift 1",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let y = y(x) be the solution of the differential equation (x2 −x√x2 −1)dy + (y(x −√x2 −1) −x)dx = 0,\nx ≥1. If y(1) = 1, then the greatest integer less than y(√5) is _______.\n\n\n\nMathonGo Answer Key : 3\n\n\n                                          #PaperPhodnaHai\n                                  www.mathongo.com      ⎢        ⎥                                      ⎢         ⎥\n06 April (Morning Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_06_SHIFT_1_Q_26",

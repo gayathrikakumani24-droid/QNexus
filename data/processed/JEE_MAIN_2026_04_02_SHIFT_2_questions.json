@@ -3,7 +3,7 @@
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_2_Q_1",
     "paper_id": "JEE_MAIN_2026_04_02_SHIFT_2",
     "question_number": 1,
-    "content": "α\nLet α, β be the roots of the equation x2 −3x + r = 0, and     , 2β be the roots of the equation x2 + 3x + r = 0. If\n                                                2\nthe roots of the equation x2 + 6x = m are 2α + β + 2r and α −2β −r , then m is equal to:\n                                                          2",
+    "content": "α\nLet α, β be the roots of the equation x2 −3x + r = 0, and , 2β be the roots of the equation x2 + 3x + r = 0. If\n2\nthe roots of the equation x2 + 6x = m are 2α + β + 2r and α −2β −r , then m is equal to:\n2",
     "options": [
       {
         "id": "A",
@@ -36,7 +36,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "α\nLet α, β be the roots of the equation x2 −3x + r = 0, and     , 2β be the roots of the equation x2 + 3x + r = 0. If\n                                                2\nthe roots of the equation x2 + 6x = m are 2α + β + 2r and α −2β −r , then m is equal to:\n                                                          2\n\n(1) −135                   (2) −567                   (3) 135                     (4) 567\n\n\nMathonGo Answer Key : (4)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_2_Q_2",
@@ -75,7 +80,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let the circles C1 : |z| = r and C2 : |z −3 −4i| = 5, z ∈C, be such that C2 lies within C1 . If z1 moves on C1 , z2\nmoves on C2 and min |z1 −z2| = 2, then max |z1 −z2| is equal to:\n\n\n(1) 12                       (2) 17                       (3) 22                       (4) 24\n\n\nMathonGo Answer Key : (3)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_2_Q_3",
@@ -114,7 +124,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "If the system of equations\nx + 5y + 6z = 4,\n2x + 3y + 4z = 7,\nx + 6y + az = b\nhas infinitely many solutions, then the point (a, b) lies on the line\n\n\n(1) y −x = 3                                            (2) x −y = 3\n(3) x + y = 11                                          (4) x + y = 12\n\n\nMathonGo Answer Key : (2)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_2_Q_4",
@@ -153,13 +168,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let a1, a2, a3, … be an A.P. and g1 = a1, g2, g3, … be an increasing G.P. If a1 = a2 + g2 = 1 and a3 + g3 = 4,\nthen a10 + g5 is equal to:\n\n\n(1) 81                       (2) 76                       (3) 62                       (4) 55\n\n\nMathonGo Answer Key : (4)\n\n\n\n\n\n                                          #PaperPhodnaHai\n                                  www.mathongo.com\n02 April (Evening Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_2_Q_5",
     "paper_id": "JEE_MAIN_2026_04_02_SHIFT_2",
     "question_number": 5,
-    "content": "13    13 + 23    13 + 23 + 33\nThe sum  +     +        + ⋯ up to 8 terms, is:\n         1     1 + 3      1 + 3 + 5",
+    "content": "13 13 + 23 13 + 23 + 33\nThe sum + + + ⋯ up to 8 terms, is:\n1 1 + 3 1 + 3 + 5",
     "options": [
       {
         "id": "A",
@@ -192,13 +212,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "13    13 + 23    13 + 23 + 33\nThe sum  +     +        + ⋯ up to 8 terms, is:\n         1     1 + 3      1 + 3 + 5\n\n(1) 70                       (2) 71                       (3) 72                       (4) 73\n\n\nMathonGo Answer Key : (2)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_2_Q_6",
     "paper_id": "JEE_MAIN_2026_04_02_SHIFT_2",
     "question_number": 6,
-    "content": "m equals:If for 3 ≤r ≤30, (30−r)30 + 3(31−r)30 + 3(32−r)30 + (33−r)30  = (mr ), then",
+    "content": "m equals:If for 3 ≤r ≤30, (30−r)30 + 3(31−r)30 + 3(32−r)30 + (33−r)30 = (mr ), then",
     "options": [
       {
         "id": "A",
@@ -231,7 +256,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "m equals:If for 3 ≤r ≤30, (30−r)30 + 3(31−r)30 + 3(32−r)30 + (33−r)30  = (mr ), then\n\n(1) 31                       (2) 32                       (3) 33                       (4) 34\n\n\nMathonGo Answer Key : (3)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_2_Q_7",
@@ -270,13 +300,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let pn denote the total number of triangles formed by joining the vertices of an n-side regular polygon. If\npn+1 −pn = 66, then the sum of all distinct prime divisors of n is:\n\n\n(1) 7                        (2) 8                        (3) 5                        (4) 6\n\n\nMathonGo Answer Key : (3)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_2_Q_8",
     "paper_id": "JEE_MAIN_2026_04_02_SHIFT_2",
     "question_number": 8,
-    "content": "A man throws a fair coin repeatedly. He gets 10 points for each head he throws and 5 points for each tail he throws.\n                       m\nIf the probability that he gets exactly 30 points is      , gcd(m, n) = 1, then m + n is equal to:\n                                  n",
+    "content": "A man throws a fair coin repeatedly. He gets 10 points for each head he throws and 5 points for each tail he throws.\nm\nIf the probability that he gets exactly 30 points is , gcd(m, n) = 1, then m + n is equal to:\nn",
     "options": [
       {
         "id": "A",
@@ -309,7 +344,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "A man throws a fair coin repeatedly. He gets 10 points for each head he throws and 5 points for each tail he throws.\n                       m\nIf the probability that he gets exactly 30 points is      , gcd(m, n) = 1, then m + n is equal to:\n                                  n\n\n(1) 53                       (2) 55                       (3) 107                     (4) 105\n\n\nMathonGo Answer Key : (3)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_2_Q_9",
@@ -348,7 +388,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "The mean and variance of n observations are 8 and 16, respectively. If the sum of the first (n −1) observations is\n48 and the sum of squares of the first (n −1) observations is 496, then the value of n is:\n\n\n(1) 21                       (2) 16                       (3) 13                       (4) 7\n\n\nMathonGo Answer Key : (4)\n\n\n\n                                          #PaperPhodnaHai\n                                  www.mathongo.com\n02 April (Evening Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_2_Q_10",
@@ -387,13 +432,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let a circle pass through the origin and its centre be the point of intersection of two mutually perpendicular lines\nx + (k −1)y + 3 = 0 and 2x + k2y −4 = 0. If the line x −y + 2 = 0 intersects the circle at the points A and B,\nthen (AB)2 is equal to:\n\n\n(1) 10                       (2) 27                       (3) 18                       (4) 34\n\n\nMathonGo Answer Key : (3)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_2_Q_11",
     "paper_id": "JEE_MAIN_2026_04_02_SHIFT_2",
     "question_number": 11,
-    "content": "Let O be the origin, and P and Q be two points on the rectangular hyperbola xy = 12 such that the mid point of the\n                  1\nline segment PQ is                                                   . Then the area of the triangle OPQ equals:                                  , −1           ( 2                      2 )",
+    "content": "Let O be the origin, and P and Q be two points on the rectangular hyperbola xy = 12 such that the mid point of the\n1\nline segment PQ is . Then the area of the triangle OPQ equals: , −1 ( 2 2 )",
     "options": [
       {
         "id": "A",
@@ -426,7 +476,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let O be the origin, and P and Q be two points on the rectangular hyperbola xy = 12 such that the mid point of the\n                  1\nline segment PQ is                                                   . Then the area of the triangle OPQ equals:                                  , −1           ( 2                      2 )\n\n(1) 3                       (2) 5                       (3) 7                       (4) 9\n    2                     2                     2                     2\n\nMathonGo Answer Key : (3)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_2_Q_12",
@@ -465,7 +520,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let the parabola y = x2 + px + q passing through the point (1, −1) be such that the distance between its vertex and\nthe x-axis is minimum. Then the value of p2 + q2 is:\n\n\n(1) 2                        (2) 4                        (3) 5                        (4) 8\n\n\nMathonGo Answer Key : (2)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_2_Q_13",
@@ -504,7 +564,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let P = {θ ∈[0, 4π] : tan2 θ ≠1} and S = {a ∈Z : 2(cos8 θ −sin8 θ) sec 2θ = a2, θ ∈P}. Then n(S) is:\n\n\n(1) 0                        (2) 1                        (3) 2                        (4) 3\n\n\nMathonGo Answer Key : (1)\n\n\n\n\n\n                                          #PaperPhodnaHai\n                                  www.mathongo.com\n02 April (Evening Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_2_Q_14",
@@ -543,13 +608,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let the vectors →a = −^i + ^j + 3^k and →b = ^i + 3^j + ^k. For some λ, μ ∈R, let →c = λ→a + μ→b. If→c ⋅(3^i −6^j + 2^k) = 10 and →c ⋅(^i + ^j + ^k) = −2, then |→c|2 is equal to:\n\n\n(1) 8                        (2) 12                       (3) 14                       (4) 15\n\n\nMathonGo Answer Key : (2)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_2_Q_15",
     "paper_id": "JEE_MAIN_2026_04_02_SHIFT_2",
     "question_number": 15,
-    "content": "x −1    y −2    z −α\nLet the point A be the foot of perpendicular drawn from the point P(a, b, 0) on the line    =    =            .\n                                                                        2       1       3\n                                     3 −1\nIf the midpoint of the line segment PA is          ,           , then the value of a2 + b2 + α2 is equal to:                                 (0, 4   4 )",
+    "content": "x −1 y −2 z −α\nLet the point A be the foot of perpendicular drawn from the point P(a, b, 0) on the line = = .\n2 1 3\n3 −1\nIf the midpoint of the line segment PA is , , then the value of a2 + b2 + α2 is equal to: (0, 4 4 )",
     "options": [
       {
         "id": "A",
@@ -582,13 +652,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "x −1    y −2    z −α\nLet the point A be the foot of perpendicular drawn from the point P(a, b, 0) on the line    =    =            .\n                                                                        2       1       3\n                                     3 −1\nIf the midpoint of the line segment PA is          ,           , then the value of a2 + b2 + α2 is equal to:                                 (0, 4   4 )\n\n\n(1) 1                        (2) 2                        (3) 6                        (4) 9\n\n\nMathonGo Answer Key : (1)\n\n                                                →             →",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_2_Q_16",
     "paper_id": "JEE_MAIN_2026_04_02_SHIFT_2",
     "question_number": 16,
-    "content": "Two adjacent sides of a parallelogram PQRS are given by PQ = ^j + ^k and PS = ^i −^j. If the side PS is rotated\nabout the point P by an acute angle α in the plane of the parallelogram so that it becomes perpendicular to the side\n            5α        α\n                                           is equal to:PQ, then sin2       −sin2 (  )        ( 2 )        2",
+    "content": "Two adjacent sides of a parallelogram PQRS are given by PQ = ^j + ^k and PS = ^i −^j. If the side PS is rotated\nabout the point P by an acute angle α in the plane of the parallelogram so that it becomes perpendicular to the side\n5α α\nis equal to:PQ, then sin2 −sin2 ( ) ( 2 ) 2",
     "options": [
       {
         "id": "A",
@@ -621,13 +696,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Two adjacent sides of a parallelogram PQRS are given by PQ = ^j + ^k and PS = ^i −^j. If the side PS is rotated\nabout the point P by an acute angle α in the plane of the parallelogram so that it becomes perpendicular to the side\n            5α        α\n                                           is equal to:PQ, then sin2       −sin2 (  )        ( 2 )        2\n\n(1) 1                       (2) √3                     (3) √3                     (4) 2√3\n    2                           2                     4                      5\n\nMathonGo Answer Key : (2)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_2_Q_17",
     "paper_id": "JEE_MAIN_2026_04_02_SHIFT_2",
     "question_number": 17,
-    "content": "x + cos4 x) dx is equal to:The value of ∫20π0  (sin4\n   15π                                                             25π(1)                          (2) 25π                     (3) 15π                     (4)\n     2                                                                  2",
+    "content": "x + cos4 x) dx is equal to:The value of ∫20π0 (sin4\n15π 25π(1) (2) 25π (3) 15π (4)\n2 2",
     "options": [],
     "correct_option": "C",
     "numerical_answer": null,
@@ -643,13 +723,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "x + cos4 x) dx is equal to:The value of ∫20π0  (sin4\n\n   15π                                                             25π(1)                          (2) 25π                     (3) 15π                     (4)\n     2                                                                  2\n\nMathonGo Answer Key : (3)\n\n\n\n\n\n                                          #PaperPhodnaHai\n                                  www.mathongo.com\n02 April (Evening Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_2_Q_18",
     "paper_id": "JEE_MAIN_2026_04_02_SHIFT_2",
     "question_number": 18,
-    "content": "f(x)\nLet f(x) be a polynomial of degree 5, and have extrema at x = 1 and x = −1. If lim      = −5, then                                                                   x→0 ( x3 )\nf(2) −f(−2) is equal to:",
+    "content": "f(x)\nLet f(x) be a polynomial of degree 5, and have extrema at x = 1 and x = −1. If lim = −5, then x→0 ( x3 )\nf(2) −f(−2) is equal to:",
     "options": [
       {
         "id": "A",
@@ -682,13 +767,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "f(x)\nLet f(x) be a polynomial of degree 5, and have extrema at x = 1 and x = −1. If lim      = −5, then                                                                   x→0 ( x3 )\nf(2) −f(−2) is equal to:\n\n\n(1) 0                        (2) 50                       (3) 92                       (4) 112\n\n\nMathonGo Answer Key : (4)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_2_Q_19",
     "paper_id": "JEE_MAIN_2026_04_02_SHIFT_2",
     "question_number": 19,
-    "content": "16x + 24\nLet f(x) =                                       . If f(4) = 14 loge(3) and f(7) = loge(2α ⋅3β), α, β ∈N, then α + β is equal to:       ∫( x2 + 2x −15 )dx",
+    "content": "16x + 24\nLet f(x) = . If f(4) = 14 loge(3) and f(7) = loge(2α ⋅3β), α, β ∈N, then α + β is equal to: ∫( x2 + 2x −15 )dx",
     "options": [
       {
         "id": "A",
@@ -721,13 +811,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "16x + 24\nLet f(x) =                                       . If f(4) = 14 loge(3) and f(7) = loge(2α ⋅3β), α, β ∈N, then α + β is equal to:       ∫( x2 + 2x −15 )dx\n\n\n(1) 31                       (2) 37                       (3) 39                       (4) 41\n\n\nMathonGo Answer Key : (3)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_2_Q_20",
     "paper_id": "JEE_MAIN_2026_04_02_SHIFT_2",
     "question_number": 20,
-    "content": "dx\nLet x = x(y) be the solution of the differential equation 2y2   −2xy + x2 = 0, y > 1, x(e) = e . Then x(e2) is\n                                                 dy\nequal to:",
+    "content": "dx\nLet x = x(y) be the solution of the differential equation 2y2 −2xy + x2 = 0, y > 1, x(e) = e . Then x(e2) is\ndy\nequal to:",
     "options": [
       {
         "id": "A",
@@ -760,7 +855,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "dx\nLet x = x(y) be the solution of the differential equation 2y2   −2xy + x2 = 0, y > 1, x(e) = e . Then x(e2) is\n                                                 dy\nequal to:\n\n(1) 3                       (2) 2                       (3) e2                       (4) 2e2      e2                        e2\n    2                     3\n\nMathonGo Answer Key : (2)",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_2_Q_21",
@@ -782,13 +882,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let A = {2, 3, 4, 5, 6}. Let R be a relation on the set A × A given by (x, y)R(z, w) if and only if x divides z and\ny ≤w. Then the number of elements in R is _______.\n\n\n\nMathonGo Answer Key : 120",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_2_Q_22",
     "paper_id": "JEE_MAIN_2026_04_02_SHIFT_2",
     "question_number": 22,
-    "content": "2  −2          3  9\nConsider the matrices A =         and B =              . If matrices P and Q are such that PA = B and AQ = B,                     [ 4  −2 ]        [ 1  3 ]\nthen the absolute value of the sum of the diagonal elements of 2(P + Q) is _______.",
+    "content": "2 −2 3 9\nConsider the matrices A = and B = . If matrices P and Q are such that PA = B and AQ = B, [ 4 −2 ] [ 1 3 ]",
     "options": [],
     "correct_option": "C",
     "numerical_answer": null,
@@ -804,13 +909,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "2  −2          3  9\nConsider the matrices A =         and B =              . If matrices P and Q are such that PA = B and AQ = B,                     [ 4  −2 ]        [ 1  3 ]\nthen the absolute value of the sum of the diagonal elements of 2(P + Q) is _______.\n\n\n\nMathonGo Answer Key : 34\n\n                                          #PaperPhodnaHai\n                                  www.mathongo.com\n02 April (Evening Shift)                                               JEE Main 2026\n\nAnswer Keys                                                                           MathonGo",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_2_Q_23",
     "paper_id": "JEE_MAIN_2026_04_02_SHIFT_2",
     "question_number": 23,
-    "content": "Let A be the point (3, 0) and circles with variable diameter AB touch the circle x2 + y2 = 36 internally. Let the\ncurve C be the locus of the point B. If the eccentricity of C is e , then 72e2 is equal to _______.",
+    "content": "Let A be the point (3, 0) and circles with variable diameter AB touch the circle x2 + y2 = 36 internally. Let the\ncurve C be the locus of the point B. If the eccentricity of C is e , then 72e2 is equal to _______. then the absolute value of the sum of the diagonal elements of 2(P + Q) is _______.",
     "options": [],
     "correct_option": "A",
     "numerical_answer": null,
@@ -826,7 +936,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "Let A be the point (3, 0) and circles with variable diameter AB touch the circle x2 + y2 = 36 internally. Let the\ncurve C be the locus of the point B. If the eccentricity of C is e , then 72e2 is equal to _______.\n\n\n\nMathonGo Answer Key : 18",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_2_Q_24",
@@ -848,13 +963,18 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "If the area of the region bounded by 16x2 −9y2 = 144 and 8x −3y = 24 is A, then 3(A + 6 loge(3)) is equal to\n_______.\n\n\n\nMathonGo Answer Key : 24",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_2_Q_25",
     "paper_id": "JEE_MAIN_2026_04_02_SHIFT_2",
     "question_number": 25,
-    "content": "The number of points in the interval [2, 4], at which the function f(x) =                                        −x −1                                                                                                                                               , where [⋅] denotes the                                                           [x2                                                                    2 ]\ngreatest integer function, is discontinuous, is _______.",
+    "content": "The number of points in the interval [2, 4], at which the function f(x) = −x −1 , where [⋅] denotes the [x2 2 ]\ngreatest integer function, is discontinuous, is _______.",
     "options": [],
     "correct_option": "A",
     "numerical_answer": null,
@@ -870,7 +990,12 @@
     "year": 2026,
     "session": "April",
     "date": "2026-04-02",
-    "shift": "Shift 2"
+    "shift": "Shift 2",
+    "exam": "JEE Main",
+    "answer": null,
+    "metadata": null,
+    "raw_content": "The number of points in the interval [2, 4], at which the function f(x) =                                        −x −1                                                                                                                                               , where [⋅] denotes the                                                           [x2                                                                    2 ]\ngreatest integer function, is discontinuous, is _______.\n\n\n\nMathonGo Answer Key : 10",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2026_04_02_SHIFT_2_Q_26",

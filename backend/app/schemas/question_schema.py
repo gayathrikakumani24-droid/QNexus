@@ -38,6 +38,8 @@ class QuestionBase(BaseModel):
 
     answer: Optional[dict] = Field(None, description="Structured answer representation with raw value and typed metadata")
     metadata: Optional[dict] = Field(None, description="Source and audit metadata for the question and answer key")
+    raw_content: Optional[str] = Field(None, description="Original unnormalized question text for recovery and auditing")
+    parsing_warnings: List[str] = Field(default_factory=list, description="Parsing warnings for math or layout issues")
 
     @property
     def question_text(self) -> str:

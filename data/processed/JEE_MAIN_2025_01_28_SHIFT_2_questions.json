@@ -19,7 +19,7 @@
       },
       {
         "id": "D",
-        "content": "2049\n\n→"
+        "content": "2049/→"
       }
     ],
     "correct_option": "C",
@@ -48,7 +48,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "              1  −2            cos θ  −sin θ\n                                                                                                                                                                                                                                                                                                                                                                                                                                            Let A =  √2       and P =                θ > 0. If B = PAPT, C = PTB10P and the sum of the                                                                                                                                                                                                                                                                                                                                                                                               [ sin θ   cos θ ],                                                                                                                                                                                                                                                                                                                                            [ 0    1 ]\n                                                                                                                                                                                                                                                                                                                                                                                                                                                        diagonal elements of C is m                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               , where gcd(m, n) = 1, then m + n is :                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         (1) 127                                                (2) 258\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         (3) 65                                                  (4) 2049\n\n                                                                                                                                                                                                                         →                                                                                                                                                                                                                                                                                                                                                                                   ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_2_Q_02",
@@ -99,7 +101,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           If the components of →a = α^i + β^j + γ^k along and perpendicular to b = 3^i + ^j −^k respectively, are\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         16                                                                                                                                                                                                                                                                                                                                                                                                                            γ 2 is equal to :                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         11 (3^i + ^j −^k) and 111 (−4^i −5^j −17^k), then α2 + β2 +\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         (1) 26                                                  (2) 18\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         (3) 23                                                  (4) 16\n\n                                                                                                                                                                                                                                                                                                                                                                                   ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_2_Q_03",
@@ -150,7 +154,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": " Let A, B, C be three points in xy-plane, whose position vector are given by √3^i + ^j,^i + √3^j and a^i + (1 −a)^j\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      respectively with respect to the origin O . If the distance of the point C from the line bisecting the angle between\n−−→  →\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  the vectors OA and OB is  9  , then the sum of all the possible values of a is :\n                                                                                                                                                                                                                                                                                                                                                                                                                                    √2\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         (1) 2                                                   (2) 9/2\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         (3) 1                                                   (4) 0\n\n                                                                                                                                                                                                                                                                                                                                                                                   ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_2_Q_04",
@@ -201,7 +207,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": " Let the coefficients of three consecutive terms Tr, Tr+1 and Tr+2 in the binomial expansion of (a + b)12 be in a\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                       G.P. and let p be the number of all possible values of r. Let q be the sum of all rational terms in the binomial\n                                                                                                                                                                                                                                                                                                                                                                                                                                     expansion of (4√3 + 3√4)12 . Then p + q is equal to :\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         (1) 283                                                (2) 287\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         (3) 295                                                (4) 299\n\n                                                                                                                                                                                                                                                                                                                                                                                   ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_2_Q_05",
@@ -252,7 +260,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": " Let [x] denote the greatest integer less than or equal to x. Then the domain of f(x) = sec−1(2[x] + 1) is :\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         (1) (−∞, −1] ∪[0, ∞)                                (2) (−∞, −1] ∪[1, ∞)\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         (3) (−∞, ∞)                                          (4) (−∞, ∞) −{0}\n\n                                                                                                                                                                                                                                                                                                                                                                                   ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_2_Q_06",
@@ -274,7 +284,7 @@
       },
       {
         "id": "D",
-        "content": "1 3 3"
+        "content": "1 3 3\n\n1 = a√3 + b, a, b ∈Z, then a2 + b2 is equal to : π π"
       }
     ],
     "correct_option": "A",
@@ -303,7 +313,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": " Let S be the set of all the words that can be formed by arranging all the letters of the word GARDEN. From the\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                set S, one word is selected at random. The probability that the selected word will NOT have vowels in\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      alphabetical order is :\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         (1) 1                                                   (2) 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             2                                                             4\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         (3) 2                                                   (4) 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             3                                                             3\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 1                                                                                                                                                                                                                                                                      = a√3 + b, a, b ∈Z, then a2 + b2 is equal to :                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            π                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      π                                                                                                                                                                                                                                                                                                                                                                                   ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_2_Q_07",
@@ -354,7 +366,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": " If ∑13r=1 { sin(                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     4 +(r−1)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                6 ) sin( π4 + rπ6 ) }\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         (1) 10                                                  (2) 4\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         (3) 2                                                   (4) 8\n\n                                                                                                                                                                                                                                                                                                                                                                                   ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_2_Q_08",
@@ -405,7 +419,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": " Let f be a real valued continuous function defined on the positive real axis such that g(x) = ∫x0 tf(t)dt. If\n                                                                                                                                                                                                                                                                                                                                                                                           g (x3) = x6 + x7 , then value of ∑15r=1 f (r3) is :\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         (1) 270                                                (2) 340\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         (3) 320                                                (4) 310\n\n                                                                                                                                                                                                                                                                                                                                                                                   ",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_2_Q_09",
@@ -456,7 +472,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": " Let f : [0, 3] → A be defined by f(x) = 2x3 −15x2 + 36x + 7 and g : [0, ∞) →B be defined by\n                                                                                                                                                                                                                                                                                                                                                                                                                          g(x) =                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   x2025   . If both the functions are onto and S = {x ∈Z : x ∈ A or x ∈ B}, then n(S) is equal to :                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         x2025+1\n 2025 (28 Jan Shift 2)                                       JEE Main Previous Year Paper\n\n JEE Main 2025 January                                                                    MathonGo\n\n\n    (1) 29                                                  (2) 30\n    (3) 31                                                  (4) 36\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_2_Q_10",
@@ -507,7 +525,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "Bag B1 contains 6 white and 4 blue balls, Bag B2 contains 4 white and 6 blue balls, and Bag B3 contains 5\n     white and 5 blue balls. One of the bags is selected at random and a ball is drawn from it. If the ball is white,\n     then the probability, that the ball is drawn from Bag B2 , is :\n      (1)  4                                                  (2) 1           15                                                           3\n      (3) 2                                                  (4) 2           5                                                            3\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_2_Q_11",
@@ -529,7 +549,7 @@
       },
       {
         "id": "D",
-        "content": "9"
+        "content": "9\n\n507S2025 is :"
       }
     ],
     "correct_option": "A",
@@ -558,7 +578,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": " Let f : R →R be a twice differentiable function such that f(2) = 1. If F(x) = xf(x) for all x ∈R,\n    ∫20 x F′(x)dx = 6 and ∫20 x2 F′′(x)dx = 40, then F′(2) + ∫20 F(x)dx is equal to :\n     (1) 11                                                 (2) 13\n     (3) 15                                                 (4) 9\n\n                                                                                      507S2025 is :",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_2_Q_12",
@@ -609,7 +631,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "For positive integers n, if 4an = (n2 + 5n + 6) and Sn = ∑nk=1 ( ak1 ), then the value of\n      (1) 540                                                (2) 675\n      (3) 1350                                               (4) 135\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_2_Q_13",
@@ -660,7 +684,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "Let f : R −{0} →(−∞, 1) be a polynomial of degree 2, satisfying f(x)f ( x1 ) = f(x) + f ( x1 ). If\n    f(K) = −2K , then the sum of squares of all possible values of K is :\n      (1) 7                                                  (2) 6\n      (3) 1                                                  (4) 9\n\n                                                                                            and a",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_2_Q_14",
@@ -711,7 +737,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "If A and B are the points of intersection of the circle x2 + y2 −8x = 0 and the hyperbola x29 −y24 = 1\n     point P moves on the line 2x −3y + 4 = 0, then the centroid of △PAB lies on the line :\n      (1) x + 9y = 36                                       (2) 4x −9y = 12\n      (3) 6x −9y = 20                                     (4) 9x −9y = 32\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_2_Q_15",
@@ -762,7 +790,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "If f(x) = ∫       1    dx, f(0) = −6, then f(1) is equal to :                     x1/4(1+x1/4)\n      (1) 4 (loge 2 −2)                                      (2) 2 −loge2 2\n      (3) loge 2 + 2                                         (4) 4 (loge 2 + 2)\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_2_Q_16",
@@ -813,7 +843,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "The area of the region bounded by the curves x (1 + y2) = 1 and y2 = 2x is:\n      (1) 2 ( π2 −13 )                                        (2) π2 −13\n      (3) π           4 −13                                             (4) 12 ( π2 −13 )\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_2_Q_17",
@@ -835,7 +867,7 @@
       },
       {
         "id": "D",
-        "content": "66\n\ny2"
+        "content": "66/y2"
       }
     ],
     "correct_option": "D",
@@ -864,7 +896,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "The square of the distance of the point ( 157 , 327 , 7) from the line x+13 = y+35 = z+57  in the direction of the\n     vector ^i + 4^j + 7^k is :\n      (1) 54                                                 (2) 44\n      (3) 41                                                 (4) 66\n\n                                                                 y2",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_2_Q_18",
@@ -915,7 +949,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "2"
-    }
+    },
+    "raw_content": "If the midpoint of a chord of the ellipse x2                                                                       α                                                     9 +                                                           4 = 1 is (√2, 4/3), and the length of the chord is 2√α3   , then\n       is :\n      (1) 20                                                 (2) 22\n      (3) 18                                                 (4) 26\n 2025 (28 Jan Shift 2)                                       JEE Main Previous Year Paper\n\n JEE Main 2025 January                                                                    MathonGo\n\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_2_Q_19",
@@ -966,7 +1002,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "If α + iβ and γ + iδ are the roots of x2 −(3 −2i)x −(2i −2) = 0, i = √−1, then αγ + βδ is equal to :\n      (1) −2                                                (2) 6\n      (3) −6                                                (4) 2\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_2_Q_20",
@@ -1017,7 +1055,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "3"
-    }
+    },
+    "raw_content": "Two equal sides of an isosceles triangle are along −x + 2y = 4 and x + y = 4. If m is the slope of its third\n      side, then the sum, of all possible distinct values of m, is :\n      (1) −2√10                                            (2) 12\n      (3) 6                                                  (4) −6\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_2_Q_21",
@@ -1050,7 +1090,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "14"
-    }
+    },
+    "raw_content": "Let A and B be the two points of intersection of the line y + 5 = 0 and the mirror image of the parabola\n     y2 = 4x with respect to the line x + y + 4 = 0. If d denotes the distance between A and B , and a denotes the\n     area of △SAB, where S is the focus of the parabola y2 = 4x, then the value of (a + d) is        -\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_2_Q_22",
@@ -1083,7 +1125,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "64"
-    }
+    },
+    "raw_content": "The number of natural numbers, between 212 and 999 , such that the sum of their digits is 15 , is\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_2_Q_23",
@@ -1116,7 +1160,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "4"
-    }
+    },
+    "raw_content": "If y = y(x) is the solution of the differential equation,\n                                          ( 2 ), −2 ≤x ≤2, y(2) =   4   , then y2(0) is equal to   √4 −x2 dxdy = ((sin−1  x   2              x                        π2−8                          ( 2 )) −y) sin−1\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_2_Q_24",
@@ -1149,7 +1195,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "20"
-    }
+    },
+    "raw_content": "The interior angles of a polygon with n sides, are in an A.P. with common difference 6∘ . If the largest interior\n     angle of the polygon is 219∘ , then n is equal to\n\n                                                                                             . Then limx→0 (x−f(x))ex−ef(x)  is equal to",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_2_Q_25",
@@ -1182,7 +1230,9 @@
       "source_format": "2025_separate_answer_key",
       "answer_key_page": 13,
       "raw_answer": "1"
-    }
+    },
+    "raw_content": "Let f(x) = limn→∞∑nr=0 ( tan(x/2r+1)+tan3(x/2r+1)1−tan2(x/2r+1)   )\n\n",
+    "parsing_warnings": []
   },
   {
     "question_id": "JEE_MAIN_2025_01_28_SHIFT_2_Q_26",
