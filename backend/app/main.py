@@ -1,6 +1,12 @@
 import os
-os.environ.setdefault("CUDA_VISIBLE_DEVICES", "-1")
-os.environ.setdefault("OMP_NUM_THREADS", "2")
+# Memory optimizations for low-memory environments (e.g. Render free tier 512MB limit)
+os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
+os.environ["OMP_NUM_THREADS"] = "1"
+os.environ["OPENBLAS_NUM_THREADS"] = "1"
+os.environ["MKL_NUM_THREADS"] = "1"
+os.environ["VECLIB_MAXIMUM_THREADS"] = "1"
+os.environ["NUMEXPR_NUM_THREADS"] = "1"
+os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
@@ -72,10 +78,13 @@ def startup_event():
         ensure_indexes(db)
         ensure_pinecone_index()
 
-        # Pre-warm embedding model so first search query is instant (<1s)
-        logger.info("Pre-warming SentenceTransformer embedding model...")
-        EmbeddingService().embed_text("jee main previous year questions")
-        logger.info("Database indexes, Pinecone index, and Embedding model ready.")
+        # In production, defer model loading to first request to stay well under Render's 512MB RAM limit
+        if settings.ENV != "production":
+            logger.info("Pre-warming SentenceTransformer embedding model...")
+            EmbeddingService().embed_text("jee main previous year questions")
+            logger.info("Database indexes, Pinecone index, and Embedding model ready.")
+        else:
+            logger.info("Production mode: embedding model will load lazily on first search to conserve memory.")
     except Exception as e:
         logger.warning(f"Startup initialization notice: {e}")
 

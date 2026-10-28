@@ -16,13 +16,20 @@ class EmbeddingService:
         """Loads SentenceTransformer model once on demand and reuses it."""
         if EmbeddingService._model is None:
             import os
-            os.environ.setdefault("CUDA_VISIBLE_DEVICES", "-1")
-            os.environ.setdefault("OMP_NUM_THREADS", "2")
+            os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
+            os.environ["OMP_NUM_THREADS"] = "1"
+            os.environ["TOKENIZERS_PARALLELISM"] = "false"
+
+            import torch
+            torch.set_num_threads(1)
+            torch.set_grad_enabled(False)
 
             from sentence_transformers import SentenceTransformer
             logger.info(f"Loading SentenceTransformer embedding model: {self.model_name}")
-            EmbeddingService._model = SentenceTransformer(self.model_name, device="cpu")
-            logger.info("SentenceTransformer model loaded successfully.")
+            model = SentenceTransformer(self.model_name, device="cpu")
+            model.eval()
+            EmbeddingService._model = model
+            logger.info("SentenceTransformer model loaded successfully with 1 CPU thread.")
 
     @property
     def model(self):
