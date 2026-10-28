@@ -1,0 +1,159 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    background-color: #F7F4EA;
+    color: #202820;
+    font-family: 'DM Sans', 'Inter', sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  
+  h1, h2, h3 {
+    font-family: 'DM Serif Display', 'Playfair Display', Georgia, serif;
+  }
+}
+
+/* Custom Editorial UI Tokens & Utilities */
+@layer components {
+  .qnx-paper-card {
+    background-color: #FFFFFF;
+    border: 1px solid #E5E0D0;
+    border-radius: 14px;
+    box-shadow: 0 4px 14px rgba(32, 40, 32, 0.04);
+    transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  .qnx-paper-card:hover {
+    box-shadow: 0 10px 24px -4px rgba(64, 81, 59, 0.08);
+    border-color: #D3CDC0;
+  }
+
+  .qnx-card-lift {
+    transition: transform 0.2s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  .qnx-card-lift:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 12px 28px -4px rgba(64, 81, 59, 0.1);
+  }
+
+  .qnx-badge-olive {
+    background-color: #E5EBDD;
+    color: #40513B;
+    border: 1px solid #8FA58A;
+  }
+
+  .qnx-badge-terracotta {
+    background-color: #F2D6CB;
+    color: #C96F52;
+    border: 1px solid #E5B7A8;
+  }
+
+  .qnx-badge-mustard {
+    background-color: #F5E5B8;
+    color: #946E14;
+    border: 1px solid #E5CE8F;
+  }
+
+  .qnx-badge-blue {
+    background-color: #DCE7F4;
+    color: #38679E;
+    border: 1px solid #ABC4E4;
+  }
+}
+
+/* Smooth Editorial Keyframe Animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideInRight {
+  from {
+    opacity: 0;
+    transform: translateX(16px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes floatSlow {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-6px);
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.4s ease-out forwards;
+}
+
+.animate-fade-up {
+  animation: fadeUp 0.4s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.animate-slide-in {
+  animation: slideInRight 0.35s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.animate-float {
+  animation: floatSlow 5s ease-in-out infinite;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+
+::-webkit-scrollbar-track {
+  background: #F7F4EA;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #D3CDC0;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #8FA58A;
+}
+
+/* KaTeX equation display polish */
+.katex-display {
+  margin: 0.75em 0 !important;
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding: 0.25rem 0;
+}
+
+/* Accessibility Reduced Motion */
+@media (prefers-reduced-motion: reduce) {
+  *, ::before, ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

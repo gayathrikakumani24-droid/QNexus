@@ -45,6 +45,15 @@ from fastapi.staticfiles import StaticFiles
 # Include API Router
 app.include_router(api_router, prefix="/api/v1")
 
+@app.get("/", tags=["Root"])
+def root():
+    return {
+        "status": "healthy",
+        "project": settings.PROJECT_NAME,
+        "docs": "/docs",
+        "api": "/api/v1"
+    }
+
 # Mount Static Files for Uploads and Question Diagrams
 uploads_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), "uploads")
 os.makedirs(uploads_dir, exist_ok=True)

@@ -1,0 +1,35 @@
+services:
+  - type: web
+    name: qnexus-backend
+    runtime: python
+    rootDir: backend
+    buildCommand: pip install --upgrade pip && pip install torch --index-url https://download.pytorch.org/whl/cpu && pip install -r requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /api/v1/health
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.10.12
+      - key: ENV
+        value: production
+      - key: PORT
+        value: 10000
+      - key: MONGODB_URL
+        sync: false
+      - key: MONGODB_DB_NAME
+        value: qnexus_db
+      - key: PINECONE_API_KEY
+        sync: false
+      - key: PINECONE_INDEX_NAME
+        value: qnexus-questions
+      - key: PINECONE_CLOUD
+        value: aws
+      - key: PINECONE_REGION
+        value: us-east-1
+      - key: GROQ_API_KEY
+        sync: false
+      - key: GROQ_MODEL
+        value: llama-3.3-70b-versatile
+      - key: EMBEDDING_MODEL_NAME
+        value: sentence-transformers/all-MiniLM-L6-v2
+      - key: FRONTEND_URL
+        sync: false
